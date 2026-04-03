@@ -114,7 +114,7 @@
         linear-gradient(180deg, var(--bg) 0%, var(--bg2) 55%, var(--bg) 100%);
     }
     :root[data-theme="light"] .site-header {
-      background: rgba(238,242,249,0.82);
+      background: rgba(238,242,249,0.88);
     }
 
     /* ===== THEME TOGGLE ===== */
@@ -148,6 +148,7 @@
       line-height: 1.6;
       min-height: 100vh;
       -webkit-font-smoothing: antialiased;
+      padding-top: var(--header-h);
     }
     body::before {
       content: '';
@@ -171,7 +172,7 @@
     .skip-link {
       position: absolute; left: -9999px; top: 0; padding: 10px 16px;
       background: var(--accent); color: var(--bg); font-weight: 600;
-      border-radius: 0 0 var(--radius-sm) var(--radius-sm); z-index: 100;
+      border-radius: 0 0 var(--radius-sm) var(--radius-sm); z-index: 200;
     }
     .skip-link:focus { left: 16px; top: 0; }
 
@@ -180,12 +181,20 @@
 
     /* ===== HEADER ===== */
     .site-header {
-      position: sticky; top: 0; z-index: 50;
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
       backdrop-filter: saturate(160%) blur(16px);
       -webkit-backdrop-filter: saturate(160%) blur(16px);
-      background: rgba(7,10,20,0.72);
-      border-bottom: 1px solid var(--border);
+      background: rgba(7,10,20,0.80);
       height: var(--header-h);
+    }
+    .site-header::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg,
+        transparent 0%, rgba(113,224,255,0.35) 25%,
+        rgba(167,139,250,0.35) 60%, rgba(92,255,177,0.20) 80%, transparent 100%);
+      pointer-events: none;
     }
     .header-inner {
       display: flex; align-items: center; justify-content: space-between;
@@ -241,7 +250,12 @@
       font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;
       display: flex; align-items: center; gap: 10px;
     }
-    .section-title svg { width: 22px; height: 22px; color: var(--accent); flex-shrink: 0; }
+    .section-title svg { width: 22px; height: 22px; color: var(--accent); flex-shrink: 0; transition: filter 0.3s, transform 0.3s; }
+    .section-title:hover svg { filter: drop-shadow(0 0 6px rgba(113,224,255,0.6)); transform: scale(1.08); }
+    .section-title-text {
+      background: linear-gradient(135deg, var(--text) 0%, var(--accent) 160%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
     .section-subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 24px; }
 
     /* ===== CARDS ===== */
@@ -278,9 +292,25 @@
       display: flex; align-items: center; justify-content: center;
       font-size: 1.4rem; font-weight: 800; flex-shrink: 0;
     }
-    .status-indicator.go { background: rgba(92,255,177,0.15); color: var(--good); box-shadow: 0 0 24px rgba(92,255,177,0.15); }
-    .status-indicator.maybe { background: rgba(255,209,102,0.15); color: var(--warn); box-shadow: 0 0 24px rgba(255,209,102,0.15); }
-    .status-indicator.nogo { background: rgba(255,92,124,0.15); color: var(--bad); box-shadow: 0 0 24px rgba(255,92,124,0.15); }
+    @keyframes glow-pulse {
+      0%, 100% { box-shadow: 0 0 14px var(--glow-color); }
+      50%       { box-shadow: 0 0 30px var(--glow-color), 0 0 8px var(--glow-color); }
+    }
+    .status-indicator.go, .status-indicator.good {
+      background: rgba(92,255,177,0.12); color: var(--good);
+      --glow-color: rgba(92,255,177,0.5);
+      animation: glow-pulse 2.5s ease-in-out infinite;
+    }
+    .status-indicator.maybe {
+      background: rgba(255,209,102,0.12); color: var(--warn);
+      --glow-color: rgba(255,209,102,0.5);
+      animation: glow-pulse 2.5s ease-in-out infinite;
+    }
+    .status-indicator.nogo, .status-indicator.bad {
+      background: rgba(255,92,124,0.12); color: var(--bad);
+      --glow-color: rgba(255,92,124,0.5);
+      animation: glow-pulse 2.5s ease-in-out infinite;
+    }
     .status-text { font-size: 0.95rem; }
     .status-text strong { display: block; font-size: 1.15rem; margin-bottom: 2px; }
     .status-text span { color: var(--muted); font-size: 0.82rem; }
@@ -393,6 +423,18 @@
     .wind-img-card:hover { border-color: var(--border-bright); }
     .wind-img-card img { width: 100%; display: block; }
     .wind-img-card a { display: block; }
+
+    /* ===== SDOT YAM UNIFIED GRID ===== */
+    .sdotyam-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 12px;
+    }
+    .sdotyam-main { grid-column: span 2; }
+    .sdotyam-grid .wind-img-card img {
+      width: 100%; max-height: 220px; object-fit: cover; display: block;
+    }
+    @media (max-width: 480px) { .sdotyam-main { grid-column: span 1; } }
 
     /* ===== RAIN RADAR ===== */
     .radar-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
@@ -544,8 +586,9 @@
     <section id="conditions" class="hero" aria-label="Current conditions summary">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2"/><path d="M9.6 4.6A2 2 0 1 1 11 8H2"/><path d="M12.6 19.4A2 2 0 1 0 14 16H2"/></svg>
-          Current Conditions
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L20 12 L12 22 L4 12 Z"/><path d="M12 2 L12 22" stroke-width="0.75" opacity="0.4"/><path d="M4 12 L20 12" stroke-width="0.75" opacity="0.4"/><path d="M12 22 L14.5 25" stroke-width="1.5"/></svg>
+          <span class="section-title-text">Current Conditions</span>
+          <span id="conditionsLocation" style="font-size:0.75rem;font-weight:500;color:var(--muted);padding:2px 8px;border-radius:var(--radius-xs);background:var(--panel);border:1px solid var(--border);">Beit Yanai</span>
           <span class="refresh-badge" id="lastUpdate">Loading...</span>
         </div>
 
@@ -612,8 +655,8 @@
     <section aria-label="Beach location filter">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-          Beach Locations
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 8 Q6 5 10 8 Q14 11 18 8 Q20 6.5 22 8"/><path d="M2 13 Q6 10 10 13 Q14 16 18 13 Q20 11.5 22 13"/><path d="M2 18 Q6 15 10 18 Q14 21 18 18 Q20 16.5 22 18"/></svg>
+          <span class="section-title-text">Beach Locations</span>
         </div>
         <div class="beach-filter" role="tablist" aria-label="Filter by beach">
           <button class="beach-btn active" role="tab" aria-selected="true" data-filter="all" onclick="filterBeach('all', this)">All Beaches</button>
@@ -630,8 +673,8 @@
     <section id="wind" aria-label="Wind analysis">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2"/><path d="M9.6 4.6A2 2 0 1 1 11 8H2"/><path d="M12.6 19.4A2 2 0 1 0 14 16H2"/></svg>
-          Wind Analysis
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="2"/><path d="M12 10 V4 Q12 2 14 2 Q16 2 16 4 Q16 6 14 6 H12"/><path d="M13.7 13 L18.6 16 Q20.3 17 20.3 19 Q20.3 21 18.3 21 Q16.3 21 15.3 19.3 L13 14.7"/><path d="M10.3 13 L5.4 10 Q3.7 9 3.7 7 Q3.7 5 5.7 5 Q7.7 5 8.7 6.7 L11 11.3"/></svg>
+          <span class="section-title-text">Wind Analysis</span>
         </div>
         <p class="section-subtitle">Live wind stations and historical data from Israel's Mediterranean coast</p>
 
@@ -654,14 +697,12 @@
         <!-- Sdot Yam wind.co.il -->
         <div data-beach="sdotyam" class="visible" style="margin-bottom:24px;">
           <div class="tab-label">Sdot Yam -- wind.co.il Live Broadcast</div>
-          <div style="margin-bottom:12px;">
-            <div class="wind-img-card">
+          <div class="sdotyam-grid">
+            <div class="wind-img-card sdotyam-main">
               <a href="https://lab.wind.co.il/weather/broadcast.jpg?a=1" target="_blank" rel="noopener noreferrer" aria-label="Sdot Yam main wind broadcast image">
                 <img class="refresh-img" src="https://lab.wind.co.il/weather/broadcast.jpg?a=1" alt="Sdot Yam live wind broadcast showing current wind speed and direction" loading="lazy">
               </a>
             </div>
-          </div>
-          <div class="wind-img-grid">
             <div class="wind-img-card">
               <a href="https://lab.wind.co.il/weather/vws739.jpg" target="_blank" rel="noopener noreferrer">
                 <img class="refresh-img" src="https://lab.wind.co.il/weather/vws739.jpg" alt="Sdot Yam wind station VWS739 data" loading="lazy">
@@ -701,8 +742,8 @@
     <section id="cameras" aria-label="Beach cameras">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m22 8-6 4 6 4V8Z"/><rect width="14" height="12" x="2" y="6" rx="2" ry="2"/></svg>
-          Beach Cameras
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12 Q6 5 12 5 Q18 5 22 12 Q18 19 12 19 Q6 19 2 12Z"/><circle cx="12" cy="12" r="3.5"/><path d="M12 9.5 L13.2 7.8" stroke-width="1" opacity="0.6"/><path d="M14.5 12 L16.2 11.2" stroke-width="1" opacity="0.6"/></svg>
+          <span class="section-title-text">Beach Cameras</span>
           <span class="refresh-badge">Auto-refresh 30s</span>
         </div>
         <p class="section-subtitle">Live camera feeds from Israeli Mediterranean beaches</p>
@@ -783,8 +824,8 @@
     <section id="forecast" aria-label="Surf and wind forecasts">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
-          Forecasts
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 18 8 12 13 15 19 7"/><circle cx="3" cy="18" r="1.5" fill="currentColor"/><circle cx="8" cy="12" r="1.5" fill="currentColor"/><circle cx="13" cy="15" r="1.5" fill="currentColor"/><circle cx="19" cy="7" r="1.5" fill="currentColor"/><line x1="3" y1="21" x2="21" y2="21" stroke-width="1" opacity="0.35"/></svg>
+          <span class="section-title-text">Forecasts</span>
         </div>
         <p class="section-subtitle">Multi-day wind and surf forecasts from WindGuru and MagicSeaweed</p>
 
@@ -863,8 +904,8 @@
     <section id="radar" aria-label="Rain radar and forecast">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242"/><path d="M16 14v6"/><path d="M8 14v6"/><path d="M12 16v6"/></svg>
-          Rain Radar & Forecast
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="5.5" stroke-width="0.75" opacity="0.45"/><circle cx="12" cy="12" r="1.5" fill="currentColor"/><line x1="12" y1="12" x2="19.5" y2="5.5" stroke-width="1.5"/><path d="M12 12 Q17.5 7.5 19.5 5.5" fill="none" stroke-width="0.7" opacity="0.35"/></svg>
+          <span class="section-title-text">Rain Radar & Forecast</span>
         </div>
         <p class="section-subtitle">Israel Meteorological Service rain forecast models</p>
 
@@ -907,8 +948,8 @@
     <section id="map" aria-label="Interactive wind map">
       <div class="container">
         <div class="section-title">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
-          Wind Map
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9.5" stroke-width="0.75" opacity="0.45"/><polygon points="12,3 13.5,11 12,9 10.5,11" fill="currentColor" opacity="0.9" stroke="none"/><polygon points="12,21 13.5,13 12,15 10.5,13" fill="none"/><polygon points="21,12 13,10.5 15,12 13,13.5" fill="none"/><polygon points="3,12 11,10.5 9,12 11,13.5" fill="none"/><circle cx="12" cy="12" r="1.5" fill="currentColor"/><path d="M12 3 V2 M12 22 V23 M3 12 H2 M22 12 H23" stroke-width="1" opacity="0.5"/></svg>
+          <span class="section-title-text">Wind Map</span>
         </div>
         <p class="section-subtitle">Interactive wind visualization powered by Windy.com -- Israel Mediterranean coast</p>
         <div class="windy-embed">
@@ -966,16 +1007,17 @@
     // ===== THEME TOGGLE =====
     const THEMES = ['system', 'dark', 'light'];
     const ICONS = {
-      system: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>',
+      system: '<rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/>',
       dark:   '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>',
       light:  '<circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>'
     };
-    const LABELS = { system: 'System theme', dark: 'Dark theme', light: 'Light theme' };
+    const LABELS = { system: 'Auto (follows system)', dark: 'Dark theme', light: 'Light theme' };
 
     function applyTheme(theme) {
       const root = document.documentElement;
       if (theme === 'system') {
-        root.removeAttribute('data-theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        root.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
       } else {
         root.setAttribute('data-theme', theme);
       }
@@ -1002,6 +1044,11 @@
     })();
 
     document.getElementById('themeToggle')?.addEventListener('click', cycleTheme);
+
+    // React to OS color scheme changes when in system mode
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      if ((localStorage.getItem('guston-theme') || 'system') === 'system') applyTheme('system');
+    });
 
     // ===== MOBILE NAV =====
     function toggleNav() {
@@ -1034,6 +1081,17 @@
     }, { rootMargin: '-30% 0px -60% 0px' });
     sections.forEach(s => observer.observe(s));
 
+    // ===== BEACH COORDINATES =====
+    const BEACH_COORDS = {
+      all:      { lat: 32.354, lon: 34.846, name: 'Beit Yanai' },
+      yanai:    { lat: 32.354, lon: 34.846, name: 'Beit Yanai' },
+      herzliya: { lat: 32.165, lon: 34.796, name: 'Herzliya Marina' },
+      tlv:      { lat: 32.087, lon: 34.762, name: 'Tel Aviv' },
+      batyam:   { lat: 32.017, lon: 34.748, name: 'Bat Yam' },
+      sdotyam:  { lat: 32.492, lon: 34.903, name: 'Sdot Yam' }
+    };
+    let activeBeach = 'all';
+
     // ===== BEACH FILTER =====
     function filterBeach(beach, btn) {
       // Update buttons
@@ -1052,6 +1110,10 @@
           el.classList.remove('visible');
         }
       });
+
+      // Update conditions data for selected location
+      activeBeach = beach;
+      fetchConditions();
     }
 
     // ===== WIND DIRECTION HELPERS =====
@@ -1121,21 +1183,22 @@
       statusLabel.textContent = label;
       statusDesc.textContent = desc;
 
-      // Update status icon
+      // Update status icon — smiley faces with colored glow
       if (status === 'go') {
-        statusDot.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>';
+        statusDot.innerHTML = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><circle cx="9" cy="9.5" r="1" fill="currentColor"/><circle cx="15" cy="9.5" r="1" fill="currentColor"/></svg>';
       } else if (status === 'maybe') {
-        statusDot.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 9v4"/><path d="M12 17h.01"/></svg>';
+        statusDot.innerHTML = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9 14.5h6"/><circle cx="9" cy="9.5" r="1" fill="currentColor"/><circle cx="15" cy="9.5" r="1" fill="currentColor"/><path d="M7.5 8l2-1" stroke-width="1.2"/></svg>';
       } else {
-        statusDot.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
+        statusDot.innerHTML = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16 16s-1.5-2-4-2-4 2-4 2"/><circle cx="9" cy="9.5" r="1" fill="currentColor"/><circle cx="15" cy="9.5" r="1" fill="currentColor"/></svg>';
       }
     }
 
     // ===== FETCH WEATHER DATA (Open-Meteo) =====
     async function fetchConditions() {
-      // Beit Yanai coordinates: 32.354, 34.846
-      const lat = 32.354;
-      const lon = 34.846;
+      const coords = BEACH_COORDS[activeBeach] || BEACH_COORDS.all;
+      const { lat, lon, name } = coords;
+      const locationEl = document.getElementById('conditionsLocation');
+      if (locationEl) locationEl.textContent = name;
 
       try {
         // Fetch weather and marine data in parallel

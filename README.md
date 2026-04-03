@@ -5,18 +5,13 @@
 **Real-time kite & surf intelligence for the Israeli coast.**  
 Wind · Waves · Cameras · Rain Radar · Forecasts
 
-[![Status](https://img.shields.io/badge/status-live-5cffb1?style=flat-square&labelColor=070a14)](https://pixelicous.github.io/guston)
-[![Data](https://img.shields.io/badge/data-Israel%20only-71e0ff?style=flat-square&labelColor=070a14)](https://ims.gov.il)
-[![Built for](https://img.shields.io/badge/built%20for-kitesurfers-a78bfa?style=flat-square&labelColor=070a14)](#)
-[![License](https://img.shields.io/badge/use-private-ffd166?style=flat-square&labelColor=070a14)](#)
-
 </div>
 
 ---
 
 ## What is GUSTON?
 
-GUSTON is a personal surf and kite intelligence dashboard for the Israeli Mediterranean coast. One page. No fluff. Everything you need to decide whether to rig your kite or leave it in the bag.
+GUSTON is a surf and kite intelligence dashboard for the Israeli Mediterranean coast. One page. No fluff. Everything you need to decide whether to rig your kite or leave it in the bag.
 
 The name came from two places — a small gust, and the idea of a precise, always-reliable wind butler. GUSTON knows the conditions before you do.
 
@@ -33,7 +28,7 @@ The name came from two places — a small gust, and the idea of a precise, alway
 | **Rain radar** | IMS ECMWF + COSMO model maps, auto-refresh |
 | **Wind map** | Interactive Windy.com embed, ECMWF model, centered on Israel coast |
 | **Forecasts** | WindGuru (96h + 240h) and MagicSeaweed for Israeli spots |
-| **Beach filter** | Toggle by location — only see what's relevant to where you're going |
+| **Beach filter** | Toggle by location — conditions data and feeds update per beach |
 
 ---
 
@@ -65,23 +60,12 @@ guston.svg   ← animated logo mark
 - Open-Meteo Weather + Marine APIs (client-side, no auth)
 - Third-party embeds: Holfuy, WindGuru, MSW, Windy
 - Auto-refresh: weather data every 5 min, camera stills every 30s
-- Google Analytics (UA-164926771-1)
-
----
-
-## Accessibility & SEO
-
-- Semantic HTML5 (`header`, `main`, `nav`, `section`, `footer`)
-- Skip link, ARIA labels, `aria-live` on status indicator
-- Alt text on all images
-- JSON-LD structured data
-- OpenGraph + Twitter Card meta tags
-- Mobile responsive (CSS Grid, `auto-fit`/`minmax`)
 
 ---
 
 <div align="center">
 
-Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.
+Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.  
+[oceanstatus.com](https://oceanstatus.com)
 
 </div>
