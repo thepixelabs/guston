@@ -44,7 +44,7 @@
       bodyFont: 'VT323',
       googleFontsHref:
         'https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap',
-      modes: ['dark'],
+      modes: ['dark', 'light'],
     },
     'desert-ethnic': {
       name: 'Desert Ethnic',
@@ -54,7 +54,7 @@
       bodyFont: 'Rubik',
       googleFontsHref:
         'https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Rubik:wght@400;600&display=swap',
-      modes: ['light'],
+      modes: ['light', 'dark'],
     },
   };
 
