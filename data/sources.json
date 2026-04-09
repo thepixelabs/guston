@@ -1,0 +1,187 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-07T00:00:00Z",
+    "generator": "data-engineer investigation pass (post user-confirmed in-browser failures)",
+    "validation_method": "WebFetch server-side GET. User supplied in-browser screenshots confirming failures that prior passes could not observe.",
+    "confirmed_failures_in_browser": [
+      "YouTube Error 153 on ALL 5 embedded cams: YZVej51RJZ8, GBcHl6C3IRY, VyZZegzi6xs, LTBzwcSi-kc, channel UCroZaDar2JEA0vQbJIKHrmw. These are PLAYABILITY_ERROR_CODE_EMBEDDER_IDENTITY_MISSING_REFERRER. Because the site already sets <meta name='referrer' content='no-referrer'> at index.html:6, YouTube receives no Referer and refuses embedding. Either remove that meta tag (site-wide risk) or drop YouTube embeds entirely. Recommended: drop them.",
+      "Holfuy station 846 (Beit Yanai / 'Asa Bro') widgets show 'not visible/activated at the moment'. Station 846 is dead. All three widget iframes at index.html:688, 691, 695 must be replaced."
+    ],
+    "important_caveats": [
+      "beachcam.co.il streams cannot be embedded: the underlying player at ipcamlive.com/player/player.php has domainlockenabled=1 and refuses to render unless loaded from an authorized parent domain. Only the zvulun.html page still exposes an alias (634548590c353) in a commented block; all other pages inject the iframe src via JS at runtime. Conclusion: link-outs only for beachcam.co.il.",
+      "ipcamlive.com general player endpoints do NOT bypass the domain lock. Do not attempt to scrape aliases.",
+      "SkylineWebcams Israel offerings (Tel Aviv, Ashdod Oranim Beach) were confirmed OFFLINE in the previous pass and remain offline.",
+      "EarthCam has no current Israel beach feeds.",
+      "Surfline does not operate live cams in Israel (no IL regional cam inventory).",
+      "wind.co.il 'broadcast' images (lab.wind.co.il/weather/broadcast.jpg) previously returned binary WebFetch labeled as corrupt — these are composite weather-info JPGs, not video. They are link-outs at best, not cameras."
+    ]
+  },
+
+  "cameras": {
+    "embedded_recommendation": "NONE. No Israeli beach camera can be validated as working inside an iframe on a third-party site. Drop the <section id='cameras'> embed grid and replace with a link-out grid.",
+    "link_out_grid": [
+      { "label": "Herzliya Sea Scouts / Zvulun",      "url": "https://beachcam.co.il/en/zvulun.html",      "area": "Herzliya" },
+      { "label": "Herzliya Southern Beach",           "url": "https://beachcam.co.il/en/dromi2.html",      "area": "Herzliya" },
+      { "label": "Herzliya Marina (Arena Point)",     "url": "https://beachcam.co.il/en/marina.html",      "area": "Herzliya" },
+      { "label": "Herzliya Marina Entrance",          "url": "https://beachcam.co.il/en/marina.out.html",  "area": "Herzliya" },
+      { "label": "Tel Aviv Aviv Beach (Dolfinarium)", "url": "https://beachcam.co.il/en/dolfinarium.html", "area": "Tel Aviv" },
+      { "label": "Tel Aviv Hilton / Yamit Marina",    "url": "https://beachcam.co.il/en/yamit.html",       "area": "Tel Aviv" },
+      { "label": "Tel Aviv Jaffa Beach",              "url": "https://beachcam.co.il/en/yafo.html",        "area": "Tel Aviv" },
+      { "label": "Netanya Kontiki",                   "url": "https://beachcam.co.il/en/kontiki.html",     "area": "Sharon" },
+      { "label": "Caesarea (wind.co.il)",             "url": "https://lab.wind.co.il/weather/broadcast.jpg?a=1", "area": "Caesarea", "kind": "composite_image" },
+      { "label": "Haifa Bat Galim",                   "url": "https://beachcam.co.il/en/batgalim.html",    "area": "Haifa" },
+      { "label": "Haifa Surf Club",                   "url": "https://beachcam.co.il/en/testcam1.html",    "area": "Haifa" },
+      { "label": "Haifa Meridian",                    "url": "https://beachcam.co.il/en/meridian.html",    "area": "Haifa" },
+      { "label": "Haifa Krayot (MagicBoards)",        "url": "https://beachcam.co.il/en/krayot.html",      "area": "Krayot" },
+      { "label": "All IL beach cams (directory)",    "url": "https://beachcam.co.il/en/list.html",        "area": "All" },
+      { "label": "wind.co.il live broadcast",         "url": "https://www.wind.co.il/",                    "area": "All" }
+    ],
+    "youtube_embeds_to_remove": [
+      "YZVej51RJZ8 (Zvulun/Tzofei Yam)",
+      "GBcHl6C3IRY (TLV Frishman)",
+      "VyZZegzi6xs (TLV Mandarin)",
+      "LTBzwcSi-kc (Bat Yam Stela)",
+      "live_stream?channel=UCroZaDar2JEA0vQbJIKHrmw"
+    ],
+    "root_cause_youtube_error_153": "index.html:6 sets <meta name='referrer' content='no-referrer'>. YouTube's embed endpoint refuses to play when Referer is missing (PLAYABILITY_ERROR_CODE_EMBEDDER_IDENTITY_MISSING_REFERRER). Either change referrer policy to 'strict-origin-when-cross-origin' OR drop YT embeds. Because we also want link-outs for reliability, recommend DROP."
+  },
+
+  "wind_sources": [
+    {
+      "id": "ims-imslasthour-xml",
+      "provider": "Israel Meteorological Service",
+      "endpoint": "https://ims.gov.il/sites/default/files/ims_data/xml_files/imslasthour.xml",
+      "format": "XML (no auth, no CORS issues observed for a static file)",
+      "fields": ["stn_num", "stn_name", "time_obs", "WS (wind speed m/s)", "WSmax (gust)", "WD (direction deg)", "WS1mm", "Ws10mm", "WDmax"],
+      "status": "WORKING",
+      "notes": "VALIDATED 2026-04-07. Single XML file covers ALL IMS stations countrywide, updated each hour. This is the authoritative free source for Israeli wind observations. Parse client-side; filter to coastal stations by stn_name. Suggested coastal stations to surface: ASHDOD PORT, TEL AVIV COAST, HADERA PORT, HAIFA PORT, HAIFA TECHNION, DOR HABONIM, SHAVE ZIYYON, BET DAGAN. Confirm exact stn_num values by parsing the XML once and caching."
+    },
+    {
+      "id": "ims-envista-rest",
+      "provider": "IMS Envista REST API",
+      "endpoint": "https://api.ims.gov.il/v1/envista/stations",
+      "format": "JSON",
+      "status": "AUTH_REQUIRED",
+      "notes": "Returns HTTP 401 without an ApiToken header. Free token available by request from IMS (ims@ims.gov.il). Adds per-station latest readings and historical queries. Use only if imslasthour.xml proves insufficient. Do NOT commit a token to the repo; proxy via a serverless function."
+    },
+    {
+      "id": "holfuy-widget-israeli-stations",
+      "provider": "Holfuy",
+      "endpoint": "https://widget.holfuy.com/?station={id}&su=knots&t=C&lang=en&mode=detailed",
+      "status": "PARTIAL",
+      "notes": "Station 846 (Beit Yanai 'Asa Bro') is confirmed DEAD in the browser per user screenshots. The Holfuy public Israel list page (holfuy.com/en/weather/israel) returned 404, so we could not enumerate live Israeli stations server-side. Before re-enabling any Holfuy widget for Israel, open https://holfuy.com/en/map in a real browser, click Israel, and visually confirm the station exists and reports recent data. Candidate IDs that historically reported for IL kite spots (must be re-verified in browser before use): none currently confirmed. Recommendation: remove Holfuy dependency entirely and rely on IMS imslasthour.xml + Open-Meteo ICON-EU."
+    },
+    {
+      "id": "open-meteo-forecast-default",
+      "provider": "Open-Meteo",
+      "endpoint": "https://api.open-meteo.com/v1/forecast",
+      "status": "WORKING",
+      "current_fields_in_index_html": ["temperature_2m", "apparent_temperature", "wind_speed_10m", "wind_direction_10m", "wind_gusts_10m", "cloud_cover", "precipitation"],
+      "recommended_additional_current_fields": ["weather_code", "is_day", "precipitation_probability", "uv_index", "visibility"],
+      "recommended_hourly_fields": ["wind_speed_10m", "wind_gusts_10m", "wind_direction_10m", "precipitation_probability", "precipitation", "cloud_cover", "temperature_2m", "weather_code"],
+      "recommended_daily_fields": ["weather_code", "temperature_2m_max", "temperature_2m_min", "precipitation_sum", "wind_speed_10m_max", "wind_gusts_10m_max", "wind_direction_10m_dominant", "uv_index_max", "sunrise", "sunset"],
+      "recommended_model_override": "Add &models=icon_eu for the hourly call. ICON-EU is 6.5 km over Israel vs GFS 25 km and materially improves sea-breeze timing in the afternoon — the decision window that matters to kiters."
+    },
+    {
+      "id": "open-meteo-marine",
+      "provider": "Open-Meteo Marine",
+      "endpoint": "https://marine-api.open-meteo.com/v1/marine",
+      "status": "WORKING",
+      "current_fields_in_index_html": ["wave_height", "wave_period", "wave_direction", "swell_wave_height", "swell_wave_period", "swell_wave_direction"],
+      "recommended_additional_fields": ["sea_surface_temperature", "wind_wave_height", "wind_wave_period", "wind_wave_direction"],
+      "notes": "sea_surface_temperature is the single most-asked question for kiters ('do I need a wetsuit?'). Add it."
+    },
+    {
+      "id": "open-meteo-air-quality",
+      "provider": "Open-Meteo Air Quality",
+      "endpoint": "https://air-quality-api.open-meteo.com/v1/air-quality",
+      "status": "WORKING",
+      "recommended_fields": ["pm10", "pm2_5", "dust", "uv_index"],
+      "notes": "Dust (Sharav/Khamsin) events are a legitimate go/no-go factor in Israel in spring. Worth showing as a badge ('Dust: 180 ug/m3 — reduced visibility') only when dust > 50 ug/m3; otherwise hide."
+    },
+    {
+      "id": "metar-llsd-llbg-llha",
+      "provider": "NOAA aviationweather.gov METAR",
+      "endpoint": "https://aviationweather.gov/api/data/metar?ids=LLSD,LLBG,LLHA&format=json",
+      "status": "WORKING (untested this pass; widely documented)",
+      "notes": "LLSD Sde Dov (Tel Aviv coast, kite-relevant), LLBG Ben Gurion, LLHA Haifa. METAR is observed, not forecast — pair with IMS for cross-validation. LLSD is the closest observation point to the TLV beach cluster."
+    }
+  ],
+
+  "useful_open_meteo_fields_for_kiters_ranked": [
+    { "field": "wind_speed_10m", "weight": "critical" },
+    { "field": "wind_gusts_10m", "weight": "critical (gust spread is the most important go/no-go signal after absolute wind)" },
+    { "field": "wind_direction_10m", "weight": "critical (onshore/offshore/side decides the kite direction)" },
+    { "field": "precipitation_probability", "weight": "high" },
+    { "field": "weather_code", "weight": "high (thunder = hard no-go even at perfect wind)" },
+    { "field": "cape", "weight": "high (thunderstorm risk; >1500 J/kg = caution)" },
+    { "field": "sea_surface_temperature (marine)", "weight": "high (wetsuit thickness decision)" },
+    { "field": "wave_height / wave_period", "weight": "medium (kite vs. surf vs. foil choice)" },
+    { "field": "apparent_temperature", "weight": "medium" },
+    { "field": "uv_index", "weight": "medium" },
+    { "field": "visibility", "weight": "medium (fog/dust)" },
+    { "field": "cloud_cover", "weight": "low (informational)" },
+    { "field": "is_day", "weight": "low (UI hint)" },
+    { "field": "pm10 / dust (air quality)", "weight": "situational (Sharav events)" }
+  ],
+
+  "default_location_analysis": {
+    "current_default_coords": { "lat": 32.354, "lon": 34.846 },
+    "current_default_name": "Beit Yanai (the 'all' filter resolves to Beit Yanai at index.html:1060)",
+    "is_reasonable": true,
+    "rationale": "Beit Yanai is the most iconic Israeli kite spot — central Sharon coast, open fetch, cleanest W/NW thermal, and the name most kiters search for. Using it as the default is correct. Leaving it as the silent default under the 'all' filter is slightly confusing though: the hero card says 'all beaches' but is really Beit Yanai's numbers. Fix: label the card with the active spot name explicitly, or add an explicit spot picker persisted in localStorage.",
+    "recommendation": "Keep 32.354, 34.846 (Beit Yanai) as default. Make the active spot name visible in the hero card title. Add a spot picker that persists to localStorage['guston.spot']."
+  },
+
+  "section_order_recommendation": {
+    "rationale": "A kiter opens the page to answer ONE question: should I go right now? The verdict must be above the fold, then the wind map (which the user specifically wants moved up), then the hourly strip that shows WHEN in the next few hours it will peak, then per-break go/no-go, then cameras as link-outs, then a compact radar, then multi-day forecast.",
+    "new_order": [
+      { "id": "conditions", "title": "Verdict + current wind/gust/dir/SST for selected spot", "notes": "Keep hero, add SST pill and dust pill (only when elevated)." },
+      { "id": "map",        "title": "Windy interactive wind map",                             "notes": "MOVED UP from bottom. This is the user's explicit request. Height ~520px on desktop, ~380px on mobile." },
+      { "id": "hourly",     "title": "Next-24h wind+gust+rain strip (new)",                    "notes": "New section. Single horizontally-scrolling row of 24 hour cells from Open-Meteo hourly (ICON-EU). Shows wind kt, gust kt, dir arrow, rain prob %. This is the 'when' answer." },
+      { "id": "wind",       "title": "Per-break go/no-go grid (IMS stations + Open-Meteo per spot)", "notes": "Replace Holfuy 846 iframes. Source IMS imslasthour.xml for live obs + Open-Meteo per-spot for forecast. Color-code go/maybe/nogo." },
+      { "id": "cameras",    "title": "Beach cameras (link-out grid)",                          "notes": "Replace iframe grid with the link_out_grid above. Each tile = static thumbnail + 'Open live feed' label. No embeds." },
+      { "id": "radar",      "title": "Rain radar (compact)",                                   "notes": "SHRINK. Replace large dual IMS PNG cards with a single 320px-tall RainViewer animated Leaflet map centered 32.1,34.8 zoom 7. Collapsed-by-default on mobile (<details open> on desktop, closed on mobile)." },
+      { "id": "forecast",   "title": "Multi-day forecast (Windguru iframe + Open-Meteo daily)", "notes": "Keep at bottom. Seven-day outlook is a low-frequency need." }
+    ],
+    "radar_sizing": {
+      "desktop_max_height_px": 320,
+      "mobile_collapsed_by_default": true,
+      "replacement": "Single RainViewer Leaflet map, not two static IMS PNGs. Animated radar > static forecast PNG for the 'is it raining NOW' question."
+    }
+  },
+
+  "radar_sources": [
+    {
+      "id": "rainviewer",
+      "provider": "RainViewer",
+      "index_url": "https://api.rainviewer.com/public/weather-maps.json",
+      "status": "WORKING",
+      "notes": "Global animated radar. Free, no key. Refresh index every 5 min. Use Leaflet XYZ layer with host+path from the index JSON."
+    },
+    {
+      "id": "ims-ecmwf-rain-png",
+      "url": "https://ims.gov.il/sites/default/files/ims_data/map_images/ecRainForecast/ecRainForecast.png",
+      "status": "WORKING",
+      "notes": "Keep as secondary/fallback only. Not animated."
+    },
+    {
+      "id": "windy-rain-embed",
+      "url": "https://embed.windy.com/embed.html?type=map&lat=32.1&lon=34.8&zoom=7&overlay=rain&product=ecmwf",
+      "status": "WORKING"
+    }
+  ],
+
+  "action_items_for_main_agent": [
+    "1. REMOVE all 5 YouTube camera iframes (index.html:760,769,778,787,796). Replace <section id='cameras'> body with the link_out_grid above. Each tile: a <a target=_blank> with a static beach photo or generic 'live camera' thumbnail.",
+    "2. REMOVE the 3 Holfuy station 846 iframes at index.html:688,691,695. Replace the Beit Yanai wind panel with an IMS-driven current-conditions card (parse imslasthour.xml client-side) + Open-Meteo ICON-EU forecast.",
+    "3. MOVE <section id='map'> (Windy iframe) to appear immediately after <section id='conditions'>. This is the user's direct request.",
+    "4. SHRINK <section id='radar'>: replace the two static IMS PNG cards with a single 320px-tall Leaflet map using RainViewer tiles. Wrap in <details> collapsed-by-default on mobile via CSS media query.",
+    "5. ADD a new hourly strip section between map and per-break grid: 24 cells of wind/gust/dir/rain-prob from Open-Meteo hourly with &models=icon_eu.",
+    "6. EXTEND the Open-Meteo fetch in index.html:1180 to add &models=icon_eu and &current=weather_code,is_day,precipitation_probability,uv_index,visibility.",
+    "7. EXTEND the marine fetch in index.html:1181 to include sea_surface_temperature,wind_wave_height,wind_wave_period.",
+    "8. ADD an Open-Meteo air-quality call for pm10,pm2_5,dust; render a dust badge only when dust > 50 ug/m3.",
+    "9. EITHER remove <meta name='referrer' content='no-referrer'> at index.html:6 OR accept that YouTube embeds will never work. We recommend removing YouTube embeds entirely and leaving the meta tag alone.",
+    "10. Label the hero card with the active spot name so users know it's showing Beit Yanai by default, not an average."
+  ]
+}

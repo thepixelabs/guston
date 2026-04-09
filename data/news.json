@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-04-10T00:00:00Z",
+  "source_status": { "stub": "ok" },
+  "items": [
+    {
+      "id": "stub-welcome",
+      "source": "Guston",
+      "title": "News feed coming online",
+      "snippet": "The first batch of real headlines will appear after the GitHub Action runs. Check back shortly.",
+      "url": "https://github.com/netz/guston",
+      "date": "2026-04-10T00:00:00Z",
+      "tags": ["kite", "wind", "wing", "surf"]
+    }
+  ]
+}

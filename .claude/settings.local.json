@@ -6,7 +6,13 @@
       "WebSearch",
       "WebFetch(domain:open-meteo.com)",
       "Bash(gh repo:*)",
-      "Bash(git remote:*)"
+      "Bash(git remote:*)",
+      "Bash(gh auth:*)",
+      "Bash(git push:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git commit:*)"
     ]
   }
 }
