@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-04-10T00:00:00Z",
-  "source_status": { "stub": "ok" },
+  "generated_at": "2026-04-09T03:30:00Z",
+  "sources": [{"id": "manual", "ok": true, "item_count": 2}],
   "items": [
     {
-      "id": "stub-welcome",
+      "id": "item-2",
+      "source": "IKSurfMag",
+      "title": "IKSurfMag — The 2026 Kiteboarding Gear Guide is out",
+      "snippet": "Check out the latest kites, boards and accessories for the 2026 season. We review the top 10 big-air kites on the market.",
+      "url": "https://www.iksurfmag.com/",
+      "date": "2026-04-09T03:00:00Z",
+      "tags": ["kite"]
+    },
+    {
+      "id": "item-1",
       "source": "Guston",
-      "title": "News feed coming online",
-      "snippet": "The first batch of real headlines will appear after the GitHub Action runs. Check back shortly.",
+      "title": "Wave 2 Pass A — The Lineup is live",
+      "snippet": "The new News and Events section is now operational. Real headlines will be pulled from IKSurfMag, Windsurf Magazine and GKA shortly.",
       "url": "https://github.com/netz/guston",
-      "date": "2026-04-10T00:00:00Z",
-      "tags": ["kite", "wind", "wing", "surf"]
+      "date": "2026-04-09T03:30:00Z",
+      "tags": ["kite", "wind", "surf"]
     }
   ]
 }

@@ -612,7 +612,7 @@
     .hero { padding-top: 40px; position: relative; }
     .hero::before {
       content: '';
-      position: absolute; inset: -40px 0 0 0; z-index: -1;
+      position: absolute; inset: 0; z-index: -1;
       background:
         radial-gradient(600px 300px at 15% 20%, rgba(var(--accent-rgb),0.10), transparent 60%),
         radial-gradient(500px 260px at 85% 30%, rgba(var(--accent-2-rgb),0.10), transparent 60%),
@@ -681,6 +681,7 @@
     }
     .hero-grid .card:hover::after { opacity: 1; }
     .hero-grid .card .card-label {
+      position: relative; z-index: 2;
       font-size: .68rem;
       font-weight: 700;
       font-family: var(--mono);
@@ -691,6 +692,7 @@
       text-shadow: 0 0 8px rgba(var(--accent-rgb),0.25);
     }
     .hero-grid .card .card-value {
+      position: relative; z-index: 2;
       font-size: 1.7rem; font-weight: 800; font-family: var(--mono);
       line-height: 1.1; color: #ffffff;
       text-shadow: 0 0 16px rgba(var(--accent-rgb),0.25);
@@ -699,6 +701,7 @@
       font-size: .74rem; font-weight: 500; color: var(--muted); margin-inline-start: 3px;
     }
     .hero-grid .card .card-detail {
+      position: relative; z-index: 2;
       font-size: .72rem; color: var(--subtle); margin-top: 4px;
       font-family: var(--mono); letter-spacing: .03em;
     }
@@ -888,7 +891,11 @@
     .all-spots-hint { margin-inline-start: auto; font-size: .68rem; opacity: .6; text-transform: none; letter-spacing: 0; font-weight: 500; }
     .all-spots-strip { grid-template-columns: repeat(5, minmax(170px, 1fr)); }
     @media (max-width: 920px) {
-      .all-spots-strip { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px; padding-bottom: 6px; -webkit-overflow-scrolling: touch; }
+      .all-spots-strip {
+        display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+        gap: 10px; padding: 0 4px 6px; -webkit-overflow-scrolling: touch;
+        scroll-padding-inline: 4px;
+      }
       .all-spots-strip > .lw-card { flex: 0 0 78%; scroll-snap-align: start; }
     }
     .lw-card { cursor: pointer; }
@@ -1866,7 +1873,7 @@
       .verdict-middle > * { max-width: 130px; min-width: 100px; }
     }
 
-    @media (max-width: 720px) {
+    @media (max-width: 900px) {
       .verdict-hero {
         flex-direction: column;
         align-items: stretch;
@@ -1882,7 +1889,7 @@
       }
       .verdict-middle > * {
         flex: 1 1 calc(33.333% - 8px);
-        max-width: none; min-width: 0;
+        max-width: none; min-width: 108px;
       }
       .verdict-right {
         align-items: center;
@@ -1959,7 +1966,11 @@
       .beach-filter { gap: 6px; }
       .beach-btn { padding: 6px 12px; font-size: .74rem; }
       .windy-embed iframe { height: 260px; }
-      .all-spots-strip { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px; padding-bottom: 6px; -webkit-overflow-scrolling: touch; }
+      .all-spots-strip {
+        display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+        gap: 10px; padding: 0 4px 6px; -webkit-overflow-scrolling: touch;
+        scroll-padding-inline: 4px;
+      }
       .all-spots-strip > .lw-card { flex: 0 0 78%; scroll-snap-align: start; }
     }
 
@@ -2112,6 +2123,8 @@
         scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
+        padding-inline: 4px;
+        scroll-padding-inline: 4px;
       }
       .sport-strip::-webkit-scrollbar { display: none; }
       .sport-chip { scroll-snap-align: start; flex: 0 0 auto; }
@@ -2203,7 +2216,6 @@
       background: var(--panel);
       border: 1px solid var(--border);
       border-radius: var(--radius-sm);
-      clip-path: var(--card-clip);
     }
     .lineup-month {
       appearance: none;
@@ -2616,7 +2628,8 @@
         overflow-x: auto;
         scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
-        padding: 8px;
+        padding: 8px 12px;
+        scroll-padding-inline: 12px;
       }
       .lineup-month { scroll-snap-align: center; min-height: 72px; }
       .lineup-news-card { grid-template-columns: 1fr; }

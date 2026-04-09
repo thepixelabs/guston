@@ -1,5 +1,48 @@
 {
-  "generated_at": "2026-04-10T00:00:00Z",
-  "source_status": { "stub": "ok" },
-  "items": []
+  "generated_at": "2026-04-09T00:00:00Z",
+  "sources": [{"id": "manual", "ok": true, "event_count": 3}],
+  "items": [
+    {
+      "id": "kota-2026",
+      "name": "Red Bull King of the Air",
+      "tour": "RedBull",
+      "discipline": "big-air",
+      "sport": "kite",
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-14",
+      "location": "Cape Town",
+      "country": "ZA",
+      "url": "https://www.redbull.com/int-en/event-series/red-bull-king-of-the-air",
+      "status": "past",
+      "tbc": false
+    },
+    {
+      "id": "gka-capeverde-2026",
+      "name": "GKA Kite World Tour — Cape Verde",
+      "tour": "GKA",
+      "discipline": "kite-surf",
+      "sport": "kite",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-21",
+      "location": "Sal",
+      "country": "CV",
+      "url": "https://www.gkakiteworldtour.com/events/",
+      "status": "past",
+      "tbc": false
+    },
+    {
+      "id": "wsl-bells-2026",
+      "name": "Rip Curl Pro Bells Beach",
+      "tour": "WSL",
+      "discipline": "ct",
+      "sport": "surf",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-11",
+      "location": "Bells Beach",
+      "country": "AU",
+      "url": "https://www.worldsurfleague.com/",
+      "status": "live",
+      "tbc": false
+    }
+  ]
 }
