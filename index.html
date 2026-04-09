@@ -4438,7 +4438,7 @@
 
       const EVENTS_INITIAL = 7;
 
-      const MONTH_LABELS = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+      const MONTH_KEYS = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'];
 
       const SPORT_CLASS = {
         kite: 'dot-kite', wind: 'dot-wind', wing: 'dot-wing',
@@ -4807,7 +4807,7 @@
                      (state.calendarFilterMonth === m ? ' is-active' : ''),
               role: 'listitem',
               'aria-pressed': state.calendarFilterMonth === m ? 'true' : 'false',
-              'aria-label': `${MONTH_LABELS[m]} — ${b.count} events` + (b.names.length ? ': ' + b.names.join(', ') : ''),
+              'aria-label': `${t('month.' + MONTH_KEYS[m])} — ${b.count} events` + (b.names.length ? ': ' + b.names.join(', ') : ''),
               'data-month': m,
               title: b.names.length ? b.names.join('\n') : '',
               disabled: b.count === 0,
@@ -4820,7 +4820,7 @@
                 if (clearBtn) clearBtn.hidden = state.calendarFilterMonth == null;
               },
             },
-            h('span', { class: 'lineup-month-label' }, MONTH_LABELS[m]),
+            h('span', { class: 'lineup-month-label', 'data-i18n': 'month.' + MONTH_KEYS[m] }, t('month.' + MONTH_KEYS[m])),
             h('div', { class: 'lineup-month-dots' },
               ...sportList.map(s => {
                 const dot = h('span', { class: 'dot ' + (SPORT_CLASS[s] || '') });
