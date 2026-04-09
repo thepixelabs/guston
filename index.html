@@ -4666,13 +4666,17 @@
         const du = daysUntil(ev.start_date);
 
         let statusPill;
-        if (ev.status === 'live')   statusPill = h('span', { class: 'lineup-status-pill is-live', 'data-i18n': 'lineup.events.status.live' }, 'LIVE NOW');
-        else if (ev.status === 'past') statusPill = h('span', { class: 'lineup-status-pill', 'data-i18n': 'lineup.events.status.past' }, 'PAST');
-        else statusPill = h('span', { class: 'lineup-status-pill is-upcoming', 'data-i18n': 'lineup.events.status.upcoming' }, 'UPCOMING');
+        if (ev.status === 'live')   statusPill = h('span', { class: 'lineup-status-pill is-live', 'data-i18n': 'lineup.events.status.live' }, t('lineup.events.status.live'));
+        else if (ev.status === 'past') statusPill = h('span', { class: 'lineup-status-pill', 'data-i18n': 'lineup.events.status.past' }, t('lineup.events.status.past'));
+        else statusPill = h('span', { class: 'lineup-status-pill is-upcoming', 'data-i18n': 'lineup.events.status.upcoming' }, t('lineup.events.status.upcoming'));
 
         let countdown = '';
-        if (ev.status === 'upcoming' && du != null && du >= 0) countdown = du === 0 ? 'starts today' : (_rtf ? _rtf.format(du, 'day') : `in ${du} days`);
-        else if (ev.status === 'live') countdown = 'Live Now';
+        if (ev.status === 'upcoming' && du != null && du >= 0) {
+          if (du === 0) countdown = t('status.now');
+          else if (_rtf) countdown = _rtf.format(du, 'day');
+          else countdown = t(du === 1 ? 'status.in_day' : 'status.in_days', { n: du });
+        }
+        else if (ev.status === 'live') countdown = t('status.live');
 
         const card = h('a', {
             class: `lineup-event is-${ev.status}`,
@@ -4746,12 +4750,16 @@
           li.append(renderEventCard(ev));
           list.append(li);
         });
-        if (countEl) countEl.textContent = `${visible.length}/${items.length}`;
+        if (countEl) countEl.textContent = `${fmtN(visible.length)}/${fmtN(items.length)}`;
         if (moreBtn) {
           moreBtn.hidden = items.length <= EVENTS_INITIAL;
-          moreBtn.textContent = state.eventsExpanded
-            ? (moreBtn.dataset.collapseLabel || 'Show less')
-            : (moreBtn.dataset.expandLabel   || 'View all events');
+          if (state.eventsExpanded) {
+            moreBtn.textContent = t('lineup.events.collapse');
+            moreBtn.setAttribute('data-i18n', 'lineup.events.collapse');
+          } else {
+            moreBtn.textContent = t('lineup.events.more');
+            moreBtn.setAttribute('data-i18n', 'lineup.events.more');
+          }
         }
         observeReveal(list);
       }
