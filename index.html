@@ -393,6 +393,79 @@
       filter: drop-shadow(0 0 6px rgba(14,50,120,0.35));
     }
 
+    .verdict-summary {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+    }
+    .status-text {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .scroller-hint {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+    }
+    .scroller-tools {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-inline-start: auto;
+    }
+    .scroll-cue {
+      color: var(--subtle);
+      white-space: nowrap;
+    }
+    .scroll-arrow {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      padding: 0;
+      border-radius: 999px;
+      border: 1px solid rgba(var(--accent-rgb), 0.25);
+      background: rgba(255,255,255,0.05);
+      color: var(--accent);
+      transition: border-color .2s ease, background .2s ease, color .2s ease, transform .2s ease, opacity .2s ease;
+      flex-shrink: 0;
+    }
+    .scroll-arrow svg {
+      width: 14px;
+      height: 14px;
+      pointer-events: none;
+    }
+    .scroll-arrow:hover,
+    .scroll-arrow:focus-visible {
+      border-color: rgba(var(--accent-rgb), 0.45);
+      background: rgba(var(--accent-rgb), 0.12);
+      color: var(--text);
+      transform: translateY(-1px);
+    }
+    .scroll-arrow:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .scroll-arrow:disabled {
+      opacity: 0.38;
+      transform: none;
+    }
+    .scroll-arrow:disabled:hover {
+      background: rgba(255,255,255,0.05);
+      color: var(--accent);
+      border-color: rgba(var(--accent-rgb), 0.25);
+    }
+
     /* ===== THEME PICKER (anchored under its button) ===== */
     .pxl-theme-picker {
       position: absolute;
@@ -1747,6 +1820,13 @@
       justify-content: center;
       gap: 6px;
     }
+    .verdict-scroller-block {
+      flex: 1 1 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+    }
 
     .verdict-compass {
       width: 120px; height: 120px;
@@ -1818,6 +1898,9 @@
       box-shadow: 0 0 22px -10px rgba(167,139,250,0.4);
     }
     .waves-callout svg { color: #a78bfa; filter: drop-shadow(0 0 6px rgba(167,139,250,0.55)); flex-shrink: 0; }
+    .suit-callout,
+    .kite-callout,
+    .waves-callout { min-width: 0; }
 
     :root[data-theme-pack="hud"][data-theme="light"] .suit-callout {
       background: linear-gradient(135deg, rgba(14,165,233,0.14), rgba(14,165,233,0.04));
@@ -1875,36 +1958,47 @@
 
     @media (max-width: 900px) {
       .verdict-hero {
-        flex-direction: column;
-        align-items: stretch;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 104px;
+        grid-template-areas:
+          "summary compass"
+          "callouts compass"
+          "activities activities";
+        align-items: start;
         gap: 14px;
         padding: 18px 18px;
       }
+      .verdict-left { grid-area: summary; }
       .verdict-divider { display: none; }
       .verdict-middle {
-        align-self: stretch;
-        justify-content: space-between;
-        flex-wrap: wrap;
+        grid-area: callouts;
+        align-self: start;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 8px;
       }
       .verdict-middle > * {
-        flex: 1 1 calc(33.333% - 8px);
-        max-width: none; min-width: 108px;
+        min-width: 0;
+        max-width: none;
       }
       .verdict-right {
-        align-items: center;
-        flex-direction: row;
-        justify-content: center;
-        gap: 14px;
+        grid-area: compass;
+        align-items: flex-end;
+        justify-content: flex-start;
+        gap: 8px;
       }
-      .compass-readout { text-align: left; }
+      .verdict-scroller-block { grid-area: activities; }
+      .compass-readout { text-align: right; }
       .verdict-compass { width: 96px; height: 96px; }
     }
 
     @media (max-width: 480px) {
+      .verdict-hero {
+        grid-template-columns: minmax(0, 1fr) 88px;
+        gap: 12px;
+      }
       .verdict-compass { width: 84px; height: 84px; }
       .verdict-middle { gap: 6px; }
-      .verdict-middle > * { flex: 1 1 calc(50% - 6px); }
     }
 
     @keyframes pulse {
@@ -1949,13 +2043,54 @@
 
     @media (max-width: 480px) {
       :root { --header-h: 56px; }
+      .header-inner { gap: 8px; }
+      .brand {
+        gap: 6px;
+        min-width: 0;
+      }
+      .brand-icon { width: 24px; height: 24px; }
       .brand-name { font-size: 1rem; letter-spacing: 1px; }
+      .header-actions {
+        gap: 2px;
+        min-width: 0;
+        margin-inline-start: auto;
+      }
+      .header-lastupdate {
+        max-width: 72px;
+        padding: 4px 6px;
+        overflow: hidden;
+        justify-content: center;
+      }
+      .header-lastupdate #lastUpdate {
+        font-size: .54rem;
+        letter-spacing: .02em;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .nav-toggle,
+      .theme-btn,
+      .theme-picker-btn,
+      .lang-picker-btn,
+      .pixelabs-link {
+        width: 30px;
+        height: 30px;
+        border-radius: 8px;
+      }
+      .nav-toggle { padding: 4px; }
+      .nav-toggle svg,
+      .theme-btn svg,
+      .theme-picker-btn svg,
+      .lang-picker-btn svg,
+      .lang-picker-btn img,
+      .pixelabs-icon {
+        width: 18px;
+        height: 18px;
+      }
       .container { width: calc(100% - 24px); }
       .hero-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
       .hero-grid .card .card-value { font-size: 1.35rem; }
       .hero-grid .card { padding: 10px 12px 12px; }
       .verdict-headline { gap: 8px; }
-      .kite-status { flex-direction: column; align-items: flex-start; }
       .status-indicator { align-self: flex-start; }
       .beach-cam-grid { grid-template-columns: 1fr; }
       .sdotyam-grid { grid-template-columns: 1fr; }
@@ -1972,6 +2107,12 @@
         scroll-padding-inline: 4px;
       }
       .all-spots-strip > .lw-card { flex: 0 0 78%; scroll-snap-align: start; }
+    }
+
+    @media (max-width: 380px) {
+      .brand-name { font-size: 0.92rem; letter-spacing: 0.08em; }
+      .header-lastupdate { max-width: 64px; }
+      .scroll-cue { display: none; }
     }
 
     /* ===================================================================
@@ -2059,6 +2200,7 @@
     .pick-beach-wrap {
       display: flex; flex-direction: column; align-items: center;
       margin: 20px 0 24px; text-align: center;
+      gap: 10px;
     }
     .pick-beach-title { justify-content: center; margin-bottom: 14px; }
     .pick-beach-title::after { inset-inline-start: 50%; transform: translateX(-50%); }
@@ -2068,7 +2210,6 @@
     .sport-strip {
       display: flex;
       gap: 6px;
-      margin-top: 12px;
       flex-wrap: wrap;
     }
     .sport-chip {
@@ -2118,16 +2259,48 @@
     }
     @media (max-width: 640px) {
       .sport-strip {
-        flex-wrap: nowrap;
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-rows: repeat(2, minmax(0, auto));
+        grid-auto-columns: max-content;
         overflow-x: auto;
-        scroll-snap-type: x mandatory;
+        overscroll-behavior-x: contain;
+        scroll-snap-type: x proximity;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
-        padding-inline: 4px;
-        scroll-padding-inline: 4px;
+        padding: 2px 2px 6px;
+        row-gap: 8px;
+        column-gap: 8px;
+        scroll-padding-inline: 2px;
+        width: 100%;
       }
       .sport-strip::-webkit-scrollbar { display: none; }
       .sport-chip { scroll-snap-align: start; flex: 0 0 auto; }
+      .pick-beach-wrap {
+        align-items: stretch;
+        text-align: start;
+      }
+      .pick-beach-wrap .beach-filter {
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        scroll-snap-type: x proximity;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        padding: 2px 2px 6px;
+        width: 100%;
+      }
+      .pick-beach-wrap .beach-filter::-webkit-scrollbar { display: none; }
+      .pick-beach-wrap .beach-btn {
+        flex: 0 0 auto;
+        scroll-snap-align: start;
+      }
+      .all-spots-label {
+        flex-wrap: wrap;
+        row-gap: 8px;
+      }
+      .all-spots-hint { margin-inline-start: 0; }
     }
     /* Alias: .kite-callout was renamed to .gear-callout; keep old rules working via same selector */
     .gear-callout { /* styles inherited from .kite-callout rules above */ }
@@ -2760,20 +2933,17 @@
         <!-- Kite Go/No-Go HERO -->
         <div class="kite-status verdict-hero" id="kiteStatus" role="status" aria-live="polite">
           <div class="verdict-left">
-            <div style="display:flex;align-items:center;gap:14px;">
+            <div class="verdict-summary">
               <div class="status-indicator maybe" id="statusDot">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
               </div>
-              <div class="status-text" style="flex:1;min-width:0;display:flex;flex-direction:column;">
+              <div class="status-text">
                 <div class="verdict-headline">
                   <span class="verdict-tag" id="verdictTag">--</span>
                   <strong id="statusLabel" data-i18n="verdict.checking">Checking conditions&hellip;</strong>
                 </div>
                 <div class="verdict-desc-row">
                   <span id="statusDesc">Fetching live wind and wave data</span>
-                </div>
-                <div class="sport-strip" id="sportStrip" role="tablist" aria-label="Water sport verdicts">
-                  <!-- populated by renderMultiSportVerdict() -->
                 </div>
               </div>
             </div>
@@ -2859,6 +3029,24 @@
               <div class="card-detail" id="windDirDeg">--</div>
             </div>
           </div>
+
+          <div class="verdict-scroller-block">
+            <div class="scroller-hint">
+              <span>Activities</span>
+              <div class="scroller-tools">
+                <button type="button" class="scroll-arrow" data-scroll-target="sportStrip" data-scroll-dir="-1" aria-label="Scroll activities left">
+                  <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
+                </button>
+                <span class="scroll-cue">Swipe</span>
+                <button type="button" class="scroll-arrow" data-scroll-target="sportStrip" data-scroll-dir="1" aria-label="Scroll activities right">
+                  <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
+                </button>
+              </div>
+            </div>
+            <div class="sport-strip" id="sportStrip" role="tablist" aria-label="Water sport verdicts">
+              <!-- populated by renderMultiSportVerdict() -->
+            </div>
+          </div>
         </div>
 
         <!-- Pick a Beach (centered, below verdict) -->
@@ -2879,7 +3067,19 @@
             </svg>
             <span class="section-title-text" data-i18n="section.pick_beach">Pick a Beach</span>
           </div>
-          <div class="beach-filter" role="tablist" aria-label="Filter by beach">
+          <div class="scroller-hint">
+            <span>Beach picker</span>
+            <div class="scroller-tools">
+              <button type="button" class="scroll-arrow" data-scroll-target="beachFilter" data-scroll-dir="-1" aria-label="Scroll beaches left">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
+              </button>
+              <span class="scroll-cue">&lt; scrollable &gt;</span>
+              <button type="button" class="scroll-arrow" data-scroll-target="beachFilter" data-scroll-dir="1" aria-label="Scroll beaches right">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
+              </button>
+            </div>
+          </div>
+          <div class="beach-filter" id="beachFilter" role="tablist" aria-label="Filter by beach">
             <button class="beach-btn active" role="tab" aria-selected="true" data-filter="all" onclick="filterBeach('all', this)">Beit Yanai (default)</button>
             <button class="beach-btn" role="tab" aria-selected="false" data-filter="yanai" onclick="filterBeach('yanai', this)">Beit Yanai</button>
             <button class="beach-btn" role="tab" aria-selected="false" data-filter="herzliya" onclick="filterBeach('herzliya', this)">Hof Hatzuk</button>
@@ -2894,6 +3094,15 @@
           <div class="all-spots-label">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2"/><path d="M9.6 4.6A2 2 0 1 1 11 8H2"/></svg>
             <span>Live wind across all spots</span>
+            <div class="scroller-tools">
+              <button type="button" class="scroll-arrow" data-scroll-target="liveWindGrid" data-scroll-dir="-1" aria-label="Scroll live spots left">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
+              </button>
+              <span class="scroll-cue">Scroll</span>
+              <button type="button" class="scroll-arrow" data-scroll-target="liveWindGrid" data-scroll-dir="1" aria-label="Scroll live spots right">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
+              </button>
+            </div>
             <span class="all-spots-hint">tap a card to focus</span>
           </div>
           <div id="liveWindGrid" class="live-wind-grid all-spots-strip">
@@ -3537,6 +3746,41 @@
       btn.setAttribute('aria-expanded', isOpen);
     }
 
+    function syncScrollArrowState(scroller) {
+      if (!scroller || !scroller.id) return;
+      const prev = document.querySelector(`.scroll-arrow[data-scroll-target="${scroller.id}"][data-scroll-dir="-1"]`);
+      const next = document.querySelector(`.scroll-arrow[data-scroll-target="${scroller.id}"][data-scroll-dir="1"]`);
+      if (!prev || !next) return;
+      const maxScroll = Math.max(0, scroller.scrollWidth - scroller.clientWidth);
+      const current = Math.max(0, scroller.scrollLeft);
+      prev.disabled = current <= 4;
+      next.disabled = current >= maxScroll - 4;
+    }
+
+    function initScrollerControls() {
+      document.querySelectorAll('.scroll-arrow[data-scroll-target]').forEach(btn => {
+        if (btn.dataset.bound === 'true') return;
+        btn.dataset.bound = 'true';
+        btn.addEventListener('click', () => {
+          const target = document.getElementById(btn.dataset.scrollTarget);
+          if (!target) return;
+          const dir = Number(btn.dataset.scrollDir || '1');
+          const step = Math.max(180, Math.round(target.clientWidth * 0.78));
+          target.scrollBy({ left: dir * step, behavior: 'smooth' });
+        });
+      });
+
+      ['sportStrip', 'beachFilter', 'liveWindGrid'].forEach(id => {
+        const scroller = document.getElementById(id);
+        if (!scroller || scroller.dataset.scrollBound === 'true') return;
+        const update = () => syncScrollArrowState(scroller);
+        scroller.dataset.scrollBound = 'true';
+        scroller.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update);
+        requestAnimationFrame(update);
+      });
+    }
+
     // Close nav when clicking a link
     document.querySelectorAll('.nav-link').forEach(link => {
       link.addEventListener('click', () => {
@@ -3653,6 +3897,7 @@
     // ===== MULTI-SPORT VERDICT ENGINE =====
     const VERDICT = { GO: 'go', MAYBE: 'maybe', NOGO: 'nogo' };
     const SPORT_ORDER = ['kite', 'wing', 'windsurf', 'surf', 'sup', 'foil'];
+    const MONTH_LABELS = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
     let _lastConditions = null;
 
     function angleDelta(a, b) {
@@ -3907,6 +4152,7 @@
           if (_lastConditions) renderMultiSportVerdict(_lastConditions);
         });
       });
+      requestAnimationFrame(() => syncScrollArrowState(strip));
     }
 
     function renderMultiSportVerdict(conditions) {
@@ -4218,6 +4464,7 @@
       grid.querySelectorAll('.lw-card').forEach(el => {
         el.classList.toggle('lw-best', el.dataset.spot === bestId && bestScore > 0);
       });
+      syncScrollArrowState(grid);
     }
 
     // ===== AUTO-REFRESH IMAGES (every 30s) =====
@@ -4942,6 +5189,7 @@
     // ===== INIT =====
     fetchConditions();
     fetchLiveWindGrid();
+    initScrollerControls();
     // The Lineup — deferred so it never blocks the verdict hero first paint
     if ('requestIdleCallback' in window) {
       requestIdleCallback(() => window.initLineup && window.initLineup(), { timeout: 1500 });
