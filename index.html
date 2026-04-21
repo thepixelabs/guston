@@ -1481,6 +1481,61 @@
 
 .cam-pending { aspect-ratio: 16/9; background: linear-gradient(135deg, rgba(var(--accent-rgb),.04), rgba(var(--accent-2-rgb),.04)); border: 1px dashed var(--border); position: relative; }
 
+    .cam-view-toggle { display: flex; gap: 8px; }
+    .cam-toggle-btn {
+      padding: 8px 18px; border-radius: 20px; border: 1px solid rgba(var(--accent-rgb),0.3);
+      background: transparent; color: rgba(255,255,255,0.65); font-size: 13px; font-weight: 600;
+      cursor: pointer; transition: background 0.2s, color 0.2s, border-color 0.2s;
+    }
+    .cam-toggle-btn:hover { background: rgba(var(--accent-rgb),0.1); color: #fff; }
+    .cam-toggle-btn.cam-toggle-active {
+      background: rgba(var(--accent-rgb),0.2); color: #fff;
+      border-color: rgba(var(--accent-rgb),0.7);
+    }
+
+    .beach-cam-viewer {
+      display: flex; flex-direction: column; gap: 10px;
+      border-radius: 16px; overflow: hidden;
+      background: rgba(10, 14, 26, 0.6);
+      border: 1px solid rgba(var(--accent-rgb), 0.18);
+      padding: 12px;
+    }
+    .cam-viewer-header {
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      padding: 0 4px;
+    }
+    .cam-select {
+      flex: 1; min-width: 0;
+      background: rgba(20, 26, 42, 0.95);
+      color: #fff;
+      border: 1px solid rgba(var(--accent-rgb), 0.35);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-size: 14px; font-weight: 600;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'><path d='M1 1l5 5 5-5' stroke='%23fff' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      padding-right: 36px;
+    }
+    .cam-select:focus-visible { outline: 2px solid rgba(var(--accent-rgb), 0.6); outline-offset: 2px; }
+    .cam-viewer-frame {
+      position: relative; width: 100%; aspect-ratio: 16 / 9;
+      background: #000; border-radius: 12px; overflow: hidden;
+    }
+    .cam-viewer-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
+    .cam-viewer-meta {
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+      padding: 4px 6px 2px; font-size: 13px; color: rgba(255,255,255,0.75);
+    }
+    .cam-viewer-meta .cam-src { opacity: 0.65; }
+    .cam-popout {
+      margin-inline-start: auto;
+      color: rgba(var(--accent-rgb), 1); text-decoration: none; font-weight: 600;
+    }
+    .cam-popout:hover { text-decoration: underline; }
+
     .beach-cam-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -1950,55 +2005,93 @@
       .header-lastupdate.is-refreshing { animation: none; }
     }
 
-    /* Mobile */
-    @media (max-width: 960px) {
-      .verdict-compass { width: 100px; height: 100px; }
-      .verdict-middle > * { max-width: 130px; min-width: 100px; }
-    }
-
-    @media (max-width: 900px) {
+    /* Mobile (stacked layout for better legibility) — only below 641px */
+    @media (max-width: 640px) {
       .verdict-hero {
-        display: grid;
-        grid-template-columns: minmax(0, 1fr) 104px;
-        grid-template-areas:
-          "summary compass"
-          "callouts compass"
-          "activities activities";
-        align-items: start;
-        gap: 14px;
-        padding: 18px 18px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px 18px;
+        align-items: stretch;
       }
-      .verdict-left { grid-area: summary; }
-      .verdict-divider { display: none; }
+      .verdict-left {
+        width: 100%;
+      }
       .verdict-middle {
-        grid-area: callouts;
-        align-self: start;
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 8px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: flex-start;
       }
       .verdict-middle > * {
-        min-width: 0;
+        flex: 1 1 140px;
+        min-width: 120px;
         max-width: none;
       }
+      .verdict-divider { display: none; }
       .verdict-right {
-        grid-area: compass;
-        align-items: flex-end;
-        justify-content: flex-start;
-        gap: 8px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        background: rgba(255,255,255,0.03);
+        padding: 12px 16px;
+        border-radius: var(--radius-sm);
+        border: 1px solid var(--border);
+        width: 100%;
       }
-      .verdict-scroller-block { grid-area: activities; }
-      .compass-readout { text-align: right; }
-      .verdict-compass { width: 96px; height: 96px; }
+      .verdict-compass {
+        width: 64px; height: 64px;
+        flex-shrink: 0;
+      }
+      .compass-readout {
+        text-align: right;
+      }
+      .verdict-scroller-block {
+        width: 100%;
+        margin-top: 4px;
+      }
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 420px) {
       .verdict-hero {
-        grid-template-columns: minmax(0, 1fr) 88px;
-        gap: 12px;
+        gap: 16px;
+        padding: 16px 14px;
       }
-      .verdict-compass { width: 84px; height: 84px; }
+      .verdict-middle > * {
+        flex: 1 1 100%;
+      }
+      .verdict-right {
+        padding: 10px 14px;
+      }
+      .verdict-compass {
+        width: 56px; height: 56px;
+      }
       .verdict-middle { gap: 6px; }
+    }
+
+    /* Tablet landscape — keep row layout but compress callouts and compass */
+    @media (min-width: 641px) and (max-width: 900px) {
+      .verdict-hero {
+        gap: 12px;
+        padding: 18px 16px;
+        flex-wrap: nowrap;
+      }
+      .verdict-middle {
+        gap: 6px;
+      }
+      .verdict-middle > * {
+        min-width: 88px;
+        max-width: 120px;
+      }
+      .verdict-compass {
+        width: 88px; height: 88px;
+      }
+      .verdict-scroller-block {
+        min-width: 0;
+        flex: 1 1 0;
+      }
     }
 
     @keyframes pulse {
@@ -2020,7 +2113,6 @@
       .nav { gap: 2px; }
       .nav-link { padding: 5px 10px; font-size: .80rem; }
       .hero-grid { grid-template-columns: repeat(4, 1fr); gap: 10px; }
-      .verdict-hero { flex-wrap: wrap; }
       .beach-cam-grid { grid-template-columns: repeat(2, 1fr); }
       .sdotyam-grid { grid-template-columns: repeat(2, 1fr); }
       .sdotyam-main { grid-column: span 2; }
@@ -2257,7 +2349,7 @@
       .sport-chip { transition: none; }
       .sport-chip:hover { transform: none; }
     }
-    @media (max-width: 640px) {
+    @media (max-width: 900px) {
       .sport-strip {
         display: grid;
         grid-auto-flow: column;
@@ -2423,6 +2515,12 @@
       background: var(--panel-hover);
       border-color: rgba(var(--accent-rgb), 0.6);
       animation: lineup-month-pulse 2.4s ease-in-out infinite;
+    }
+    /* Suppress current-month highlight when a different month is actively selected */
+    .lineup-calendar:has(.lineup-month[aria-pressed="true"]) .lineup-month.is-current:not([aria-pressed="true"]) {
+      animation: none;
+      background: transparent;
+      border-color: transparent;
     }
     .lineup-month.is-empty { opacity: 0.45; cursor: default; }
     .lineup-month.is-empty:hover { background: transparent; border-color: transparent; }
@@ -3037,7 +3135,7 @@
                 <button type="button" class="scroll-arrow" data-scroll-target="sportStrip" data-scroll-dir="-1" aria-label="Scroll activities left">
                   <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
                 </button>
-                <span class="scroll-cue">Swipe</span>
+                <span class="scroll-cue">&lt; swipe &gt;</span>
                 <button type="button" class="scroll-arrow" data-scroll-target="sportStrip" data-scroll-dir="1" aria-label="Scroll activities right">
                   <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
                 </button>
@@ -3073,7 +3171,7 @@
               <button type="button" class="scroll-arrow" data-scroll-target="beachFilter" data-scroll-dir="-1" aria-label="Scroll beaches left">
                 <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
               </button>
-              <span class="scroll-cue">&lt; scrollable &gt;</span>
+              <span class="scroll-cue">&lt; swipe &gt;</span>
               <button type="button" class="scroll-arrow" data-scroll-target="beachFilter" data-scroll-dir="1" aria-label="Scroll beaches right">
                 <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
               </button>
@@ -3098,7 +3196,7 @@
               <button type="button" class="scroll-arrow" data-scroll-target="liveWindGrid" data-scroll-dir="-1" aria-label="Scroll live spots left">
                 <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 L7 10 L12.5 15.5"/></svg>
               </button>
-              <span class="scroll-cue">Scroll</span>
+              <span class="scroll-cue">&lt; swipe &gt;</span>
               <button type="button" class="scroll-arrow" data-scroll-target="liveWindGrid" data-scroll-dir="1" aria-label="Scroll live spots right">
                 <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.5 4.5 L13 10 L7.5 15.5"/></svg>
               </button>
@@ -3348,64 +3446,89 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12 Q6 5 12 5 Q18 5 22 12 Q18 19 12 19 Q6 19 2 12Z"/><circle cx="12" cy="12" r="3.5"/><path d="M12 9.5 L13.2 7.8" stroke-width="1" opacity="0.6"/><path d="M14.5 12 L16.2 11.2" stroke-width="1" opacity="0.6"/></svg>
           <span class="section-title-text" data-i18n="section.beach_cameras">Beach Cameras</span>
         </div>
-        <p class="section-subtitle" data-i18n-html="section.beach_cameras_subtitle">9 live beach cams across the Israeli coast &middot; HTTPS snapshots, auto-refresh every 30s</p>
+        <p class="section-subtitle" data-i18n-html="section.beach_cameras_subtitle">Snapshots refresh every 10 seconds &middot; use Focus view for the live player</p>
 
-        <div class="beach-cam-grid" style="margin-bottom:20px;">
+        <div class="cam-view-toggle" style="margin-bottom:14px;">
+          <button id="cam-btn-grid"  class="cam-toggle-btn cam-toggle-active" type="button">All cameras</button>
+          <button id="cam-btn-focus" class="cam-toggle-btn" type="button">Focus view</button>
+          <span id="cam-refresh-label" style="margin-inline-start:10px;font-size:12px;color:rgba(255,255,255,0.45);align-self:center;">&#8635; snapshots, refresh every 10s</span>
+        </div>
+
+        <!-- GRID VIEW (default) -->
+        <div id="cam-grid-view" class="beach-cam-grid" style="margin-bottom:20px;">
 
           <div class="beach-cam cam-wide reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Sea Scouts (Zvulun)</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s122.ipcamlive.com/streams/7aszqtpvkisxaf6ph/snapshot.jpg" src="https://s122.ipcamlive.com/streams/7aszqtpvkisxaf6ph/snapshot.jpg" alt="Herzliya Sea Scouts beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Sea Scouts (Zvulun)</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=634548590c353" src="https://ipcamlive.com/player/snapshot.php?alias=634548590c353" alt="Herzliya Sea Scouts live cam">
             <div class="cam-meta"><div><div class="cam-spot">Herzliya</div><div class="cam-name">Sea Scouts / Zvulun</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Marina</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s122.ipcamlive.com/streams/7ay6wgodz7lvrxme9/snapshot.jpg" src="https://s122.ipcamlive.com/streams/7ay6wgodz7lvrxme9/snapshot.jpg" alt="Herzliya Marina live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Marina</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=63454a0f442fc" src="https://ipcamlive.com/player/snapshot.php?alias=63454a0f442fc" alt="Herzliya Marina live cam">
             <div class="cam-meta"><div><div class="cam-spot">Herzliya</div><div class="cam-name">Marina</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Dromi</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s10.ipcamlive.com/streams/0ajypgvh8xq1ln5oi/snapshot.jpg" src="https://s10.ipcamlive.com/streams/0ajypgvh8xq1ln5oi/snapshot.jpg" alt="Herzliya Dromi beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Herzliya &middot; Dromi</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=6994cb060b270" src="https://ipcamlive.com/player/snapshot.php?alias=6994cb060b270" alt="Herzliya Dromi live cam">
             <div class="cam-meta"><div><div class="cam-spot">Herzliya</div><div class="cam-name">Dromi Beach</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Tel Aviv &middot; Dolfinarium</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s10.ipcamlive.com/streams/0adsngq5ldx92peo4/snapshot.jpg" src="https://s10.ipcamlive.com/streams/0adsngq5ldx92peo4/snapshot.jpg" alt="Tel Aviv Dolfinarium / Aviv beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Tel Aviv &middot; Dolfinarium</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=5f6364b5551d7" src="https://ipcamlive.com/player/snapshot.php?alias=5f6364b5551d7" alt="Tel Aviv Dolfinarium live cam">
             <div class="cam-meta"><div><div class="cam-spot">Tel Aviv</div><div class="cam-name">Aviv / Dolfinarium</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Tel Aviv &middot; Hilton (Yamit)</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s122.ipcamlive.com/streams/7agmlrostdiykwuqn/snapshot.jpg" src="https://s122.ipcamlive.com/streams/7agmlrostdiykwuqn/snapshot.jpg" alt="Tel Aviv Hilton / Yamit beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Tel Aviv &middot; Hilton (Yamit)</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=63454584c4c3c" src="https://ipcamlive.com/player/snapshot.php?alias=63454584c4c3c" alt="Tel Aviv Hilton live cam">
             <div class="cam-meta"><div><div class="cam-spot">Tel Aviv</div><div class="cam-name">Hilton / Yamit</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Jaffa &middot; Coast</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s5.ipcamlive.com/streams/054mjdxuheaswtlrq/snapshot.jpg" src="https://s5.ipcamlive.com/streams/054mjdxuheaswtlrq/snapshot.jpg" alt="Jaffa coast live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Jaffa &middot; Coast</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=664cd75b7639c" src="https://ipcamlive.com/player/snapshot.php?alias=664cd75b7639c" alt="Jaffa coast live cam">
             <div class="cam-meta"><div><div class="cam-spot">Tel Aviv</div><div class="cam-name">Jaffa / Yafo</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Haifa &middot; Meridian</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s44.ipcamlive.com/streams/2cdryyankghhk4su1/snapshot.jpg" src="https://s44.ipcamlive.com/streams/2cdryyankghhk4su1/snapshot.jpg" alt="Haifa Meridian beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Haifa &middot; Meridian</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=5ffd9eb29b665" src="https://ipcamlive.com/player/snapshot.php?alias=5ffd9eb29b665" alt="Haifa Meridian live cam">
             <div class="cam-meta"><div><div class="cam-spot">Haifa</div><div class="cam-name">Meridian Beach</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
           <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Haifa &middot; Bat Galim</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://s75.ipcamlive.com/streams/4baednj9zkwcfuvsd/snapshot.jpg" src="https://s75.ipcamlive.com/streams/4baednj9zkwcfuvsd/snapshot.jpg" alt="Haifa Bat Galim beach live cam" loading="lazy">
+            <div class="cam-top-row"><span class="cam-bar">Haifa &middot; Bat Galim</span></div>
+            <img class="cam-refresh" data-src="https://ipcamlive.com/player/snapshot.php?alias=60997a5d22ca9" src="https://ipcamlive.com/player/snapshot.php?alias=60997a5d22ca9" alt="Haifa Bat Galim live cam">
             <div class="cam-meta"><div><div class="cam-spot">Haifa</div><div class="cam-name">Bat Galim</div><div class="cam-src">ipcamlive &middot; via beachcam.co.il</div></div></div>
           </div>
 
-          <div class="beach-cam reveal visible">
-            <div class="cam-top-row"><span class="cam-bar">Sdot Yam &middot; Live Broadcast</span><span class="cam-live-pill">Live</span></div>
-            <img class="cam-refresh" data-src="https://lab.wind.co.il/weather/broadcast.jpg" src="https://lab.wind.co.il/weather/broadcast.jpg" alt="Sdot Yam live broadcast composite" loading="lazy" style="object-fit:contain;background:#0a0e1a;">
-            <div class="cam-meta"><div><div class="cam-spot">Sdot Yam</div><div class="cam-name">wind.co.il composite</div><div class="cam-src">lab.wind.co.il</div></div></div>
-          </div>
+        </div>
 
+        <!-- FOCUS VIEW (hidden by default) -->
+        <div id="cam-focus-view" class="beach-cam-viewer" style="display:none;margin-bottom:20px;">
+          <div class="cam-viewer-header">
+            <select id="cam-select" class="cam-select" aria-label="Select a beach camera">
+              <option value="634548590c353" data-spot="Herzliya" data-name="Sea Scouts / Zvulun">Herzliya &middot; Sea Scouts (Zvulun)</option>
+              <option value="63454a0f442fc" data-spot="Herzliya" data-name="Marina">Herzliya &middot; Marina</option>
+              <option value="6994cb060b270" data-spot="Herzliya" data-name="Dromi Beach">Herzliya &middot; Dromi</option>
+              <option value="5f6364b5551d7" data-spot="Tel Aviv" data-name="Aviv / Dolfinarium">Tel Aviv &middot; Dolfinarium</option>
+              <option value="63454584c4c3c" data-spot="Tel Aviv" data-name="Hilton / Yamit">Tel Aviv &middot; Hilton (Yamit)</option>
+              <option value="664cd75b7639c" data-spot="Tel Aviv" data-name="Jaffa / Yafo">Jaffa &middot; Coast</option>
+              <option value="5ffd9eb29b665" data-spot="Haifa" data-name="Meridian Beach">Haifa &middot; Meridian</option>
+              <option value="60997a5d22ca9" data-spot="Haifa" data-name="Bat Galim">Haifa &middot; Bat Galim</option>
+            </select>
+            <span class="cam-live-pill">Live</span>
+          </div>
+          <div style="position:relative;width:100%;max-width:560px;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden;">
+            <iframe id="cam-focus-iframe" title="Live beach camera" allow="autoplay; fullscreen" allowfullscreen frameborder="0" style="width:100%;height:100%;border:0;display:block;"></iframe>
+          </div>
+          <div class="cam-viewer-meta">
+            <span id="cam-viewer-spot">Herzliya</span> &middot; <span id="cam-viewer-name">Sea Scouts / Zvulun</span> &middot; <span class="cam-src">ipcamlive &middot; via beachcam.co.il</span>
+            <a id="cam-viewer-popout" href="https://ipcamlive.com/player/player.php?alias=634548590c353" target="_blank" rel="noopener" style="margin-inline-start:auto;padding:6px 14px;border-radius:16px;border:1px solid rgba(255,255,255,0.25);color:#fff;text-decoration:none;font-size:12px;font-weight:600;white-space:nowrap;">&#10138; Open in new tab</a>
+          </div>
         </div>
       </div>
     </section>
@@ -3484,12 +3607,12 @@
           </div>
 
           <div data-beach="tlv" class="visible" style="margin-bottom:16px;">
-            <div style="font-size:0.82rem;font-weight:600;color:var(--muted);margin-bottom:8px;">Hof Hilton (Tel Aviv) -- WRF 96h</div>
+            <div style="font-size:0.82rem;font-weight:600;color:var(--muted);margin-bottom:8px;">Hof Hilton (Tel Aviv) -- GFS 96h</div>
             <div class="widget-frame" style="padding:12px;overflow-x:auto;">
-              <script id="wg_fwdg_307083_23_1759000000002">
+              <script id="wg_fwdg_1084913_3_1759000000002">
                 (function (window, document) {
                   var loader = function () {
-                    var arg = ["s=307083","m=23","uid=wg_fwdg_307083_23_1759000000002","wj=knots","tj=c","odh=6","doh=21","fhours=96","vt=forecasts","lng=en",
+                    var arg = ["s=1084913","m=3","uid=wg_fwdg_1084913_3_1759000000002","wj=knots","tj=c","odh=6","doh=21","fhours=96","vt=forecasts","lng=en",
                    "p=WINDSPD,GUST,MWINDSPD,SMER,TMP,CDC,APCP1s,RATING"];
                     var script = document.createElement("script");
                     var tag = document.getElementsByTagName("script")[0];
@@ -3503,12 +3626,12 @@
           </div>
 
           <div data-beach="batyam" class="visible" style="margin-bottom:16px;">
-            <div style="font-size:0.82rem;font-weight:600;color:var(--muted);margin-bottom:8px;">Tayo Beach -- Bat Yam -- WRF 96h</div>
+            <div style="font-size:0.82rem;font-weight:600;color:var(--muted);margin-bottom:8px;">Tayo Beach -- Bat Yam -- GFS 96h</div>
             <div class="widget-frame" style="padding:12px;overflow-x:auto;">
-              <script id="wg_fwdg_952215_23_1759000000003">
+              <script id="wg_fwdg_769_3_1759000000003">
                 (function (window, document) {
                   var loader = function () {
-                    var arg = ["s=952215","m=23","uid=wg_fwdg_952215_23_1759000000003","wj=knots","tj=c","odh=6","doh=21","fhours=96","vt=forecasts","lng=en",
+                    var arg = ["s=769","m=3","uid=wg_fwdg_769_3_1759000000003","wj=knots","tj=c","odh=6","doh=21","fhours=96","vt=forecasts","lng=en",
                    "p=WINDSPD,GUST,MWINDSPD,SMER,TMP,CDC,APCP1s,RATING"];
                     var script = document.createElement("script");
                     var tag = document.getElementsByTagName("script")[0];
@@ -4467,14 +4590,16 @@
       syncScrollArrowState(grid);
     }
 
-    // ===== AUTO-REFRESH IMAGES (every 30s) =====
-    function refreshImages() {
+    // ===== AUTO-REFRESH IMAGES =====
+    function refreshBySelector(selector) {
       const timestamp = Date.now();
-      document.querySelectorAll('.refresh-img, .cam-refresh').forEach(img => {
+      document.querySelectorAll(selector).forEach(img => {
         const base = img.dataset.src || img.getAttribute('src').split('?')[0];
         img.setAttribute('src', base + (base.includes('?') ? '&' : '?') + 't=' + timestamp);
       });
     }
+    function refreshImages() { refreshBySelector('.refresh-img'); }
+    function refreshCams()   { refreshBySelector('.cam-refresh'); }
 
     // Auto-tag frequently-animated containers BEFORE reveal observer runs
     document.querySelectorAll('.hero-grid .card, .lw-card, .radar-card, .widget-frame').forEach(el => {
@@ -4512,18 +4637,53 @@
       });
     });
 
-    // ===== BEACH CAM CLICK HANDLER =====
-    document.querySelectorAll('.beach-cam').forEach(card => {
-      const img = card.querySelector('img.cam-refresh');
-      if (!img) return;
-      const url = img.dataset.src || img.getAttribute('src').split('?')[0];
-      const open = () => window.open(url, '_blank', 'noopener');
-      card.setAttribute('role', 'link');
-      card.setAttribute('tabindex', '0');
-      card.addEventListener('click', open);
-      card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
-      card.style.cursor = 'pointer';
-    });
+    // ===== BEACH CAM VIEW TOGGLE + FOCUS PLAYER =====
+    (() => {
+      const btnGrid  = document.getElementById('cam-btn-grid');
+      const btnFocus = document.getElementById('cam-btn-focus');
+      const gridView  = document.getElementById('cam-grid-view');
+      const focusView = document.getElementById('cam-focus-view');
+      const select = document.getElementById('cam-select');
+      const focusIframe = document.getElementById('cam-focus-iframe');
+      const popout = document.getElementById('cam-viewer-popout');
+      const spotEl = document.getElementById('cam-viewer-spot');
+      const nameEl = document.getElementById('cam-viewer-name');
+
+      function loadFocusCam(alias, spot, name) {
+        if (focusIframe) focusIframe.src = `https://ipcamlive.com/player/player.php?alias=${alias}&autoplay=1&mute=1`;
+        if (popout) popout.href = `https://ipcamlive.com/player/player.php?alias=${alias}`;
+        if (spotEl) spotEl.textContent = spot || '';
+        if (nameEl) nameEl.textContent = name || '';
+      }
+
+      if (btnGrid && btnFocus) {
+        btnGrid.addEventListener('click', () => {
+          gridView.style.display = '';
+          focusView.style.display = 'none';
+          btnGrid.classList.add('cam-toggle-active');
+          btnFocus.classList.remove('cam-toggle-active');
+        });
+        let focusLoaded = false;
+        btnFocus.addEventListener('click', () => {
+          gridView.style.display = 'none';
+          focusView.style.display = '';
+          btnFocus.classList.add('cam-toggle-active');
+          btnGrid.classList.remove('cam-toggle-active');
+          if (!focusLoaded && select && focusIframe) {
+            const opt = select.options[select.selectedIndex];
+            loadFocusCam(opt.value, opt.dataset.spot, opt.dataset.name);
+            focusLoaded = true;
+          }
+        });
+      }
+
+      if (select) {
+        select.addEventListener('change', () => {
+          const opt = select.options[select.selectedIndex];
+          loadFocusCam(opt.value, opt.dataset.spot, opt.dataset.name);
+        });
+      }
+    })();
 
     // ===== PIXELABS I18N INIT =====
     document.addEventListener('DOMContentLoaded', () => {
@@ -4670,6 +4830,14 @@
     })();
 
     /* =====================================================================
+       THE LINEUP — inline data fallback (used when fetch is blocked, e.g. file://)
+       ===================================================================== */
+    window.__LINEUP_DATA__ = {
+      'data/news.json': {"generated_at":"2026-04-09T03:30:00Z","sources":[{"id":"manual","ok":true,"item_count":2}],"items":[{"id":"item-2","source":"IKSurfMag","title":"IKSurfMag — The 2026 Kiteboarding Gear Guide is out","snippet":"Check out the latest kites, boards and accessories for the 2026 season. We review the top 10 big-air kites on the market.","url":"https://www.iksurfmag.com/","date":"2026-04-09T03:00:00Z","tags":["kite"]},{"id":"item-1","source":"Guston","title":"Wave 2 Pass A — The Lineup is live","snippet":"The new News and Events section is now operational. Real headlines will be pulled from IKSurfMag, Windsurf Magazine and GKA shortly.","url":"https://github.com/netz/guston","date":"2026-04-09T03:30:00Z","tags":["kite","wind","surf"]}]},
+      'data/events.json': {"generated_at":"2026-04-21T00:00:00Z","sources":[{"id":"manual","ok":true,"event_count":6}],"items":[{"id":"wsl-bells-2026","name":"Rip Curl Pro Bells Beach","tour":"WSL","discipline":"ct","sport":"surf","start_date":"2026-04-18","end_date":"2026-04-28","location":"Bells Beach","country":"AU","url":"https://www.worldsurfleague.com/","status":"live","tbc":false},{"id":"gka-tarifa-2026","name":"GKA Kite World Tour — Tarifa","tour":"GKA","discipline":"kite-surf","sport":"kite","start_date":"2026-05-12","end_date":"2026-05-17","location":"Tarifa","country":"ES","url":"https://www.gkakiteworldtour.com/events/","status":"upcoming","tbc":false},{"id":"pwa-fuerteventura-2026","name":"PWA Windsurfing World Cup — Fuerteventura","tour":"PWA","discipline":"slalom-freestyle","sport":"wind","start_date":"2026-07-20","end_date":"2026-07-26","location":"Playa Sotavento","country":"ES","url":"https://www.pwaworldtour.com/","status":"upcoming","tbc":false},{"id":"gwa-dakhla-2026","name":"GWA Wingfoil World Tour — Dakhla","tour":"GWA","discipline":"wing-freestyle","sport":"wing","start_date":"2026-06-08","end_date":"2026-06-14","location":"Dakhla","country":"MA","url":"https://www.gwawingtour.com/","status":"upcoming","tbc":false},{"id":"rb-megaloop-2026","name":"Red Bull Megaloop Challenge","tour":"RedBull","discipline":"big-air","sport":"kite","start_date":"2026-10-01","end_date":"2026-11-30","location":"Zandvoort","country":"NL","url":"https://www.redbull.com/int-en/event-series/red-bull-megaloop-challenge","status":"upcoming","tbc":true},{"id":"kota-2027","name":"Red Bull King of the Air","tour":"RedBull","discipline":"big-air","sport":"kite","start_date":"2027-02-01","end_date":"2027-02-14","location":"Cape Town","country":"ZA","url":"https://www.redbull.com/int-en/event-series/red-bull-king-of-the-air","status":"upcoming","tbc":true}]}
+    };
+
+    /* =====================================================================
        THE LINEUP — news + events + 12-month calendar
        ===================================================================== */
     (function () {
@@ -4686,6 +4854,10 @@
       const EVENTS_INITIAL = 7;
 
       const MONTH_KEYS = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'];
+
+      // i18n helper — delegates to the PixelabsI18n engine; falls back to the
+      // raw key so the UI is never blank if the engine hasn't initialised yet.
+      const t = (key, params) => window.PixelabsI18n ? window.PixelabsI18n.t(key, params) : key;
 
       const SPORT_CLASS = {
         kite: 'dot-kite', wind: 'dot-wind', wing: 'dot-wing',
@@ -4724,15 +4896,17 @@
 
       async function fetchJSON(url) {
         const ctrl = new AbortController();
-        const t = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
+        const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
         try {
           const res = await fetch(url, { signal: ctrl.signal, cache: 'no-cache' });
           if (!res.ok) throw new Error('HTTP ' + res.status);
           return await res.json();
-        } catch (err) {
-          return { __error: err && err.message ? err.message : 'fetch failed' };
+        } catch (_) {
+          // Fall back to inline data (works when served from file://)
+          if (window.__LINEUP_DATA__ && window.__LINEUP_DATA__[url]) return window.__LINEUP_DATA__[url];
+          return { __error: 'offline' };
         } finally {
-          clearTimeout(t);
+          clearTimeout(timer);
         }
       }
 
@@ -5106,16 +5280,18 @@
           scope.querySelectorAll('.lineup-news-card, .lineup-event').forEach(el => el.classList.add('is-visible'));
           return;
         }
-        if (_revealObs) _revealObs.disconnect();
-        _revealObs = new IntersectionObserver((entries) => {
-          entries.forEach((entry, i) => {
-            if (entry.isIntersecting) {
-              const idx = parseInt(entry.target.dataset.idx || '0', 10) || i;
-              setTimeout(() => entry.target.classList.add('is-visible'), Math.min(idx, 8) * 60);
-              _revealObs.unobserve(entry.target);
-            }
-          });
-        }, { rootMargin: '0px 0px -40px 0px', threshold: 0.08 });
+        // Create once — never disconnect. Subsequent calls just add more elements.
+        if (!_revealObs) {
+          _revealObs = new IntersectionObserver((entries) => {
+            entries.forEach((entry, i) => {
+              if (entry.isIntersecting) {
+                const idx = parseInt(entry.target.dataset.idx || '0', 10) || i;
+                setTimeout(() => entry.target.classList.add('is-visible'), Math.min(idx, 8) * 60);
+                _revealObs.unobserve(entry.target);
+              }
+            });
+          }, { rootMargin: '0px 0px -40px 0px', threshold: 0.08 });
+        }
         scope.querySelectorAll('.lineup-news-card, .lineup-event').forEach(el => _revealObs.observe(el));
       }
 
@@ -5198,8 +5374,11 @@
     }
     // Refresh conditions every 5 minutes
     setInterval(() => { fetchConditions(); fetchLiveWindGrid(); }, 5 * 60 * 1000);
-    // Refresh camera/weather images every 30 seconds
+    // Weather/radar images refresh every 30s; camera snapshots refresh every 10s
+    refreshImages();
+    refreshCams();
     setInterval(refreshImages, 30 * 1000);
+    setInterval(refreshCams, 10 * 1000);
   </script>
 </body>
 </html>
