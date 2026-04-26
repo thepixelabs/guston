@@ -49,6 +49,11 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.tagline':           'Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.',
     'footer.copyright':         '© 2020–2026 GUSTON',
     'footer.privacy':           'Privacy',
+    'footer.cookie_settings':   'Cookie Settings',
+    'consent.text':             'This site uses Google Analytics to count visits anonymously. No ads, no cross-site tracking. Nothing activates until you accept.',
+    'consent.learn_more':       'Learn more',
+    'consent.accept':           'Accept',
+    'consent.decline':          'Decline',
 
     // ---- Card labels ---------------------------------------------------
     'card.wind_speed':          'Wind Speed',
@@ -251,7 +256,12 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.data_sources':       'Data: Open-Meteo, Windy',
     'footer.tagline':            'Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.',
     'footer.github_aria':        'View source on GitHub',
-    'footer.privacy':            'Privacy'
+    'footer.privacy':            'Privacy',
+    'footer.cookie_settings':    'Cookie Settings',
+    'consent.text':              'This site uses Google Analytics to count visits anonymously. No ads, no cross-site tracking. Nothing activates until you accept.',
+    'consent.learn_more':        'Learn more',
+    'consent.accept':            'Accept',
+    'consent.decline':           'Decline'
   },
 
   // ====================================================================
@@ -463,7 +473,12 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.data_sources':       'נתונים: Open-Meteo, Windy',
     'footer.tagline':            'נתונים פתוחים. חופי ישראל. נבנה על ידי קייטסרפר, עבור קייטסרפרים.',
     'footer.github_aria':        'צפה בקוד המקור ב-GitHub',
-    'footer.privacy':            'פרטיות'
+    'footer.privacy':            'פרטיות',
+    'footer.cookie_settings':    'הגדרות עוגיות',
+    'consent.text':              'אתר זה משתמש ב-Google Analytics לספירת ביקורים באופן אנונימי. ללא פרסומות, ללא מעקב חוצה אתרים. שום דבר לא מופעל עד שתאשר.',
+    'consent.learn_more':        'מידע נוסף',
+    'consent.accept':            'אישור',
+    'consent.decline':           'דחייה'
   },
 
   // ====================================================================
@@ -675,6 +690,11 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.data_sources':       'Datos: Open-Meteo, Windy',
     'footer.tagline':            'Datos abiertos. Costa israelí. Construido por un kitesurfista, para kitesurfistas.',
     'footer.github_aria':        'Ver código fuente en GitHub',
-    'footer.privacy':            'Privacidad'
+    'footer.privacy':            'Privacidad',
+    'footer.cookie_settings':    'Cookies',
+    'consent.text':              'Este sitio usa Google Analytics para contar visitas de forma anónima. Sin anuncios, sin seguimiento entre sitios. Nada se activa hasta que aceptes.',
+    'consent.learn_more':        'Más información',
+    'consent.accept':            'Aceptar',
+    'consent.decline':           'Rechazar'
   }
 };
