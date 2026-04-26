@@ -48,6 +48,7 @@ window.PIXELABS_I18N_STRINGS = {
     // ---- Footer --------------------------------------------------------
     'footer.tagline':           'Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.',
     'footer.copyright':         '© 2020–2026 GUSTON',
+    'footer.privacy':           'Privacy',
 
     // ---- Card labels ---------------------------------------------------
     'card.wind_speed':          'Wind Speed',
@@ -249,7 +250,8 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.updated':            'Updated {when}',
     'footer.data_sources':       'Data: Open-Meteo, Windy',
     'footer.tagline':            'Open data. Israeli coast. Built by a kitesurfer, for kitesurfers.',
-    'footer.github_aria':        'View source on GitHub'
+    'footer.github_aria':        'View source on GitHub',
+    'footer.privacy':            'Privacy'
   },
 
   // ====================================================================
@@ -460,7 +462,8 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.updated':            'עודכן {when}',
     'footer.data_sources':       'נתונים: Open-Meteo, Windy',
     'footer.tagline':            'נתונים פתוחים. חופי ישראל. נבנה על ידי קייטסרפר, עבור קייטסרפרים.',
-    'footer.github_aria':        'צפה בקוד המקור ב-GitHub'
+    'footer.github_aria':        'צפה בקוד המקור ב-GitHub',
+    'footer.privacy':            'פרטיות'
   },
 
   // ====================================================================
@@ -671,6 +674,7 @@ window.PIXELABS_I18N_STRINGS = {
     'footer.updated':            'Actualizado {when}',
     'footer.data_sources':       'Datos: Open-Meteo, Windy',
     'footer.tagline':            'Datos abiertos. Costa israelí. Construido por un kitesurfista, para kitesurfistas.',
-    'footer.github_aria':        'Ver código fuente en GitHub'
+    'footer.github_aria':        'Ver código fuente en GitHub',
+    'footer.privacy':            'Privacidad'
   }
 };
