@@ -9,6 +9,8 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 
+  <script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);})();</script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -25,7 +27,7 @@
 
   <style>
     :root {
-      color-scheme: dark;
+      color-scheme: light dark;
       --bg: #070a14;
       --bg2: #0a1026;
       --panel: rgba(255,255,255,0.05);
@@ -36,6 +38,34 @@
       --accent: #71e0ff;
       --accent2: #a78bfa;
       --radius: 16px;
+    }
+
+    /* Light tokens — applied when system prefers light AND no explicit dark override */
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) {
+        --bg: #e8eef7;
+        --bg2: #dde8f5;
+        --panel: rgba(10,21,48,0.04);
+        --border: rgba(10,21,48,0.12);
+        --text: rgba(10,21,48,0.92);
+        --muted: rgba(10,21,48,0.62);
+        --subtle: rgba(10,21,48,0.42);
+        --accent: #0b6fa3;
+        --accent2: #6d3fd1;
+      }
+    }
+
+    /* Explicit light override (matches localStorage 'theme' = 'light' on main site) */
+    :root[data-theme="light"] {
+      --bg: #e8eef7;
+      --bg2: #dde8f5;
+      --panel: rgba(10,21,48,0.04);
+      --border: rgba(10,21,48,0.12);
+      --text: rgba(10,21,48,0.92);
+      --muted: rgba(10,21,48,0.62);
+      --subtle: rgba(10,21,48,0.42);
+      --accent: #0b6fa3;
+      --accent2: #6d3fd1;
     }
     * { box-sizing: border-box; }
     html, body { margin: 0; padding: 0; }
