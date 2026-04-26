@@ -207,6 +207,54 @@
     }
     :root[data-theme-pack="hud"][data-theme="light"] .hero-grid .card .card-detail { color: rgba(10,21,48,0.58); }
 
+    /* Cyber-arcade LIGHT — card surface + readable text */
+    :root[data-theme-pack="cyber-arcade"][data-theme="light"] .hero-grid .card {
+      background:
+        linear-gradient(150deg,
+          rgba(var(--accent-rgb),0.10),
+          rgba(var(--accent-2-rgb),0.06) 60%,
+          rgba(255,255,255,0.50) 100%),
+        rgba(255,240,248,0.85);
+      border-color: rgba(var(--accent-rgb),0.35);
+    }
+    :root[data-theme-pack="cyber-arcade"][data-theme="light"] .hero-grid .card .card-label {
+      color: var(--text);
+      text-shadow: none;
+    }
+    :root[data-theme-pack="cyber-arcade"][data-theme="light"] .hero-grid .card .card-value {
+      color: var(--text);
+      text-shadow: 0 0 14px rgba(var(--accent-rgb),0.18);
+    }
+    :root[data-theme-pack="cyber-arcade"][data-theme="light"] .hero-grid .card .card-detail {
+      color: var(--subtle);
+    }
+
+    /* Desert-ethnic — light by default; cards need a paper-tan surface, not the
+       dark hud backing. Selector covers both no-attr and explicit "light". */
+    :root[data-theme-pack="desert-ethnic"]:not([data-theme="dark"]) .hero-grid .card {
+      background:
+        linear-gradient(150deg,
+          rgba(var(--accent-rgb),0.12),
+          rgba(var(--accent-2-rgb),0.06) 60%,
+          rgba(255,255,255,0.45) 100%),
+        rgba(243,233,210,0.82);
+      border-color: rgba(61,40,23,0.18);
+      box-shadow:
+        0 2px 4px rgba(61,40,23,0.06),
+        0 8px 20px rgba(61,40,23,0.10);
+    }
+    :root[data-theme-pack="desert-ethnic"]:not([data-theme="dark"]) .hero-grid .card .card-label {
+      color: var(--text);
+      text-shadow: none;
+    }
+    :root[data-theme-pack="desert-ethnic"]:not([data-theme="dark"]) .hero-grid .card .card-value {
+      color: var(--text);
+      text-shadow: 0 0 14px rgba(var(--accent-rgb),0.15);
+    }
+    :root[data-theme-pack="desert-ethnic"]:not([data-theme="dark"]) .hero-grid .card .card-detail {
+      color: var(--subtle);
+    }
+
     /* Verdict hero */
     :root[data-theme-pack="hud"][data-theme="light"] .verdict-hero,
     :root[data-theme-pack="hud"][data-theme="light"] .kite-status {
