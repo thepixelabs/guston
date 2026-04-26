@@ -44,6 +44,11 @@
 
   function hideBanner() {
     if (!banner) return;
+    // Move focus out before hiding so we don't violate the rule
+    // "aria-hidden must not be set on an ancestor of the focused element."
+    if (banner.contains(document.activeElement) && typeof document.activeElement.blur === 'function') {
+      document.activeElement.blur();
+    }
     banner.classList.remove('is-visible');
     banner.setAttribute('aria-hidden', 'true');
   }

@@ -596,7 +596,10 @@
     @media (max-width: 768px) {
       .nav {
         position: fixed; top: var(--header-h); inset-inline-start: 0; inset-inline-end: 0;
-        background: rgba(7,10,20,0.95); backdrop-filter: blur(16px);
+        /* Theme-aware: solid fallback first, then translucent color-mix on top */
+        background: var(--bg);
+        background: color-mix(in srgb, var(--bg) 95%, transparent);
+        backdrop-filter: blur(16px);
         -webkit-backdrop-filter: blur(16px);
         flex-direction: column; padding: 16px; gap: 4px;
         border-bottom: 1px solid var(--border);
@@ -3951,7 +3954,7 @@
             <span class="cam-live-pill">Live</span>
           </div>
           <div style="position:relative;width:100%;max-width:560px;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden;">
-            <iframe id="cam-focus-iframe" title="Live beach camera" allow="autoplay; fullscreen" allowfullscreen frameborder="0" style="width:100%;height:100%;border:0;display:block;"></iframe>
+            <iframe id="cam-focus-iframe" title="Live beach camera" allow="autoplay; fullscreen" frameborder="0" style="width:100%;height:100%;border:0;display:block;"></iframe>
           </div>
           <div class="cam-viewer-meta">
             <span id="cam-viewer-spot">Herzliya</span> &middot; <span id="cam-viewer-name">Sea Scouts / Zvulun</span> &middot; <span class="cam-src">ipcamlive &middot; via beachcam.co.il</span>
@@ -5225,6 +5228,11 @@
       }
 
       async function fetchJSON(url) {
+        // Skip fetch on file:// — browsers block local fetches and the inline
+        // fallback covers it. This keeps the dev console clean.
+        if (location.protocol === 'file:' && window.__LINEUP_DATA__ && window.__LINEUP_DATA__[url]) {
+          return window.__LINEUP_DATA__[url];
+        }
         const ctrl = new AbortController();
         const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
         try {
@@ -5232,7 +5240,6 @@
           if (!res.ok) throw new Error('HTTP ' + res.status);
           return await res.json();
         } catch (_) {
-          // Fall back to inline data (works when served from file://)
           if (window.__LINEUP_DATA__ && window.__LINEUP_DATA__[url]) return window.__LINEUP_DATA__[url];
           return { __error: 'offline' };
         } finally {
