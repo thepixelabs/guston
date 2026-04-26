@@ -257,16 +257,6 @@
       cursor: default;
       padding: 0 4px;
     }
-    .header-lastupdate .live-pulse {
-      display: inline-block; width: 6px; height: 6px; border-radius: 50%;
-      flex-shrink: 0;
-      background: var(--good);
-      box-shadow: 0 0 6px var(--good), 0 0 12px rgba(92,255,177,0.45);
-      animation: pulse 1.6s ease-in-out infinite;
-    }
-    @media (prefers-reduced-motion: reduce) {
-      .header-lastupdate .live-pulse { animation: none; }
-    }
     /* All header icon buttons — uniform 34×34, radius 8, subtle hover tile */
     .theme-btn,
     .theme-picker-btn,
@@ -615,7 +605,9 @@
       }
       .nav.open { transform: translateY(0); }
       .nav-link { width: 100%; text-align: center; padding: 12px; }
-      .nav-toggle { display: block; }
+      .nav-toggle { display: block; order: 2; }
+      /* Push the action cluster to the far right, hamburger sits to its end */
+      .header-actions { order: 1; margin-inline-start: auto; }
     }
 
     /* ===== SECTIONS ===== */
@@ -2377,9 +2369,8 @@
       .brand-icon { width: 24px; height: 24px; }
       .brand-name { font-size: 1rem; letter-spacing: 1px; }
       .header-actions { gap: 4px; min-width: 0; }
-      /* Hide clock label text on small screens — keep only the pulse dot */
-      .header-lastupdate #lastUpdate { display: none; }
-      .header-lastupdate { padding: 0 2px; }
+      /* Hide last-updated clock entirely on small screens to free space */
+      .header-lastupdate { display: none; }
       /* Hide pixelabs link on small screens */
       .pixelabs-link { display: none; }
       .nav-toggle { padding: 4px; }
@@ -3305,7 +3296,6 @@
 
       <div class="header-actions">
         <div class="header-lastupdate" aria-live="polite" title="Last data refresh">
-          <span class="live-pulse" aria-hidden="true"></span>
           <span id="lastUpdate" data-i18n="state.loading">Loading…</span>
         </div>
         <button type="button" class="lang-picker-btn" aria-label="Select language" data-i18n-attr="aria-label:aria.lang_picker" aria-expanded="false" aria-haspopup="menu">
