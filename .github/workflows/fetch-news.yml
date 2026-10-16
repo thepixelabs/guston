@@ -1,0 +1,49 @@
+name: Fetch News
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install script dependencies
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch news
+        working-directory: scripts
+        run: node fetch-news.mjs
+
+      - name: Commit updated news.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: refresh news [skip ci]'
+          commit_user_name: guston-bot
+          commit_user_email: noreply@github.com
+          commit_author: 'guston-bot <noreply@github.com>'
+          file_pattern: 'data/news.json'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

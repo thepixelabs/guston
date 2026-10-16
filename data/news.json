@@ -1,0 +1,382 @@
+{
+  "generated_at": "2026-10-15T14:11:22.736Z",
+  "source_status": {
+    "iksurfmag": "ok",
+    "windsurf_uk": "ok",
+    "google_wing": "ok",
+    "google_kite": "ok",
+    "google_surf": "ok"
+  },
+  "items": [
+    {
+      "id": "4ca687552f00",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Guardians League FTA on DAZN - Advanced Television",
+      "snippet": "Guardians League FTA on DAZN Advanced Television",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmVUa0VENU9YTWhPS0JFTTJKQjBIS21DZGxSc2ZQSVZQV3hSV0ZpeTRYUmFuT3F0YVRjNE5Velp3VXhVTE5GZmNEVGoxTlNkR1l0YVRpOUhORGFSb0syd0g0MUJOaXpBTUFldFBYd3U5NlpkSkozZTZiaFZSNXhhWml3?oc=5",
+      "date": "2026-10-15T09:22:30.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "04a2d4576f47",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Smales Brothers Join Australia's Irukandjis for World Longboard Championships - Sportzhub",
+      "snippet": "Smales Brothers Join Australia's Irukandjis for World Longboard Championships Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3VBbFB0RkNLTFdlMjNLdC1qLWQ4NE9JaWtmZTMwajJOM1hfcmd5ZzMtV1VFOU1tRnVGODlobXV0MnJyLXZnMTRSaFI5eHhHaGhLZ2E0ZzJYejVMeFZsb3lLYmZvN1EyZ3NGZ0NvTEJuZF9oZDEyYi1Ea0RDNVVMcklVMjhObVpvX1lMbEtxUVBLTFJpMHFqRXl5THZpX1ZuUk10WkhsVmlueElqYnhhWDJ3bXNqZw?oc=5",
+      "date": "2026-10-15T09:06:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a1e6ecc68ff5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Sheet in. Send it.",
+      "snippet": "Kite low and enjoy the ride! The post Sheet in. Send it. first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/sheet-in-send-it/",
+      "date": "2026-10-15T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-50.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d557073f3e07",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE!",
+      "snippet": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE! THE PERFECT CALL: CHAPUIS CONQUERS TIREE! After finishing runner-up in 2023, Miguel Chapuis returned to the Tiree Wav…",
+      "url": "https://www.windsurf.co.uk/the-perfect-call-chapuis-conquers-tiree/",
+      "date": "2026-10-15T06:30:08.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "a04bc5901420",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Professional surfer suspended by second body over ‘allegations of abuse’ - The Straits Times",
+      "snippet": "Professional surfer suspended by second body over ‘allegations of abuse’ The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFVJQkp4QWkweTRRaGp4M1dIOEwyVkhzdTFCX1pkNGVFX1hxWFRtRU9WOTZBenVvbF9vUkNZdVlRcTQ5Z1dsR1dCVFZnNEFSZ2hzYWFUajBMY0FlaWczYnh6UlpmdnphMS1wMnp5MHh1LV81RWlEVDR1S0Y3eWY3aHJPNngzLWE1cThVOHdEMDA2VTdqRjI2NW1nRXZidkQ2ZzRXRVFlbjA?oc=5",
+      "date": "2026-10-15T06:20:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a08943fc373b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "51-Year-Old Steven Flanagan Pumped for World Waveski Surfing Titles Debut - Paddle Australia",
+      "snippet": "51-Year-Old Steven Flanagan Pumped for World Waveski Surfing Titles Debut Paddle Australia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWl2LUhsTm9ycUE5TEFWNFRab0pISDAyajJnTjZfWHlXNzlLMmp6MDQ3bjZKRGV6SGtPNW44YnpMQVhwcXBSaDVyNmVFMW4yRERhb28xQW14c0wwUENVdWxDNjhPQ0ZZNEk3emZ1WkQyX3VHdGRXYkNzQm12LV93TkF5eUhrd1lubXc3M2hiNXp1cmdvMEdSXzB4VQ?oc=5",
+      "date": "2026-10-14T23:38:24.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "fc48bc4747db",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Portugal welcomes world’s top surfers - The Portugal News",
+      "snippet": "Portugal welcomes world’s top surfers The Portugal News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlY3eDY3d1J0Y2xWbEhUYzVJMDNGZWJEZzNVcGxPTUNSS0tCZ0F6bU9raFpYZDduX3hQMnE5eWM0NG00MEZPQ3FhYTJLSVdSeUstLUtfRjI3VDZTem1uZm9raElFS0g4aWVXcUNXRldCMHFPdEVjeGZVOUVyQzFwS055TEJISzVJM0dYNkQzSXh6S0djenc0?oc=5",
+      "date": "2026-10-14T17:11:01.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "208226c8d14b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Syncro loop feels crazy‍",
+      "snippet": "That synchro loop….. The post Syncro loop feels crazy‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/syncro-loop-feels-crazy/",
+      "date": "2026-10-14T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-48.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "dcd291ea77ac",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "New NSRI rescue boat to honour kiteboarding legend Graham Howes - Cape Town ETC",
+      "snippet": "New NSRI rescue boat to honour kiteboarding legend Graham Howes Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVVlWmtQLWpkUE1IblpUZEJNNC05MV9lUVRzN1hIMzh6RGVrLVJWcXdXeTNOWkdRQVhoNEczV2RFRThOSG1NaVFXbHN5UVFuTnVSUkJfUTBTWmF3bWxZcnpsZU4zUWhHU0YySmdvX2hLZEtzN3pORTFETmE4RHV5VTMyNE54UG42YndMY2U2VGNyVTZaeFgzMVJ4LTBRdw?oc=5",
+      "date": "2026-10-14T16:00:44.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ee027128d019",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kiting with cows #incredible #kitesurfing #kitesurfingworld #blowup #insane",
+      "snippet": "Just a spot of wildlife for Max! 🐮 The post Kiting with cows #incredible #kitesurfing #kitesurfingworld #blowup #insane first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kiting-with-cows-incredible-kitesurfing-kitesurfingworld-blowup-insane/",
+      "date": "2026-10-14T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-49.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2d83c8b5a451",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Entry video Redbull king of the air 2026 Clement huot",
+      "snippet": "Clement Huot entry video for KOTA 2026. Good luck! The post Entry video Redbull king of the air 2026 Clement huot first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/entry-video-redbull-king-of-the-air-2026-clement-huot/",
+      "date": "2026-10-14T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/hqdefault-1.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2288a0fd1425",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project - The Drinks Business",
+      "snippet": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOW5XR3JpUVRxNnZkZEZ3SnE4RG9ZQzhPMTVkeTZwY1BTcy1LZ2tHV3FPN0pOZjl2OF83U21LaURWanpOSlBNM1lOcW8tZ1RXUzVubTRCZTBRaHNZX0R3OHZhTkFfaHNTZnRRemZsbEd4cDRlSjdRd2xqRXhMN3VEUDNuaWVuTktDOWxzc0M0Z3RyMklBTUhvb3N3d3BmXzdOOWpQSmlKNTJ5dUIwYjFFZHp6eFkxLTg?oc=5",
+      "date": "2026-10-14T10:27:42.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "696843ed7aad",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Graham Howes’ family finds hope in the wake of tragedy | TygerBurger - https://novanews.co.za/",
+      "snippet": "Graham Howes’ family finds hope in the wake of tragedy | TygerBurger https://novanews.co.za/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNTVS16M0xaLV9vOFBSTDBDbXV3a3p4N0Y5UU54ZU1PZ3dqME9oelVYYVhtMWF2NHdFd0ZYQVNmdHZoVUNyc2xnWlFUcXlBQTBMVnoxd2U4ZG1rSE5jQXpoVWFuM2MzUDh5UzlGekZ2YlZ6VlpxN2MwZElIUkhIS2t0R1RCTENEUVJTNkxKVXNsNUk?oc=5",
+      "date": "2026-10-14T09:22:34.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "a9a0a411f141",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Taitung surfing open offers record NT$5 million prize pool - Taiwan News",
+      "snippet": "Taitung surfing open offers record NT$5 million prize pool Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kb3FUWnIwMXlFZ29ZbC1fSEFjbGI0bFNhckVEeWNvZmZ1QkV5TmN4cTdpdU5leFBxNDdyWUZOUUNLZlh1OFZxcmloSk9KNVhvV0Z3d0haM0U?oc=5",
+      "date": "2026-10-14T08:09:56.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b81e0b6da82e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "KOTA 2026 entry video",
+      "snippet": "Mikaili Sol has dropped her entry video for KOTA 2026! This year is about to be WILD…. The post KOTA 2026 entry video first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kota-2026-entry-video/",
+      "date": "2026-10-14T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-47.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c4e6992b86aa",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Indian Beach surf fishing tournament returns for fourth year Oct. 17 - WCTI",
+      "snippet": "Indian Beach surf fishing tournament returns for fourth year Oct. 17 WCTI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWhGYTRwcWZSQmFxbHVkbW0xSTRPbEs3OWtWRUNfbWEwVGJrOW5VWXNVbmc4bGViSl9waVVCdllKbEJjVEZJWllncTBSOTE2N1dlRU1oMFk5cmhxeDRTWWhFNE1mSThSQ1p3RlFKNElUa1IxX0s2LXpaSmtmNUx0WUpHU2h5dXRkWEFsZ3FzOHp4OTlXdGN5Tnk4dHIzdw?oc=5",
+      "date": "2026-10-14T07:07:30.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "0a7d5e7d2ca2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Super Girl Surf Festival faces questions over prize money after Virginia Beach competition - 13newsnow.com",
+      "snippet": "Super Girl Surf Festival faces questions over prize money after Virginia Beach competition 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSjRkdTNsdEt5Y2pqeFB2OXhSSFV0UWZzVFNrTWY0UjNDNUNGc0lwQmZYNjh3bERhTkR0MkVPQ3QzZVBQU0l4dVY1ckIwQWxvN2ZFQnY2QmtDYnhMYUJLNHVtaHhWNDlEUHVRVDdBM01YSElGY3dzVmRZcmxnc0JQeXlTSU1yRThFWDZSc0hOdVFCdmFjZFRtRWxiYnNqcWp0ekxVLW92Mm5ERGxPYVJNaGVEdDA0ZnFjUzU1ZU92MFhQdUp4T1VHTk8xSUZvaGg2dVQyM25zdzd3YndmZjZraXZ1TlBjRXlqX0toRVJJUWFWWnV4SXdzaXN3NmhHVVB5U09RcDBpVi1IalNuU0NXZ0lBN2RTWllzeGVNNzAtZnU3U2JH?oc=5",
+      "date": "2026-10-13T22:40:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "d9f144f3a131",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Graham Howes’ legacy lives on as new NSRI rescue boat nears completion - The Witness | Your compass in the community",
+      "snippet": "Graham Howes’ legacy lives on as new NSRI rescue boat nears completion The Witness | Your compass in the community",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGN3SllsVDVDV0RpU1NMLTNNbEVvd3pHb3pFWERMM0pkb2NuU0EwU1hpcHMyOWdUR0pIVkZjdDdRQzlVSzg5ZVY2QXhlb2hBQldfakxMaG9NWFNrVWVUdTRZSlN4YTNnSUVXQW9yUGpTM2o0VXpnSkh3eUhQY1FDVHJ2QkV6dVJmZ0pBd1NqcHF2eXZwa2hfeUkyUEVKZ0wwTWwwal9vVWlfM2Mw?oc=5",
+      "date": "2026-10-13T20:04:14.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d9432c186062",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement - Times of San Diego",
+      "snippet": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement Times of San Diego",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjVvQVJ3eVhKTzhUNFBxcjlaYjUxdkRLNjlVNmtsXzlDT0VWUDZDeXZYakczdm9HWFR2NnF1TVlrX0U1QUpkOE00OG1rSUROR2otN3l2ZzZQTlJrVGEtcHNjUWZoblhLMTBRTENwNTk5SWtzLV9FNHFJUHd0QXZ2dlJfb25vUHpJeFJuNF91SFZ6aU1NS3NhSGpsbFJLRjNq?oc=5",
+      "date": "2026-10-13T18:08:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "d7916e2d73c5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Autumn shreds! #courtintheact",
+      "snippet": "Autumn is well and truly here and we can’t wait for the sessions to stack up! The post Autumn shreds! #courtintheact first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/autumn-shreds-courtintheact/",
+      "date": "2026-10-13T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-46.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "cf60769ea9f6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Pro surfer Alan Cleland Jr. suspended from league after sexual assault allegations involving teen - New York Post",
+      "snippet": "Pro surfer Alan Cleland Jr. suspended from league after sexual assault allegations involving teen New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeDJIUGYtdG8wZFRRZTF2TnhFdlFSNVBBb3UyNnhGRjdBamY3cklmZ2hUT18ydUM0U1NFRFFCdUFfN1YwOEw0M21LR2FITDdudmQ3YmhkaUxBRHZ6RDFaU0NVZlNoMVFpbnVzd0syZjg5ZHZ5bmpRUVYwbllkR3ZxYW5KTXZjUldKODk3VHFEeXpXNG1oZ056Ym81RmJQdkZPb1dPeURKdzlPcjRwNGpjRS1JVzJlcnVfcFZvai13SkxFNFc2WWJtRE8tMkI3QWs5?oc=5",
+      "date": "2026-10-13T15:56:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "12c826fa761c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "October 16-25: MEO Rip Curl Pro Portugal Presented By Corona Cero To Feature Biggest Portuguese Field Ever - Surf News Network",
+      "snippet": "October 16-25: MEO Rip Curl Pro Portugal Presented By Corona Cero To Feature Biggest Portuguese Field Ever Surf News Network",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
+      "date": "2026-10-13T15:17:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e6e1a4e2df69",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "⭐ Every Frame of One Kitesurf Jump",
+      "snippet": "Slowing it down and watching the artist at work… The post ⭐ Every Frame of One Kitesurf Jump first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/%e2%ad%90-every-frame-of-one-kitesurf-jump/",
+      "date": "2026-10-13T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-45.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f3b02afffb3e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "The biggest tricks during the final of Cold Hawaii #kiteboarding #kitesurfing #adrenaline",
+      "snippet": "Still thinking about the Cold Hawaii final. What a show that was! The post The biggest tricks during the final of Cold Hawaii #kiteboarding #kitesurfing #adren…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/the-biggest-tricks-during-the-final-of-cold-hawaii-kiteboarding-kitesurfing-adrenaline/",
+      "date": "2026-10-13T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-44.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "cc9cc5f00543",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "One Kite. Unlimited possibilities. Meet the 2027 Evo SLS.",
+      "snippet": "The 2027 Evo SLS. One kite, one goal. The post One Kite. Unlimited possibilities. Meet the 2027 Evo SLS. first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/one-kite-unlimited-possibilities-meet-the-2027-evo-sls/",
+      "date": "2026-10-13T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-43.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f693445bc6ae",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘That’s when I begin to scream’: Mick Fanning on punching a great white shark - The Guardian",
+      "snippet": "‘That’s when I begin to scream’: Mick Fanning on punching a great white shark The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVpKY1VxQi1JVV9hNjd2NmhXYk5vU0d1VFg1WmZWRUhLVllJa0dfNzctTXY5aXhXZEpqdmw2UmI4LTc0b01UYkJQamRqclBkcDZ1aHRjRGFYVU8zaEhrTk14Rk1fSUJON0s5d0dtRXM2RTl3UUgxZTNJQ0o4bGotSS1QMG9yR2duVlBWbWVVZkhMazV4eFU2WWN3V2NNMkY1UUlPM1VR?oc=5",
+      "date": "2026-10-13T04:46:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "96878485a365",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror - Sail World Cruising",
+      "snippet": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror Sail World Cruising",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSm03SUNaOWthM0RHdmhkUVVERjBtbGxWQkl6YkNCTWVQWWZZcmNBcmpkWFdGcVZ1UGtiSHBwZERwcTZXVVl5NmRRd1Y2TGpaMnBLMXN2Wkl2UQ?oc=5",
+      "date": "2026-10-13T03:41:51.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "6b0c58944b66",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Deeply serious’: Pro surfer suspended over sexual assault allegations against Aussie teen - Fox Sports",
+      "snippet": "‘Deeply serious’: Pro surfer suspended over sexual assault allegations against Aussie teen Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOOXFDak1VMm4wTURvMzV3dE9BakFuazF4WDFHN1BSVms0alJDc2NLbGJ2NGxkVEgzWHN6cEdKbTBsQzd6RXJsUlgwMjR5UG9JekxBbEEyNkxUek5DZVFURU83ZFJ2R0FOYTg1amk0dEo1VnhWQXVtaldBd3FqNUNmWlV1cXBsTE1MWTBEQmF5blJxTHFWWGwxZUtZcGhmUGEyTUFuYTAxU2l6VTVXSUl3V1hLbUV6OWY4RlF3NmNuMGgzTzRVcU1MZzhXcElxWGY1YlB5Z3ZQWlhvSFhCbXVTWjlwb3lhd2EwUjYtVkhreHJsMVUzQVB1c1VTUWNqNmU2MkxWaHpSb3BUZjdPUHBNb0NNQ3pEdGZ5eTE0a0lyV1d6RFRnWU94OHJpWThRM0VYd1IwdEozU3FmMzJVM0hyd9IBwAJBVV95cUxOOXFDak1VMm4wTURvMzV3dE9BakFuazF4WDFHN1BSVms0alJDc2NLbGJ2NGxkVEgzWHN6cEdKbTBsQzd6RXJsUlgwMjR5UG9JekxBbEEyNkxUek5DZVFURU83ZFJ2R0FOYTg1amk0dEo1VnhWQXVtaldBd3FqNUNmWlV1cXBsTE1MWTBEQmF5blJxTHFWWGwxZUtZcGhmUGEyTUFuYTAxU2l6VTVXSUl3V1hLbUV6OWY4RlF3NmNuMGgzTzRVcU1MZzhXcElxWGY1YlB5Z3ZQWlhvSFhCbXVTWjlwb3lhd2EwUjYtVkhreHJsMVUzQVB1c1VTUWNqNmU2MkxWaHpSb3BUZjdPUHBNb0NNQ3pEdGZ5eTE0a0lyV1d6RFRnWU94OHJpWThRM0VYd1IwdEozU3FmMzJVM0hydw?oc=5",
+      "date": "2026-10-13T02:16:43.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "d5289634a166",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfer suspended over alleged sexual assault of Aussie teen - The Nightly",
+      "snippet": "Surfer suspended over alleged sexual assault of Aussie teen The Nightly",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjMweUJuNWtCamVxalVmMFc1Y0tOVUpNMFI3WkZmZ0h5d0EyejJhcjVBN1V2OHQ3akR2dkVpU0JXYkQ4WlVZT0x0ejNDSmlnNkJQUm9Za05na0pTbWh6R01QSUtWOGpUdmpNSG9UR3FYWV9ObjFOQ3lGRDNyVWdoUmVqNVFlY1pJOHNVa3cwQlByckJRQ3QzVEVoT2tIaWpyYWl2dTJDS1BvT1ZNT2c1czZhNFpOdTFLcTBWRTV5RHZDNmVDbWhBZlVpeXc0RkVvdVdHdFlxMA?oc=5",
+      "date": "2026-10-13T01:55:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2662755f6ea9",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfer suspended from world tour for alleged sexual assault of NSW teenager - SMH.com.au",
+      "snippet": "Surfer suspended from world tour for alleged sexual assault of NSW teenager SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRk8tdTdjNXVKLWdlWk9rV2ViR1BUa3lKSWEzSVNKWmp1Tmh3V2VqZ3ZHejhCY05KblkxcGUxTmVPeUhmWHVHeHRPVkp6WUFFaUc2eGZ2WTROeEVjTFVUV0lmSzA4TW1TakpoblktNWt1b0V2eFZSMmljU2VvR2dDcXpYMXllenZVSkU2bXQ3MU1NXzNsNm5WcmJhMlRlV2c5a3lIb0pyOEFWYWd1aWZUUF9XU21panFMNHF2RUl0QTkyM0k?oc=5",
+      "date": "2026-10-13T00:44:56.000Z",
+      "tags": [
+        "surf"
+      ]
+    }
+  ]
+}

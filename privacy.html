@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <title>Privacy — GUSTON</title>
+  <meta name="description" content="Privacy policy for GUSTON — what we collect, why, and how to opt out.">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);})();</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Google tag (gtag.js) — Consent Mode v2, default denied until user accepts -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-H86L0455YJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    gtag('consent', 'default', {
+      analytics_storage:  'denied',
+      ad_storage:         'denied',
+      ad_user_data:       'denied',
+      ad_personalization: 'denied',
+      wait_for_update:    500
+    });
+
+    gtag('js', new Date());
+    gtag('config', 'G-H86L0455YJ');
+  </script>
+  <script src="assets/js/consent.js" defer></script>
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #070a14;
+      --bg2: #0a1026;
+      --panel: rgba(255,255,255,0.05);
+      --border: rgba(255,255,255,0.10);
+      --text: rgba(255,255,255,0.92);
+      --muted: rgba(255,255,255,0.60);
+      --subtle: rgba(255,255,255,0.40);
+      --accent: #71e0ff;
+      --accent2: #a78bfa;
+      --radius: 16px;
+    }
+
+    /* Light tokens — applied when system prefers light AND no explicit dark override */
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) {
+        --bg: #e8eef7;
+        --bg2: #dde8f5;
+        --panel: rgba(10,21,48,0.04);
+        --border: rgba(10,21,48,0.12);
+        --text: rgba(10,21,48,0.92);
+        --muted: rgba(10,21,48,0.62);
+        --subtle: rgba(10,21,48,0.42);
+        --accent: #0b6fa3;
+        --accent2: #6d3fd1;
+      }
+    }
+
+    /* Explicit light override (matches localStorage 'theme' = 'light' on main site) */
+    :root[data-theme="light"] {
+      --bg: #e8eef7;
+      --bg2: #dde8f5;
+      --panel: rgba(10,21,48,0.04);
+      --border: rgba(10,21,48,0.12);
+      --text: rgba(10,21,48,0.92);
+      --muted: rgba(10,21,48,0.62);
+      --subtle: rgba(10,21,48,0.42);
+      --accent: #0b6fa3;
+      --accent2: #6d3fd1;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: linear-gradient(180deg, var(--bg) 0%, var(--bg2) 100%);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 64px 24px 96px;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      margin-bottom: 48px;
+      color: var(--text);
+    }
+    .brand-mark {
+      font-weight: 700;
+      letter-spacing: 1px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin: 0 0 8px;
+      letter-spacing: -0.02em;
+    }
+    .lede {
+      color: var(--muted);
+      font-size: 1.05rem;
+      margin: 0 0 40px;
+    }
+    h2 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin: 32px 0 8px;
+      color: var(--accent);
+    }
+    p { margin: 0 0 12px; color: var(--text); }
+    a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+    a:hover { color: var(--accent2); }
+    code {
+      font-family: 'JetBrains Mono', ui-monospace, monospace;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+    .meta {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      color: var(--subtle);
+      font-size: 0.85rem;
+    }
+    .back {
+      margin-top: 16px;
+      font-size: 0.9rem;
+    }
+    .manage-cookies {
+      margin-top: 8px;
+      font-size: 0.9rem;
+    }
+    .manage-cookies button {
+      background: none;
+      border: none;
+      padding: 0;
+      font: inherit;
+      color: var(--accent);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      cursor: pointer;
+    }
+    .manage-cookies button:hover { color: var(--accent2); }
+
+    /* ===== COOKIE CONSENT BANNER ===== */
+    #consent-banner {
+      display: none;
+      position: fixed;
+      inset-inline: 0;
+      bottom: 0;
+      z-index: 9998;
+      padding: 16px clamp(16px, 4vw, 104px) max(16px, env(safe-area-inset-bottom));
+      background: rgba(7, 10, 20, 0.92);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-top: 1px solid rgba(255, 255, 255, 0.18);
+      box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.4);
+      animation: consent-slide-in 280ms cubic-bezier(0.4, 0, 0.2, 1) both;
+    }
+    #consent-banner.is-visible { display: block; }
+    @keyframes consent-slide-in {
+      from { transform: translateY(100%); opacity: 0; }
+      to   { transform: translateY(0);    opacity: 1; }
+    }
+    .consent-inner {
+      max-width: 2160px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .consent-text {
+      flex: 1;
+      min-width: 240px;
+      font-size: 0.875rem;
+      line-height: 1.55;
+      color: var(--text);
+      margin: 0;
+    }
+    .consent-actions {
+      display: flex;
+      gap: 10px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+    .consent-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 9px 20px;
+      min-height: 38px;
+      border-radius: 10px;
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.18s ease;
+      white-space: nowrap;
+    }
+    .consent-btn:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .consent-btn-accept {
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #0a1530;
+      box-shadow: 0 2px 12px rgba(113, 224, 255, 0.4);
+    }
+    .consent-btn-accept:hover {
+      box-shadow: 0 4px 20px rgba(113, 224, 255, 0.55);
+      transform: translateY(-1px);
+    }
+    .consent-btn-decline {
+      background: var(--panel);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    .consent-btn-decline:hover {
+      border-color: rgba(255, 255, 255, 0.18);
+      background: rgba(255, 255, 255, 0.08);
+    }
+    @media (prefers-color-scheme: light) {
+      :root:not([data-theme="dark"]) #consent-banner {
+        background: rgba(232, 238, 247, 0.94);
+        border-top-color: rgba(10, 21, 48, 0.18);
+        box-shadow: 0 -8px 32px rgba(10, 21, 48, 0.18);
+      }
+      :root:not([data-theme="dark"]) .consent-btn-accept {
+        color: #ffffff;
+        background: linear-gradient(135deg, #0b6fa3, #6d3fd1);
+        box-shadow: 0 2px 12px rgba(11, 111, 163, 0.35);
+      }
+      :root:not([data-theme="dark"]) .consent-btn-decline {
+        background: rgba(255, 255, 255, 0.6);
+        border-color: rgba(10, 21, 48, 0.18);
+      }
+    }
+    :root[data-theme="light"] #consent-banner {
+      background: rgba(232, 238, 247, 0.94);
+      border-top-color: rgba(10, 21, 48, 0.18);
+      box-shadow: 0 -8px 32px rgba(10, 21, 48, 0.18);
+    }
+    :root[data-theme="light"] .consent-btn-accept {
+      color: #ffffff;
+      background: linear-gradient(135deg, #0b6fa3, #6d3fd1);
+      box-shadow: 0 2px 12px rgba(11, 111, 163, 0.35);
+    }
+    :root[data-theme="light"] .consent-btn-decline {
+      background: rgba(255, 255, 255, 0.6);
+      border-color: rgba(10, 21, 48, 0.18);
+    }
+    @media (max-width: 600px) {
+      #consent-banner { padding-top: 12px; padding-bottom: max(12px, env(safe-area-inset-bottom)); }
+      .consent-inner { flex-direction: column; align-items: stretch; gap: 12px; }
+      .consent-text { font-size: 0.8125rem; line-height: 1.5; min-width: 0; }
+      .consent-actions { justify-content: stretch; flex-wrap: nowrap; }
+      .consent-btn { flex: 1; min-height: 44px; }
+    }
+    @media (pointer: coarse) {
+      .consent-btn { min-height: 44px; }
+    }
+    @media (max-width: 480px) {
+      .container { padding: 40px 16px 72px; }
+      .brand { margin-bottom: 32px; }
+      h1 { font-size: 1.75rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <a href="/" class="brand" aria-label="Back to GUSTON home">
+      <span class="brand-mark">GUSTON</span>
+    </a>
+
+    <h1>Privacy</h1>
+    <p class="lede">Short version: GUSTON has no user accounts, no ads, and does not sell data. We use Google Analytics to count visits.</p>
+
+    <h2>What we collect</h2>
+    <p>We use Google Analytics 4 to understand which features people use and which beaches get the most attention. GA4 sets cookies named <code>_ga</code> and <code>_ga_*</code> and sends Google your IP address (truncated before storage in reports), the pages you view, and basic device info (browser, screen size, language). We do not collect your name, email, or any data that directly identifies you.</p>
+
+    <h2>Why</h2>
+    <p>Aggregate visit numbers help us decide which spots, sports, and features to prioritize. That is the entire reason analytics is on.</p>
+
+    <h2>How long is data kept</h2>
+    <p>GA4 retains event-level data for up to 14 months. After that, only aggregate reports remain.</p>
+
+    <h2>How to opt out</h2>
+    <p>You can disable Google Analytics tracking by installing Google&rsquo;s official <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">opt-out browser add-on</a>. Most tracker blockers (uBlock Origin, Brave Shields, Firefox&rsquo;s strict tracking protection) also block GA4 by default.</p>
+
+    <h2>Third parties</h2>
+    <p>Aside from Google Analytics, this page embeds content from the data providers credited in the footer of the homepage (IMS, Holfuy, WindGuru, MSW, wind.co.il, Open-Meteo, Windy). Each of those services has its own privacy policy and may set its own cookies when their content loads.</p>
+
+    <h2>Source code</h2>
+    <p>GUSTON is open source. You can read every line that runs on this page at <a href="https://github.com/thepixelabs/guston" target="_blank" rel="noopener noreferrer">github.com/thepixelabs/guston</a>.</p>
+
+    <h2>Contact</h2>
+    <p>Questions or concerns? Open an issue on the <a href="https://github.com/thepixelabs/guston/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a>.</p>
+
+    <div class="meta">
+      Last updated: April 2026
+      <div class="manage-cookies"><button type="button" data-consent-manage>Manage cookie preferences</button></div>
+      <div class="back"><a href="/">&larr; Back to GUSTON</a></div>
+    </div>
+  </main>
+
+  <!-- ===== COOKIE CONSENT BANNER (Consent Mode v2) ===== -->
+  <div
+    id="consent-banner"
+    role="dialog"
+    aria-modal="false"
+    aria-label="Cookie consent"
+    aria-live="polite"
+    aria-hidden="true"
+  >
+    <div class="consent-inner">
+      <p class="consent-text">
+        This site uses Google Analytics to count visits anonymously. No ads, no cross-site tracking. Nothing activates until you accept.
+      </p>
+      <div class="consent-actions">
+        <button class="consent-btn consent-btn-accept" id="consent-accept" type="button">Accept</button>
+        <button class="consent-btn consent-btn-decline" id="consent-decline" type="button">Decline</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

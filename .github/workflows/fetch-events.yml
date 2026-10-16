@@ -1,0 +1,49 @@
+name: Fetch Events
+
+on:
+  schedule:
+    # Daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: fetch-events
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install script dependencies
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch events
+        working-directory: scripts
+        run: node fetch-events.mjs
+
+      - name: Commit updated events.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: refresh events [skip ci]'
+          commit_user_name: guston-bot
+          commit_user_email: noreply@github.com
+          commit_author: 'guston-bot <noreply@github.com>'
+          file_pattern: 'data/events.json'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

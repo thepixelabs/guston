@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "rb-kota-2026",
+      "name": "Red Bull King of the Air 2026",
+      "tour": "RB",
+      "sport": "kite",
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-15",
+      "location": "Big Bay, Cape Town",
+      "country": "ZA",
+      "url": "https://www.redbull.com/int-en/events/red-bull-king-of-the-air",
+      "notes": "Biggest big-air kitesurf event in the world. Wait-period event."
+    },
+    {
+      "id": "rb-cape-classic-2026",
+      "name": "Red Bull Cape Classic 2026",
+      "tour": "RB",
+      "sport": "wing",
+      "start_date": "2026-01-10",
+      "end_date": "2026-01-20",
+      "location": "Cape Town",
+      "country": "ZA",
+      "url": "https://www.redbull.com/int-en/events",
+      "notes": "Wing foil downwinder classic. Wait-period event."
+    },
+    {
+      "id": "rb-megaloop-2026",
+      "name": "Red Bull Megaloop Challenge 2026",
+      "tour": "RB",
+      "sport": "kite",
+      "start_date": "2026-10-01",
+      "end_date": "2026-11-30",
+      "location": "Zandvoort",
+      "country": "NL",
+      "url": "https://www.redbull.com/int-en/events",
+      "notes": "North Sea storm-chasing kite big-air event. Wait window."
+    },
+    {
+      "id": "rb-cold-hawaii-2026",
+      "name": "Cold Hawaii PWA World Cup 2026",
+      "tour": "RB",
+      "sport": "wind",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-27",
+      "location": "Klitmøller",
+      "country": "DK",
+      "url": "https://www.redbull.com/int-en/events",
+      "notes": "Placeholder dates — confirm closer to event."
+    }
+  ]
+}

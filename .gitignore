@@ -1,0 +1,5 @@
+.claude/
+
+# Added by Dispatch — local agent coordination files
+.tasks/
+node_modules/
