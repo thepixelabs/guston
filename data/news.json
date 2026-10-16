@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:11:22.736Z",
+  "generated_at": "2026-10-16T21:06:36.073Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,27 +9,182 @@
   },
   "items": [
     {
-      "id": "4ca687552f00",
+      "id": "1fbd67eee9f4",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Tune into our latest Podcast episode!",
+      "snippet": "Check out the latest podcast from Duotone. The post Tune into our latest Podcast episode! first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/tune-into-our-latest-podcast-episode/",
+      "date": "2026-10-16T17:30:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-59.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "88c920fe4ee6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Guardians League FTA on DAZN - Advanced Television",
-      "snippet": "Guardians League FTA on DAZN Advanced Television",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmVUa0VENU9YTWhPS0JFTTJKQjBIS21DZGxSc2ZQSVZQV3hSV0ZpeTRYUmFuT3F0YVRjNE5Velp3VXhVTE5GZmNEVGoxTlNkR1l0YVRpOUhORGFSb0syd0g0MUJOaXpBTUFldFBYd3U5NlpkSkozZTZiaFZSNXhhWml3?oc=5",
-      "date": "2026-10-15T09:22:30.000Z",
+      "title": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL - Adventure Magazine",
+      "snippet": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL Adventure Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGFRakZ3TF9YZFpGN3d5b2lfaENFZ0sxWHE5QTZMNHRGTDBqQ255YmNMamE5ajF0YmNiaEJEamNxSjM4ZmFlVTEza0tvRGxDUFRHZTYtSlNrSkNpSkVGRXoxdnNpUlluemIwSXFBVlNFN19hTUNuZzhmSXV5MWt1czh2QnFSWW05RHNXUjB5RzMxSkFLQjlPTmJjNkx3aG9pZkVpZ0tHS1I0cXlfc0E?oc=5",
+      "date": "2026-10-16T17:27:06.000Z",
       "tags": [
         "surf"
       ]
     },
     {
-      "id": "04a2d4576f47",
+      "id": "52e4c98fc555",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour",
+      "snippet": "Soon to be watching all the action from Brazil! The post Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour first a…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/soon-well-be-seeing-more-of-this-with-brazil-as-the-backdrop-mexico-gka-gkakiteworldtour/",
+      "date": "2026-10-16T14:30:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-58.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "94918d345991",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "SCOTT MCKERCHER: CUTBACKS, CRAIC & G’AERIALS!",
+      "snippet": "SCOTT MCKERCHER: CUTBACKS, CRAIC & G'AERIALS! TWENTY QUESTIONS WITH SCOTT MCKERCHER Here at windsurf.co.uk we decided it was about time we caught up with one o…",
+      "url": "https://www.windsurf.co.uk/scott-mckercher-cutbacks-craic-gaerials/",
+      "date": "2026-10-16T12:03:02.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/BIG-_69T7582-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "f8fa973df02e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Golden Hour Magic",
+      "snippet": "Late sessions are magical when the sunset looks like this! The post Golden Hour Magic first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/golden-hour-magic/",
+      "date": "2026-10-16T11:30:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-57.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e924010134ea",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "KITE or WING? Theo makes the UNTHINKABLE look effortless!",
+      "snippet": "Theo Demanez style points are soaring! The post KITE or WING? Theo makes the UNTHINKABLE look effortless! first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kite-or-wing-theo-makes-the-unthinkable-look-effortless/",
+      "date": "2026-10-16T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-54.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c1ec6d3a5e43",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI",
+      "snippet": "PLAYLISTS OF THE PRO'S: MACIEK RUTKOWSKI PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI You’re sitting on the beach, anxiously waiting for your next heat. The sun’s…",
+      "url": "https://www.windsurf.co.uk/playlists-of-the-pros-maciek-rutkowski/",
+      "date": "2026-10-16T05:00:00.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/07/FV26_sl_POL23_01599-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "f3941dd55a80",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Smales Brothers Join Australia's Irukandjis for World Longboard Championships - Sportzhub",
-      "snippet": "Smales Brothers Join Australia's Irukandjis for World Longboard Championships Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3VBbFB0RkNLTFdlMjNLdC1qLWQ4NE9JaWtmZTMwajJOM1hfcmd5ZzMtV1VFOU1tRnVGODlobXV0MnJyLXZnMTRSaFI5eHhHaGhLZ2E0ZzJYejVMeFZsb3lLYmZvN1EyZ3NGZ0NvTEJuZF9oZDEyYi1Ea0RDNVVMcklVMjhObVpvX1lMbEtxUVBLTFJpMHFqRXl5THZpX1ZuUk10WkhsVmlueElqYnhhWDJ3bXNqZw?oc=5",
-      "date": "2026-10-15T09:06:41.000Z",
+      "title": "DAZN and Guardians League Announce Global Free-to-View Broadcast Partnership for Professional Surf Racing - Ministry of Sport",
+      "snippet": "DAZN and Guardians League Announce Global Free-to-View Broadcast Partnership for Professional Surf Racing Ministry of Sport",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalVoWlV3X3Z0Q1hYekQxbGtzbHU0YS01NzhvU3Y0VkptZElWX0I1SS15V0xjZnktVTMxZWNzckZGTTJDLVZjU0ptaE4zWnJEU0lENU83a3ZjelZuR3JpSnV0MFRXMWZuNjgxU2x2ekxycHd5Z3BmenhfNFVvMmRkMlpqUE43STJmV0ItdVZfNi11YjFlY1FOVUh5WUJsYjhJMm1LaVJUSEdpc0lSMnhhVFotUThXMmtPbV84RUN4VlFyYkdza0RJS09BbDdnemc?oc=5",
+      "date": "2026-10-16T03:01:39.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "1ce7fece4b8c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach - WMUR",
+      "snippet": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach WMUR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGxrLUNPZGVSUDd6aC14eUZFYkpRa2ZmeV93djl3Um1hc2EyUlJDalFWYnpWNTFTN2hwZEd2Nk1KYnVlYjBzcjRjaXMtN1otVXlCOTNrb0RhZmlCenhPTU1iNjIycHVWdDkwWWJhU3dSdVFDVklBNXBzcTQ4NVZHSDVyVWdJaXF3RFdGaGtlSFpFWkRSRUZkSmZSNEN2UUUtcEJ1LXpONkhhMWpzd1E?oc=5",
+      "date": "2026-10-15T17:21:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "052605b16e00",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Brazilian golden hour #kitesurfing #incredible",
+      "snippet": "Who is getting ready for the Brazil season? It’s just about to kick off and we can’t wait! The post Brazilian golden hour #kitesurfing #incredible first appear…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/brazilian-golden-hour-kitesurfing-incredible/",
+      "date": "2026-10-15T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-56.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "1916d2785c1e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Red Bull King Of The Air 2026 | Stino",
+      "snippet": "Red Bull King Of The Air Video entry for Stino! The post Red Bull King Of The Air 2026 | Stino first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/red-bull-king-of-the-air-2026-stino/",
+      "date": "2026-10-15T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-53.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "45ce2b58afb4",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Going massive on the short lines",
+      "snippet": "Short lines are no match for Lorenzo! This was HUGE! The post Going massive on the short lines first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/going-massive-on-the-short-lines/",
+      "date": "2026-10-15T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-55.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "79325a723f35",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Nothing like a champagne shower to celebrate a World Title #gka #gkakiteworldtour #kitesurfing",
+      "snippet": "Celebrating like nobody’s watching 🍾 The post Nothing like a champagne shower to celebrate a World Title #gka #gkakiteworldtour #kitesurfing first appeared on…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/nothing-like-a-champagne-shower-to-celebrate-a-world-title-gka-gkakiteworldtour-kitesurfing/",
+      "date": "2026-10-15T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-52.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "8230fe9348cb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "2027 Cabrinha Nitro Kite – Designer Notes",
+      "snippet": "A no compromise design for Big Air, Hang Time, and Kite Loops, the all new Nitro is the next revolutionary kite design from legendary designer Pat Goodman. A p…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/2027-cabrinha-nitro-kite-designer-notes/",
+      "date": "2026-10-15T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-51.jpg",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -95,19 +250,6 @@
       ]
     },
     {
-      "id": "208226c8d14b",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Syncro loop feels crazy‍",
-      "snippet": "That synchro loop….. The post Syncro loop feels crazy‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/syncro-loop-feels-crazy/",
-      "date": "2026-10-14T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-48.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "dcd291ea77ac",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -115,32 +257,6 @@
       "snippet": "New NSRI rescue boat to honour kiteboarding legend Graham Howes Cape Town ETC",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVVlWmtQLWpkUE1IblpUZEJNNC05MV9lUVRzN1hIMzh6RGVrLVJWcXdXeTNOWkdRQVhoNEczV2RFRThOSG1NaVFXbHN5UVFuTnVSUkJfUTBTWmF3bWxZcnpsZU4zUWhHU0YySmdvX2hLZEtzN3pORTFETmE4RHV5VTMyNE54UG42YndMY2U2VGNyVTZaeFgzMVJ4LTBRdw?oc=5",
       "date": "2026-10-14T16:00:44.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "ee027128d019",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kiting with cows #incredible #kitesurfing #kitesurfingworld #blowup #insane",
-      "snippet": "Just a spot of wildlife for Max! 🐮 The post Kiting with cows #incredible #kitesurfing #kitesurfingworld #blowup #insane first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kiting-with-cows-incredible-kitesurfing-kitesurfingworld-blowup-insane/",
-      "date": "2026-10-14T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-49.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "2d83c8b5a451",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Entry video Redbull king of the air 2026 Clement huot",
-      "snippet": "Clement Huot entry video for KOTA 2026. Good luck! The post Entry video Redbull king of the air 2026 Clement huot first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/entry-video-redbull-king-of-the-air-2026-clement-huot/",
-      "date": "2026-10-14T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/hqdefault-1.jpg",
       "tags": [
         "kite"
       ]
@@ -170,38 +286,13 @@
       ]
     },
     {
-      "id": "a9a0a411f141",
+      "id": "d5289634a166",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Taitung surfing open offers record NT$5 million prize pool - Taiwan News",
-      "snippet": "Taitung surfing open offers record NT$5 million prize pool Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kb3FUWnIwMXlFZ29ZbC1fSEFjbGI0bFNhckVEeWNvZmZ1QkV5TmN4cTdpdU5leFBxNDdyWUZOUUNLZlh1OFZxcmloSk9KNVhvV0Z3d0haM0U?oc=5",
-      "date": "2026-10-14T08:09:56.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "b81e0b6da82e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "KOTA 2026 entry video",
-      "snippet": "Mikaili Sol has dropped her entry video for KOTA 2026! This year is about to be WILD…. The post KOTA 2026 entry video first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kota-2026-entry-video/",
-      "date": "2026-10-14T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-47.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "c4e6992b86aa",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Indian Beach surf fishing tournament returns for fourth year Oct. 17 - WCTI",
-      "snippet": "Indian Beach surf fishing tournament returns for fourth year Oct. 17 WCTI",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWhGYTRwcWZSQmFxbHVkbW0xSTRPbEs3OWtWRUNfbWEwVGJrOW5VWXNVbmc4bGViSl9waVVCdllKbEJjVEZJWllncTBSOTE2N1dlRU1oMFk5cmhxeDRTWWhFNE1mSThSQ1p3RlFKNElUa1IxX0s2LXpaSmtmNUx0WUpHU2h5dXRkWEFsZ3FzOHp4OTlXdGN5Tnk4dHIzdw?oc=5",
-      "date": "2026-10-14T07:07:30.000Z",
+      "title": "Surfer suspended over alleged sexual assault of Aussie teen - The Nightly",
+      "snippet": "Surfer suspended over alleged sexual assault of Aussie teen The Nightly",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjMweUJuNWtCamVxalVmMFc1Y0tOVUpNMFI3WkZmZ0h5d0EyejJhcjVBN1V2OHQ3akR2dkVpU0JXYkQ4WlVZT0x0ejNDSmlnNkJQUm9Za05na0pTbWh6R01QSUtWOGpUdmpNSG9UR3FYWV9ObjFOQ3lGRDNyVWdoUmVqNVFlY1pJOHNVa3cwQlByckJRQ3QzVEVoT2tIaWpyYWl2dTJDS1BvT1ZNT2c1czZhNFpOdTFLcTBWRTV5RHZDNmVDbWhBZlVpeXc0RkVvdVdHdFlxMA?oc=5",
+      "date": "2026-10-14T07:00:00.000Z",
       "tags": [
         "surf"
       ]
@@ -243,19 +334,6 @@
       ]
     },
     {
-      "id": "d7916e2d73c5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Autumn shreds! #courtintheact",
-      "snippet": "Autumn is well and truly here and we can’t wait for the sessions to stack up! The post Autumn shreds! #courtintheact first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/autumn-shreds-courtintheact/",
-      "date": "2026-10-13T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-46.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "cf60769ea9f6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -280,93 +358,6 @@
       ]
     },
     {
-      "id": "e6e1a4e2df69",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "⭐ Every Frame of One Kitesurf Jump",
-      "snippet": "Slowing it down and watching the artist at work… The post ⭐ Every Frame of One Kitesurf Jump first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/%e2%ad%90-every-frame-of-one-kitesurf-jump/",
-      "date": "2026-10-13T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-45.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f3b02afffb3e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "The biggest tricks during the final of Cold Hawaii #kiteboarding #kitesurfing #adrenaline",
-      "snippet": "Still thinking about the Cold Hawaii final. What a show that was! The post The biggest tricks during the final of Cold Hawaii #kiteboarding #kitesurfing #adren…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/the-biggest-tricks-during-the-final-of-cold-hawaii-kiteboarding-kitesurfing-adrenaline/",
-      "date": "2026-10-13T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-44.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "cc9cc5f00543",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "One Kite. Unlimited possibilities. Meet the 2027 Evo SLS.",
-      "snippet": "The 2027 Evo SLS. One kite, one goal. The post One Kite. Unlimited possibilities. Meet the 2027 Evo SLS. first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/one-kite-unlimited-possibilities-meet-the-2027-evo-sls/",
-      "date": "2026-10-13T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-43.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f693445bc6ae",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "‘That’s when I begin to scream’: Mick Fanning on punching a great white shark - The Guardian",
-      "snippet": "‘That’s when I begin to scream’: Mick Fanning on punching a great white shark The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVpKY1VxQi1JVV9hNjd2NmhXYk5vU0d1VFg1WmZWRUhLVllJa0dfNzctTXY5aXhXZEpqdmw2UmI4LTc0b01UYkJQamRqclBkcDZ1aHRjRGFYVU8zaEhrTk14Rk1fSUJON0s5d0dtRXM2RTl3UUgxZTNJQ0o4bGotSS1QMG9yR2duVlBWbWVVZkhMazV4eFU2WWN3V2NNMkY1UUlPM1VR?oc=5",
-      "date": "2026-10-13T04:46:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "96878485a365",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror - Sail World Cruising",
-      "snippet": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror Sail World Cruising",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSm03SUNaOWthM0RHdmhkUVVERjBtbGxWQkl6YkNCTWVQWWZZcmNBcmpkWFdGcVZ1UGtiSHBwZERwcTZXVVl5NmRRd1Y2TGpaMnBLMXN2Wkl2UQ?oc=5",
-      "date": "2026-10-13T03:41:51.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "6b0c58944b66",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "‘Deeply serious’: Pro surfer suspended over sexual assault allegations against Aussie teen - Fox Sports",
-      "snippet": "‘Deeply serious’: Pro surfer suspended over sexual assault allegations against Aussie teen Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOOXFDak1VMm4wTURvMzV3dE9BakFuazF4WDFHN1BSVms0alJDc2NLbGJ2NGxkVEgzWHN6cEdKbTBsQzd6RXJsUlgwMjR5UG9JekxBbEEyNkxUek5DZVFURU83ZFJ2R0FOYTg1amk0dEo1VnhWQXVtaldBd3FqNUNmWlV1cXBsTE1MWTBEQmF5blJxTHFWWGwxZUtZcGhmUGEyTUFuYTAxU2l6VTVXSUl3V1hLbUV6OWY4RlF3NmNuMGgzTzRVcU1MZzhXcElxWGY1YlB5Z3ZQWlhvSFhCbXVTWjlwb3lhd2EwUjYtVkhreHJsMVUzQVB1c1VTUWNqNmU2MkxWaHpSb3BUZjdPUHBNb0NNQ3pEdGZ5eTE0a0lyV1d6RFRnWU94OHJpWThRM0VYd1IwdEozU3FmMzJVM0hyd9IBwAJBVV95cUxOOXFDak1VMm4wTURvMzV3dE9BakFuazF4WDFHN1BSVms0alJDc2NLbGJ2NGxkVEgzWHN6cEdKbTBsQzd6RXJsUlgwMjR5UG9JekxBbEEyNkxUek5DZVFURU83ZFJ2R0FOYTg1amk0dEo1VnhWQXVtaldBd3FqNUNmWlV1cXBsTE1MWTBEQmF5blJxTHFWWGwxZUtZcGhmUGEyTUFuYTAxU2l6VTVXSUl3V1hLbUV6OWY4RlF3NmNuMGgzTzRVcU1MZzhXcElxWGY1YlB5Z3ZQWlhvSFhCbXVTWjlwb3lhd2EwUjYtVkhreHJsMVUzQVB1c1VTUWNqNmU2MkxWaHpSb3BUZjdPUHBNb0NNQ3pEdGZ5eTE0a0lyV1d6RFRnWU94OHJpWThRM0VYd1IwdEozU3FmMzJVM0hydw?oc=5",
-      "date": "2026-10-13T02:16:43.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d5289634a166",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfer suspended over alleged sexual assault of Aussie teen - The Nightly",
-      "snippet": "Surfer suspended over alleged sexual assault of Aussie teen The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjMweUJuNWtCamVxalVmMFc1Y0tOVUpNMFI3WkZmZ0h5d0EyejJhcjVBN1V2OHQ3akR2dkVpU0JXYkQ4WlVZT0x0ejNDSmlnNkJQUm9Za05na0pTbWh6R01QSUtWOGpUdmpNSG9UR3FYWV9ObjFOQ3lGRDNyVWdoUmVqNVFlY1pJOHNVa3cwQlByckJRQ3QzVEVoT2tIaWpyYWl2dTJDS1BvT1ZNT2c1czZhNFpOdTFLcTBWRTV5RHZDNmVDbWhBZlVpeXc0RkVvdVdHdFlxMA?oc=5",
-      "date": "2026-10-13T01:55:44.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "2662755f6ea9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -374,6 +365,18 @@
       "snippet": "Surfer suspended from world tour for alleged sexual assault of NSW teenager SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRk8tdTdjNXVKLWdlWk9rV2ViR1BUa3lKSWEzSVNKWmp1Tmh3V2VqZ3ZHejhCY05KblkxcGUxTmVPeUhmWHVHeHRPVkp6WUFFaUc2eGZ2WTROeEVjTFVUV0lmSzA4TW1TakpoblktNWt1b0V2eFZSMmljU2VvR2dDcXpYMXllenZVSkU2bXQ3MU1NXzNsNm5WcmJhMlRlV2c5a3lIb0pyOEFWYWd1aWZUUF9XU21panFMNHF2RUl0QTkyM0k?oc=5",
       "date": "2026-10-13T00:44:56.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ff631bc5f376",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations - SURFER Magazine",
+      "snippet": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eejc1ZkVrTG1yUjkwQU5jdUlPdV94b0l5b0NoSktwbGc5cnhTc0xQcHZpcjFTeXpwbFFSaHpCQnROSS1BVmpkTFp0MFpoanl6cjJ0ZWE4Vi1ETUNRZlFhZi02NVN4dFE1QXB1dGRReVVMZFpY?oc=5",
+      "date": "2026-10-12T21:21:31.000Z",
       "tags": [
         "surf"
       ]
