@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:23:40.687Z",
+  "generated_at": "2026-10-17T10:42:12.486Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,26 @@
   },
   "items": [
     {
+      "id": "d387126c57f9",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Look how long this wave is… it literally keeps building up forever.",
+      "snippet": "When the swell just isn’t stopping you’ve got to keep going! The post Look how long this wave is… it literally keeps building up forever. first appeared on IKS…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/look-how-long-this-wave-is-it-literally-keeps-building-up-forever/",
+      "date": "2026-10-17T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-60.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "88c920fe4ee6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL - Adventure Magazine",
       "snippet": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL Adventure Magazine",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGFRakZ3TF9YZFpGN3d5b2lfaENFZ0sxWHE5QTZMNHRGTDBqQ255YmNMamE5ajF0YmNiaEJEamNxSjM4ZmFlVTEza0tvRGxDUFRHZTYtSlNrSkNpSkVGRXoxdnNpUlluemIwSXFBVlNFN19hTUNuZzhmSXV5MWt1czh2QnFSWW05RHNXUjB5RzMxSkFLQjlPTmJjNkx3aG9pZkVpZ0tHS1I0cXlfc0E?oc=5",
-      "date": "2026-10-16T17:29:06.000Z",
+      "date": "2026-10-16T17:29:07.000Z",
       "tags": [
         "surf"
       ]
@@ -97,12 +110,12 @@
       ]
     },
     {
-      "id": "6dfe059bc7a1",
+      "id": "b8072b17d323",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
-      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Yachts and Yachting Online",
-      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Yachts and Yachting Online",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnR6M2piZDltelhEdzZIX1lHRTc5X2hVTS10M2k0X3NsdGtFcTkyeHBxa2RVb0JrUzVMUFdadmk4RGY5WVp5YjBLU0xQUnNJdFpMbWJ3cHlMdVJIV1NMdG9EcGdOdHlTTzZGbjJSQzhUalZXdjBTVlo1eVp2UnVndmxJVQ?oc=5",
+      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Sail-World.com",
+      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
       "date": "2026-10-16T10:01:00.000Z",
       "tags": [
         "wing"
@@ -219,19 +232,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/2027-cabrinha-nitro-kite-designer-notes/",
       "date": "2026-10-15T11:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-51.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a1e6ecc68ff5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sheet in. Send it.",
-      "snippet": "Kite low and enjoy the ride! The post Sheet in. Send it. first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/sheet-in-send-it/",
-      "date": "2026-10-15T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-50.jpg",
       "tags": [
         "kite"
       ]
@@ -373,10 +373,10 @@
       "id": "12c826fa761c",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "October 16-25: MEO Rip Curl Pro Portugal Presented By Corona Cero To Feature Biggest Portuguese Field Ever - Surf News Network",
-      "snippet": "October 16-25: MEO Rip Curl Pro Portugal Presented By Corona Cero To Feature Biggest Portuguese Field Ever Surf News Network",
+      "title": "October 16-25: Friday Pau. Supertubos Delivers Barrel Fest For MEO Rip Curl Pro Presented by Corona Cero - Surf News Network",
+      "snippet": "October 16-25: Friday Pau. Supertubos Delivers Barrel Fest For MEO Rip Curl Pro Presented by Corona Cero Surf News Network",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
-      "date": "2026-10-13T15:17:45.000Z",
+      "date": "2026-10-13T15:11:52.000Z",
       "tags": [
         "surf"
       ]
