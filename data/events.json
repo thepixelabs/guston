@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:12:25.634Z",
+  "generated_at": "2026-10-17T10:06:26.239Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -369,7 +369,7 @@
       "location": null,
       "country": null,
       "url": "https://www.pwaworldtour.com/events/detail/tiree-wave-classic/",
-      "status": "live"
+      "status": "past"
     },
     {
       "id": "wsl-stop-no-10-surf-abu-dhabi-abu-dhabi-uae",
