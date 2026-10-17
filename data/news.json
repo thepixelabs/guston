@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:06:36.073Z",
+  "generated_at": "2026-10-17T04:23:40.687Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,28 +9,40 @@
   },
   "items": [
     {
-      "id": "1fbd67eee9f4",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Tune into our latest Podcast episode!",
-      "snippet": "Check out the latest podcast from Duotone. The post Tune into our latest Podcast episode! first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/tune-into-our-latest-podcast-episode/",
-      "date": "2026-10-16T17:30:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-59.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "88c920fe4ee6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL - Adventure Magazine",
       "snippet": "SUPERTUBOS TURNS IT ON AS WORLD SURF LEAGUE RETURNS TO THE WAVES IN PORTUGAL Adventure Magazine",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGFRakZ3TF9YZFpGN3d5b2lfaENFZ0sxWHE5QTZMNHRGTDBqQ255YmNMamE5ajF0YmNiaEJEamNxSjM4ZmFlVTEza0tvRGxDUFRHZTYtSlNrSkNpSkVGRXoxdnNpUlluemIwSXFBVlNFN19hTUNuZzhmSXV5MWt1czh2QnFSWW05RHNXUjB5RzMxSkFLQjlPTmJjNkx3aG9pZkVpZ0tHS1I0cXlfc0E?oc=5",
-      "date": "2026-10-16T17:27:06.000Z",
+      "date": "2026-10-16T17:29:06.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "1fbd67eee9f4",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Tune into our latest Podcast episode!",
+      "snippet": "Check out the latest podcast from Duotone. The post Tune into our latest Podcast episode! first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/tune-into-our-latest-podcast-episode/",
+      "date": "2026-10-16T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-59.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6f2cd57b3210",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Side wing foil - Sail-World.com",
+      "snippet": "Side wing foil Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WM2JNejljaldTdmVxTUlxMG5oa2RDR3g0Y2Y3Z3hZZXhLUzA2YmZESm5laW9HSExjbnd4ZzFtdzI1NndLUWxCUHBOTWUwWG4w?oc=5",
+      "date": "2026-10-16T15:29:33.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -40,10 +52,22 @@
       "title": "Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour",
       "snippet": "Soon to be watching all the action from Brazil! The post Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour first a…",
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/soon-well-be-seeing-more-of-this-with-brazil-as-the-backdrop-mexico-gka-gkakiteworldtour/",
-      "date": "2026-10-16T14:30:00.000Z",
+      "date": "2026-10-16T14:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-58.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "01d508e15e5f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Side wing foil - Yachts and Yachting Online",
+      "snippet": "Side wing foil Yachts and Yachting Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nR1BMWi1zdkZPT2ZVV05rdlFadEdVWnlnMGlaWWdWY1J1SVN0Znd4b2xKbFp6bGR0MjJmTGp5TUR4bm41Z09yN0JyTldEbUZjNUMtU1cwajRSZw?oc=5",
+      "date": "2026-10-16T13:50:56.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -66,10 +90,22 @@
       "title": "Golden Hour Magic",
       "snippet": "Late sessions are magical when the sunset looks like this! The post Golden Hour Magic first appeared on IKSURFMAG.",
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/golden-hour-magic/",
-      "date": "2026-10-16T11:30:00.000Z",
+      "date": "2026-10-16T11:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-57.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "6dfe059bc7a1",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Yachts and Yachting Online",
+      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Yachts and Yachting Online",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnR6M2piZDltelhEdzZIX1lHRTc5X2hVTS10M2k0X3NsdGtFcTkyeHBxa2RVb0JrUzVMUFdadmk4RGY5WVp5YjBLU0xQUnNJdFpMbWJ3cHlMdVJIV1NMdG9EcGdOdHlTTzZGbjJSQzhUalZXdjBTVlo1eVp2UnVndmxJVQ?oc=5",
+      "date": "2026-10-16T10:01:00.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -99,18 +135,6 @@
       ]
     },
     {
-      "id": "f3941dd55a80",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "DAZN and Guardians League Announce Global Free-to-View Broadcast Partnership for Professional Surf Racing - Ministry of Sport",
-      "snippet": "DAZN and Guardians League Announce Global Free-to-View Broadcast Partnership for Professional Surf Racing Ministry of Sport",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalVoWlV3X3Z0Q1hYekQxbGtzbHU0YS01NzhvU3Y0VkptZElWX0I1SS15V0xjZnktVTMxZWNzckZGTTJDLVZjU0ptaE4zWnJEU0lENU83a3ZjelZuR3JpSnV0MFRXMWZuNjgxU2x2ekxycHd5Z3BmenhfNFVvMmRkMlpqUE43STJmV0ItdVZfNi11YjFlY1FOVUh5WUJsYjhJMm1LaVJUSEdpc0lSMnhhVFotUThXMmtPbV84RUN4VlFyYkdza0RJS09BbDdnemc?oc=5",
-      "date": "2026-10-16T03:01:39.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "1ce7fece4b8c",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -120,6 +144,18 @@
       "date": "2026-10-15T17:21:00.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "7539c17d286f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Daily Coverage: La Marginal Surfing Pro QS 4,000 - Day 2 - World Surf League",
+      "snippet": "Daily Coverage: La Marginal Surfing Pro QS 4,000 - Day 2 World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmExUXYwUjZrbnRmWTJQSTA1US1QTm14SExGSVhRWk1qMkJFZjRsNk5od3J1cnY0SHRuZFZlZ0lqQklmUml0WXNvc0dPajAyWHBnNWRuVjc4bzdVNEp3cm01bXlfWWo0V2VrMkpNWXcxLU1PSTVKMDBfUk1NT203ZW9iRzhQWWpDVEo1eGxPVU1WMFkyUkdoT0JhVVJqejg?oc=5",
+      "date": "2026-10-15T17:09:44.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -226,13 +262,13 @@
       ]
     },
     {
-      "id": "a08943fc373b",
+      "id": "0b56ee9c3c81",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "51-Year-Old Steven Flanagan Pumped for World Waveski Surfing Titles Debut - Paddle Australia",
-      "snippet": "51-Year-Old Steven Flanagan Pumped for World Waveski Surfing Titles Debut Paddle Australia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWl2LUhsTm9ycUE5TEFWNFRab0pISDAyajJnTjZfWHlXNzlLMmp6MDQ3bjZKRGV6SGtPNW44YnpMQVhwcXBSaDVyNmVFMW4yRERhb28xQW14c0wwUENVdWxDNjhPQ0ZZNEk3emZ1WkQyX3VHdGRXYkNzQm12LV93TkF5eUhrd1lubXc3M2hiNXp1cmdvMEdSXzB4VQ?oc=5",
-      "date": "2026-10-14T23:38:24.000Z",
+      "title": "BACK ON THE WAVES A Chilean surfer who survived childhood cancer is fighting to return to the podium despite renewed health setbacks and the challenges of competition. #dwsports - Facebook",
+      "snippet": "BACK ON THE WAVES A Chilean surfer who survived childhood cancer is fighting to return to the podium despite renewed health setbacks and the challenges of comp…",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdW9CQmNyeHBocVJBU3NiY29xV1R2OEdHRldPX3g4S2lWQWllLUtxVmI3VmF5cTZaalNfZkE2N0dzeGx5OU1UQlFmT001bXp1dTM2cTE4U0hfTUFLYzBTSU5WdzlmY3hfNnFCUks0bjF5czhpNW9laVFyRDY3STBCVERWS2x4OEEwREF0Y1U2TlFvckliNHNPdEtKNlVxamNhZHdPNE10Vm91dm9zaTFOeVl5NnprNkpTY0U2cW0yWnVOS19VZkU5NXR0TzZFZ25zTVdsR0VFUQ?oc=5",
+      "date": "2026-10-14T21:00:09.000Z",
       "tags": [
         "surf"
       ]
@@ -283,18 +319,6 @@
       "date": "2026-10-14T09:22:34.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "d5289634a166",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfer suspended over alleged sexual assault of Aussie teen - The Nightly",
-      "snippet": "Surfer suspended over alleged sexual assault of Aussie teen The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjMweUJuNWtCamVxalVmMFc1Y0tOVUpNMFI3WkZmZ0h5d0EyejJhcjVBN1V2OHQ3akR2dkVpU0JXYkQ4WlVZT0x0ejNDSmlnNkJQUm9Za05na0pTbWh6R01QSUtWOGpUdmpNSG9UR3FYWV9ObjFOQ3lGRDNyVWdoUmVqNVFlY1pJOHNVa3cwQlByckJRQ3QzVEVoT2tIaWpyYWl2dTJDS1BvT1ZNT2c1czZhNFpOdTFLcTBWRTV5RHZDNmVDbWhBZlVpeXc0RkVvdVdHdFlxMA?oc=5",
-      "date": "2026-10-14T07:00:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -353,30 +377,6 @@
       "snippet": "October 16-25: MEO Rip Curl Pro Portugal Presented By Corona Cero To Feature Biggest Portuguese Field Ever Surf News Network",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
       "date": "2026-10-13T15:17:45.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "2662755f6ea9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfer suspended from world tour for alleged sexual assault of NSW teenager - SMH.com.au",
-      "snippet": "Surfer suspended from world tour for alleged sexual assault of NSW teenager SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRk8tdTdjNXVKLWdlWk9rV2ViR1BUa3lKSWEzSVNKWmp1Tmh3V2VqZ3ZHejhCY05KblkxcGUxTmVPeUhmWHVHeHRPVkp6WUFFaUc2eGZ2WTROeEVjTFVUV0lmSzA4TW1TakpoblktNWt1b0V2eFZSMmljU2VvR2dDcXpYMXllenZVSkU2bXQ3MU1NXzNsNm5WcmJhMlRlV2c5a3lIb0pyOEFWYWd1aWZUUF9XU21panFMNHF2RUl0QTkyM0k?oc=5",
-      "date": "2026-10-13T00:44:56.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ff631bc5f376",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations - SURFER Magazine",
-      "snippet": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eejc1ZkVrTG1yUjkwQU5jdUlPdV94b0l5b0NoSktwbGc5cnhTc0xQcHZpcjFTeXpwbFFSaHpCQnROSS1BVmpkTFp0MFpoanl6cjJ0ZWE4Vi1ETUNRZlFhZi02NVN4dFE1QXB1dGRReVVMZFpY?oc=5",
-      "date": "2026-10-12T21:21:31.000Z",
       "tags": [
         "surf"
       ]
