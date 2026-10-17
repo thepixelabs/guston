@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:42:12.486Z",
+  "generated_at": "2026-10-17T15:33:06.437Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "73d55eab24cb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "⭐ One Kite for Every Kind of Day Duotone Evo SLS #kitesurfing #kiteboarding #duotone ​⁠",
+      "snippet": "Light wind, strong wind, big air. The Evo SLS is the kite I grab when I don’t know what the day will bring 🌊 The post ⭐ One Kite for Every Kind of Day Duotone…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/%e2%ad%90-one-kite-for-every-kind-of-day-duotone-evo-sls-kitesurfing-kiteboarding-duotone-%e2%81%a0/",
+      "date": "2026-10-17T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-61.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "d387126c57f9",
       "source": "iksurfmag",
@@ -224,19 +237,6 @@
       ]
     },
     {
-      "id": "8230fe9348cb",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "2027 Cabrinha Nitro Kite – Designer Notes",
-      "snippet": "A no compromise design for Big Air, Hang Time, and Kite Loops, the all new Nitro is the next revolutionary kite design from legendary designer Pat Goodman. A p…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/2027-cabrinha-nitro-kite-designer-notes/",
-      "date": "2026-10-15T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-51.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "d557073f3e07",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -310,18 +310,6 @@
       ]
     },
     {
-      "id": "696843ed7aad",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Graham Howes’ family finds hope in the wake of tragedy | TygerBurger - https://novanews.co.za/",
-      "snippet": "Graham Howes’ family finds hope in the wake of tragedy | TygerBurger https://novanews.co.za/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkNTVS16M0xaLV9vOFBSTDBDbXV3a3p4N0Y5UU54ZU1PZ3dqME9oelVYYVhtMWF2NHdFd0ZYQVNmdHZoVUNyc2xnWlFUcXlBQTBMVnoxd2U4ZG1rSE5jQXpoVWFuM2MzUDh5UzlGekZ2YlZ6VlpxN2MwZElIUkhIS2t0R1RCTENEUVJTNkxKVXNsNUk?oc=5",
-      "date": "2026-10-14T09:22:34.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "0a7d5e7d2ca2",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -331,18 +319,6 @@
       "date": "2026-10-13T22:40:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "d9f144f3a131",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Graham Howes’ legacy lives on as new NSRI rescue boat nears completion - The Witness | Your compass in the community",
-      "snippet": "Graham Howes’ legacy lives on as new NSRI rescue boat nears completion The Witness | Your compass in the community",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGN3SllsVDVDV0RpU1NMLTNNbEVvd3pHb3pFWERMM0pkb2NuU0EwU1hpcHMyOWdUR0pIVkZjdDdRQzlVSzg5ZVY2QXhlb2hBQldfakxMaG9NWFNrVWVUdTRZSlN4YTNnSUVXQW9yUGpTM2o0VXpnSkh3eUhQY1FDVHJ2QkV6dVJmZ0pBd1NqcHF2eXZwa2hfeUkyUEVKZ0wwTWwwal9vVWlfM2Mw?oc=5",
-      "date": "2026-10-13T20:04:14.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -377,6 +353,30 @@
       "snippet": "October 16-25: Friday Pau. Supertubos Delivers Barrel Fest For MEO Rip Curl Pro Presented by Corona Cero Surf News Network",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
       "date": "2026-10-13T15:11:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "96878485a365",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror - Sail World Cruising",
+      "snippet": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror Sail World Cruising",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSm03SUNaOWthM0RHdmhkUVVERjBtbGxWQkl6YkNCTWVQWWZZcmNBcmpkWFdGcVZ1UGtiSHBwZERwcTZXVVl5NmRRd1Y2TGpaMnBLMXN2Wkl2UQ?oc=5",
+      "date": "2026-10-13T03:41:51.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "ff631bc5f376",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations - SURFER Magazine",
+      "snippet": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eejc1ZkVrTG1yUjkwQU5jdUlPdV94b0l5b0NoSktwbGc5cnhTc0xQcHZpcjFTeXpwbFFSaHpCQnROSS1BVmpkTFp0MFpoanl6cjJ0ZWE4Vi1ETUNRZlFhZi02NVN4dFE1QXB1dGRReVVMZFpY?oc=5",
+      "date": "2026-10-12T21:21:31.000Z",
       "tags": [
         "surf"
       ]
