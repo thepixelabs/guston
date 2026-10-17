@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:33:06.437Z",
+  "generated_at": "2026-10-17T20:35:40.228Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "7d4865430d7b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kung fu in the golden light #incredible #surfing #blowup #kitesurfing #insane",
+      "snippet": "Kung Fu fighter AKA Max Tullet! The post Kung fu in the golden light #incredible #surfing #blowup #kitesurfing #insane first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kung-fu-in-the-golden-light-incredible-surfing-blowup-kitesurfing-insane/",
+      "date": "2026-10-17T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-62.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "73d55eab24cb",
       "source": "iksurfmag",
@@ -19,6 +32,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-61.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "fddf319e1e5b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Malta’s BOMBA joins WSL press corps as surf magazine goes global in Portugal - SportsDesk",
+      "snippet": "Malta’s BOMBA joins WSL press corps as surf magazine goes global in Portugal SportsDesk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2VaRy1TdTBldkFOaEZ6SUc2SEw4dmpndTNPREhJc3lGemg5WEdoeHBEb3NqX0Q0T3o0Q1BMLUhZbGlGR2pzSjUtcFhUMFRSVHQyU2UzY2g5ZGZQNzhoaGdqXzgyMWVpLWl4QXBsVWx1WGZmY3dfNFExUjFQb213MjkzeF9ucDhPUDdJMi1fSGxaM3h2UmZGVk1yTTRsYWR0eGwxZ0sxeDgtRUdtU1lsMmJrLWtaeWVuTnc?oc=5",
+      "date": "2026-10-17T13:01:17.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -224,19 +249,6 @@
       ]
     },
     {
-      "id": "79325a723f35",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Nothing like a champagne shower to celebrate a World Title #gka #gkakiteworldtour #kitesurfing",
-      "snippet": "Celebrating like nobody’s watching 🍾 The post Nothing like a champagne shower to celebrate a World Title #gka #gkakiteworldtour #kitesurfing first appeared on…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/nothing-like-a-champagne-shower-to-celebrate-a-world-title-gka-gkakiteworldtour-kitesurfing/",
-      "date": "2026-10-15T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-52.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "d557073f3e07",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -367,18 +379,6 @@
       "date": "2026-10-13T03:41:51.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "ff631bc5f376",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations - SURFER Magazine",
-      "snippet": "Championship Tour Surfer Suspended After “Deeply Serious” Allegations SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eejc1ZkVrTG1yUjkwQU5jdUlPdV94b0l5b0NoSktwbGc5cnhTc0xQcHZpcjFTeXpwbFFSaHpCQnROSS1BVmpkTFp0MFpoanl6cjJ0ZWE4Vi1ETUNRZlFhZi02NVN4dFE1QXB1dGRReVVMZFpY?oc=5",
-      "date": "2026-10-12T21:21:31.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
