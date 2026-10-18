@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:51:05.464Z",
+  "generated_at": "2026-10-18T20:41:12.954Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "f8b25e9e49a9",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "NAZARÉ IS CALLING: THE WORLD’S BIGGEST WAVES ARE BACK FOR 2026/27 - Adventure Magazine",
+      "snippet": "NAZARÉ IS CALLING: THE WORLD’S BIGGEST WAVES ARE BACK FOR 2026/27 Adventure Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTVkeUo2V2tFMzZuS1BMX3BWblA0QnlVbFRzd0w2ZHJXcmNhOWRnSVZveXdrdE90S2ZBX1daSlNIV3RPeFc2Q3NVY3EyQ1Y1VlRfQUtKYzJaWUlpZkc5TmU3cDJUNllsTlk4M2U3S3p3UkhLQ3BQdEQ4cTJhb2F5M2pZd0RyNWVxUHYwTlpLTzRQTlVUQXU2Sno4RkQ?oc=5",
+      "date": "2026-10-18T20:39:34.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "c3f0f11c5416",
       "source": "iksurfmag",
@@ -200,8 +212,8 @@
       "id": "61c7780c1dc1",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals - https://novanews.co.za/",
-      "snippet": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals https://novanews.co.za/",
+      "title": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals | TygerBurger - https://novanews.co.za/",
+      "snippet": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals | TygerBurger https://novanews.co.za/",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1JpeTRndXRGb1BTRWpzQ2tzbUI1ZFJCbmdNWXVzd2hRa19DeS1USEVHaDJ6blRSY0VWcG5JRnRjQXNoZ1ZFU3J4aUJVbTJRQ0g5alR5djY0MXEtQlBnR0xoMFVKV3p5T211T0JuTTRzU1lmQ3hlaXM3eWlpM0JBUXpPSHlHLW13LXZPb3BLeWJQd245d2ZyLUNnNmZNR0g1MFRlYw?oc=5",
       "date": "2026-10-16T11:07:31.000Z",
       "tags": [
@@ -363,18 +375,6 @@
       "snippet": "Pro surfer Alan Cleland Jr. suspended from league after sexual assault allegations involving teen New York Post",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeDJIUGYtdG8wZFRRZTF2TnhFdlFSNVBBb3UyNnhGRjdBamY3cklmZ2hUT18ydUM0U1NFRFFCdUFfN1YwOEw0M21LR2FITDdudmQ3YmhkaUxBRHZ6RDFaU0NVZlNoMVFpbnVzd0syZjg5ZHZ5bmpRUVYwbllkR3ZxYW5KTXZjUldKODk3VHFEeXpXNG1oZ056Ym81RmJQdkZPb1dPeURKdzlPcjRwNGpjRS1JVzJlcnVfcFZvai13SkxFNFc2WWJtRE8tMkI3QWs5?oc=5",
       "date": "2026-10-13T15:56:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "12c826fa761c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "October 16-25: Friday Pau. Supertubos Delivers Barrel Fest For MEO Rip Curl Pro Presented by Corona Cero - Surf News Network",
-      "snippet": "October 16-25: Friday Pau. Supertubos Delivers Barrel Fest For MEO Rip Curl Pro Presented by Corona Cero Surf News Network",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
-      "date": "2026-10-13T15:11:52.000Z",
       "tags": [
         "surf"
       ]
