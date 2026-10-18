@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:35:40.228Z",
+  "generated_at": "2026-10-18T04:30:46.135Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "6c6438969627",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Pittwater Online News - Pittwater Online News",
+      "snippet": "Pittwater Online News Pittwater Online News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmNlVG5hVHBrWEttcXREX05FNmk2MmRTZ1h4RG1jcW9aYWhDcXdqa0U3ajlhYW4tQnEtZ2hjd1dMWmg3WGlJeVJ4TUJFMlhQSFB0ZVFlSThTalFaOTBneVU2YkR4UnJrLXZhUG1pN3ZOemNrc3ZRZG40R2ZZM1FvR3Jhcy1WWmxTNDUxZA?oc=5",
+      "date": "2026-10-17T20:11:37.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "7d4865430d7b",
       "source": "iksurfmag",
@@ -57,6 +69,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-60.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "b41a1a1162ce",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Brave pooches hang eight in California surfing contest - Reuters",
+      "snippet": "Brave pooches hang eight in California surfing contest Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRlVxc25YMWk1c2NvN0dTa3czRjhlRW1idXJjcGFCcEhhdnVHMTdoZXRwVlZHZ2N2SG9HaG1LeHpvbTZVOGZacUJyN2d1OVZ6SVJVWDV5RmM5SGg2MzNnQlhaY01Ndm1qZUlHQUR5MTg1VUdYTVI2NkJMbXhSaHp5bDJIYl9OMzhJaE1yV1ZNSzBZM29kTDBSaERXd2NEV05vRl96Q2ZsRFdoZlgyc2l6Z25td1cwc29KdTc5YTVGRG4yMFpYYjJsZzBLTFJzYUNaQ1lvV0ZCMFB2aFVReU13dGhUTnB5UktmZXAtOTFR?oc=5",
+      "date": "2026-10-17T00:13:49.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -274,18 +298,6 @@
       ]
     },
     {
-      "id": "0b56ee9c3c81",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "BACK ON THE WAVES A Chilean surfer who survived childhood cancer is fighting to return to the podium despite renewed health setbacks and the challenges of competition. #dwsports - Facebook",
-      "snippet": "BACK ON THE WAVES A Chilean surfer who survived childhood cancer is fighting to return to the podium despite renewed health setbacks and the challenges of comp…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdW9CQmNyeHBocVJBU3NiY29xV1R2OEdHRldPX3g4S2lWQWllLUtxVmI3VmF5cTZaalNfZkE2N0dzeGx5OU1UQlFmT001bXp1dTM2cTE4U0hfTUFLYzBTSU5WdzlmY3hfNnFCUks0bjF5czhpNW9laVFyRDY3STBCVERWS2x4OEEwREF0Y1U2TlFvckliNHNPdEtKNlVxamNhZHdPNE10Vm91dm9zaTFOeVl5NnprNkpTY0U2cW0yWnVOS19VZkU5NXR0TzZFZ25zTVdsR0VFUQ?oc=5",
-      "date": "2026-10-14T21:00:09.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "fc48bc4747db",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -367,18 +379,6 @@
       "date": "2026-10-13T15:11:52.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "96878485a365",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror - Sail World Cruising",
-      "snippet": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror Sail World Cruising",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSm03SUNaOWthM0RHdmhkUVVERjBtbGxWQkl6YkNCTWVQWWZZcmNBcmpkWFdGcVZ1UGtiSHBwZERwcTZXVVl5NmRRd1Y2TGpaMnBLMXN2Wkl2UQ?oc=5",
-      "date": "2026-10-13T03:41:51.000Z",
-      "tags": [
-        "wing"
       ]
     }
   ]
