@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:02:46.000Z",
+  "generated_at": "2026-10-18T15:51:05.464Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,32 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "c3f0f11c5416",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kiting with boogie‍",
+      "snippet": "Bring a friend for your kite session! 🐶 The post Kiting with boogie‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kiting-with-boogie/",
+      "date": "2026-10-18T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-65.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "576e53f57737",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Two Girls, Lot of Cameras , the Whole World to Ride #saltybabes #kiteboarding #wingfoiling",
+      "snippet": "When it feels too good to be true!! The post Two Girls, Lot of Cameras , the Whole World to Ride #saltybabes #kiteboarding #wingfoiling first appeared on IKSUR…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/two-girls-lot-of-cameras-the-whole-world-to-ride-saltybabes-kiteboarding-wingfoiling/",
+      "date": "2026-10-18T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-64.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "8391fe067617",
       "source": "google_surf",
@@ -27,7 +53,7 @@
       "title": "ISA suspends athlete over abuse allegations - Inside The Games",
       "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
-      "date": "2026-10-18T08:48:45.000Z",
+      "date": "2026-10-18T08:58:34.000Z",
       "tags": [
         "surf"
       ]
@@ -171,6 +197,18 @@
       ]
     },
     {
+      "id": "61c7780c1dc1",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals - https://novanews.co.za/",
+      "snippet": "Red Bull King of the Air returns to Bloubergstrand for 2026 finals https://novanews.co.za/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1JpeTRndXRGb1BTRWpzQ2tzbUI1ZFJCbmdNWXVzd2hRa19DeS1USEVHaDJ6blRSY0VWcG5JRnRjQXNoZ1ZFU3J4aUJVbTJRQ0g5alR5djY0MXEtQlBnR0xoMFVKV3p5T211T0JuTTRzU1lmQ3hlaXM3eWlpM0JBUXpPSHlHLW13LXZPb3BLeWJQd245d2ZyLUNnNmZNR0g1MFRlYw?oc=5",
+      "date": "2026-10-16T11:07:31.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "f8fa973df02e",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -209,19 +247,6 @@
       ]
     },
     {
-      "id": "c1ec6d3a5e43",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI",
-      "snippet": "PLAYLISTS OF THE PRO'S: MACIEK RUTKOWSKI PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI You’re sitting on the beach, anxiously waiting for your next heat. The sun’s…",
-      "url": "https://www.windsurf.co.uk/playlists-of-the-pros-maciek-rutkowski/",
-      "date": "2026-10-16T05:00:00.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/07/FV26_sl_POL23_01599-copy-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
       "id": "1ce7fece4b8c",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -243,32 +268,6 @@
       "date": "2026-10-15T17:09:44.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "052605b16e00",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Brazilian golden hour #kitesurfing #incredible",
-      "snippet": "Who is getting ready for the Brazil season? It’s just about to kick off and we can’t wait! The post Brazilian golden hour #kitesurfing #incredible first appear…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/brazilian-golden-hour-kitesurfing-incredible/",
-      "date": "2026-10-15T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-56.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "1916d2785c1e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Red Bull King Of The Air 2026 | Stino",
-      "snippet": "Red Bull King Of The Air Video entry for Stino! The post Red Bull King Of The Air 2026 | Stino first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/red-bull-king-of-the-air-2026-stino/",
-      "date": "2026-10-15T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-53.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
