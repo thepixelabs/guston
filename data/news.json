@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:30:46.135Z",
+  "generated_at": "2026-10-18T11:02:46.000Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,43 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "8391fe067617",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Giant Waves Await as Nazaré Big Wave Challenge Returns With New Format - Sportzhub",
+      "snippet": "Giant Waves Await as Nazaré Big Wave Challenge Returns With New Format Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzYzYTlvTXAtcXBULUdtcUxQck56dV83LVE4VDk2MUswR2wtOWw0TUYybFFVTFROdzV6MEJtMktHcXZaTEdrVklOSThlZWMtT0RGTFBhWEV0cUMtc2hzVThOTDEtZUE5YVJzUk8wRlpIS3pkQ2lwOVFUZ0h1dU9ORVBRcVJybG0yWGJwd29UekFuSzhzenJCczFORld0Y1RwbHctZm9UbnU2UEtHVnc?oc=5",
+      "date": "2026-10-18T09:23:59.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "cec1d8d619cc",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "ISA suspends athlete over abuse allegations - Inside The Games",
+      "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
+      "date": "2026-10-18T08:48:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8432d5d9021c",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "This kite harness is built for freeriders",
+      "snippet": "Minimal feel, maximum performance — the Riot Light kite harness is built for freeriders who demand freedom of movement without compromising on support 💪 🌊 ⭐…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/this-kite-harness-is-built-for-freeriders/",
+      "date": "2026-10-18T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-63.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "6c6438969627",
       "source": "google_surf",
@@ -44,18 +81,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-61.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "fddf319e1e5b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Malta’s BOMBA joins WSL press corps as surf magazine goes global in Portugal - SportsDesk",
-      "snippet": "Malta’s BOMBA joins WSL press corps as surf magazine goes global in Portugal SportsDesk",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2VaRy1TdTBldkFOaEZ6SUc2SEw4dmpndTNPREhJc3lGemg5WEdoeHBEb3NqX0Q0T3o0Q1BMLUhZbGlGR2pzSjUtcFhUMFRSVHQyU2UzY2g5ZGZQNzhoaGdqXzgyMWVpLWl4QXBsVWx1WGZmY3dfNFExUjFQb213MjkzeF9ucDhPUDdJMi1fSGxaM3h2UmZGVk1yTTRsYWR0eGwxZ0sxeDgtRUdtU1lsMmJrLWtaeWVuTnc?oc=5",
-      "date": "2026-10-17T13:01:17.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -143,19 +168,6 @@
       "date": "2026-10-16T13:50:56.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "94918d345991",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "SCOTT MCKERCHER: CUTBACKS, CRAIC & G’AERIALS!",
-      "snippet": "SCOTT MCKERCHER: CUTBACKS, CRAIC & G'AERIALS! TWENTY QUESTIONS WITH SCOTT MCKERCHER Here at windsurf.co.uk we decided it was about time we caught up with one o…",
-      "url": "https://www.windsurf.co.uk/scott-mckercher-cutbacks-craic-gaerials/",
-      "date": "2026-10-16T12:03:02.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/BIG-_69T7582-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     },
     {
@@ -255,19 +267,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/red-bull-king-of-the-air-2026-stino/",
       "date": "2026-10-15T17:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-53.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "45ce2b58afb4",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Going massive on the short lines",
-      "snippet": "Short lines are no match for Lorenzo! This was HUGE! The post Going massive on the short lines first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/going-massive-on-the-short-lines/",
-      "date": "2026-10-15T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-55.jpg",
       "tags": [
         "kite"
       ]
