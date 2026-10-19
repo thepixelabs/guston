@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:11:37.557Z",
+  "generated_at": "2026-10-19T22:20:29.078Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,14 +9,64 @@
   },
   "items": [
     {
-      "id": "0ac48cbaa283",
+      "id": "49b9a1c54023",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Dave Stanfield, Voice of Professional Surfing, Has Died - SURFER Magazine",
+      "snippet": "Dave Stanfield, Voice of Professional Surfing, Has Died SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbnRtQVFESWVtRUw0SGZiSjFYVE1FNlBsQnBmbnBSS2NWQlhidFR0dVBxdjFUc3MzazRTQ19vMXJYa21QZ1FNLTJNYjljSzBMSGVqT0lHcDVIOGZBUTFBejBsVDNmQU9XM0NIYWtEa3dWWm9ycjNXeVl1YVlNcnM?oc=5",
+      "date": "2026-10-19T19:10:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "42b833620658",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back - Surf News Network",
+      "snippet": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back Surf News Network",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUFUN3BOc2N1aUpCVjJvemhXSFh0ZUc0aXRhUnJxenhEX0hVZHV0dXozTFFXNm1OQUZqQko1SnZtZW0td0pLbkxVZEZvQTFoSHl5S3JtbUYxSjRFNE01WEI1SkV3S0UxS2FGZEtsTjhfX2xXcnVaVHlfMjJIVWt0amJVNW5xOFVZek1LTWV4aw?oc=5",
+      "date": "2026-10-19T17:19:04.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "9c83c11bf14a",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
-      "title": "Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling",
-      "snippet": "To kite or to wing… the infinite question! The post Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kite-or-wing-you-decide-saltybabes-kiteboarding-wingfoiling/",
-      "date": "2026-10-19T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-67.jpg",
+      "title": "Can you count how many flips?",
+      "snippet": "How many flips do you count? The post Can you count how many flips? first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/can-you-count-how-many-flips/",
+      "date": "2026-10-19T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-69.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ab177db87be7",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES!",
+      "snippet": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! Maui calling… and our crystal bal…",
+      "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
+      "date": "2026-10-19T15:00:29.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "930682679dfa",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Lab Express #01 – Review des NTT 360 de chez @DUOTONEKiteboarding #kitesurf #kiteboarding #review",
+      "snippet": "Paul Serin giving his first impressions on the Duotone NTT 360 straps! The post Lab Express #01 – Review des NTT 360 de chez @DUOTONEKiteboarding #kitesurf #ki…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/lab-express-01-review-des-ntt-360-de-chez-duotonekiteboarding-kitesurf-kiteboarding-review/",
+      "date": "2026-10-19T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-68.jpg",
       "tags": [
         "kite"
       ]
@@ -28,9 +78,22 @@
       "title": "Virginia Beach may have no waves, but its surf culture is more than a century strong - WHRO",
       "snippet": "Virginia Beach may have no waves, but its surf culture is more than a century strong WHRO",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1lZms1UkFLbzRRaTh3aGNKbmYySVB2TXFxUnRTOXNmVDlsamdnR2RNVDZ4Y0taVEwzbTRRZDZwbEpwaXRyWkxkSjMxVG4xLWVuLVFLMEhGT0hscVdsaFZmSEs0YnZTZ0RYQnZCQVU1eGVMaGJrTnQzTExZLU5hcEcxVy00aHBESWRreFcwUU1rY1BIX1NoQkhlNnR0TTdoeXRhYlAtYjUtNzVob05YYTRpSzRCSkpSMmo1N3dFT0Y4V2RWVllYVTZWaw?oc=5",
-      "date": "2026-10-19T10:00:00.000Z",
+      "date": "2026-10-19T12:00:00.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "0ac48cbaa283",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling",
+      "snippet": "To kite or to wing… the infinite question! The post Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kite-or-wing-you-decide-saltybabes-kiteboarding-wingfoiling/",
+      "date": "2026-10-19T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-67.jpg",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -223,19 +286,6 @@
       ]
     },
     {
-      "id": "1fbd67eee9f4",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Tune into our latest Podcast episode!",
-      "snippet": "Check out the latest podcast from Duotone. The post Tune into our latest Podcast episode! first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/tune-into-our-latest-podcast-episode/",
-      "date": "2026-10-16T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-59.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "6f2cd57b3210",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -245,19 +295,6 @@
       "date": "2026-10-16T15:29:33.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "52e4c98fc555",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour",
-      "snippet": "Soon to be watching all the action from Brazil! The post Soon, we’ll be seeing more of this with Brazil as the backdrop! #mexico #gka #gkakiteworldtour first a…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/soon-well-be-seeing-more-of-this-with-brazil-as-the-backdrop-mexico-gka-gkakiteworldtour/",
-      "date": "2026-10-16T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-58.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -310,30 +347,6 @@
       ]
     },
     {
-      "id": "a04bc5901420",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Professional surfer suspended by second body over ‘allegations of abuse’ - The Straits Times",
-      "snippet": "Professional surfer suspended by second body over ‘allegations of abuse’ The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFVJQkp4QWkweTRRaGp4M1dIOEwyVkhzdTFCX1pkNGVFX1hxWFRtRU9WOTZBenVvbF9vUkNZdVlRcTQ5Z1dsR1dCVFZnNEFSZ2hzYWFUajBMY0FlaWczYnh6UlpmdnphMS1wMnp5MHh1LV81RWlEVDR1S0Y3eWY3aHJPNngzLWE1cThVOHdEMDA2VTdqRjI2NW1nRXZidkQ2ZzRXRVFlbjA?oc=5",
-      "date": "2026-10-15T06:20:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "fc48bc4747db",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Portugal welcomes world’s top surfers - The Portugal News",
-      "snippet": "Portugal welcomes world’s top surfers The Portugal News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlY3eDY3d1J0Y2xWbEhUYzVJMDNGZWJEZzNVcGxPTUNSS0tCZ0F6bU9raFpYZDduX3hQMnE5eWM0NG00MEZPQ3FhYTJLSVdSeUstLUtfRjI3VDZTem1uZm9raElFS0g4aWVXcUNXRldCMHFPdEVjeGZVOUVyQzFwS055TEJISzVJM0dYNkQzSXh6S0djenc0?oc=5",
-      "date": "2026-10-14T17:11:01.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "dcd291ea77ac",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -365,18 +378,6 @@
       "snippet": "Super Girl Surf Festival faces questions over prize money after Virginia Beach competition 13newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSjRkdTNsdEt5Y2pqeFB2OXhSSFV0UWZzVFNrTWY0UjNDNUNGc0lwQmZYNjh3bERhTkR0MkVPQ3QzZVBQU0l4dVY1ckIwQWxvN2ZFQnY2QmtDYnhMYUJLNHVtaHhWNDlEUHVRVDdBM01YSElGY3dzVmRZcmxnc0JQeXlTSU1yRThFWDZSc0hOdVFCdmFjZFRtRWxiYnNqcWp0ekxVLW92Mm5ERGxPYVJNaGVEdDA0ZnFjUzU1ZU92MFhQdUp4T1VHTk8xSUZvaGg2dVQyM25zdzd3YndmZjZraXZ1TlBjRXlqX0toRVJJUWFWWnV4SXdzaXN3NmhHVVB5U09RcDBpVi1IalNuU0NXZ0lBN2RTWllzeGVNNzAtZnU3U2JH?oc=5",
       "date": "2026-10-13T22:40:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d9432c186062",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement - Times of San Diego",
-      "snippet": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement Times of San Diego",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjVvQVJ3eVhKTzhUNFBxcjlaYjUxdkRLNjlVNmtsXzlDT0VWUDZDeXZYakczdm9HWFR2NnF1TVlrX0U1QUpkOE00OG1rSUROR2otN3l2ZzZQTlJrVGEtcHNjUWZoblhLMTBRTENwNTk5SWtzLV9FNHFJUHd0QXZ2dlJfb25vUHpJeFJuNF91SFZ6aU1NS3NhSGpsbFJLRjNq?oc=5",
-      "date": "2026-10-13T18:08:47.000Z",
       "tags": [
         "surf"
       ]
