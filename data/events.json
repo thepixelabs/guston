@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:20:31.334Z",
+  "generated_at": "2026-10-19T12:01:56.405Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -381,7 +381,7 @@
       "location": null,
       "country": "AE",
       "url": "https://www.worldsurfleague.com/posts/546281/2026-championship-tour-schedule-and-formats",
-      "status": "live"
+      "status": "past"
     },
     {
       "id": "pwa-2026-aloha-classic-maui",
@@ -393,7 +393,7 @@
       "location": null,
       "country": "US",
       "url": "https://www.pwaworldtour.com/events/detail/2026-aloha-classic-maui/",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "id": "pwa-2026-miami-florida-youth-slalom",
