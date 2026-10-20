@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:48:48.581Z",
+  "generated_at": "2026-10-20T11:34:11.527Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,92 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "b9f32e17169b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Dream come true for Marama Tokong as Cloud 9 hosts WSL Championship Tour - ABS-CBN",
+      "snippet": "Dream come true for Marama Tokong as Cloud 9 hosts WSL Championship Tour ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0QtTnRIU29memw5SWdzZ2Mwb3kwanV3SVpKZmNYX1g1QTlOaHdNdFZXZE5EazFoVkxhOG9kaWtTNlBWelJ0YnBra1FlVHhEVmFDZGVvdzdjeVVUVWY4NzZQV0d4RWdmMm1WMFRsek01a2hvaDEwVTVxZTEtV19BMUdXVF96cW81ckNQanBJblUtXzZSU0syc3VRN0N2aHVZYXNFRlZFdUx0LWpja2lJQW94ZXduam5FWXZIOFZYWFBiWE1jazZsbEJQSQ?oc=5",
+      "date": "2026-10-20T11:03:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "d6a8a246451c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week - Cape Cod Times",
+      "snippet": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week Cape Cod Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakpfWDF1LVA3ZDQwenRzMlhYWEdFV1hMRUdkVGJ5Q19aU0ZmYllTSl9aYi0zNGt3VnNTSzVyRFptd0JETGZubFk3WGFLUjFWSENNTmRBOXZRRmVSRmU1Z1I0RllaZ0ZxVlE5Q2ktczd6ak1KTmdXR015OVNveTN1VUVwM3YwRGlET2dUUmQ5Z3dBdG9JUnhENFNVSUdNZkk3aERRRWpGZEtEdGxJMml3a1dCMzk5UTJiTzB6WUJ0SDN0TUpYakNDcXRLYWZlWkpHNWc?oc=5",
+      "date": "2026-10-20T09:00:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d4b78f93cdb6",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "RATE THIS TRICK FROM 1–10? Kitesurfing",
+      "snippet": "Theo Demanez throwing down a ridiculous strapless 3-rotation! The post RATE THIS TRICK FROM 1–10? Kitesurfing first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/rate-this-trick-from-1-10-kitesurfing/",
+      "date": "2026-10-20T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-70.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "0e9100d2f2d1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "PH to host prestigious World Surf League championship tour MANILA – When the World Surf League (WSL) Philippines Pro Championship Tour presented by the Philippine Sports Commission arrives in Siargao this October, it will mark a historic first as the na - Facebook",
+      "snippet": "PH to host prestigious World Surf League championship tour MANILA – When the World Surf League (WSL) Philippines Pro Championship Tour presented by the Philipp…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzl5dlJTM1NJSFlpRDEwVTNFYzNTbTFDNFRTaGtHZHNDcFBJSjJ4dXFKSURwSVdhTkgzR0ZpX0pERnFRbkdaQUU1aDFrbEJUMlh1RXJpcEp5cXJMT1d1YU43NVBMQWFyRVRnNHhYWUlKM3lzbTFSTEVXTkJRVVlTSmQ4TmtEekZ3Q2ppQ2lvdnZXdzR1cjd6akhubVE4WDdVeWVxSFp5UnVOU1lwMFE4c2g1MXljTF9YcTE3ZURzVUNYM1NKbkthWm50N3hRbEdmcXlxWA?oc=5",
+      "date": "2026-10-20T07:53:09.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "5bf2ce272eb0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "King of Cloud 9 Marama Tokong rides surfing’s grand stage - Manila Bulletin",
+      "snippet": "King of Cloud 9 Marama Tokong rides surfing’s grand stage Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmU1TEN2UFliQzNrZDlGS2I3VmRoLWcyR0V5SkhlbEthT18yUDhBd3BaLWpHWm5sRkpmUXZBUEx3dmIzbGZIdkJ0NmcyczJuTDREY0dVaC1nMEdRZm5kTnJrZFV6Q3c1TUstRFN2RFNRNHM3UWhWWTY4eDg4dTZoNF9BZXl0Mjh3aC1tM1p3?oc=5",
+      "date": "2026-10-20T06:49:03.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "f5adbd028941",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE 2026: THE BEN PROFFITT MASTERCLASS!",
+      "snippet": "TIREE 2026: THE BEN PROFFITT MASTERCLASS! TIREE 2026: THE BEN PROFFITT MASTERCLASS! The voice of windsurfing does his talking on the water! Ben Proffitt arrive…",
+      "url": "https://www.windsurf.co.uk/tiree-2026-the-ben-proffitt-masterclass/",
+      "date": "2026-10-20T05:23:50.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_1_0259-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "49b9a1c54023",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Dave Stanfield, Voice of Professional Surfing, Has Died - SURFER Magazine",
+      "snippet": "Dave Stanfield, Voice of Professional Surfing, Has Died SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbnRtQVFESWVtRUw0SGZiSjFYVE1FNlBsQnBmbnBSS2NWQlhidFR0dVBxdjFUc3MzazRTQ19vMXJYa21QZ1FNLTJNYjljSzBMSGVqT0lHcDVIOGZBUTFBejBsVDNmQU9XM0NIYWtEa3dWWm9ycjNXeVl1YVlNcnM?oc=5",
+      "date": "2026-10-19T19:10:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "42b833620658",
       "source": "google_surf",
@@ -198,6 +284,18 @@
       ]
     },
     {
+      "id": "12c826fa761c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "October 16-25: Saturday: Day 2 Cut Short At MEO Rip Curl Pro Presented by Corona Cero - Surf News Network",
+      "snippet": "October 16-25: Saturday: Day 2 Cut Short At MEO Rip Curl Pro Presented by Corona Cero Surf News Network",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
+      "date": "2026-10-18T07:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "37077f691265",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -232,19 +330,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/%e2%ad%90-one-kite-for-every-kind-of-day-duotone-evo-sls-kitesurfing-kiteboarding-duotone-%e2%81%a0/",
       "date": "2026-10-17T14:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-61.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d387126c57f9",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Look how long this wave is… it literally keeps building up forever.",
-      "snippet": "When the swell just isn’t stopping you’ve got to keep going! The post Look how long this wave is… it literally keeps building up forever. first appeared on IKS…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/look-how-long-this-wave-is-it-literally-keeps-building-up-forever/",
-      "date": "2026-10-17T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-60.jpg",
       "tags": [
         "kite"
       ]
@@ -295,91 +380,6 @@
       "date": "2026-10-15T17:21:00.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "7539c17d286f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Daily Coverage: La Marginal Surfing Pro QS 4,000 - Day 2 - World Surf League",
-      "snippet": "Daily Coverage: La Marginal Surfing Pro QS 4,000 - Day 2 World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmExUXYwUjZrbnRmWTJQSTA1US1QTm14SExGSVhRWk1qMkJFZjRsNk5od3J1cnY0SHRuZFZlZ0lqQklmUml0WXNvc0dPajAyWHBnNWRuVjc4bzdVNEp3cm01bXlfWWo0V2VrMkpNWXcxLU1PSTVKMDBfUk1NT203ZW9iRzhQWWpDVEo1eGxPVU1WMFkyUkdoT0JhVVJqejg?oc=5",
-      "date": "2026-10-15T17:09:44.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d557073f3e07",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE!",
-      "snippet": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE! THE PERFECT CALL: CHAPUIS CONQUERS TIREE! After finishing runner-up in 2023, Miguel Chapuis returned to the Tiree Wav…",
-      "url": "https://www.windsurf.co.uk/the-perfect-call-chapuis-conquers-tiree/",
-      "date": "2026-10-15T06:30:08.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "dcd291ea77ac",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "New NSRI rescue boat to honour kiteboarding legend Graham Howes - Cape Town ETC",
-      "snippet": "New NSRI rescue boat to honour kiteboarding legend Graham Howes Cape Town ETC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVVlWmtQLWpkUE1IblpUZEJNNC05MV9lUVRzN1hIMzh6RGVrLVJWcXdXeTNOWkdRQVhoNEczV2RFRThOSG1NaVFXbHN5UVFuTnVSUkJfUTBTWmF3bWxZcnpsZU4zUWhHU0YySmdvX2hLZEtzN3pORTFETmE4RHV5VTMyNE54UG42YndMY2U2VGNyVTZaeFgzMVJ4LTBRdw?oc=5",
-      "date": "2026-10-14T16:00:44.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "2288a0fd1425",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project - The Drinks Business",
-      "snippet": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOW5XR3JpUVRxNnZkZEZ3SnE4RG9ZQzhPMTVkeTZwY1BTcy1LZ2tHV3FPN0pOZjl2OF83U21LaURWanpOSlBNM1lOcW8tZ1RXUzVubTRCZTBRaHNZX0R3OHZhTkFfaHNTZnRRemZsbEd4cDRlSjdRd2xqRXhMN3VEUDNuaWVuTktDOWxzc0M0Z3RyMklBTUhvb3N3d3BmXzdOOWpQSmlKNTJ5dUIwYjFFZHp6eFkxLTg?oc=5",
-      "date": "2026-10-14T10:27:42.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "0a7d5e7d2ca2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Super Girl Surf Festival faces questions over prize money after Virginia Beach competition - 13newsnow.com",
-      "snippet": "Super Girl Surf Festival faces questions over prize money after Virginia Beach competition 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSjRkdTNsdEt5Y2pqeFB2OXhSSFV0UWZzVFNrTWY0UjNDNUNGc0lwQmZYNjh3bERhTkR0MkVPQ3QzZVBQU0l4dVY1ckIwQWxvN2ZFQnY2QmtDYnhMYUJLNHVtaHhWNDlEUHVRVDdBM01YSElGY3dzVmRZcmxnc0JQeXlTSU1yRThFWDZSc0hOdVFCdmFjZFRtRWxiYnNqcWp0ekxVLW92Mm5ERGxPYVJNaGVEdDA0ZnFjUzU1ZU92MFhQdUp4T1VHTk8xSUZvaGg2dVQyM25zdzd3YndmZjZraXZ1TlBjRXlqX0toRVJJUWFWWnV4SXdzaXN3NmhHVVB5U09RcDBpVi1IalNuU0NXZ0lBN2RTWllzeGVNNzAtZnU3U2JH?oc=5",
-      "date": "2026-10-13T22:40:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d9432c186062",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement - Times of San Diego",
-      "snippet": "For sale: Historic surf competition posters to raise money for OB Pier’s replacement Times of San Diego",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjVvQVJ3eVhKTzhUNFBxcjlaYjUxdkRLNjlVNmtsXzlDT0VWUDZDeXZYakczdm9HWFR2NnF1TVlrX0U1QUpkOE00OG1rSUROR2otN3l2ZzZQTlJrVGEtcHNjUWZoblhLMTBRTENwNTk5SWtzLV9FNHFJUHd0QXZ2dlJfb25vUHpJeFJuNF91SFZ6aU1NS3NhSGpsbFJLRjNq?oc=5",
-      "date": "2026-10-13T18:08:47.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "12c826fa761c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "October 16-25: Saturday: Day 2 Cut Short At MEO Rip Curl Pro Presented by Corona Cero - Surf News Network",
-      "snippet": "October 16-25: Saturday: Day 2 Cut Short At MEO Rip Curl Pro Presented by Corona Cero Surf News Network",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzdnNUJTWUlRdEVhcXZYWFlhRFdTbnFHTjE3bDh4VGdLTDNDYWtyaVQ0SFRVcEVsVC1Db0p5a2FRUmVCSzVHcGNoUjgwUDdqR2hfYWdnemJtOWkxZ0VXUzMyMzU4RExleXpOMFNOaXU1cmFSSU05b21DTW5xMlRWYjZ6YU9iVndoN3R0ODg5MkdwU29ySUtoS2ttY1Nla2s5b3lFRENva0NJWmhTdEotcFQ1RjZBNWgzOHpwampWYkQtM1NMaGJCT3lxUXByOTFYTnBGZA?oc=5",
-      "date": "2026-10-13T15:11:52.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
