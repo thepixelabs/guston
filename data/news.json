@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:36:09.864Z",
+  "generated_at": "2026-10-21T04:44:12.355Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -59,6 +59,18 @@
       ]
     },
     {
+      "id": "052e5c4e357f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion - www.pasionporelmar.com",
+      "snippet": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion www.pasionporelmar.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRXaEd6Ykl2ZTRhNHM3UHJCRnZEVHZwRnNsRjY4cXpuNmx6NVF1SzRObU1uMHZkREJzSG5meEJERXpuZm9KTU1BZHUySjdfY2kyLXZTd0ZfOUVqaFBMMS02eGx4ZzNhRGRrOERnd21UV285RkwwM2puMF9kSm5IdFdJWDRUVFFyYjZiZVhRQjNLWENFYWRZZzhUQ0JZNE9sWDFPT09LbkhINnZjb2Z2ekRB?oc=5",
+      "date": "2026-10-20T12:45:53.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
       "id": "b0303ada8099",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -94,18 +106,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-70.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "0e9100d2f2d1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "PH to host prestigious World Surf League championship tour MANILA – When the World Surf League (WSL) Philippines Pro Championship Tour presented by the Philippine Sports Commission arrives in Siargao this October, it will mark a historic first as the na - Facebook",
-      "snippet": "PH to host prestigious World Surf League championship tour MANILA – When the World Surf League (WSL) Philippines Pro Championship Tour presented by the Philipp…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzl5dlJTM1NJSFlpRDEwVTNFYzNTbTFDNFRTaGtHZHNDcFBJSjJ4dXFKSURwSVdhTkgzR0ZpX0pERnFRbkdaQUU1aDFrbEJUMlh1RXJpcEp5cXJMT1d1YU43NVBMQWFyRVRnNHhYWUlKM3lzbTFSTEVXTkJRVVlTSmQ4TmtEekZ3Q2ppQ2lvdnZXdzR1cjd6akhubVE4WDdVeWVxSFp5UnVOU1lwMFE4c2g1MXljTF9YcTE3ZURzVUNYM1NKbkthWm50N3hRbEdmcXlxWA?oc=5",
-      "date": "2026-10-20T07:53:09.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -335,18 +335,6 @@
       ]
     },
     {
-      "id": "b41a1a1162ce",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Brave pooches hang eight in California surfing contest - Reuters",
-      "snippet": "Brave pooches hang eight in California surfing contest Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRlVxc25YMWk1c2NvN0dTa3czRjhlRW1idXJjcGFCcEhhdnVHMTdoZXRwVlZHZ2N2SG9HaG1LeHpvbTZVOGZacUJyN2d1OVZ6SVJVWDV5RmM5SGg2MzNnQlhaY01Ndm1qZUlHQUR5MTg1VUdYTVI2NkJMbXhSaHp5bDJIYl9OMzhJaE1yV1ZNSzBZM29kTDBSaERXd2NEV05vRl96Q2ZsRFdoZlgyc2l6Z25td1cwc29KdTc5YTVGRG4yMFpYYjJsZzBLTFJzYUNaQ1lvV0ZCMFB2aFVReU13dGhUTnB5UktmZXAtOTFR?oc=5",
-      "date": "2026-10-17T00:13:49.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "6f2cd57b3210",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -380,6 +368,19 @@
       "date": "2026-10-15T17:21:00.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "d557073f3e07",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE!",
+      "snippet": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE! THE PERFECT CALL: CHAPUIS CONQUERS TIREE! After finishing runner-up in 2023, Miguel Chapuis returned to the Tiree Wav…",
+      "url": "https://www.windsurf.co.uk/the-perfect-call-chapuis-conquers-tiree/",
+      "date": "2026-10-15T06:30:08.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
+      "tags": [
+        "wind"
       ]
     }
   ]
