@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-10-21T11:46:49.796Z",
+  "generated_at": "2026-10-21T17:11:14.475Z",
   "source_status": {
     "iksurfmag": "ok",
-    "windsurf_uk": "failed",
+    "windsurf_uk": "ok",
     "google_wing": "ok",
     "google_kite": "ok",
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "68eedc3aae7f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "La Union Gears Up for Surfing Break 2026 with Exciting Activities and Cultural Attractions - Daily Tribune",
+      "snippet": "La Union Gears Up for Surfing Break 2026 with Exciting Activities and Cultural Attractions Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG1hVFl6aVd0RzRwNGxDb2tLTHJ3bFBJUWIyenV2YW1RRHZ5RmNYSjdtb3drdnBIRlp5U00wN2JuNkRxR1hXdU9EWVFjNUd2eTBTeDJaeERZMjBLSDVFRW5GdmgtaTA0bHdJdlFkVGduRWxkdHpRX0RLRlBSRHNuLUt0VkdhdkxJVmliNjMzTlltM3ZGOEdmdA?oc=5",
+      "date": "2026-10-21T15:31:23.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "219a99eaa883",
       "source": "google_kite",
@@ -47,6 +59,19 @@
       ]
     },
     {
+      "id": "eaecdd3a1e21",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP!",
+      "snippet": "DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP! DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP! Duotone have just unveiled their 2027…",
+      "url": "https://www.windsurf.co.uk/duotone-warp_fin-falcon_fin-d-lab-the-2027-race-line-up/",
+      "date": "2026-10-21T06:45:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/DTW27-Duotone-Warp_Fin-Jordy-Tenerife-2026-447-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
       "id": "f5c70868bddb",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -54,18 +79,6 @@
       "snippet": "36th North Aussie Surf Lifesaving Champs Action At Harbour Beach This Weekend Mackay & Whitsunday Life",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlV1M09uU1VpVDlDSEp0WFFQUGNDOFpkSm1IS1BnNm5mR3ZUTnc3SUlyMDdQNUQ5SDB5U3RJWkNTT1UtdGgyOS0yMExNVjIwWUR5S0pTcXM5U0JwRkZoaG1fNDduSl8zLW5XMXUxZ3hHX2hzV0swQ3lKajllV3dvemRVUEQ1SGh3SmJwX0E2VzgxdklVQ0JuVkYyd2V1VnNZcnZsNTVEcjdOVlhYQVBxcmF0SkpJNUJNYnA5NzYyTUpWdjA?oc=5",
       "date": "2026-10-21T05:48:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "cda993368a4d",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Seaford Crowned South Australian Boardriders Champions in Close Battle at Waitpinga - Sportzhub",
-      "snippet": "Seaford Crowned South Australian Boardriders Champions in Close Battle at Waitpinga Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlRIX3pXekN3aEMwbUswVFVjVXo5bnUzcUhGb0E0OEctVHQ1dlpzUk5Hb0dpZFJOV25JT0JsR1F0elRhZFRjcm42WEp0X3JOUFkyTGZsYTNaZGdjaWc5c0xldHBCaV9GY2lnZTF4X1cyRFZoVTlXSjk1QjY3X0NlZ0R0elAxT0FubHRseVNfeUg1bks0M2FGa1NDaE5oWXZVY3c1cHdnZkwyT1FmMXd6STJkVGdLZ0hJd0IwRGV6TQ?oc=5",
-      "date": "2026-10-20T20:59:30.000Z",
       "tags": [
         "surf"
       ]
@@ -171,6 +184,19 @@
       ]
     },
     {
+      "id": "f5adbd028941",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE 2026: THE BEN PROFFITT MASTERCLASS!",
+      "snippet": "TIREE 2026: THE BEN PROFFITT MASTERCLASS! TIREE 2026: THE BEN PROFFITT MASTERCLASS! The voice of windsurfing does his talking on the water! Ben Proffitt arrive…",
+      "url": "https://www.windsurf.co.uk/tiree-2026-the-ben-proffitt-masterclass/",
+      "date": "2026-10-20T05:23:50.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_1_0259-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
       "id": "49b9a1c54023",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -178,18 +204,6 @@
       "snippet": "Dave Stanfield, Voice of Professional Surfing, Has Died SURFER Magazine",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbnRtQVFESWVtRUw0SGZiSjFYVE1FNlBsQnBmbnBSS2NWQlhidFR0dVBxdjFUc3MzazRTQ19vMXJYa21QZ1FNLTJNYjljSzBMSGVqT0lHcDVIOGZBUTFBejBsVDNmQU9XM0NIYWtEa3dWWm9ycjNXeVl1YVlNcnM?oc=5",
       "date": "2026-10-19T19:10:42.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "42b833620658",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back - Surf News Network",
-      "snippet": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back Surf News Network",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUFUN3BOc2N1aUpCVjJvemhXSFh0ZUc0aXRhUnJxenhEX0hVZHV0dXozTFFXNm1OQUZqQko1SnZtZW0td0pLbkxVZEZvQTFoSHl5S3JtbUYxSjRFNE01WEI1SkV3S0UxS2FGZEtsTjhfX2xXcnVaVHlfMjJIVWt0amJVNW5xOFVZek1LTWV4aw?oc=5",
-      "date": "2026-10-19T17:34:45.000Z",
       "tags": [
         "surf"
       ]
@@ -205,6 +219,19 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-69.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "ab177db87be7",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES!",
+      "snippet": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! Maui calling… and our crystal bal…",
+      "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
+      "date": "2026-10-19T15:00:29.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
+      "tags": [
+        "wind"
       ]
     },
     {
@@ -247,15 +274,16 @@
       ]
     },
     {
-      "id": "e631580ba7f4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Carlsbad surfer earns maiden win, now ranked No. 1 - FOX 5 San Diego & KUSI News",
-      "snippet": "Carlsbad surfer earns maiden win, now ranked No. 1 FOX 5 San Diego & KUSI News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzdrOVcxVUk5OUJPWUo1cURWZ09FS3BkUUd1UEZlNkFYVUoxajF0blRweTlpMGI1TUxxUzlDZDktbUZOZGNpTFZsNUJvN0JrUGVtTlNXVjVzT1lZenVxWDVmUkhXa0lmUUQ0eWRObnI3ZEMyaVdobGtDR01nTWRqNUJvRdIBiAFBVV95cUxQR3V6SGFNQ1JlOTRFdVRveVhJekFseDhVWGdtYTAzM0NldGxHUW9jSFdFLWZWVVVxcG55dUt4THJFal82b0hNOGFmWlZFd1NkNVJsazJCOGV1Unh1YkZoT1FHTHRxc3JRR0ZWWEk2TWJYdTI5ZF9jcDhvd3F4YUdxbzNsRjVpSzRE?oc=5",
-      "date": "2026-10-19T02:08:04.000Z",
+      "id": "71c92bc6d53a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
+      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
+      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
+      "date": "2026-10-19T05:42:13.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
       "tags": [
-        "surf"
+        "wind"
       ]
     },
     {
@@ -278,6 +306,31 @@
       "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
       "date": "2026-10-18T08:58:34.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "37077f691265",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
+      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
+      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
+      "date": "2026-10-18T04:30:23.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "221770da3bc0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back - World Surf League",
+      "snippet": "The 2026/2027 TUDOR Nazaré Big Wave Challenge Is Back World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnl4ZUpjLXVxa2VQdm96b1NZOWwySFFKLVVNcW9wYnZoS0c2V1pMMGU4d0EwUzVCbVpzTFNncjI4ODZuWlBTUTVJYXgwREk5R0ZZa3l0VzFZVFlUQUU2aVdGTlNaczA3LXJac0ozWTNUQkFMUGgzamxuaHNLRHN4bVhTckJwZkpVSV80R3VRamxsa2hvMmhqekNjaGNrdw?oc=5",
+      "date": "2026-10-17T21:34:00.000Z",
       "tags": [
         "surf"
       ]
@@ -326,54 +379,6 @@
       "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
       "date": "2026-10-16T10:01:00.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "1ce7fece4b8c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach - WMUR",
-      "snippet": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach WMUR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGxrLUNPZGVSUDd6aC14eUZFYkpRa2ZmeV93djl3Um1hc2EyUlJDalFWYnpWNTFTN2hwZEd2Nk1KYnVlYjBzcjRjaXMtN1otVXlCOTNrb0RhZmlCenhPTU1iNjIycHVWdDkwWWJhU3dSdVFDVklBNXBzcTQ4NVZHSDVyVWdJaXF3RFdGaGtlSFpFWkRSRUZkSmZSNEN2UUUtcEJ1LXpONkhhMWpzd1E?oc=5",
-      "date": "2026-10-15T17:21:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "dcd291ea77ac",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "New NSRI rescue boat to honour kiteboarding legend Graham Howes - Cape Town ETC",
-      "snippet": "New NSRI rescue boat to honour kiteboarding legend Graham Howes Cape Town ETC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVVlWmtQLWpkUE1IblpUZEJNNC05MV9lUVRzN1hIMzh6RGVrLVJWcXdXeTNOWkdRQVhoNEczV2RFRThOSG1NaVFXbHN5UVFuTnVSUkJfUTBTWmF3bWxZcnpsZU4zUWhHU0YySmdvX2hLZEtzN3pORTFETmE4RHV5VTMyNE54UG42YndMY2U2VGNyVTZaeFgzMVJ4LTBRdw?oc=5",
-      "date": "2026-10-14T16:00:44.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "2288a0fd1425",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project - The Drinks Business",
-      "snippet": "“Sono Qui” – “I’m Here”: how kitesurfing sparked a one-of-a-kind Sicilian project The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOW5XR3JpUVRxNnZkZEZ3SnE4RG9ZQzhPMTVkeTZwY1BTcy1LZ2tHV3FPN0pOZjl2OF83U21LaURWanpOSlBNM1lOcW8tZ1RXUzVubTRCZTBRaHNZX0R3OHZhTkFfaHNTZnRRemZsbEd4cDRlSjdRd2xqRXhMN3VEUDNuaWVuTktDOWxzc0M0Z3RyMklBTUhvb3N3d3BmXzdOOWpQSmlKNTJ5dUIwYjFFZHp6eFkxLTg?oc=5",
-      "date": "2026-10-14T10:27:42.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "96878485a365",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror - Sail World Cruising",
-      "snippet": "Jacob Rosenberg at the 2026 U.S. WIngfoil Championship, on San Francisco Bay, wearing his basn5 Davenport Rx Copper Rose Silver Mirror Sail World Cruising",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSm03SUNaOWthM0RHdmhkUVVERjBtbGxWQkl6YkNCTWVQWWZZcmNBcmpkWFdGcVZ1UGtiSHBwZERwcTZXVVl5NmRRd1Y2TGpaMnBLMXN2Wkl2UQ?oc=5",
-      "date": "2026-10-13T03:41:51.000Z",
       "tags": [
         "wing"
       ]
