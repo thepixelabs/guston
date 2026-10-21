@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:53:50.738Z",
+  "generated_at": "2026-10-21T11:06:34.954Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -405,7 +405,7 @@
       "location": null,
       "country": null,
       "url": "https://www.pwaworldtour.com/events/detail/2026-miami-florida-youth-slalom/",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "id": "wsl-stop-no-11-peniche-portugal",
