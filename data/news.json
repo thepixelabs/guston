@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:42:18.114Z",
+  "generated_at": "2026-10-22T11:50:11.551Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,105 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "f75fb15f40fe",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "DAZN strikes multi-year global deal with surf racing series Guardians League - Broadcast",
+      "snippet": "DAZN strikes multi-year global deal with surf racing series Guardians League Broadcast",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVJINGVId3Z2S2RtdG8yNUNTaXRRaTlvTUhucUoyU2VkUGQ0eWRFelExQUEzbTQ3Um82M20zODVpejI1UV9LRlZCN052amhaSk5LRXRtQUdOOEhvNC10cnhOQTlsSXI1OXI3WGpYbHhfb1pDc25VYUxXMDl0cmhZVFotZHlIdGpJdE1IUHBpVEI5V0tRZWt5bTktS3ItemZMajJURG1LTF9pRmQxc2g3bURlUGhkMHhkdnNMQTlHRnV1NWIweHRFRndubzMtSWY1T1E?oc=5",
+      "date": "2026-10-22T11:11:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b501c9d285ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 - Surf Life Saving",
+      "snippet": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 Surf Life Saving",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0dXSkxySlViekl1ZnkzbGtUVU1EaWlvbUd2UVVWNHE0SmN1b05pZm1zbEpkUFNteVM4NlBpY3lCZjhnQWRpRkUyTTBXeWhCT2JSRThnU3Q2V0E3U0JrLW5ONklwT3VOeUVfU2pkckhBTjBuNWM1ckJaamg4a2FPRWM4ZFRENlJCYlE?oc=5",
+      "date": "2026-10-22T11:04:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6eae652cbd6a",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "3-round Surfr battle in The Netherlands, who will take the win?",
+      "snippet": "Who can do the highest kiteloop? The post 3-round Surfr battle in The Netherlands, who will take the win? first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/3-round-surfr-battle-in-the-netherlands-who-will-take-the-win/",
+      "date": "2026-10-22T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-77.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "5e6cb3265b3e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surf break returns in La Union - Inquirer.net",
+      "snippet": "Surf break returns in La Union Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tOGtRQ2ZzT2wwOVVHaENQdEwta2R0bGtETFdlZmFNc1Fwa2JsS2xWZ1M0NWtPMjRONDF5a1p0Sko1RVZiclVjNGJ1YlJ6SVVydUZZUWlFWmN2QnpzMkpYVGZMeGtpc1Y2c3VMcDlMc2xBcDDSAXhBVV95cUxPb3hYSkctSGhUTjRkZHNsZElWbnFUUkhTS3dTYzhQOG95NmI4SDNMVEVKYm9JaS05VlRzZUtOY3M3T2hDZHNVWkVKUHRWN2ZGc211U0lpNkloc0dIR3VSQkU5Z3M4VTRDdWstVkd1aWtUMTBibUJxU3E?oc=5",
+      "date": "2026-10-22T10:35:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "0ee30565b8e7",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Racing at the LA 2028 Olympic Venue",
+      "snippet": "Check out the LA 2028 Olympic Venue with Daniela. ‘Back in July we had the 2026 Long Beach Olympic Class Regatta – a first taste of what racing will be like at…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/racing-at-the-la-2028-olympic-venue/",
+      "date": "2026-10-22T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-76.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b8e580e0caec",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future - picketfencemedia.com",
+      "snippet": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future picketfencemedia.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeDhJWDY3TFdTNkc4OFZqUnlWSEFUWWVOakhGclQyNmtUdGh3aDNYMXlhLUpFVWtILXZ1ZGJwSktLRTFuMXAyelZEX3FBQlNaOWR5N2VDcERPai1objE3bjVXdHhvbzBOWDBTMHZ1VE9hUUlwV2tiaDB5WEZBTWZEWTBjaXlNUElaSkczM3RQTmRkMVl4NlV5RFhORUpNWjVLZGdBV3doVW1XeDNjU01HZXh3Smxfd20yX3hmQUtxUlBsZ1h5VnB4LXFoT1N6MHZ3T1hLRkJrdy01Q3pRdjRzZjB4ZVdXTjBINmVEa2cxd3NPalQ1a2dReVVmN19IRURWME8xMnl3?oc=5",
+      "date": "2026-10-22T07:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a827e6e4b5cb",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE",
+      "snippet": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE You’ve seen the pictures. Y…",
+      "url": "https://www.windsurf.co.uk/tiree-wave-classic-2026-the-inside-story-by-ruaraidh-somerville/",
+      "date": "2026-10-22T05:53:31.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "9ba48f861499",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach - Surfing Victoria",
+      "snippet": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZLbzJsbEVYd01nYkpENllSZlFOcmEtWGh6UUhEOXZmdTV3OUlkUkRfckNBSlRUWlJ6WGkwVHFCZXlnbC1QZGViaEZVcUJJU2NTbFJhTlRTWlZ2UE9JVVd4ODlGcWhkN2tWeFZZcmdVRE95VUdoSndxc2tUVXJEcWhNTzJQbFJmZlNfVl9hU0UxMzc5SlQ0ZmlpY3lySkx3bC0tTHRBSHJ6UWRDQzl6blltekhLX0pub0hSag?oc=5",
+      "date": "2026-10-22T05:23:38.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "65ef83317646",
       "source": "google_surf",
@@ -21,6 +120,18 @@
       ]
     },
     {
+      "id": "ad04b2148e5f",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air Taiwan Qualifier 2026: Results - Red Bull",
+      "snippet": "Red Bull King of the Air Taiwan Qualifier 2026: Results Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUJYTUFBclBQSjdiSE54TDB5Y0Jra1d2MlZJc1lHbHpyTHpEZE5kRHpNbHFEVmgwT3l3alRiZ3BPa05UTVN0eGRyQ1ZTa2RDZVFDSXlRU3BBVkJMY3NWSklxaTh6YzltM0pSaFpvVmxueFB2dUdFNnFtNUJkRnJDVmpKNEF1MGphMEtxV2JJX1ZZNTRZTTNQZmJrSnZ0YkpteEFsblA1TDlvQ2NpMlQzQ00zeHdYd1BpSzVJanJzYnVDVXhlVTc5OGF2NXIzUQ?oc=5",
+      "date": "2026-10-21T20:10:25.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "601f5165df08",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -28,18 +139,6 @@
       "snippet": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) SURFER Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZGZqWG9RSTlHYm1SZnFBNmx3UjNGMVlHb2Y2WFhtN1l6RGlTOHItS19mNTE0OWNZTW5tSkZ2RzBIcllYY1l6OHprcnVzcUhRcm92LVBLeHNKR1dZV3pPd3g5d2l5NWtCWUt0MFhPY0U0SzJWdG5WLWdB?oc=5",
       "date": "2026-10-21T18:50:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "68eedc3aae7f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "La Union Gears Up for Surfing Break 2026 with Exciting Activities and Cultural Attractions - Daily Tribune",
-      "snippet": "La Union Gears Up for Surfing Break 2026 with Exciting Activities and Cultural Attractions Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG1hVFl6aVd0RzRwNGxDb2tLTHJ3bFBJUWIyenV2YW1RRHZ5RmNYSjdtb3drdnBIRlp5U00wN2JuNkRxR1hXdU9EWVFjNUd2eTBTeDJaeERZMjBLSDVFRW5GdmgtaTA0bHdJdlFkVGduRWxkdHpRX0RLRlBSRHNuLUt0VkdhdkxJVmliNjMzTlltM3ZGOEdmdA?oc=5",
-      "date": "2026-10-21T15:31:23.000Z",
       "tags": [
         "surf"
       ]
@@ -109,6 +208,18 @@
       ]
     },
     {
+      "id": "29fa1f903b90",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
+      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
+      "date": "2026-10-20T16:20:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "e605c649ddce",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -142,18 +253,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/massive-one-from-cape-town/",
       "date": "2026-10-20T11:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-71.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d6a8a246451c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week - Cape Cod Times",
-      "snippet": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week Cape Cod Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakpfWDF1LVA3ZDQwenRzMlhYWEdFV1hMRUdkVGJ5Q19aU0ZmYllTSl9aYi0zNGt3VnNTSzVyRFptd0JETGZubFk3WGFLUjFWSENNTmRBOXZRRmVSRmU1Z1I0RllaZ0ZxVlE5Q2ktczd6ak1KTmdXR015OVNveTN1VUVwM3YwRGlET2dUUmQ5Z3dBdG9JUnhENFNVSUdNZkk3aERRRWpGZEtEdGxJMml3a1dCMzk5UTJiTzB6WUJ0SDN0TUpYakNDcXRLYWZlWkpHNWc?oc=5",
-      "date": "2026-10-20T09:00:00.000Z",
       "tags": [
         "kite"
       ]
@@ -248,29 +347,15 @@
       ]
     },
     {
-      "id": "0ac48cbaa283",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling",
-      "snippet": "To kite or to wing… the infinite question! The post Kite or Wing? You Decide #saltybabes #kiteboarding #wingfoiling first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/kite-or-wing-you-decide-saltybabes-kiteboarding-wingfoiling/",
-      "date": "2026-10-19T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-67.jpg",
+      "id": "0c49c275c62b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Virginia Beach may have no waves, but its surf culture is more than a century strong - WHRO",
+      "snippet": "Virginia Beach may have no waves, but its surf culture is more than a century strong WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1lZms1UkFLbzRRaTh3aGNKbmYySVB2TXFxUnRTOXNmVDlsamdnR2RNVDZ4Y0taVEwzbTRRZDZwbEpwaXRyWkxkSjMxVG4xLWVuLVFLMEhGT0hscVdsaFZmSEs0YnZTZ0RYQnZCQVU1eGVMaGJrTnQzTExZLU5hcEcxVy00aHBESWRreFcwUU1rY1BIX1NoQkhlNnR0TTdoeXRhYlAtYjUtNzVob05YYTRpSzRCSkpSMmo1N3dFT0Y4V2RWVllYVTZWaw?oc=5",
+      "date": "2026-10-19T12:00:00.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "09e9d7b3e91b",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Whenever Anthar shows up, he makes his presence felt! #brazil #gkafreestyle #gkakiteworldtour",
-      "snippet": "Showing up and making himself known! The post Whenever Anthar shows up, he makes his presence felt! #brazil #gkafreestyle #gkakiteworldtour first appeared on I…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/whenever-anthar-shows-up-he-makes-his-presence-felt-brazil-gkafreestyle-gkakiteworldtour/",
-      "date": "2026-10-19T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-66.jpg",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -296,92 +381,6 @@
       "date": "2026-10-18T20:39:49.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "8391fe067617",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Giant Waves Await as Nazaré Big Wave Challenge Returns With New Format - Sportzhub",
-      "snippet": "Giant Waves Await as Nazaré Big Wave Challenge Returns With New Format Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzYzYTlvTXAtcXBULUdtcUxQck56dV83LVE4VDk2MUswR2wtOWw0TUYybFFVTFROdzV6MEJtMktHcXZaTEdrVklOSThlZWMtT0RGTFBhWEV0cUMtc2hzVThOTDEtZUE5YVJzUk8wRlpIS3pkQ2lwOVFUZ0h1dU9ORVBRcVJybG0yWGJwd29UekFuSzhzenJCczFORld0Y1RwbHctZm9UbnU2UEtHVnc?oc=5",
-      "date": "2026-10-18T09:23:59.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "cec1d8d619cc",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "ISA suspends athlete over abuse allegations - Inside The Games",
-      "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
-      "date": "2026-10-18T08:58:34.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "37077f691265",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
-      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
-      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
-      "date": "2026-10-18T04:30:23.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "6f2cd57b3210",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Side wing foil - Sail-World.com",
-      "snippet": "Side wing foil Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WM2JNejljaldTdmVxTUlxMG5oa2RDR3g0Y2Y3Z3hZZXhLUzA2YmZESm5laW9HSExjbnd4ZzFtdzI1NndLUWxCUHBOTWUwWG4w?oc=5",
-      "date": "2026-10-16T15:29:33.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "b8072b17d323",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Sail-World.com",
-      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
-      "date": "2026-10-16T10:01:00.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "1ce7fece4b8c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach - WMUR",
-      "snippet": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach WMUR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGxrLUNPZGVSUDd6aC14eUZFYkpRa2ZmeV93djl3Um1hc2EyUlJDalFWYnpWNTFTN2hwZEd2Nk1KYnVlYjBzcjRjaXMtN1otVXlCOTNrb0RhZmlCenhPTU1iNjIycHVWdDkwWWJhU3dSdVFDVklBNXBzcTQ4NVZHSDVyVWdJaXF3RFdGaGtlSFpFWkRSRUZkSmZSNEN2UUUtcEJ1LXpONkhhMWpzd1E?oc=5",
-      "date": "2026-10-15T17:21:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d557073f3e07",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE!",
-      "snippet": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE! THE PERFECT CALL: CHAPUIS CONQUERS TIREE! After finishing runner-up in 2023, Miguel Chapuis returned to the Tiree Wav…",
-      "url": "https://www.windsurf.co.uk/the-perfect-call-chapuis-conquers-tiree/",
-      "date": "2026-10-15T06:30:08.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     }
   ]
