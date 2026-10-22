@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-10-22T17:09:32.806Z",
+  "generated_at": "2026-10-22T21:34:21.207Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
-    "google_wing": "failed",
-    "google_kite": "failed",
-    "google_surf": "failed"
+    "google_wing": "ok",
+    "google_kite": "ok",
+    "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "9eb7f2f99699",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gilmore Leads Star-Studded Australian Surfing Team With Olympic Places at Stake - Sportzhub",
+      "snippet": "Gilmore Leads Star-Studded Australian Surfing Team With Olympic Places at Stake Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU1mWWdxME9PMTl5aHhZWE83clE5ZXNHS08xdFBlVlFqRW5Rd0g0ZmJvTGl1a09OX2MyOUw3U1I5NVdUeEM1LXE4ZTM0eklUUkoyNklYdDhBU1dmS283X0o4WFZ5UTRrZVBVNUFjakJTR2tYYS1pVGpObTJHSUQ3Si1ab1hxN0ZzdGU2NnBFWk1NellZZWdXSHdZUWUwcGdwU2lUNkoyVmJNVGkxdksyaVZaZHhoaV9kTEE?oc=5",
+      "date": "2026-10-22T21:14:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a733a94b9cd4",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing Break 2026 to draw crowds - Daily Tribune",
+      "snippet": "Surfing Break 2026 to draw crowds Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BalQ1amRXbUY3UnhhV3RMcjdYRDNiTlFJdUNzXzNoMERydWRHQldLQkJzdFNLSTY0bHNfRUpuem9JczlyOTN6aFdHS3N2UTZwa19ua1ZzZEpQcHJWcXBnYTRUQ1lWY0NRaHJKYUl3NUlJNVhTLWc?oc=5",
+      "date": "2026-10-22T19:39:01.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "ccfb5c074800",
       "source": "iksurfmag",
@@ -19,6 +43,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-79.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "36db0d2b0f1f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing faces a cultural reckoning as women’s voices grow louder over sexual abuse allegations | Lucy Small - The Guardian",
+      "snippet": "Surfing faces a cultural reckoning as women’s voices grow louder over sexual abuse allegations | Lucy Small The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXhoUXBzOTJvMmxESUNfMk9EcGJMaDBTMFhPanNSaWcyNkJ2LUpTdmNhTHNPY3ZNMEJrVDZPbWtMT0xvX3loRVJwUTJrdDdORlN5b0VVcGw5SXpxTHVlS3NNZlhKVjgySDJwc0hPaUk5S1hPbGRoYnVSbllUMEM4MHROeE1mQU1rQk1xc2d3?oc=5",
+      "date": "2026-10-22T14:01:00.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -35,6 +71,42 @@
       ]
     },
     {
+      "id": "3fc6359935ad",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing Break in La Union begins Oct. 25 MALASIQUI, Pangasinan – The La Union Surfing Break, highlighting the province’s coastal attractions and local culture, is scheduled to run from Oct. 25 to Nov. 1. According to the provincial government, the towns of A - Facebook",
+      "snippet": "Surfing Break in La Union begins Oct. 25 MALASIQUI, Pangasinan – The La Union Surfing Break, highlighting the province’s coastal attractions and local culture,…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmRualFldGZRYUowRTM2UG9FdTdTRDNpWGFZeUYwb3lqVmZ5dnNhNTROQTBPZ0lPQ1REbmdHdVBrUDhzRlYyd1g2YkxSS1JubWczRG9ueXRld2tQU253aG5ZRjBFd2VfX0s1X29ZaFlwNms2RkFYb3c1dmJPNWFoT2ZPZVM0UXktNnlfZm9RMnZLWi1nbzBsbnRld1JZX1R4aV9TVWNKUVFoY2J3UWNEX0daMUI5QzVPTmJGSkNtSmhUR05YRTVmTVF2RmZpZnJ0aHpaZg?oc=5",
+      "date": "2026-10-22T12:20:08.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "f75fb15f40fe",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "DAZN strikes multi-year global deal with surf racing series Guardians League - Broadcast",
+      "snippet": "DAZN strikes multi-year global deal with surf racing series Guardians League Broadcast",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVJINGVId3Z2S2RtdG8yNUNTaXRRaTlvTUhucUoyU2VkUGQ0eWRFelExQUEzbTQ3Um82M20zODVpejI1UV9LRlZCN052amhaSk5LRXRtQUdOOEhvNC10cnhOQTlsSXI1OXI3WGpYbHhfb1pDc25VYUxXMDl0cmhZVFotZHlIdGpJdE1IUHBpVEI5V0tRZWt5bTktS3ItemZMajJURG1LTF9pRmQxc2g3bURlUGhkMHhkdnNMQTlHRnV1NWIweHRFRndubzMtSWY1T1E?oc=5",
+      "date": "2026-10-22T11:41:14.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b501c9d285ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 - Surf Life Saving",
+      "snippet": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 Surf Life Saving",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0dXSkxySlViekl1ZnkzbGtUVU1EaWlvbUd2UVVWNHE0SmN1b05pZm1zbEpkUFNteVM4NlBpY3lCZjhnQWRpRkUyTTBXeWhCT2JSRThnU3Q2V0E3U0JrLW5ONklwT3VOeUVfU2pkckhBTjBuNWM1ckJaamg4a2FPRWM4ZFRENlJCYlE?oc=5",
+      "date": "2026-10-22T11:04:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "6eae652cbd6a",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -45,6 +117,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-77.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "5e6cb3265b3e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surf break returns in La Union - Inquirer.net",
+      "snippet": "Surf break returns in La Union Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tOGtRQ2ZzT2wwOVVHaENQdEwta2R0bGtETFdlZmFNc1Fwa2JsS2xWZ1M0NWtPMjRONDF5a1p0Sko1RVZiclVjNGJ1YlJ6SVVydUZZUWlFWmN2QnpzMkpYVGZMeGtpc1Y2c3VMcDlMc2xBcDDSAXhBVV95cUxPb3hYSkctSGhUTjRkZHNsZElWbnFUUkhTS3dTYzhQOG95NmI4SDNMVEVKYm9JaS05VlRzZUtOY3M3T2hDZHNVWkVKUHRWN2ZGc211U0lpNkloc0dIR3VSQkU5Z3M4VTRDdWstVkd1aWtUMTBibUJxU3E?oc=5",
+      "date": "2026-10-22T10:35:00.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -61,6 +145,18 @@
       ]
     },
     {
+      "id": "b8e580e0caec",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future - picketfencemedia.com",
+      "snippet": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future picketfencemedia.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeDhJWDY3TFdTNkc4OFZqUnlWSEFUWWVOakhGclQyNmtUdGh3aDNYMXlhLUpFVWtILXZ1ZGJwSktLRTFuMXAyelZEX3FBQlNaOWR5N2VDcERPai1objE3bjVXdHhvbzBOWDBTMHZ1VE9hUUlwV2tiaDB5WEZBTWZEWTBjaXlNUElaSkczM3RQTmRkMVl4NlV5RFhORUpNWjVLZGdBV3doVW1XeDNjU01HZXh3Smxfd20yX3hmQUtxUlBsZ1h5VnB4LXFoT1N6MHZ3T1hLRkJrdy01Q3pRdjRzZjB4ZVdXTjBINmVEa2cxd3NPalQ1a2dReVVmN19IRURWME8xMnl3?oc=5",
+      "date": "2026-10-22T07:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "a827e6e4b5cb",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -71,6 +167,54 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "9ba48f861499",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach - Surfing Victoria",
+      "snippet": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZLbzJsbEVYd01nYkpENllSZlFOcmEtWGh6UUhEOXZmdTV3OUlkUkRfckNBSlRUWlJ6WGkwVHFCZXlnbC1QZGViaEZVcUJJU2NTbFJhTlRTWlZ2UE9JVVd4ODlGcWhkN2tWeFZZcmdVRE95VUdoSndxc2tUVXJEcWhNTzJQbFJmZlNfVl9hU0UxMzc5SlQ0ZmlpY3lySkx3bC0tTHRBSHJ6UWRDQzl6blltekhLX0pub0hSag?oc=5",
+      "date": "2026-10-22T05:23:38.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "65ef83317646",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Carpinteria surfers prep for new season - Coastal View News",
+      "snippet": "Carpinteria surfers prep for new season Coastal View News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVJZR2dycHY5Q1FOOUFMdVFMR2pGaUV2cV9BR0dCNUs3OVgwYm50VVd0bUxTa0ZVY1ZGaHZFUFk4Y2l0RjVFZERnMG45MXNSWjY2LVR5bE5MM09vVWlucWRDQVRaemhDdDJVZHFmQlpCM0w2THpOZUZTdUFXT0QtTTFfenhBMGRIOXVPcUtpNWJFeEROWC1VSkhna0xRcWgzVEdxZWxpNHlONl9DSFRHZmVnaWZzN1ZXNW96ZHdVV1dOQQ?oc=5",
+      "date": "2026-10-21T23:15:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "601f5165df08",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) - SURFER Magazine",
+      "snippet": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZGZqWG9RSTlHYm1SZnFBNmx3UjNGMVlHb2Y2WFhtN1l6RGlTOHItS19mNTE0OWNZTW5tSkZ2RzBIcllYY1l6OHprcnVzcUhRcm92LVBLeHNKR1dZV3pPd3g5d2l5NWtCWUt0MFhPY0U0SzJWdG5WLWdB?oc=5",
+      "date": "2026-10-21T18:50:35.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "398e4da44af0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "SumbaSurf brings immersive first-person surfing to your browser - Surfertoday",
+      "snippet": "SumbaSurf brings immersive first-person surfing to your browser Surfertoday",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbXR4cUdieEd2dlNpREc5bXpEdnF4ZzhEVElRT00yM3FKWjVOODVPaUluVms2dVd0aGNkUFNzbFh0cVhVLTctTGVWWnRVQTFFQjBxS1hESkJWU3ZQZVlUQTJXQlFsWXZrME0xcHUxOUNaTmVmdVVSaUlwRQ?oc=5",
+      "date": "2026-10-21T11:12:41.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -126,6 +270,18 @@
       ]
     },
     {
+      "id": "29fa1f903b90",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
+      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
+      "date": "2026-10-20T16:20:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "e605c649ddce",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -139,6 +295,18 @@
       ]
     },
     {
+      "id": "052e5c4e357f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion - www.pasionporelmar.com",
+      "snippet": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion www.pasionporelmar.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRXaEd6Ykl2ZTRhNHM3UHJCRnZEVHZwRnNsRjY4cXpuNmx6NVF1SzRObU1uMHZkREJzSG5meEJERXpuZm9KTU1BZHUySjdfY2kyLXZTd0ZfOUVqaFBMMS02eGx4ZzNhRGRrOERnd21UV285RkwwM2puMF9kSm5IdFdJWDRUVFFyYjZiZVhRQjNLWENFYWRZZzhUQ0JZNE9sWDFPT09LbkhINnZjb2Z2ekRB?oc=5",
+      "date": "2026-10-20T12:45:53.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
       "id": "b0303ada8099",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -147,6 +315,18 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/massive-one-from-cape-town/",
       "date": "2026-10-20T11:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-71.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d6a8a246451c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week - Cape Cod Times",
+      "snippet": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week Cape Cod Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakpfWDF1LVA3ZDQwenRzMlhYWEdFV1hMRUdkVGJ5Q19aU0ZmYllTSl9aYi0zNGt3VnNTSzVyRFptd0JETGZubFk3WGFLUjFWSENNTmRBOXZRRmVSRmU1Z1I0RllaZ0ZxVlE5Q2ktczd6ak1KTmdXR015OVNveTN1VUVwM3YwRGlET2dUUmQ5Z3dBdG9JUnhENFNVSUdNZkk3aERRRWpGZEtEdGxJMml3a1dCMzk5UTJiTzB6WUJ0SDN0TUpYakNDcXRLYWZlWkpHNWc?oc=5",
+      "date": "2026-10-20T09:00:00.000Z",
       "tags": [
         "kite"
       ]
@@ -178,6 +358,18 @@
       ]
     },
     {
+      "id": "49b9a1c54023",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Dave Stanfield, Voice of Professional Surfing, Has Died - SURFER Magazine",
+      "snippet": "Dave Stanfield, Voice of Professional Surfing, Has Died SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbnRtQVFESWVtRUw0SGZiSjFYVE1FNlBsQnBmbnBSS2NWQlhidFR0dVBxdjFUc3MzazRTQ19vMXJYa21QZ1FNLTJNYjljSzBMSGVqT0lHcDVIOGZBUTFBejBsVDNmQU9XM0NIYWtEa3dWWm9ycjNXeVl1YVlNcnM?oc=5",
+      "date": "2026-10-19T19:10:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "ab177db87be7",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -186,149 +378,6 @@
       "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
       "date": "2026-10-19T15:00:29.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "71c92bc6d53a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
-      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
-      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
-      "date": "2026-10-19T05:42:13.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "37077f691265",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
-      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
-      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
-      "date": "2026-10-18T04:30:23.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "d557073f3e07",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE!",
-      "snippet": "THE PERFECT CALL: CHAPUIS CONQUERS TIREE! THE PERFECT CALL: CHAPUIS CONQUERS TIREE! After finishing runner-up in 2023, Miguel Chapuis returned to the Tiree Wav…",
-      "url": "https://www.windsurf.co.uk/the-perfect-call-chapuis-conquers-tiree/",
-      "date": "2026-10-15T06:30:08.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "d26ee79616ab",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "MAYO MAYHEM: IT WENT OFF!",
-      "snippet": "MAYO MAYHEM: IT WENT OFF! MAYO MAYHEM: IT WENT OFF! This years Mayo Mayhem was an epic event with a big storm delivering the goods right on cue with the event…",
-      "url": "https://www.windsurf.co.uk/mayo-mayhem-it-went-off/",
-      "date": "2026-10-11T21:12:20.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/mayo-mayhem-it-went-off-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "1bba9b527813",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WAVES AND TRAILS LA REUNION: MIGUEL CHAPUIS",
-      "snippet": "WAVES AND TRAILS LA REUNION: MIGUEL CHAPUIS WAVES AND TRAILS LA REUNION: MIGUEL CHAPUIS Miguel Chapuis headed to Réunion Island at the beginning of September a…",
-      "url": "https://www.windsurf.co.uk/waves-and-trails-la-reunion-miguel-chapuis/",
-      "date": "2026-10-09T05:42:44.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/waves-and-trails-la-reunion-migu-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "a6b4e3bef174",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE WAVE CLASSIC WINDSURF PREDICTIONS",
-      "snippet": "TIREE WAVE CLASSIC WINDSURF PREDICTIONS TIREE WAVE CLASSIC WINDSURF PREDICTIONS It’s time to dust off our tartan crystal ball, fire up the bagpipes and get stu…",
-      "url": "https://www.windsurf.co.uk/tiree-wave-classic-windsurf-predictions/",
-      "date": "2026-10-08T05:04:54.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/B5M1356-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "f9bdf1d7b302",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "FINN MELLON: BRANDON BAY IRELAND CAMP 2026",
-      "snippet": "FINN MELLON: BRANDON BAY IRELAND CAMP 2026 FINN MELLON: BRANDON BAY IRELAND CAMP 2026 Finn Mellon and Dieter van Der Eyken recently hosted their annual wave ca…",
-      "url": "https://www.windsurf.co.uk/finn-mellon-brandon-bay-ireland-camp-2026/",
-      "date": "2026-10-08T03:20:16.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/finn-mellon-brandon-bay-ireland-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "627115ffcc56",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "PUMPING TARANAKI: NEW ZEALAND",
-      "snippet": "PUMPING TARANAKI: NEW ZEALAND PUMPING TARANAKI: NEW ZEALAND The waves have been pumping in New Zealand and James Dinnis scored this epic down the line session…",
-      "url": "https://www.windsurf.co.uk/pumping-taranaki-new-zealand/",
-      "date": "2026-10-07T10:27:55.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/pumping-taranaki-new-zealand-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "3399ab823615",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WISSANT WAVE CLASSIC 2026: OFFICIAL AFTERMOVIE!",
-      "snippet": "WISSANT WAVE CLASSIC 2026: OFFICIAL AFTERMOVIE! WISSANT WAVE CLASSIC 2026: OFFICIAL AFTERMOVIE! The official aftermovie from the Wissant Wave Classic is out no…",
-      "url": "https://www.windsurf.co.uk/wissant-wave-classic-2026-official-aftermovie/",
-      "date": "2026-10-07T05:41:39.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/wissant-wave-classic-2026-offici-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "d9702c7d433a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE CHEESE ROLL CHRONICLES: JAN SLEIGH’S WINDSURFING JOURNEY!",
-      "snippet": "THE CHEESE ROLL CHRONICLES: JAN SLEIGH’S WINDSURFING JOURNEY! THE CHEESE ROLL CHRONICLES: JAN SLEIGH’S WINDSURFING JOURNEY! Jan Sleigh’s story is one of passio…",
-      "url": "https://www.windsurf.co.uk/the-cheese-roll-chronicles-jan-sleighs-windsurfing-journey/",
-      "date": "2026-10-06T04:30:00.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/07/508129100_10171491180115374_6391838232820335827_n-1-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "b4880ad2105c",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "SARAH HAUSER: STILL HERE",
-      "snippet": "SARAH HAUSER: STILL HERE SARAH HAUSER: STILL HERE Two injuries. Two years. Still fighting. What started as an ankle problem around the 2024 Aloha Classic turne…",
-      "url": "https://www.windsurf.co.uk/sarah-hauser-still-here/",
-      "date": "2026-10-02T05:43:51.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/05/FI23_WV_Finals_Day__123_-800x600.jpg",
       "tags": [
         "wind"
       ]
