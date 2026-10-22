@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:41:56.697Z",
+  "generated_at": "2026-10-22T04:42:18.114Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "65ef83317646",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Carpinteria surfers prep for new season - Coastal View News",
+      "snippet": "Carpinteria surfers prep for new season Coastal View News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVJZR2dycHY5Q1FOOUFMdVFMR2pGaUV2cV9BR0dCNUs3OVgwYm50VVd0bUxTa0ZVY1ZGaHZFUFk4Y2l0RjVFZERnMG45MXNSWjY2LVR5bE5MM09vVWlucWRDQVRaemhDdDJVZHFmQlpCM0w2THpOZUZTdUFXT0QtTTFfenhBMGRIOXVPcUtpNWJFeEROWC1VSkhna0xRcWgzVEdxZWxpNHlONl9DSFRHZmVnaWZzN1ZXNW96ZHdVV1dOQQ?oc=5",
+      "date": "2026-10-21T23:15:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "601f5165df08",
       "source": "google_surf",
@@ -33,15 +45,15 @@
       ]
     },
     {
-      "id": "219a99eaa883",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air Returns to Cape Town for 2026 Edition - The Newspaper",
-      "snippet": "Red Bull King of the Air Returns to Cape Town for 2026 Edition The Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXZNSjdaMVRUclh0bGthQzFsbk9KUVVCYW9zVWF5OU54V1N0R3Axb0pZV2ROM1ZZZzViN2Y1TWdXLUplRnFzTFVTU3dkRF84aTMxRDhjVWtXNDJVTko0THZ4RTB2X093VDNBaVVzVEpvaWwwRGVfSVEwb2NHVWQwXw?oc=5",
-      "date": "2026-10-21T11:14:16.000Z",
+      "id": "398e4da44af0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "SumbaSurf brings immersive first-person surfing to your browser - Surfertoday",
+      "snippet": "SumbaSurf brings immersive first-person surfing to your browser Surfertoday",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbXR4cUdieEd2dlNpREc5bXpEdnF4ZzhEVElRT00yM3FKWjVOODVPaUluVms2dVd0aGNkUFNzbFh0cVhVLTctTGVWWnRVQTFFQjBxS1hESkJWU3ZQZVlUQTJXQlFsWXZrME0xcHUxOUNaTmVmdVVSaUlwRQ?oc=5",
+      "date": "2026-10-21T11:12:41.000Z",
       "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -92,18 +104,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-first-the-supermax-kitesurfing-incredible-blowup-sendit-brazil/",
       "date": "2026-10-20T17:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-73.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "29fa1f903b90",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
-      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
-      "date": "2026-10-20T16:20:00.000Z",
       "tags": [
         "kite"
       ]
@@ -348,6 +348,18 @@
       ]
     },
     {
+      "id": "b8072b17d323",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Sail-World.com",
+      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
+      "date": "2026-10-16T10:01:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
       "id": "1ce7fece4b8c",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -370,18 +382,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_1021-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "dcd291ea77ac",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "New NSRI rescue boat to honour kiteboarding legend Graham Howes - Cape Town ETC",
-      "snippet": "New NSRI rescue boat to honour kiteboarding legend Graham Howes Cape Town ETC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVVlWmtQLWpkUE1IblpUZEJNNC05MV9lUVRzN1hIMzh6RGVrLVJWcXdXeTNOWkdRQVhoNEczV2RFRThOSG1NaVFXbHN5UVFuTnVSUkJfUTBTWmF3bWxZcnpsZU4zUWhHU0YySmdvX2hLZEtzN3pORTFETmE4RHV5VTMyNE54UG42YndMY2U2VGNyVTZaeFgzMVJ4LTBRdw?oc=5",
-      "date": "2026-10-14T16:00:44.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
