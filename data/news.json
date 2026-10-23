@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:36:40.268Z",
+  "generated_at": "2026-10-23T17:05:31.850Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,51 @@
   },
   "items": [
     {
+      "id": "3dbbe4ea943d",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Olympic surfer suspended, Tahiti investigates alleged sexual assault of a minor - USA Today",
+      "snippet": "Olympic surfer suspended, Tahiti investigates alleged sexual assault of a minor USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lvdkNCLU84Y2xDOGlLYlk2MS1IQ3BZUW51emZiZGZXLXNiMnlnMEJXRy1QS1FaMUUtY0w3N3N4eHN5MFRBSDBqU3ZqMW9ia3BBcGRPN0NOWE9TVzNNai1TQmtFSmIxSi1NQWF2UGxINmh0UTdKeGJWbGhqd3ZMZ3A3M1hVU2NhaEszcXVBYV82eDBrVTJMSXI0M0tHRURHNG41OFFZeHUtRVJ3Tm1FWHlwRWprWFZsOXdQOGJMTHVaMVhaRDFfR3drQ3daTDQ?oc=5",
+      "date": "2026-10-23T14:44:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a9e7ab377097",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Hear what Claudi, current world No. 2 has to say! #brazil #gka #kiteboarding #freestyle",
+      "snippet": "Behind this scene of what it takes to keep going. The post Hear what Claudi, current world No. 2 has to say! #brazil #gka #kiteboarding #freestyle first appear…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/hear-what-claudi-current-world-no-2-has-to-say-brazil-gka-kiteboarding-freestyle/",
+      "date": "2026-10-23T14:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-82.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f75e2c797469",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Fran still pushing the level, posting the highest trick score so far with a 6.50!#gkakiteworldtour",
+      "snippet": "The highest scoring trick of the day! Looking good. The post Fran still pushing the level, posting the highest trick score so far with a 6.50!#gkakiteworldtour…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/fran-still-pushing-the-level-posting-the-highest-trick-score-so-far-with-a-6-50gkakiteworldtour/",
+      "date": "2026-10-23T11:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-80.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "db5c465f9f91",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record - Cape Argus",
       "snippet": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record Cape Argus",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdElfNUxURGkydWJMbDNTRVQ3X1ktdzFtaUlTVkFZRGs4N0JWSXpZVExUeWFEcVBaZTk4aGNkWGF3VGtuWnF6STNFaXFFMnVWY3pfck1JREFEWGoxejRWT2JEOTNTY213WDUzLXZ1ZmxGYjJzSWlKdWc2S3I3SlZ5M2FWS0YtNDRveThybWJ3Vnl4QVkyTENXUE9YSWtFSjJWb3JGMXJoOFdJblNMUFE?oc=5",
-      "date": "2026-10-23T08:21:57.000Z",
+      "date": "2026-10-23T08:22:19.000Z",
       "tags": [
         "surf"
       ]
@@ -53,6 +91,18 @@
       "snippet": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 WavePoolMag",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SU5HaWpmT1pSNkVyekNvbzhOMndUZ20tcWxFVmhoMjluMEJiZUI1VFVETTV4cnFxZVVmMjk5NmtJUGF6ZFlybUxWUTJtM2VBcEh3NEhVTFBXZENKajMxTWJ2aldsd1RBTlN0cFhxV0RScTQ?oc=5",
       "date": "2026-10-23T07:02:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "5571da90bdf9",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing Break In La Union Begins October 25 - pageone.ph",
+      "snippet": "Surfing Break In La Union Begins October 25 pageone.ph",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRUpmR3F6VS1JMzAya0pRVEhZM0hPZ2p3UWRGM2N1Z1RtWmtNZ3lTWWRhOVViRXVjd1M3VG5lWkJ3RmZ4enJZX25wZ29rX0lMM1FjaGFKQ1NyUWI1TDJOYk41SnIyVWtyRHZVWmtJZGM?oc=5",
+      "date": "2026-10-23T06:44:34.000Z",
       "tags": [
         "surf"
       ]
@@ -291,56 +341,6 @@
       "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
       "date": "2026-10-20T16:20:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "e605c649ddce",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "The BTS vs. The Final Shots",
-      "snippet": "What it takes for the perfect shot! The post The BTS vs. The Final Shots first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/the-bts-vs-the-final-shots/",
-      "date": "2026-10-20T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-72.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "052e5c4e357f",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion - www.pasionporelmar.com",
-      "snippet": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion www.pasionporelmar.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRXaEd6Ykl2ZTRhNHM3UHJCRnZEVHZwRnNsRjY4cXpuNmx6NVF1SzRObU1uMHZkREJzSG5meEJERXpuZm9KTU1BZHUySjdfY2kyLXZTd0ZfOUVqaFBMMS02eGx4ZzNhRGRrOERnd21UV285RkwwM2puMF9kSm5IdFdJWDRUVFFyYjZiZVhRQjNLWENFYWRZZzhUQ0JZNE9sWDFPT09LbkhINnZjb2Z2ekRB?oc=5",
-      "date": "2026-10-20T12:45:53.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "b0303ada8099",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Massive one from Cape Town",
-      "snippet": "Gearing up ready for more of this backdrop! The post Massive one from Cape Town first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/massive-one-from-cape-town/",
-      "date": "2026-10-20T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-71.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d6a8a246451c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week - Cape Cod Times",
-      "snippet": "See Cape Cod wildlife, Sandwich boardwalk and harbor views: Staff photos of the week Cape Cod Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakpfWDF1LVA3ZDQwenRzMlhYWEdFV1hMRUdkVGJ5Q19aU0ZmYllTSl9aYi0zNGt3VnNTSzVyRFptd0JETGZubFk3WGFLUjFWSENNTmRBOXZRRmVSRmU1Z1I0RllaZ0ZxVlE5Q2ktczd6ak1KTmdXR015OVNveTN1VUVwM3YwRGlET2dUUmQ5Z3dBdG9JUnhENFNVSUdNZkk3aERRRWpGZEtEdGxJMml3a1dCMzk5UTJiTzB6WUJ0SDN0TUpYakNDcXRLYWZlWkpHNWc?oc=5",
-      "date": "2026-10-20T09:00:00.000Z",
       "tags": [
         "kite"
       ]
