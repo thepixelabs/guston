@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:34:21.207Z",
+  "generated_at": "2026-10-23T04:47:17.519Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "6dc88a872796",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Unleashing Next-Level Surfing Speed: What is Red Bull Aeriality? - Red Bull",
+      "snippet": "Unleashing Next-Level Surfing Speed: What is Red Bull Aeriality? Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tM2RyRWEyT2NfOVpoMGFwYnZJVEo1TmlYSGhEZDEtdjlOd095NEI5STN4Nm5GUERGeWJlQWVQRnhHc2xVVURoSkVPdUs3dm1WXzFTdE9FTW9ORE5XOG1RekRFQTFOckk?oc=5",
+      "date": "2026-10-23T00:31:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "9eb7f2f99699",
       "source": "google_surf",
@@ -83,30 +95,6 @@
       ]
     },
     {
-      "id": "f75fb15f40fe",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "DAZN strikes multi-year global deal with surf racing series Guardians League - Broadcast",
-      "snippet": "DAZN strikes multi-year global deal with surf racing series Guardians League Broadcast",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVJINGVId3Z2S2RtdG8yNUNTaXRRaTlvTUhucUoyU2VkUGQ0eWRFelExQUEzbTQ3Um82M20zODVpejI1UV9LRlZCN052amhaSk5LRXRtQUdOOEhvNC10cnhOQTlsSXI1OXI3WGpYbHhfb1pDc25VYUxXMDl0cmhZVFotZHlIdGpJdE1IUHBpVEI5V0tRZWt5bTktS3ItemZMajJURG1LTF9pRmQxc2g3bURlUGhkMHhkdnNMQTlHRnV1NWIweHRFRndubzMtSWY1T1E?oc=5",
-      "date": "2026-10-22T11:41:14.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "b501c9d285ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 - Surf Life Saving",
-      "snippet": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 Surf Life Saving",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0dXSkxySlViekl1ZnkzbGtUVU1EaWlvbUd2UVVWNHE0SmN1b05pZm1zbEpkUFNteVM4NlBpY3lCZjhnQWRpRkUyTTBXeWhCT2JSRThnU3Q2V0E3U0JrLW5ONklwT3VOeUVfU2pkckhBTjBuNWM1ckJaamg4a2FPRWM4ZFRENlJCYlE?oc=5",
-      "date": "2026-10-22T11:04:44.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "6eae652cbd6a",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -167,18 +155,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "9ba48f861499",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach - Surfing Victoria",
-      "snippet": "Victoria’s Next Generation Set to Take Centre Stage at the WorkSafe Victorian Classic Bells Beach Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZLbzJsbEVYd01nYkpENllSZlFOcmEtWGh6UUhEOXZmdTV3OUlkUkRfckNBSlRUWlJ6WGkwVHFCZXlnbC1QZGViaEZVcUJJU2NTbFJhTlRTWlZ2UE9JVVd4ODlGcWhkN2tWeFZZcmdVRE95VUdoSndxc2tUVXJEcWhNTzJQbFJmZlNfVl9hU0UxMzc5SlQ0ZmlpY3lySkx3bC0tTHRBSHJ6UWRDQzl6blltekhLX0pub0hSag?oc=5",
-      "date": "2026-10-22T05:23:38.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -265,18 +241,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-first-the-supermax-kitesurfing-incredible-blowup-sendit-brazil/",
       "date": "2026-10-20T17:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-73.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "29fa1f903b90",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
-      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
-      "date": "2026-10-20T16:20:00.000Z",
       "tags": [
         "kite"
       ]
@@ -378,6 +342,44 @@
       "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
       "date": "2026-10-19T15:00:29.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "71c92bc6d53a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
+      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
+      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
+      "date": "2026-10-19T05:42:13.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "cec1d8d619cc",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "ISA suspends athlete over abuse allegations - Inside The Games",
+      "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
+      "date": "2026-10-18T08:58:34.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "37077f691265",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
+      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
+      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
+      "date": "2026-10-18T04:30:23.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
       "tags": [
         "wind"
       ]
