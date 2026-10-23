@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:47:17.519Z",
+  "generated_at": "2026-10-23T11:36:40.268Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,68 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "db5c465f9f91",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record - Cape Argus",
+      "snippet": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record Cape Argus",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdElfNUxURGkydWJMbDNTRVQ3X1ktdzFtaUlTVkFZRGs4N0JWSXpZVExUeWFEcVBaZTk4aGNkWGF3VGtuWnF6STNFaXFFMnVWY3pfck1JREFEWGoxejRWT2JEOTNTY213WDUzLXZ1ZmxGYjJzSWlKdWc2S3I3SlZ5M2FWS0YtNDRveThybWJ3Vnl4QVkyTENXUE9YSWtFSjJWb3JGMXJoOFdJblNMUFE?oc=5",
+      "date": "2026-10-23T08:21:57.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "794f14fec15e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "A full fleet of 24 men and 14 women ready to send it! #brazil #gkakiteworldtour #kiteboarding",
+      "snippet": "Riders at the ready! The post A full fleet of 24 men and 14 women ready to send it! #brazil #gkakiteworldtour #kiteboarding first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/a-full-fleet-of-24-men-and-14-women-ready-to-send-it-brazil-gkakiteworldtour-kiteboarding/",
+      "date": "2026-10-23T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-81.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d3beed412f72",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the World Surf League (WSL) Philippines Pro Championship Tour set Oct. 30-Nov. 8 at Cloud 9 Siargao - Facebook",
+      "snippet": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the W…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTVNY2FJOU9QNWNOSFp3YjFkRlJIRU9wcko3a2hpLXh0bkxLMEh5ZGg4Y01pNzB5STdKeGd0TXpuU1AxMXZpQUF1SXAwQUdrTnRFVzlDVHJEdml1SnhXdVRReE1lS0h2MTdKd0dQYVJCZHBVaXAtdjU3M0tieFlTWENET05zSkxWd0pDdkpHdXFnTHB6bjRPUFp2NkwwQkhQWXd1dkZoRXZmdWdmMERFNmdqdGNNQmtoWUd6OGp0VzlESTlhV3g2V3ZUNXdSMVV6bG5NVg?oc=5",
+      "date": "2026-10-23T07:04:53.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6229e41f9827",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 - WavePoolMag",
+      "snippet": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 WavePoolMag",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SU5HaWpmT1pSNkVyekNvbzhOMndUZ20tcWxFVmhoMjluMEJiZUI1VFVETTV4cnFxZVVmMjk5NmtJUGF6ZFlybUxWUTJtM2VBcEh3NEhVTFBXZENKajMxTWJ2aldsd1RBTlN0cFhxV0RScTQ?oc=5",
+      "date": "2026-10-23T07:02:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "51476eae4ddf",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER",
+      "snippet": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER We chat with two world champions, Sarah-Qui…",
+      "url": "https://www.windsurf.co.uk/the-fin-factor-sarah-quita-offringa-and-lennart-neubauer/",
+      "date": "2026-10-23T05:34:12.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/FV26_fs_GRE734_00605-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "6dc88a872796",
       "source": "google_surf",
@@ -83,18 +145,6 @@
       ]
     },
     {
-      "id": "3fc6359935ad",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing Break in La Union begins Oct. 25 MALASIQUI, Pangasinan – The La Union Surfing Break, highlighting the province’s coastal attractions and local culture, is scheduled to run from Oct. 25 to Nov. 1. According to the provincial government, the towns of A - Facebook",
-      "snippet": "Surfing Break in La Union begins Oct. 25 MALASIQUI, Pangasinan – The La Union Surfing Break, highlighting the province’s coastal attractions and local culture,…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmRualFldGZRYUowRTM2UG9FdTdTRDNpWGFZeUYwb3lqVmZ5dnNhNTROQTBPZ0lPQ1REbmdHdVBrUDhzRlYyd1g2YkxSS1JubWczRG9ueXRld2tQU253aG5ZRjBFd2VfX0s1X29ZaFlwNms2RkFYb3c1dmJPNWFoT2ZPZVM0UXktNnlfZm9RMnZLWi1nbzBsbnRld1JZX1R4aV9TVWNKUVFoY2J3UWNEX0daMUI5QzVPTmJGSkNtSmhUR05YRTVmTVF2RmZpZnJ0aHpaZg?oc=5",
-      "date": "2026-10-22T12:20:08.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "6eae652cbd6a",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -155,18 +205,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "65ef83317646",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Carpinteria surfers prep for new season - Coastal View News",
-      "snippet": "Carpinteria surfers prep for new season Coastal View News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVJZR2dycHY5Q1FOOUFMdVFMR2pGaUV2cV9BR0dCNUs3OVgwYm50VVd0bUxTa0ZVY1ZGaHZFUFk4Y2l0RjVFZERnMG45MXNSWjY2LVR5bE5MM09vVWlucWRDQVRaemhDdDJVZHFmQlpCM0w2THpOZUZTdUFXT0QtTTFfenhBMGRIOXVPcUtpNWJFeEROWC1VSkhna0xRcWgzVEdxZWxpNHlONl9DSFRHZmVnaWZzN1ZXNW96ZHdVV1dOQQ?oc=5",
-      "date": "2026-10-21T23:15:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -246,6 +284,18 @@
       ]
     },
     {
+      "id": "29fa1f903b90",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
+      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
+      "date": "2026-10-20T16:20:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "e605c649ddce",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -296,19 +346,6 @@
       ]
     },
     {
-      "id": "d4b78f93cdb6",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "RATE THIS TRICK FROM 1–10? Kitesurfing",
-      "snippet": "Theo Demanez throwing down a ridiculous strapless 3-rotation! The post RATE THIS TRICK FROM 1–10? Kitesurfing first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/rate-this-trick-from-1-10-kitesurfing/",
-      "date": "2026-10-20T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-70.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "f5adbd028941",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -342,44 +379,6 @@
       "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
       "date": "2026-10-19T15:00:29.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "71c92bc6d53a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
-      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
-      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
-      "date": "2026-10-19T05:42:13.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "cec1d8d619cc",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "ISA suspends athlete over abuse allegations - Inside The Games",
-      "snippet": "ISA suspends athlete over abuse allegations Inside The Games",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHkxOXJXVzN1TWhoUmcybVM4WHEyZlRTamw2VTNSQnVqcmRjWTdUZWYtczFGUGdGV0t4MEZwTGxXNDF5bTNPbXhYYVJ3b2gyWEVFS1E0VUh2Nk9zTGJHUXF2ZkV6dEFlS1NQZnB1QWY4YmpJcVZhXzdNU3d3NmN2VUN1cDFSU3kzdFpJ?oc=5",
-      "date": "2026-10-18T08:58:34.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "37077f691265",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
-      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
-      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
-      "date": "2026-10-18T04:30:23.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
       "tags": [
         "wind"
       ]
