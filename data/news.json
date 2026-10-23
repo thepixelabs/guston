@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:05:31.850Z",
+  "generated_at": "2026-10-23T21:23:21.158Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,15 +9,53 @@
   },
   "items": [
     {
+      "id": "f8a171f138e5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Ozone Demo Tour Argentina Kicks Off",
+      "snippet": "After a long run on the road, the Ozone Demo Tour has crossed into South America and is touching down in Argentina from 21 October to 16 December 2026. The Sto…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ozone-demo-tour-argentina-kicks-off/",
+      "date": "2026-10-23T20:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/03-ozone-argentina-demo.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "5df6c257a396",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Elite surfers chase wsl glory - Daily Tribune",
+      "snippet": "Elite surfers chase wsl glory Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNFZ3SnljTFZ2LU5Md25vYXBtUkhITmlta3JkOGdScDJRSWlJRHpKX1ZLS1F5T2R4R0h3Q2pBNTkyaXBIam1odXY0YkV6dTJBVERfX3JwTXdOUTJfcGpoRWtOUHpWTW9IeURGNzhZbTg?oc=5",
+      "date": "2026-10-23T19:06:26.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "3dbbe4ea943d",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Olympic surfer suspended, Tahiti investigates alleged sexual assault of a minor - USA Today",
-      "snippet": "Olympic surfer suspended, Tahiti investigates alleged sexual assault of a minor USA Today",
+      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - USA Today",
+      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations USA Today",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lvdkNCLU84Y2xDOGlLYlk2MS1IQ3BZUW51emZiZGZXLXNiMnlnMEJXRy1QS1FaMUUtY0w3N3N4eHN5MFRBSDBqU3ZqMW9ia3BBcGRPN0NOWE9TVzNNai1TQmtFSmIxSi1NQWF2UGxINmh0UTdKeGJWbGhqd3ZMZ3A3M1hVU2NhaEszcXVBYV82eDBrVTJMSXI0M0tHRURHNG41OFFZeHUtRVJ3Tm1FWHlwRWprWFZsOXdQOGJMTHVaMVhaRDFfR3drQ3daTDQ?oc=5",
-      "date": "2026-10-23T14:44:00.000Z",
+      "date": "2026-10-23T17:09:00.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "000c0a2e398f",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "South Africa’s best kept kiting SECRET",
+      "snippet": "Knysna Lagoon. Flat water, big skies, butter-smooth stretches and enough room to let loose. Tucked away along the Garden Route, this place has to be one of my…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/south-africas-best-kept-kiting-secret/",
+      "date": "2026-10-23T17:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-83.jpg",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -84,30 +122,6 @@
       ]
     },
     {
-      "id": "6229e41f9827",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 - WavePoolMag",
-      "snippet": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SU5HaWpmT1pSNkVyekNvbzhOMndUZ20tcWxFVmhoMjluMEJiZUI1VFVETTV4cnFxZVVmMjk5NmtJUGF6ZFlybUxWUTJtM2VBcEh3NEhVTFBXZENKajMxTWJ2aldsd1RBTlN0cFhxV0RScTQ?oc=5",
-      "date": "2026-10-23T07:02:47.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "5571da90bdf9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing Break In La Union Begins October 25 - pageone.ph",
-      "snippet": "Surfing Break In La Union Begins October 25 pageone.ph",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRUpmR3F6VS1JMzAya0pRVEhZM0hPZ2p3UWRGM2N1Z1RtWmtNZ3lTWWRhOVViRXVjd1M3VG5lWkJ3RmZ4enJZX25wZ29rX0lMM1FjaGFKQ1NyUWI1TDJOYk41SnIyVWtyRHZVWmtJZGM?oc=5",
-      "date": "2026-10-23T06:44:34.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "51476eae4ddf",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -140,18 +154,6 @@
       "snippet": "Gilmore Leads Star-Studded Australian Surfing Team With Olympic Places at Stake Sportzhub",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU1mWWdxME9PMTl5aHhZWE83clE5ZXNHS08xdFBlVlFqRW5Rd0g0ZmJvTGl1a09OX2MyOUw3U1I5NVdUeEM1LXE4ZTM0eklUUkoyNklYdDhBU1dmS283X0o4WFZ5UTRrZVBVNUFjakJTR2tYYS1pVGpObTJHSUQ3Si1ab1hxN0ZzdGU2NnBFWk1NellZZWdXSHdZUWUwcGdwU2lUNkoyVmJNVGkxdksyaVZaZHhoaV9kTEE?oc=5",
       "date": "2026-10-22T21:14:41.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a733a94b9cd4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing Break 2026 to draw crowds - Daily Tribune",
-      "snippet": "Surfing Break 2026 to draw crowds Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BalQ1amRXbUY3UnhhV3RMcjdYRDNiTlFJdUNzXzNoMERydWRHQldLQkJzdFNLSTY0bHNfRUpuem9JczlyOTN6aFdHS3N2UTZwa19ua1ZzZEpQcHJWcXBnYTRUQ1lWY0NRaHJKYUl3NUlJNVhTLWc?oc=5",
-      "date": "2026-10-22T19:39:01.000Z",
       "tags": [
         "surf"
       ]
@@ -233,15 +235,15 @@
       ]
     },
     {
-      "id": "b8e580e0caec",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future - picketfencemedia.com",
-      "snippet": "‘Surf Queenie at Doheny’; Local Longboarders Shine; San Onofre’s Future picketfencemedia.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeDhJWDY3TFdTNkc4OFZqUnlWSEFUWWVOakhGclQyNmtUdGh3aDNYMXlhLUpFVWtILXZ1ZGJwSktLRTFuMXAyelZEX3FBQlNaOWR5N2VDcERPai1objE3bjVXdHhvbzBOWDBTMHZ1VE9hUUlwV2tiaDB5WEZBTWZEWTBjaXlNUElaSkczM3RQTmRkMVl4NlV5RFhORUpNWjVLZGdBV3doVW1XeDNjU01HZXh3Smxfd20yX3hmQUtxUlBsZ1h5VnB4LXFoT1N6MHZ3T1hLRkJrdy01Q3pRdjRzZjB4ZVdXTjBINmVEa2cxd3NPalQ1a2dReVVmN19IRURWME8xMnl3?oc=5",
+      "id": "3f6e3afcc8bd",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kiteboarders catch big air on New Hampshire coast - WMUR",
+      "snippet": "Kiteboarders catch big air on New Hampshire coast WMUR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjJpTmhJdFViZ1YyY0YwcnRqSGllMHFqa3RMdXRyT2ZfSklQaDlua2dPVHBkVE45SGxqOS1ldU1RSzlyMEpSZ3NQMlZuWGxDLVZoejVMM2FYN09ENWdXTHpUbWk5VzZhdUE3YzBwQkNKSm53emI5QVl4dUxkVk9EeEd4WGxKaWc?oc=5",
       "date": "2026-10-22T07:00:00.000Z",
       "tags": [
-        "surf"
+        "kite"
       ]
     },
     {
@@ -295,19 +297,6 @@
       ]
     },
     {
-      "id": "796b9556b28f",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Phone vs Insta360 X5 – Kite Launch Off a Yacht #insta360 #insta360x5",
-      "snippet": "Two different POVs whilst jumping off a Yacht! The post Phone vs Insta360 X5 – Kite Launch Off a Yacht #insta360 #insta360x5 first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/phone-vs-insta360-x5-kite-launch-off-a-yacht-insta360-insta360x5/",
-      "date": "2026-10-21T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-74.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "eaecdd3a1e21",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -321,19 +310,6 @@
       ]
     },
     {
-      "id": "a4766888d57e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "World first ! The Supermax #kitesurfing #incredible #blowup #sendit #brazil",
-      "snippet": "This is CRAZY! Check out the worlds first! The post World first ! The Supermax #kitesurfing #incredible #blowup #sendit #brazil first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-first-the-supermax-kitesurfing-incredible-blowup-sendit-brazil/",
-      "date": "2026-10-20T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-73.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "29fa1f903b90",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -343,6 +319,18 @@
       "date": "2026-10-20T16:20:00.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "052e5c4e357f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion - www.pasionporelmar.com",
+      "snippet": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion www.pasionporelmar.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRXaEd6Ykl2ZTRhNHM3UHJCRnZEVHZwRnNsRjY4cXpuNmx6NVF1SzRObU1uMHZkREJzSG5meEJERXpuZm9KTU1BZHUySjdfY2kyLXZTd0ZfOUVqaFBMMS02eGx4ZzNhRGRrOERnd21UV285RkwwM2puMF9kSm5IdFdJWDRUVFFyYjZiZVhRQjNLWENFYWRZZzhUQ0JZNE9sWDFPT09LbkhINnZjb2Z2ekRB?oc=5",
+      "date": "2026-10-20T12:45:53.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -379,6 +367,19 @@
       "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
       "date": "2026-10-19T15:00:29.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "71c92bc6d53a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
+      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
+      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
+      "date": "2026-10-19T05:42:13.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
       "tags": [
         "wind"
       ]
