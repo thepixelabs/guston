@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:23:21.158Z",
+  "generated_at": "2026-10-24T04:34:33.017Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "954a108853e2",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Mystic Introduces Deep Brown for FW26 27",
+      "snippet": "Meet Deep Brown, Mystic’s new seasonal colour across everyday essentials and outdoor-ready styles for FW26/27. From laid-back layers to versatile outerwear, th…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/mystic-introduces-deep-brown-for-fw26-27/",
+      "date": "2026-10-23T23:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/01-mystic-deep-brown.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "f8a171f138e5",
       "source": "iksurfmag",
@@ -281,19 +294,6 @@
       "date": "2026-10-21T11:12:41.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "a67980002cdb",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sunset sessions hit different",
-      "snippet": "Double trouble! The post Sunset sessions hit different first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/sunset-sessions-hit-different/",
-      "date": "2026-10-21T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-75.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
