@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:34:33.017Z",
+  "generated_at": "2026-10-24T10:57:10.682Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,70 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "bb4c14576403",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "GA COSMIC 7.7m 2026: WINDSURFER REVIEW",
+      "snippet": "GA COSMIC 7.7m 2026: WINDSURFER REVIEW GA COSMIC 7.7m 2026: WINDSURFER REVIEW The wind is back with a vengeance, and the Windsurfer test team have been making…",
+      "url": "https://www.windsurf.co.uk/ga-cosmic-7-7m-2026-windsurfer-review/",
+      "date": "2026-10-24T10:21:58.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/ga-cosmic-7-7m-2026-windsurfer-r-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "d3beed412f72",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the World Surf League (WSL) Philippines Pro Championship Tour set Oct. 30-Nov. 8 at Cloud 9 Siargao - Facebook",
+      "snippet": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the W…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTVNY2FJOU9QNWNOSFp3YjFkRlJIRU9wcko3a2hpLXh0bkxLMEh5ZGg4Y01pNzB5STdKeGd0TXpuU1AxMXZpQUF1SXAwQUdrTnRFVzlDVHJEdml1SnhXdVRReE1lS0h2MTdKd0dQYVJCZHBVaXAtdjU3M0tieFlTWENET05zSkxWd0pDdkpHdXFnTHB6bjRPUFp2NkwwQkhQWXd1dkZoRXZmdWdmMERFNmdqdGNNQmtoWUd6OGp0VzlESTlhV3g2V3ZUNXdSMVV6bG5NVg?oc=5",
+      "date": "2026-10-24T08:43:32.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8bd5e99fe590",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Cocco serving tricks al dente #gkakiteworldtour #brazil #worldcup #kiteboarding",
+      "snippet": "No words needed 😮‍💨 The post Cocco serving tricks al dente #gkakiteworldtour #brazil #worldcup #kiteboarding first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/cocco-serving-tricks-al-dente-gkakiteworldtour-brazil-worldcup-kiteboarding/",
+      "date": "2026-10-24T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-84.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "1997b323e639",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Ozone EXP V2 and Explore V3 Are Ready for the Snow",
+      "snippet": "Whether pushing into untracked alpine terrain or launching a multi-week polar expedition, Ozone’s new EXP V2 is designed as a no-nonsense adventure partner. In…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ozone-exp-v2-and-explore-v3-are-ready-for-the-snow/",
+      "date": "2026-10-24T08:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/02-ozone-snowkite.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "8779c068b202",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "ION Core Wetsuits Return with Natural Rubber Construction",
+      "snippet": "ION’s versatile Core wetsuit line returns with a new benchmark in material choice and performance. At its heart is certified natural rubber as part of the Ocen…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ion-core-wetsuits-return-with-natural-rubber-construction/",
+      "date": "2026-10-24T02:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/01-ion-core-fw27.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "954a108853e2",
       "source": "iksurfmag",
@@ -85,6 +149,18 @@
       ]
     },
     {
+      "id": "db5c465f9f91",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record - Cape Argus",
+      "snippet": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record Cape Argus",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdElfNUxURGkydWJMbDNTRVQ3X1ktdzFtaUlTVkFZRGs4N0JWSXpZVExUeWFEcVBaZTk4aGNkWGF3VGtuWnF6STNFaXFFMnVWY3pfck1JREFEWGoxejRWT2JEOTNTY213WDUzLXZ1ZmxGYjJzSWlKdWc2S3I3SlZ5M2FWS0YtNDRveThybWJ3Vnl4QVkyTENXUE9YSWtFSjJWb3JGMXJoOFdJblNMUFE?oc=5",
+      "date": "2026-10-23T13:52:06.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "f75e2c797469",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -95,18 +171,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-80.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "db5c465f9f91",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record - Cape Argus",
-      "snippet": "Move over, Dad! Five-year-old Ziggy Smith breaks Jordy’s surfing record Cape Argus",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdElfNUxURGkydWJMbDNTRVQ3X1ktdzFtaUlTVkFZRGs4N0JWSXpZVExUeWFEcVBaZTk4aGNkWGF3VGtuWnF6STNFaXFFMnVWY3pfck1JREFEWGoxejRWT2JEOTNTY213WDUzLXZ1ZmxGYjJzSWlKdWc2S3I3SlZ5M2FWS0YtNDRveThybWJ3Vnl4QVkyTENXUE9YSWtFSjJWb3JGMXJoOFdJblNMUFE?oc=5",
-      "date": "2026-10-23T08:22:19.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -123,31 +187,6 @@
       ]
     },
     {
-      "id": "d3beed412f72",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the World Surf League (WSL) Philippines Pro Championship Tour set Oct. 30-Nov. 8 at Cloud 9 Siargao - Facebook",
-      "snippet": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the W…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTVNY2FJOU9QNWNOSFp3YjFkRlJIRU9wcko3a2hpLXh0bkxLMEh5ZGg4Y01pNzB5STdKeGd0TXpuU1AxMXZpQUF1SXAwQUdrTnRFVzlDVHJEdml1SnhXdVRReE1lS0h2MTdKd0dQYVJCZHBVaXAtdjU3M0tieFlTWENET05zSkxWd0pDdkpHdXFnTHB6bjRPUFp2NkwwQkhQWXd1dkZoRXZmdWdmMERFNmdqdGNNQmtoWUd6OGp0VzlESTlhV3g2V3ZUNXdSMVV6bG5NVg?oc=5",
-      "date": "2026-10-23T07:04:53.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "51476eae4ddf",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER",
-      "snippet": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER We chat with two world champions, Sarah-Qui…",
-      "url": "https://www.windsurf.co.uk/the-fin-factor-sarah-quita-offringa-and-lennart-neubauer/",
-      "date": "2026-10-23T05:34:12.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/FV26_fs_GRE734_00605-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
       "id": "6dc88a872796",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -155,18 +194,6 @@
       "snippet": "Unleashing Next-Level Surfing Speed: What is Red Bull Aeriality? Red Bull",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tM2RyRWEyT2NfOVpoMGFwYnZJVEo1TmlYSGhEZDEtdjlOd095NEI5STN4Nm5GUERGeWJlQWVQRnhHc2xVVURoSkVPdUs3dm1WXzFTdE9FTW9ORE5XOG1RekRFQTFOckk?oc=5",
       "date": "2026-10-23T00:31:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9eb7f2f99699",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Gilmore Leads Star-Studded Australian Surfing Team With Olympic Places at Stake - Sportzhub",
-      "snippet": "Gilmore Leads Star-Studded Australian Surfing Team With Olympic Places at Stake Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU1mWWdxME9PMTl5aHhZWE83clE5ZXNHS08xdFBlVlFqRW5Rd0g0ZmJvTGl1a09OX2MyOUw3U1I5NVdUeEM1LXE4ZTM0eklUUkoyNklYdDhBU1dmS283X0o4WFZ5UTRrZVBVNUFjakJTR2tYYS1pVGpObTJHSUQ3Si1ab1hxN0ZzdGU2NnBFWk1NellZZWdXSHdZUWUwcGdwU2lUNkoyVmJNVGkxdksyaVZaZHhoaV9kTEE?oc=5",
-      "date": "2026-10-22T21:14:41.000Z",
       "tags": [
         "surf"
       ]
@@ -197,57 +224,6 @@
       ]
     },
     {
-      "id": "1f2cbd64e805",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Is This Real Work? Life as a Pro Athlete & a Pro Filmer | Salty Babes Ep. 1",
-      "snippet": "When you just can’t believe it… Is chasing wind and waves around the world with your best friend real work? 🌊 Welcome to Salty Babes, a new series where Pando…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/is-this-real-work-life-as-a-pro-athlete-a-pro-filmer-salty-babes-ep-1/",
-      "date": "2026-10-22T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-78.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "6eae652cbd6a",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "3-round Surfr battle in The Netherlands, who will take the win?",
-      "snippet": "Who can do the highest kiteloop? The post 3-round Surfr battle in The Netherlands, who will take the win? first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/3-round-surfr-battle-in-the-netherlands-who-will-take-the-win/",
-      "date": "2026-10-22T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-77.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "5e6cb3265b3e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surf break returns in La Union - Inquirer.net",
-      "snippet": "Surf break returns in La Union Inquirer.net",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tOGtRQ2ZzT2wwOVVHaENQdEwta2R0bGtETFdlZmFNc1Fwa2JsS2xWZ1M0NWtPMjRONDF5a1p0Sko1RVZiclVjNGJ1YlJ6SVVydUZZUWlFWmN2QnpzMkpYVGZMeGtpc1Y2c3VMcDlMc2xBcDDSAXhBVV95cUxPb3hYSkctSGhUTjRkZHNsZElWbnFUUkhTS3dTYzhQOG95NmI4SDNMVEVKYm9JaS05VlRzZUtOY3M3T2hDZHNVWkVKUHRWN2ZGc211U0lpNkloc0dIR3VSQkU5Z3M4VTRDdWstVkd1aWtUMTBibUJxU3E?oc=5",
-      "date": "2026-10-22T10:35:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "0ee30565b8e7",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Racing at the LA 2028 Olympic Venue",
-      "snippet": "Check out the LA 2028 Olympic Venue with Daniela. ‘Back in July we had the 2026 Long Beach Olympic Class Regatta – a first taste of what racing will be like at…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/racing-at-the-la-2028-olympic-venue/",
-      "date": "2026-10-22T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-76.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "3f6e3afcc8bd",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -273,15 +249,16 @@
       ]
     },
     {
-      "id": "601f5165df08",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) - SURFER Magazine",
-      "snippet": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZGZqWG9RSTlHYm1SZnFBNmx3UjNGMVlHb2Y2WFhtN1l6RGlTOHItS19mNTE0OWNZTW5tSkZ2RzBIcllYY1l6OHprcnVzcUhRcm92LVBLeHNKR1dZV3pPd3g5d2l5NWtCWUt0MFhPY0U0SzJWdG5WLWdB?oc=5",
-      "date": "2026-10-21T18:50:35.000Z",
+      "id": "37077f691265",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
+      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
+      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
+      "date": "2026-10-22T04:30:23.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
       "tags": [
-        "surf"
+        "wind"
       ]
     },
     {
@@ -382,6 +359,30 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "e631580ba7f4",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Carlsbad surfer earns maiden win, now ranked No. 1 - FOX 5 San Diego & KUSI News",
+      "snippet": "Carlsbad surfer earns maiden win, now ranked No. 1 FOX 5 San Diego & KUSI News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzdrOVcxVUk5OUJPWUo1cURWZ09FS3BkUUd1UEZlNkFYVUoxajF0blRweTlpMGI1TUxxUzlDZDktbUZOZGNpTFZsNUJvN0JrUGVtTlNXVjVzT1lZenVxWDVmUkhXa0lmUUQ0eWRObnI3ZEMyaVdobGtDR01nTWRqNUJvRdIBiAFBVV95cUxQR3V6SGFNQ1JlOTRFdVRveVhJekFseDhVWGdtYTAzM0NldGxHUW9jSFdFLWZWVVVxcG55dUt4THJFal82b0hNOGFmWlZFd1NkNVJsazJCOGV1Unh1YkZoT1FHTHRxc3JRR0ZWWEk2TWJYdTI5ZF9jcDhvd3F4YUdxbzNsRjVpSzRE?oc=5",
+      "date": "2026-10-19T02:08:04.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6f2cd57b3210",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Side wing foil - Sail-World.com",
+      "snippet": "Side wing foil Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WM2JNejljaldTdmVxTUlxMG5oa2RDR3g0Y2Y3Z3hZZXhLUzA2YmZESm5laW9HSExjbnd4ZzFtdzI1NndLUWxCUHBOTWUwWG4w?oc=5",
+      "date": "2026-10-16T15:29:33.000Z",
+      "tags": [
+        "wing"
       ]
     }
   ]
