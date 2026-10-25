@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:38:58.009Z",
+  "generated_at": "2026-10-25T11:25:35.844Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,30 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "9e83703e7fb0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Zoe prepares for world championships at Lost Shore - The Edinburgh Reporter",
+      "snippet": "Zoe prepares for world championships at Lost Shore The Edinburgh Reporter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdfVGlRSTVQMnZabTNINloxdzB3ZnBfNEhsNVVrRkVHTkRIMlVhVVJUQ0tTYUVRZkNHM2xaQ09IcF9mQlM1NnpqbkZWMVZzT05MdUZYRGt3NW0xbnAtTkJFaHIzSFVXQ0QtZDFmZHV6TUl2YktvMXR2bFNYMTR4Q2JkODVKaVJpQ2E5M096M0gtdTdmM0Q3MmhB?oc=5",
+      "date": "2026-10-25T10:49:06.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "47634785a752",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Chabloz is crowned freestyle world champion for the second time - blue News",
+      "snippet": "Chabloz is crowned freestyle world champion for the second time blue News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0lwcUFQZDl6ZVl5RF9xUFI5MHZMTlRQN0NKRVdDa2ItOWcwOWhVM2VKWmJZN3dIQjA1WFc4R0NXT2dvMFVfb21lbHNPOUN3SUxscEpEanJobVIzaG9qdVJGVUM3UkQ2ZEF6TE5yTUFiN20xSHh4enEwNGUtb0hBTEdtSnNHekpHb1FnN2lRYm5Xa0lvX2dEek9PMVpuWmpoUjFDSHV4OC1HUQ?oc=5",
+      "date": "2026-10-25T10:32:31.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "059c2d6a26e6",
       "source": "iksurfmag",
@@ -200,6 +224,18 @@
       ]
     },
     {
+      "id": "6229e41f9827",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 - WavePoolMag",
+      "snippet": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 WavePoolMag",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SU5HaWpmT1pSNkVyekNvbzhOMndUZ20tcWxFVmhoMjluMEJiZUI1VFVETTV4cnFxZVVmMjk5NmtJUGF6ZFlybUxWUTJtM2VBcEh3NEhVTFBXZENKajMxTWJ2aldsd1RBTlN0cFhxV0RScTQ?oc=5",
+      "date": "2026-10-23T07:02:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "36db0d2b0f1f",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -346,43 +382,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "0c49c275c62b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Virginia Beach may have no waves, but its surf culture is more than a century strong - WHRO",
-      "snippet": "Virginia Beach may have no waves, but its surf culture is more than a century strong WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1lZms1UkFLbzRRaTh3aGNKbmYySVB2TXFxUnRTOXNmVDlsamdnR2RNVDZ4Y0taVEwzbTRRZDZwbEpwaXRyWkxkSjMxVG4xLWVuLVFLMEhGT0hscVdsaFZmSEs0YnZTZ0RYQnZCQVU1eGVMaGJrTnQzTExZLU5hcEcxVy00aHBESWRreFcwUU1rY1BIX1NoQkhlNnR0TTdoeXRhYlAtYjUtNzVob05YYTRpSzRCSkpSMmo1N3dFT0Y4V2RWVllYVTZWaw?oc=5",
-      "date": "2026-10-19T12:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "71c92bc6d53a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
-      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
-      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
-      "date": "2026-10-19T05:42:13.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "e631580ba7f4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Carlsbad surfer earns maiden win, now ranked No. 1 - FOX 5 San Diego & KUSI News",
-      "snippet": "Carlsbad surfer earns maiden win, now ranked No. 1 FOX 5 San Diego & KUSI News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzdrOVcxVUk5OUJPWUo1cURWZ09FS3BkUUd1UEZlNkFYVUoxajF0blRweTlpMGI1TUxxUzlDZDktbUZOZGNpTFZsNUJvN0JrUGVtTlNXVjVzT1lZenVxWDVmUkhXa0lmUUQ0eWRObnI3ZEMyaVdobGtDR01nTWRqNUJvRdIBiAFBVV95cUxQR3V6SGFNQ1JlOTRFdVRveVhJekFseDhVWGdtYTAzM0NldGxHUW9jSFdFLWZWVVVxcG55dUt4THJFal82b0hNOGFmWlZFd1NkNVJsazJCOGV1Unh1YkZoT1FHTHRxc3JRR0ZWWEk2TWJYdTI5ZF9jcDhvd3F4YUdxbzNsRjVpSzRE?oc=5",
-      "date": "2026-10-19T02:08:04.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
