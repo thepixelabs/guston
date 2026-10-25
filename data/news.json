@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:25:35.844Z",
+  "generated_at": "2026-10-25T16:15:54.318Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,44 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "49b8de6ad1cf",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Don’t get dizzy ‍ #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil",
+      "snippet": "Don’t get dizzy when watching this! The post Don’t get dizzy ‍ #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/dont-get-dizzy-gka-gkakiteworldtour-kiteboarding-gkafreestyle-brazil/",
+      "date": "2026-10-25T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-90.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "61f29760e785",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Mexico’s Einar Saad posted yesterday’s highest trick score! #brazil #worldcup #gkafreestyle #gka",
+      "snippet": "Mexico’s Einar Saad posted yesterday’s highest trick score! The post Mexico’s Einar Saad posted yesterday’s highest trick score! #brazil #worldcup #gkafreestyl…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/mexicos-einar-saad-posted-yesterdays-highest-trick-score-brazil-worldcup-gkafreestyle-gka/",
+      "date": "2026-10-25T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-89.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "df8261c74aa3",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Chabloz is crowned world champion for the second time - blue News",
+      "snippet": "Chabloz is crowned world champion for the second time blue News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZbUltaVlqQmQ5NXBnYTJNcHI2NDBEeWlwSll3cUJ6VHR5TGxtSlFKR2lmWUloTVktMzRDeXJyX1ZQOXpCSzJLR2ZrZW9Mb0RYOHF0YmlHeFpYSlJBZ0FObzZoOTd3SG9OakRSLXcwbElhWkU5dS1FbjZhWjF6cGFxak55clVkOEhfUW04MGxxYXk1VnJPVjBYZl8?oc=5",
+      "date": "2026-10-25T10:50:33.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "9e83703e7fb0",
       "source": "google_surf",
@@ -21,13 +59,14 @@
       ]
     },
     {
-      "id": "47634785a752",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Chabloz is crowned freestyle world champion for the second time - blue News",
-      "snippet": "Chabloz is crowned freestyle world champion for the second time blue News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0lwcUFQZDl6ZVl5RF9xUFI5MHZMTlRQN0NKRVdDa2ItOWcwOWhVM2VKWmJZN3dIQjA1WFc4R0NXT2dvMFVfb21lbHNPOUN3SUxscEpEanJobVIzaG9qdVJGVUM3UkQ2ZEF6TE5yTUFiN20xSHh4enEwNGUtb0hBTEdtSnNHekpHb1FnN2lRYm5Xa0lvX2dEek9PMVpuWmpoUjFDSHV4OC1HUQ?oc=5",
-      "date": "2026-10-25T10:32:31.000Z",
+      "id": "e198e2054111",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Those storm swells have arrived! Let’s go! #storm #stormchase #courtintheact #stormausten",
+      "snippet": "The storm season in the Uk has been switched on and it looks like everyone is already making the most of it! The post Those storm swells have arrived! Let’s go…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/those-storm-swells-have-arrived-lets-go-storm-stormchase-courtintheact-stormausten/",
+      "date": "2026-10-25T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-88.jpg",
       "tags": [
         "kite"
       ]
@@ -97,18 +136,6 @@
       ]
     },
     {
-      "id": "d3beed412f72",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the World Surf League (WSL) Philippines Pro Championship Tour set Oct. 30-Nov. 8 at Cloud 9 Siargao - Facebook",
-      "snippet": "Elite surfers featured at WSL Philippines Pro Tour MANILA – World No. 1 Brazilian Yago Dora and Australian sensation Molly Picklum head the elite cast in the W…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTVNY2FJOU9QNWNOSFp3YjFkRlJIRU9wcko3a2hpLXh0bkxLMEh5ZGg4Y01pNzB5STdKeGd0TXpuU1AxMXZpQUF1SXAwQUdrTnRFVzlDVHJEdml1SnhXdVRReE1lS0h2MTdKd0dQYVJCZHBVaXAtdjU3M0tieFlTWENET05zSkxWd0pDdkpHdXFnTHB6bjRPUFp2NkwwQkhQWXd1dkZoRXZmdWdmMERFNmdqdGNNQmtoWUd6OGp0VzlESTlhV3g2V3ZUNXdSMVV6bG5NVg?oc=5",
-      "date": "2026-10-24T08:43:32.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "8bd5e99fe590",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -161,19 +188,6 @@
       ]
     },
     {
-      "id": "f8a171f138e5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Ozone Demo Tour Argentina Kicks Off",
-      "snippet": "After a long run on the road, the Ozone Demo Tour has crossed into South America and is touching down in Argentina from 21 October to 16 December 2026. The Sto…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ozone-demo-tour-argentina-kicks-off/",
-      "date": "2026-10-23T20:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/03-ozone-argentina-demo.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "5df6c257a396",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -183,32 +197,6 @@
       "date": "2026-10-23T19:06:26.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "000c0a2e398f",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "South Africa’s best kept kiting SECRET",
-      "snippet": "Knysna Lagoon. Flat water, big skies, butter-smooth stretches and enough room to let loose. Tucked away along the Garden Route, this place has to be one of my…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/south-africas-best-kept-kiting-secret/",
-      "date": "2026-10-23T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-83.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a9e7ab377097",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Hear what Claudi, current world No. 2 has to say! #brazil #gka #kiteboarding #freestyle",
-      "snippet": "Behind this scene of what it takes to keep going. The post Hear what Claudi, current world No. 2 has to say! #brazil #gka #kiteboarding #freestyle first appear…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/hear-what-claudi-current-world-no-2-has-to-say-brazil-gka-kiteboarding-freestyle/",
-      "date": "2026-10-23T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-82.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -298,18 +286,6 @@
       ]
     },
     {
-      "id": "398e4da44af0",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "SumbaSurf brings immersive first-person surfing to your browser - Surfertoday",
-      "snippet": "SumbaSurf brings immersive first-person surfing to your browser Surfertoday",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbXR4cUdieEd2dlNpREc5bXpEdnF4ZzhEVElRT00yM3FKWjVOODVPaUluVms2dVd0aGNkUFNzbFh0cVhVLTctTGVWWnRVQTFFQjBxS1hESkJWU3ZQZVlUQTJXQlFsWXZrME0xcHUxOUNaTmVmdVVSaUlwRQ?oc=5",
-      "date": "2026-10-21T11:12:41.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "eaecdd3a1e21",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -320,18 +296,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/DTW27-Duotone-Warp_Fin-Jordy-Tenerife-2026-447-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "29fa1f903b90",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
-      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
-      "date": "2026-10-20T16:20:00.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -382,6 +346,43 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "0c49c275c62b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Virginia Beach may have no waves, but its surf culture is more than a century strong - WHRO",
+      "snippet": "Virginia Beach may have no waves, but its surf culture is more than a century strong WHRO",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1lZms1UkFLbzRRaTh3aGNKbmYySVB2TXFxUnRTOXNmVDlsamdnR2RNVDZ4Y0taVEwzbTRRZDZwbEpwaXRyWkxkSjMxVG4xLWVuLVFLMEhGT0hscVdsaFZmSEs0YnZTZ0RYQnZCQVU1eGVMaGJrTnQzTExZLU5hcEcxVy00aHBESWRreFcwUU1rY1BIX1NoQkhlNnR0TTdoeXRhYlAtYjUtNzVob05YYTRpSzRCSkpSMmo1N3dFT0Y4V2RWVllYVTZWaw?oc=5",
+      "date": "2026-10-19T12:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "71c92bc6d53a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
+      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
+      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
+      "date": "2026-10-19T05:42:13.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "b8072b17d323",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Sail-World.com",
+      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
+      "date": "2026-10-16T07:00:00.000Z",
+      "tags": [
+        "wing"
       ]
     }
   ]
