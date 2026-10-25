@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:47:34.497Z",
+  "generated_at": "2026-10-25T04:38:58.009Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -162,18 +162,6 @@
       ]
     },
     {
-      "id": "3dbbe4ea943d",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - USA Today",
-      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations USA Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lvdkNCLU84Y2xDOGlLYlk2MS1IQ3BZUW51emZiZGZXLXNiMnlnMEJXRy1QS1FaMUUtY0w3N3N4eHN5MFRBSDBqU3ZqMW9ia3BBcGRPN0NOWE9TVzNNai1TQmtFSmIxSi1NQWF2UGxINmh0UTdKeGJWbGhqd3ZMZ3A3M1hVU2NhaEszcXVBYV82eDBrVTJMSXI0M0tHRURHNG41OFFZeHUtRVJ3Tm1FWHlwRWprWFZsOXdQOGJMTHVaMVhaRDFfR3drQ3daTDQ?oc=5",
-      "date": "2026-10-23T17:09:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "000c0a2e398f",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -197,6 +185,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-82.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "ebfac490f8ef",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - Yahoo Sports",
+      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYTJhSVhFZWd5TExyNHNpNGtRZURvYWhEdzRiRzNCRFlNS1dRZTJtT3pwck1paVliUGRpUEJ0UWlsaS04NWwwdENxZHNJVkFyT2lQZjNubk1BQUlndDRTNE1FcktjMFRoQjE3UVZLdVlXWjdlRlE4dXNFcUNRd3JfcTdsNGRHNlZBQldRNkp0T1F5emtEUExYNA?oc=5",
+      "date": "2026-10-23T13:43:08.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
