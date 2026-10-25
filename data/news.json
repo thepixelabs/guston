@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:15:54.318Z",
+  "generated_at": "2026-10-25T20:49:31.827Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,32 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "20f937105766",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Jumping over the sun‍",
+      "snippet": "What a shot! Sunset never looked so good! The post Jumping over the sun‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/jumping-over-the-sun/",
+      "date": "2026-10-25T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-91.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "0a577f7f77be",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE WAVE CLASSIC: THE FULL STORY!",
+      "snippet": "TIREE WAVE CLASSIC: THE FULL STORY! TIREE WAVE CLASSIC: THE FULL STORY! Alfie Hart has been burning the midnight oil, working around the clock to bring us the…",
+      "url": "https://www.windsurf.co.uk/tiree-wave-classic-the-full-story/",
+      "date": "2026-10-25T17:25:07.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/tiree-wave-classic-the-full-stor-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "49b8de6ad1cf",
       "source": "iksurfmag",
@@ -175,19 +201,6 @@
       ]
     },
     {
-      "id": "954a108853e2",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Mystic Introduces Deep Brown for FW26 27",
-      "snippet": "Meet Deep Brown, Mystic’s new seasonal colour across everyday essentials and outdoor-ready styles for FW26/27. From laid-back layers to versatile outerwear, th…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/mystic-introduces-deep-brown-for-fw26-27/",
-      "date": "2026-10-23T23:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/01-mystic-deep-brown.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "5df6c257a396",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -286,6 +299,18 @@
       ]
     },
     {
+      "id": "601f5165df08",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) - SURFER Magazine",
+      "snippet": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZGZqWG9RSTlHYm1SZnFBNmx3UjNGMVlHb2Y2WFhtN1l6RGlTOHItS19mNTE0OWNZTW5tSkZ2RzBIcllYY1l6OHprcnVzcUhRcm92LVBLeHNKR1dZV3pPd3g5d2l5NWtCWUt0MFhPY0U0SzJWdG5WLWdB?oc=5",
+      "date": "2026-10-21T18:50:35.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "eaecdd3a1e21",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -296,6 +321,18 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/DTW27-Duotone-Warp_Fin-Jordy-Tenerife-2026-447-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "29fa1f903b90",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale - Sail-World.com",
+      "snippet": "GKA Freestyle Kite World Cup Brazil - Title holder Flügel pulls out of finale Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHplV3dMN3E1c3ZlQWxCQnhKV080RGNtM0hvbXMtRVZXVkd4RmFCNHdxZFB3U2M5ck5GdFVkX3ozNjM5eVY3MHNnTkxzOXozd1BzQUEtVWZmMExBWXVGNmF5NGRjM2ZzRWFQNE1Sa2wyb0UxM1NycjhkTGkxSlpJc3RlQVdUVEd2akszWWxB?oc=5",
+      "date": "2026-10-20T16:20:00.000Z",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -346,43 +383,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "0c49c275c62b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Virginia Beach may have no waves, but its surf culture is more than a century strong - WHRO",
-      "snippet": "Virginia Beach may have no waves, but its surf culture is more than a century strong WHRO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1lZms1UkFLbzRRaTh3aGNKbmYySVB2TXFxUnRTOXNmVDlsamdnR2RNVDZ4Y0taVEwzbTRRZDZwbEpwaXRyWkxkSjMxVG4xLWVuLVFLMEhGT0hscVdsaFZmSEs0YnZTZ0RYQnZCQVU1eGVMaGJrTnQzTExZLU5hcEcxVy00aHBESWRreFcwUU1rY1BIX1NoQkhlNnR0TTdoeXRhYlAtYjUtNzVob05YYTRpSzRCSkpSMmo1N3dFT0Y4V2RWVllYVTZWaw?oc=5",
-      "date": "2026-10-19T12:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "71c92bc6d53a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC!",
-      "snippet": "EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! EDDIE MACLEAN: AN UNFORGETTABLE TIREE WAVE CLASSIC! At just 16, local lad Eddie Maclean enjoyed what he des…",
-      "url": "https://www.windsurf.co.uk/eddie-maclean-an-unforgettable-tiree-wave-classic/",
-      "date": "2026-10-19T05:42:13.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_6_1251-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "b8072b17d323",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Ferrari Hypersail hull complete and the technology that will make the boat fly - Sail-World.com",
-      "snippet": "Ferrari Hypersail hull complete and the technology that will make the boat fly Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1penBRUkFuUi1jSWlCSEtCZXV6TWZ0R3daTi0zU01rTnp1RERDejVOS0RzMURUeEJPSXp0TC1KVGdFeWlHZ29VdFhVbGh5X091cnVVeVJOcldRUUJVQnAxSDNkU05iUGdKRU1Gejd5N0xlazNMb1VIMmtn?oc=5",
-      "date": "2026-10-16T07:00:00.000Z",
-      "tags": [
-        "wing"
       ]
     }
   ]
