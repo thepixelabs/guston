@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:00:11.405Z",
+  "generated_at": "2026-10-26T22:39:18.849Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,14 +9,26 @@
   },
   "items": [
     {
-      "id": "4b3594ac9385",
+      "id": "0bfade9de17c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Action Jaxon: East Coast Pro glory to Gisborne teen - NZ Herald",
+      "snippet": "Action Jaxon: East Coast Pro glory to Gisborne teen NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWE3YlQ2UHdtbUNqckg3eS1Obi1odU9kSUJhYXBjLWFxMlJKOGE4UGduYmpqNmZmTGlkT1BLYU1US1BJcktQM3JFQ21pdC1MM2hnSEtUUmlRZm1qYTdMekRxajZxMVdkbElmSl9QOF9tZEJFQWQwbDhyV2VYTkJPckhUb29MV0FGRTFOamdSVWttd19wc19sV1pkWk5sWlQzc2JzeXZtX2ZpUVBjNDlYQ0VuOXZnNDBtbk1JMUJKQ1VtYS1OSk1kWDBqRld5ZmNjZHNR?oc=5",
+      "date": "2026-10-26T21:56:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "bee4f61c99a7",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
-      "title": "Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #gkakiteworldtour",
-      "snippet": "Seven world titles for this absolute wonder-woman… she really is unstoppable! The post Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/seventh-gka-freestyle-world-title-for-bruna-gka-gkafreestyle-brazil-gkakiteworldtour/",
-      "date": "2026-10-26T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-93.jpg",
+      "title": "Life looks better upside down",
+      "snippet": "A view we could definitely get used to! The post Life looks better upside down first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/life-looks-better-upside-down/",
+      "date": "2026-10-26T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-95.jpg",
       "tags": [
         "kite"
       ]
@@ -28,9 +40,71 @@
       "title": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo Leg at Agoo Eco-Tourism Park in Agoo, La Union on Monday. The competition highlights the pr - Facebook",
       "snippet": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo L…",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFVEZklWMWRpaXJHZGt3cE15YklhM0t4cnlNTE5pUVVrbGJ6OVV5bVFwbXlXbU9Yb3V5NXJLRk1mOUVoWFJsZ04xLVBMWkx6SkxIN2R3YlVHSHI1ZkRJSDlsR0lLeXpXWWVwb05aZlFjVGZqSWhaTTNjdlZWYmxOckh2MERKelN2alFHQW9Oa3YyNnJwcVBKSGhNRkE4ekNlR3hId2hmY0xINUlGdnpFbXVEMUdmSzQ2c0h4NkJfWmhOYncwY0ZiTFNJVFg2bDJ3bTloOXU2MGZVWjY0?oc=5",
-      "date": "2026-10-26T11:58:06.000Z",
+      "date": "2026-10-26T17:58:56.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "54a90984b90d",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Foil speed ahead - Taipei Times",
+      "snippet": "Foil speed ahead Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VV3JQR1hBck8taDFjQ1labFZlcnlUekZWZUY3TXZSWkxxRGp5S1Uzb3VBME5LUk9XNDRkZFRoWUY4RGVIZ0FnSHZLUVRabTkzRnNCdmdjVVdRVFg4clJrNER2ejhnVUJpTnZxSGpqQlo5T2NsUFE?oc=5",
+      "date": "2026-10-26T16:00:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "c1aa55dcd884",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "OBAR’s 29th Annual Surf Fishing Tournament benefits scholars... - The Coastland Times",
+      "snippet": "OBAR’s 29th Annual Surf Fishing Tournament benefits scholars... The Coastland Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1VHLVdZTEUzSW5oTi12SUZBbzNsMTZXX2YwZTdyczJqTW9SVC1ZV1ZvUHhvb3lsYzB2M0hXb3FsMEhOZG9yLWgzSm9ZSC1zbVk3RWFvZGhYWnlmRmhweHZDb1N2UlJFYXlyckVVSGRrem5VMGZtT1hlRmNaaVY1Mk1fU0h3UFNQdy1EM0lRc2JnNnFvTXpuUUZXSElsbnZ2X19VYnRHV05Ha3NHeUJDVzhzQWM4SVd0YVZpbFNqOVN6UzFCMTNubGhoUlE?oc=5",
+      "date": "2026-10-26T15:59:18.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "35f9be5558ba",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Maxime claimed the event win and the 2026 World Title! #brazil #gka #gkakiteworldtour",
+      "snippet": "Maxime with the event win and the World Title! Congrats Max! The post Maxime claimed the event win and the 2026 World Title! #brazil #gka #gkakiteworldtour fir…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/maxime-claimed-the-event-win-and-the-2026-world-title-brazil-gka-gkakiteworldtour/",
+      "date": "2026-10-26T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-94.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "cec660a2193e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World Surf League Philippines Pro: Surfing Championship 2023 - The Chronicle PH",
+      "snippet": "World Surf League Philippines Pro: Surfing Championship 2023 The Chronicle PH",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2xtZDJ5RkFBcUs5RGZ3SkRDUHJubERzNFBhczV6RzVwalk4MF8zY0QwSGEwYzVXMl9feDFPTGFIRTJrU25xN0otdFZ3eXdIWGViS0JOX1pEdTBuN0dmLXhMMWNidWEtQmNodmFqUEtLVnN4RmZuY2FfdnIxLTJkOFpCa3ZmUTMxdWc?oc=5",
+      "date": "2026-10-26T12:50:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "4b3594ac9385",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #gkakiteworldtour",
+      "snippet": "Seven world titles for this absolute wonder-woman… she really is unstoppable! The post Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/seventh-gka-freestyle-world-title-for-bruna-gka-gkafreestyle-brazil-gkakiteworldtour/",
+      "date": "2026-10-26T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-93.jpg",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -49,8 +123,8 @@
       "id": "7bef930c1b13",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "British Para Surfer Zoe Smith Trains at Lost Shore for ISA World Champs at DSRT Surf - WavePoolMag",
-      "snippet": "British Para Surfer Zoe Smith Trains at Lost Shore for ISA World Champs at DSRT Surf WavePoolMag",
+      "title": "British Para Surfer Zoe Smith Training at Lost Shore for ISA World Champs at DSRT Surf - WavePoolMag",
+      "snippet": "British Para Surfer Zoe Smith Training at Lost Shore for ISA World Champs at DSRT Surf WavePoolMag",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaHNacVFsTlRhYWdMMGN0SGJJeDdobThfMjJ0WTdHb0xTY2ZHRHRNVlo5OEx5WGlFYUJXb2ZOSUUwSGpad1F3aVdYSUx5NnpGdFhmOGhwS0c1d2poWXNTZHJZMXphX09uT3hHWjBiMEg?oc=5",
       "date": "2026-10-26T11:19:59.000Z",
       "tags": [
@@ -148,6 +222,18 @@
       ]
     },
     {
+      "id": "9e83703e7fb0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Zoe prepares for world championships at Lost Shore - The Edinburgh Reporter",
+      "snippet": "Zoe prepares for world championships at Lost Shore The Edinburgh Reporter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdfVGlRSTVQMnZabTNINloxdzB3ZnBfNEhsNVVrRkVHTkRIMlVhVVJUQ0tTYUVRZkNHM2xaQ09IcF9mQlM1NnpqbkZWMVZzT05MdUZYRGt3NW0xbnAtTkJFaHIzSFVXQ0QtZDFmZHV6TUl2YktvMXR2bFNYMTR4Q2JkODVKaVJpQ2E5M096M0gtdTdmM0Q3MmhB?oc=5",
+      "date": "2026-10-25T10:49:06.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "e198e2054111",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -199,19 +285,6 @@
       ]
     },
     {
-      "id": "b9d772d349a0",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Claudia setting the bar while in the hunt for the world title#gka #gkafreestyle #brazil",
-      "snippet": "On the hunt for the world title but will she take it? The post Claudia setting the bar while in the hunt for the world title#gka #gkafreestyle #brazil first ap…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/claudia-setting-the-bar-while-in-the-hunt-for-the-world-titlegka-gkafreestyle-brazil/",
-      "date": "2026-10-24T11:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-86.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "bb4c14576403",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -225,38 +298,37 @@
       ]
     },
     {
-      "id": "8bd5e99fe590",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Cocco serving tricks al dente #gkakiteworldtour #brazil #worldcup #kiteboarding",
-      "snippet": "No words needed 😮‍💨 The post Cocco serving tricks al dente #gkakiteworldtour #brazil #worldcup #kiteboarding first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/cocco-serving-tricks-al-dente-gkakiteworldtour-brazil-worldcup-kiteboarding/",
-      "date": "2026-10-24T08:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-84.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "ebfac490f8ef",
+      "id": "5df6c257a396",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - Yahoo Sports",
-      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYTJhSVhFZWd5TExyNHNpNGtRZURvYWhEdzRiRzNCRFlNS1dRZTJtT3pwck1paVliUGRpUEJ0UWlsaS04NWwwdENxZHNJVkFyT2lQZjNubk1BQUlndDRTNE1FcktjMFRoQjE3UVZLdVlXWjdlRlE4dXNFcUNRd3JfcTdsNGRHNlZBQldRNkp0T1F5emtEUExYNA?oc=5",
-      "date": "2026-10-23T13:43:08.000Z",
+      "title": "Elite surfers chase wsl glory - Daily Tribune",
+      "snippet": "Elite surfers chase wsl glory Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNFZ3SnljTFZ2LU5Md25vYXBtUkhITmlta3JkOGdScDJRSWlJRHpKX1ZLS1F5T2R4R0h3Q2pBNTkyaXBIam1odXY0YkV6dTJBVERfX3JwTXdOUTJfcGpoRWtOUHpWTW9IeURGNzhZbTg?oc=5",
+      "date": "2026-10-23T20:15:06.000Z",
       "tags": [
         "surf"
       ]
     },
     {
-      "id": "6229e41f9827",
+      "id": "01eeaf787631",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 - WavePoolMag",
-      "snippet": "Wai Kai to Host First Citywave World Championships in Hawaii in 2027 WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SU5HaWpmT1pSNkVyekNvbzhOMndUZ20tcWxFVmhoMjluMEJiZUI1VFVETTV4cnFxZVVmMjk5NmtJUGF6ZFlybUxWUTJtM2VBcEh3NEhVTFBXZENKajMxTWJ2aldsd1RBTlN0cFhxV0RScTQ?oc=5",
-      "date": "2026-10-23T07:02:47.000Z",
+      "title": "Caitlin Simmers and Molly Picklum to Compete for 2026 MEO Rip Curl Pro Portugal Title - SSBCrack",
+      "snippet": "Caitlin Simmers and Molly Picklum to Compete for 2026 MEO Rip Curl Pro Portugal Title SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnBjb09sZ1d6c2Y1VDZOclpEZTNlZ2lZQ01KX3N3cjJjel9BQ3VPUVNtYzBIR0ItdFF5N2FCdkNLWC1oYlhGdWQ2TzlLMnFCamRpYVlkT3JTZ2xKNnJMVlU3ZW1MMkpFUDVndXpieTRJWG81ck91Ulo0TUN6NGE1QzdIMlNVY1JiMjExOGlHTWVDVFM5bmNGNXF3ZS04VkU2aHNvQkFiRDNhZ2JyYWluYzZ3?oc=5",
+      "date": "2026-10-23T20:08:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3dbbe4ea943d",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - USA Today",
+      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lvdkNCLU84Y2xDOGlLYlk2MS1IQ3BZUW51emZiZGZXLXNiMnlnMEJXRy1QS1FaMUUtY0w3N3N4eHN5MFRBSDBqU3ZqMW9ia3BBcGRPN0NOWE9TVzNNai1TQmtFSmIxSi1NQWF2UGxINmh0UTdKeGJWbGhqd3ZMZ3A3M1hVU2NhaEszcXVBYV82eDBrVTJMSXI0M0tHRURHNG41OFFZeHUtRVJ3Tm1FWHlwRWprWFZsOXdQOGJMTHVaMVhaRDFfR3drQ3daTDQ?oc=5",
+      "date": "2026-10-23T17:09:00.000Z",
       "tags": [
         "surf"
       ]
@@ -286,104 +358,27 @@
       ]
     },
     {
-      "id": "a827e6e4b5cb",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE",
-      "snippet": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE You’ve seen the pictures. Y…",
-      "url": "https://www.windsurf.co.uk/tiree-wave-classic-2026-the-inside-story-by-ruaraidh-somerville/",
-      "date": "2026-10-22T05:53:31.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "37077f691265",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
-      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
-      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
-      "date": "2026-10-22T04:30:23.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "601f5165df08",
+      "id": "b501c9d285ab",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) - SURFER Magazine",
-      "snippet": "Jett Maughan Crowned World Junior Surfing Champion, Leads Team USA to Silver (Video) SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZGZqWG9RSTlHYm1SZnFBNmx3UjNGMVlHb2Y2WFhtN1l6RGlTOHItS19mNTE0OWNZTW5tSkZ2RzBIcllYY1l6OHprcnVzcUhRcm92LVBLeHNKR1dZV3pPd3g5d2l5NWtCWUt0MFhPY0U0SzJWdG5WLWdB?oc=5",
-      "date": "2026-10-21T18:50:35.000Z",
+      "title": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 - Surf Life Saving",
+      "snippet": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 Surf Life Saving",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0dXSkxySlViekl1ZnkzbGtUVU1EaWlvbUd2UVVWNHE0SmN1b05pZm1zbEpkUFNteVM4NlBpY3lCZjhnQWRpRkUyTTBXeWhCT2JSRThnU3Q2V0E3U0JrLW5ONklwT3VOeUVfU2pkckhBTjBuNWM1ckJaamg4a2FPRWM4ZFRENlJCYlE?oc=5",
+      "date": "2026-10-22T11:04:44.000Z",
       "tags": [
         "surf"
       ]
     },
     {
-      "id": "eaecdd3a1e21",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP!",
-      "snippet": "DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP! DUOTONE: WARP_FIN & FALCON_FIN D/LAB: THE 2027 RACE LINE-UP! Duotone have just unveiled their 2027…",
-      "url": "https://www.windsurf.co.uk/duotone-warp_fin-falcon_fin-d-lab-the-2027-race-line-up/",
-      "date": "2026-10-21T06:45:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/DTW27-Duotone-Warp_Fin-Jordy-Tenerife-2026-447-800x600.jpg",
+      "id": "3f6e3afcc8bd",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kiteboarders catch big air on New Hampshire coast - WMUR",
+      "snippet": "Kiteboarders catch big air on New Hampshire coast WMUR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjJpTmhJdFViZ1YyY0YwcnRqSGllMHFqa3RMdXRyT2ZfSklQaDlua2dPVHBkVE45SGxqOS1ldU1RSzlyMEpSZ3NQMlZuWGxDLVZoejVMM2FYN09ENWdXTHpUbWk5VzZhdUE3YzBwQkNKSm53emI5QVl4dUxkVk9EeEd4WGxKaWc?oc=5",
+      "date": "2026-10-22T07:00:00.000Z",
       "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "052e5c4e357f",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion - www.pasionporelmar.com",
-      "snippet": "Mallorcan Neus Pericàs crowned 2026 Spanish Wingfoil Racing Champion www.pasionporelmar.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRXaEd6Ykl2ZTRhNHM3UHJCRnZEVHZwRnNsRjY4cXpuNmx6NVF1SzRObU1uMHZkREJzSG5meEJERXpuZm9KTU1BZHUySjdfY2kyLXZTd0ZfOUVqaFBMMS02eGx4ZzNhRGRrOERnd21UV285RkwwM2puMF9kSm5IdFdJWDRUVFFyYjZiZVhRQjNLWENFYWRZZzhUQ0JZNE9sWDFPT09LbkhINnZjb2Z2ekRB?oc=5",
-      "date": "2026-10-20T12:45:53.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "f5adbd028941",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE 2026: THE BEN PROFFITT MASTERCLASS!",
-      "snippet": "TIREE 2026: THE BEN PROFFITT MASTERCLASS! TIREE 2026: THE BEN PROFFITT MASTERCLASS! The voice of windsurfing does his talking on the water! Ben Proffitt arrive…",
-      "url": "https://www.windsurf.co.uk/tiree-2026-the-ben-proffitt-masterclass/",
-      "date": "2026-10-20T05:23:50.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_1_0259-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "49b9a1c54023",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Dave Stanfield, Voice of Professional Surfing, Has Died - SURFER Magazine",
-      "snippet": "Dave Stanfield, Voice of Professional Surfing, Has Died SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbnRtQVFESWVtRUw0SGZiSjFYVE1FNlBsQnBmbnBSS2NWQlhidFR0dVBxdjFUc3MzazRTQ19vMXJYa21QZ1FNLTJNYjljSzBMSGVqT0lHcDVIOGZBUTFBejBsVDNmQU9XM0NIYWtEa3dWWm9ycjNXeVl1YVlNcnM?oc=5",
-      "date": "2026-10-19T19:10:42.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ab177db87be7",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES!",
-      "snippet": "WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! WINDSURF, ALOHA CLASSIC PREDICTIONS: TIME TO REDEEM OURSELVES! Maui calling… and our crystal bal…",
-      "url": "https://www.windsurf.co.uk/windsurf-aloha-classic-predictions-time-to-redeem-ourselves/",
-      "date": "2026-10-19T15:00:29.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/04/Z9D5362-Fish-Bowl-Diaries-800x600.jpg",
-      "tags": [
-        "wind"
+        "kite"
       ]
     }
   ]
