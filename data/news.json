@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:09:16.634Z",
+  "generated_at": "2026-10-27T17:59:32.094Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,12 +9,86 @@
   },
   "items": [
     {
-      "id": "a87eaf2b6ce7",
+      "id": "7ecb50390742",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "#PTVNewsTonight | Siargao set to put PH on global surfing map as WSL PH Pro Championship Tour arrives at Cloud 9 - Facebook",
+      "snippet": "#PTVNewsTonight | Siargao set to put PH on global surfing map as WSL PH Pro Championship Tour arrives at Cloud 9 Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDBkWHRKcGFsekRNTDVGdW50TVZ2WWNHSDk5YVdSUVJrSnN0X3NsLTF4WDZlOHh3cVN1RHVrVFFDaWQtRUFidzVqdWhLUEZBcVFjTzFHdWI2blZBNDI0c2g3R2trcXpzbG9xZm1MNm1kNEhydUJaT01WZ0x4cnlidUZkcmUxd28yTVNaMzVvQUl0NGI4ZTJTOUdEdFphMkJFakFBNnV1RnFrUXB1N2xieDhJTko1MTdrTXc5cjg5QkozMHdnTEM3THNmRER4SnN5?oc=5",
+      "date": "2026-10-27T15:35:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3ed216a51c53",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World champion para surfer hones skills at Lost Shore resort ahead of global contest - Edinburgh News",
+      "snippet": "World champion para surfer hones skills at Lost Shore resort ahead of global contest Edinburgh News",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEJ5Y1JCMmpKaFBKQWRZa3ZuTTdDZDVWem8zeVoybnlxbDkyZkZhVlcwbmQ0WTgwZkRTMF9BSEJMMmpLQWhucmlxU3hRdVRNLXhteFZCak91RERYMDJHckllU2Z3MTh2TnQ1R0trR3k2emxSZVY0OFk2V3B2WXFqTVEzTFV4WmJoZXNvN3BUcDNnUGpTZ1RGOEt6VnMwZFNrX3BhbVMyOVNMaVo4eWt1RGJMZC1sdmtRZFVzQnFaZW9aWGJkdDJkMHhaaHVxd1RWRHJGYUs1VHlsTnVCT0wzbw?oc=5",
+      "date": "2026-10-27T15:33:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "32deeabc33cb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "“BETO” Trailer | Duotone Kiteboarding",
+      "snippet": "Born where the desert meets the sea, in the windswept lands of La Guajira, Colombia, Adalberto Segundo Gómez Epieyu carries a story bigger than the sport that…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/beto-trailer-duotone-kiteboarding/",
+      "date": "2026-10-27T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-98.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "09716fd36e0c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
+      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
+      "date": "2026-10-27T14:39:02.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ee8114c746b4",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Nazaré's giant waves are back: the 2026/27 Big Wave Challenge is ready to begin - Portugal.fr",
+      "snippet": "Nazaré's giant waves are back: the 2026/27 Big Wave Challenge is ready to begin Portugal.fr",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGl2eWZVN3VpVXhMVjBIZGFwRll3LWRfZXVFVmUwWnVaYmdoQkYyNU0zLTByMU56bVZ0QVI5cEVJVThfS3E0YnRBaFVpRzFVdThBNnV1akZGbEp6S0FNa1NsbXI1ZkotOFN1RzlOZnhBZElpTHRwbmhMV2lMNHRxQTh2dWtEZzdocFlBTVRLSjNMaFB3c3Z2ZHhn?oc=5",
+      "date": "2026-10-27T13:43:21.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6fa158ee6de5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Two Dads | Two Groms | One Love – KITESURFING",
+      "snippet": "Family time never looked so good… The post Two Dads | Two Groms | One Love – KITESURFING first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/two-dads-two-groms-one-love-kitesurfing/",
+      "date": "2026-10-27T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-97.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ca0473b93722",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
-      "title": "Storm Austen sees Kitesurfing world record broken in West Sussex - SussexWorld",
-      "snippet": "Storm Austen sees Kitesurfing world record broken in West Sussex SussexWorld",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFqMVJUaEpKX0M4cmdiS09zRW5kcVA1NXVTMnNyMkk3YXE0SHpRa1VIU21XelhHOG9MbjJMeU53SFdxSC1xUklUVWdRRmFZczItMGlyalhfVWtRNXEyZXdBNVlrQTg3Mkw2bnlac29Jc1NIOGlIZFdxZGVMRVpRdmtZSWFxUFplQXJYQTRVNWFleVZscFNhY2p4YWJackVSaktmM0ViRGpkV2pHTnRkS1dR?oc=5",
+      "title": "Storm Austen sees kitesurfing world record broken in West Sussex - SussexWorld",
+      "snippet": "Storm Austen sees kitesurfing world record broken in West Sussex SussexWorld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkwtRDVWV0ZvQmZDQ2NjSjBRd0F0Z2RkQ1YyQ2hPRnVJUWFJbS1STUt1VnNyRWVKdFc2R1ZVSkp1QmMxbDR4eWtqaFljam5WLVQ4ZjEwTVkyWkV3M0g3bHpQYVdTVTdTRUx0RHdlRFhzTGpGNlkzR1NrbFl6NVVpazFZWlpUOXNFUkF2UmhROVJlajRlRjhxY1BqZXU0ajVTQkRmMEVKbmF5THNoeDd0MUxiMG9UMmc?oc=5",
       "date": "2026-10-27T09:37:00.000Z",
       "tags": [
         "kite"
@@ -218,6 +292,18 @@
       ]
     },
     {
+      "id": "e4d22f7b2c34",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Incoming Swell Set to Kick Off HTA Sunset Pro and Qualifying Series North Shore Season - Surf News Network",
+      "snippet": "Incoming Swell Set to Kick Off HTA Sunset Pro and Qualifying Series North Shore Season Surf News Network",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLThsR2g3MnN3RUU4NDdXdVpGWnhaSmt1VmRLLTZRY1UwcWVJWTMxX1VSWkRjX0pXbUtJUkUwS1ZHNHpnRlJpRDV3eDUyU1lEdGRqY2QzVGR3WllsWHRqeGx5dUNYUy1KVXVwQ1VOSWt5cWpDbGtqbXpMV0FtS0FHLXZveVdSeTNkc095QnJuUUZRTlZhMWdWeGotR00tdGNBdWlndWQ5Qm95SzhMVWVxWEtlVFZUOFlNTThr?oc=5",
+      "date": "2026-10-26T06:52:35.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "d687668a14e0",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -283,100 +369,13 @@
       ]
     },
     {
-      "id": "e198e2054111",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Those storm swells have arrived! Let’s go! #storm #stormchase #courtintheact #stormausten",
-      "snippet": "The storm season in the Uk has been switched on and it looks like everyone is already making the most of it! The post Those storm swells have arrived! Let’s go…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/those-storm-swells-have-arrived-lets-go-storm-stormchase-courtintheact-stormausten/",
-      "date": "2026-10-25T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-88.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "059c2d6a26e6",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Bruna Kajiya’s in the hunt of her 7th world title! #gka #gkakiteworldtour #brazil #gkafreestyle",
-      "snippet": "Will Bruna claim her 7th world title? The post Bruna Kajiya’s in the hunt of her 7th world title! #gka #gkakiteworldtour #brazil #gkafreestyle first appeared o…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/bruna-kajiyas-in-the-hunt-of-her-7th-world-title-gka-gkakiteworldtour-brazil-gkafreestyle/",
-      "date": "2026-10-24T17:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-87.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "bb4c14576403",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "GA COSMIC 7.7m 2026: WINDSURFER REVIEW",
-      "snippet": "GA COSMIC 7.7m 2026: WINDSURFER REVIEW GA COSMIC 7.7m 2026: WINDSURFER REVIEW The wind is back with a vengeance, and the Windsurfer test team have been making…",
-      "url": "https://www.windsurf.co.uk/ga-cosmic-7-7m-2026-windsurfer-review/",
-      "date": "2026-10-24T10:21:58.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/ga-cosmic-7-7m-2026-windsurfer-r-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "5df6c257a396",
+      "id": "9e83703e7fb0",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Elite surfers chase wsl glory - Daily Tribune",
-      "snippet": "Elite surfers chase wsl glory Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNFZ3SnljTFZ2LU5Md25vYXBtUkhITmlta3JkOGdScDJRSWlJRHpKX1ZLS1F5T2R4R0h3Q2pBNTkyaXBIam1odXY0YkV6dTJBVERfX3JwTXdOUTJfcGpoRWtOUHpWTW9IeURGNzhZbTg?oc=5",
-      "date": "2026-10-23T20:15:06.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "3dbbe4ea943d",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "One of surfing's fastest-rising stars at center of sexual assault allegations - USA Today",
-      "snippet": "One of surfing's fastest-rising stars at center of sexual assault allegations USA Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU2lvdkNCLU84Y2xDOGlLYlk2MS1IQ3BZUW51emZiZGZXLXNiMnlnMEJXRy1QS1FaMUUtY0w3N3N4eHN5MFRBSDBqU3ZqMW9ia3BBcGRPN0NOWE9TVzNNai1TQmtFSmIxSi1NQWF2UGxINmh0UTdKeGJWbGhqd3ZMZ3A3M1hVU2NhaEszcXVBYV82eDBrVTJMSXI0M0tHRURHNG41OFFZeHUtRVJ3Tm1FWHlwRWprWFZsOXdQOGJMTHVaMVhaRDFfR3drQ3daTDQ?oc=5",
-      "date": "2026-10-23T17:09:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "36db0d2b0f1f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing faces a cultural reckoning as women’s voices grow louder over sexual abuse allegations | Lucy Small - The Guardian",
-      "snippet": "Surfing faces a cultural reckoning as women’s voices grow louder over sexual abuse allegations | Lucy Small The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXhoUXBzOTJvMmxESUNfMk9EcGJMaDBTMFhPanNSaWcyNkJ2LUpTdmNhTHNPY3ZNMEJrVDZPbWtMT0xvX3loRVJwUTJrdDdORlN5b0VVcGw5SXpxTHVlS3NNZlhKVjgySDJwc0hPaUk5S1hPbGRoYnVSbllUMEM4MHROeE1mQU1rQk1xc2d3?oc=5",
-      "date": "2026-10-22T14:01:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "1ce7fece4b8c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach - WMUR",
-      "snippet": "NH Chronicle: Catching Air on the Seacoast: Kiteboarding at Hampton Beach WMUR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGxrLUNPZGVSUDd6aC14eUZFYkpRa2ZmeV93djl3Um1hc2EyUlJDalFWYnpWNTFTN2hwZEd2Nk1KYnVlYjBzcjRjaXMtN1otVXlCOTNrb0RhZmlCenhPTU1iNjIycHVWdDkwWWJhU3dSdVFDVklBNXBzcTQ4NVZHSDVyVWdJaXF3RFdGaGtlSFpFWkRSRUZkSmZSNEN2UUUtcEJ1LXpONkhhMWpzd1E?oc=5",
-      "date": "2026-10-22T12:51:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "b501c9d285ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 - Surf Life Saving",
-      "snippet": "AUSTRALIAN SURF LIFE SAVING CHAMPIONSHIPS RETURN TO WA IN 2028 Surf Life Saving",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0dXSkxySlViekl1ZnkzbGtUVU1EaWlvbUd2UVVWNHE0SmN1b05pZm1zbEpkUFNteVM4NlBpY3lCZjhnQWRpRkUyTTBXeWhCT2JSRThnU3Q2V0E3U0JrLW5ONklwT3VOeUVfU2pkckhBTjBuNWM1ckJaamg4a2FPRWM4ZFRENlJCYlE?oc=5",
-      "date": "2026-10-22T11:04:44.000Z",
+      "title": "Zoe prepares for world championships at Lost Shore - The Edinburgh Reporter",
+      "snippet": "Zoe prepares for world championships at Lost Shore The Edinburgh Reporter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdfVGlRSTVQMnZabTNINloxdzB3ZnBfNEhsNVVrRkVHTkRIMlVhVVJUQ0tTYUVRZkNHM2xaQ09IcF9mQlM1NnpqbkZWMVZzT05MdUZYRGt3NW0xbnAtTkJFaHIzSFVXQ0QtZDFmZHV6TUl2YktvMXR2bFNYMTR4Q2JkODVKaVJpQ2E5M096M0gtdTdmM0Q3MmhB?oc=5",
+      "date": "2026-10-25T10:49:06.000Z",
       "tags": [
         "surf"
       ]
