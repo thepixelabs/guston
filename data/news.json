@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:59:32.094Z",
+  "generated_at": "2026-10-27T22:12:41.165Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,56 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "1e9778594acb",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Record 18 Clubs Set for Australian Boardriders Battle at Cronulla - Sportzhub",
+      "snippet": "Record 18 Clubs Set for Australian Boardriders Battle at Cronulla Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGpubTBfalJXdDJVUF9IX1VhakVHWkhWdV9md0R6UXFmQWxQYjRtbHpPdnpYY2JBMFczVnpVaUdnTVBPQnRYR1ZoOHpLbEQwZ2E2X2UyVUpBbm1GOGlrWlFhSjQ0WTlrX2lqeUtnMGRJNlNUdWlkZUF1U1gzN2lpWGRGSHI2RERzQUZtSHRIa1JacEFXeDMyR0ktLUoya0JFS1RxQ2xtOA?oc=5",
+      "date": "2026-10-27T21:41:05.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "790e9f466568",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Ride Engine RE_X: Cold Water Performance Starts with Every Detail",
+      "snippet": "Your wetsuit should keep you warm and moving freely through wingfoiling, kiteboarding and the surf sessions in between. Ride Engine’s RE_X wetsuit line combine…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ride-engine-re_x-cold-water-performance-starts-with-every-detail/",
+      "date": "2026-10-27T21:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/07-ride-engine-re-x-1.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "44e53970ee32",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kite surfer's Sussex jump becomes the highest ever recorded in world history - The Argus",
+      "snippet": "Kite surfer's Sussex jump becomes the highest ever recorded in world history The Argus",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlExVmE5WXNfTVd3SDJpR2tZZWJmc2pnMkszUnBBYkZyRDZuQWJIZTkybTlCRTAtdFk4bkxFckE3UTJjRlVHQXFkdjBkQUdTVEFRaEdPcXdIZFZzT1lGZ1pEemFpOWt0UWVWMGFVWFB3TWx5T2VTa2VLRXRyaFg1dkJBWG5SeDB3Ym5QbVJGMmtEX0lSeFZiY09IUko?oc=5",
+      "date": "2026-10-27T20:00:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "93f8653bf362",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Golden brown winter swells! #courtintheact #kitesurfing #stormchase #storm @DUOTONEKiteboarding",
+      "snippet": "Winter swells are rolling in and everyone is so excited for it! The post Golden brown winter swells! #courtintheact #kitesurfing #stormchase #storm @DUOTONEKit…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/golden-brown-winter-swells-courtintheact-kitesurfing-stormchase-storm-duotonekiteboarding/",
+      "date": "2026-10-27T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-99.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "7ecb50390742",
       "source": "google_surf",
@@ -33,6 +83,18 @@
       ]
     },
     {
+      "id": "09716fd36e0c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
+      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
+      "date": "2026-10-27T15:31:46.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "32deeabc33cb",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -43,18 +105,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-98.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "09716fd36e0c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
-      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
-      "date": "2026-10-27T14:39:02.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -108,6 +158,18 @@
       ]
     },
     {
+      "id": "2a2542fe9b87",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Light winds, big performances: Pro Men's Competition gets underway at the Aloha Classic - Sail-World.com",
+      "snippet": "Light winds, big performances: Pro Men's Competition gets underway at the Aloha Classic Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblRiTTAwVVRGc2RjVGt6Vmt0b3ljeGtWbkZ0Sl9rQ3NSTmd3RGRLeW1uQnJET012OEhJdUp2YnlHZzFJOXU1amlPc2FuVDlZVkdYN0gxc05JX05YT0syU2lzRWFtMkxZZ19mMmlBSmpDZEs2ODhSTkVZTEcwR1JNdE5UWjJtcGR5YVBSNm1LNW0?oc=5",
+      "date": "2026-10-27T08:33:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "c8a26027065d",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -139,18 +201,6 @@
       "snippet": "SURF'S UP. International surfing competitors arrive on Siargao Island, Surigao del Norte, on Tuesday (Oct. 27, 2026), ahead of the World Surf League Championsh…",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDNfSS04OHR1bWRoa2dsWlp4UkRCSFdYLTNrRUQzRUViMjJqNzc3RFNMV3VtNUlRRTlkR2JtZkx2WXpHM25jZURHZldfLWdCM3Z3ME1iMHlIemFabTFxMlczYThmV0FrX1lKYW1IekRBRjI1TXREXzRIR2pZVV9fWkJlUGE4akw0TW1jWVFpbUFZYjNTNUN1VlNJOVFTam1fYU5melVQYTJ5STNuTnFFZy1MY2hxajk5ODVBVUpEbXk1ZEVQQUVfdTdWbHZXWHRkaHVsVw?oc=5",
       "date": "2026-10-27T00:25:54.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "8dc3611458d7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Phl sports tourism rides Cloud 9’s giant waves - Daily Tribune",
-      "snippet": "Phl sports tourism rides Cloud 9’s giant waves Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3RPNnF6cThHZDdLNHAzRzZqZ2piVFIwNDhhaHRKMWg2WFhNS1dhWGtwbVZhQlNPdFRfR3ZOMnFIR2pWMnFkOUpmNjRiamc4b3NxT3hndGJ5d2VvUV9nZWxIT1NnaWdoSS1PcUQ3SVVaS2l6WmJCQkJhYWJKa1E3QjNzRmhZdw?oc=5",
-      "date": "2026-10-26T20:15:11.000Z",
       "tags": [
         "surf"
       ]
@@ -206,18 +256,6 @@
       ]
     },
     {
-      "id": "cec660a2193e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Surf League Philippines Pro: Surfing Championship 2023 - The Chronicle PH",
-      "snippet": "World Surf League Philippines Pro: Surfing Championship 2023 The Chronicle PH",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2xtZDJ5RkFBcUs5RGZ3SkRDUHJubERzNFBhczV6RzVwalk4MF8zY0QwSGEwYzVXMl9feDFPTGFIRTJrU25xN0otdFZ3eXdIWGViS0JOX1pEdTBuN0dmLXhMMWNidWEtQmNodmFqUEtLVnN4RmZuY2FfdnIxLTJkOFpCa3ZmUTMxdWc?oc=5",
-      "date": "2026-10-26T12:50:42.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "d30ab2d9f41e",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -240,18 +278,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-93.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "ad476663a1ce",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo Leg at Agoo Eco-Tourism Park in Agoo, La Union on Monday. The competition highlights the pr - Facebook",
-      "snippet": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo L…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFVEZklWMWRpaXJHZGt3cE15YklhM0t4cnlNTE5pUVVrbGJ6OVV5bVFwbXlXbU9Yb3V5NXJLRk1mOUVoWFJsZ04xLVBMWkx6SkxIN2R3YlVHSHI1ZkRJSDlsR0lLeXpXWWVwb05aZlFjVGZqSWhaTTNjdlZWYmxOckh2MERKelN2alFHQW9Oa3YyNnJwcVBKSGhNRkE4ekNlR3hId2hmY0xINUlGdnpFbXVEMUdmSzQ2c0h4NkJfWmhOYncwY0ZiTFNJVFg2bDJ3bTloOXU2MGZVWjY0?oc=5",
-      "date": "2026-10-26T11:58:06.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -343,41 +369,15 @@
       ]
     },
     {
-      "id": "49b8de6ad1cf",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Don’t get dizzy ‍ #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil",
-      "snippet": "Don’t get dizzy when watching this! The post Don’t get dizzy ‍ #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/dont-get-dizzy-gka-gkakiteworldtour-kiteboarding-gkafreestyle-brazil/",
-      "date": "2026-10-25T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-90.jpg",
+      "id": "df8261c74aa3",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Chabloz is crowned world champion for the second time - bluewin.ch",
+      "snippet": "Chabloz is crowned world champion for the second time bluewin.ch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZbUltaVlqQmQ5NXBnYTJNcHI2NDBEeWlwSll3cUJ6VHR5TGxtSlFKR2lmWUloTVktMzRDeXJyX1ZQOXpCSzJLR2ZrZW9Mb0RYOHF0YmlHeFpYSlJBZ0FObzZoOTd3SG9OakRSLXcwbElhWkU5dS1FbjZhWjF6cGFxak55clVkOEhfUW04MGxxYXk1VnJPVjBYZl8?oc=5",
+      "date": "2026-10-25T09:29:00.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "61f29760e785",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Mexico’s Einar Saad posted yesterday’s highest trick score! #brazil #worldcup #gkafreestyle #gka",
-      "snippet": "Mexico’s Einar Saad posted yesterday’s highest trick score! The post Mexico’s Einar Saad posted yesterday’s highest trick score! #brazil #worldcup #gkafreestyl…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/mexicos-einar-saad-posted-yesterdays-highest-trick-score-brazil-worldcup-gkafreestyle-gka/",
-      "date": "2026-10-25T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-89.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9e83703e7fb0",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Zoe prepares for world championships at Lost Shore - The Edinburgh Reporter",
-      "snippet": "Zoe prepares for world championships at Lost Shore The Edinburgh Reporter",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdfVGlRSTVQMnZabTNINloxdzB3ZnBfNEhsNVVrRkVHTkRIMlVhVVJUQ0tTYUVRZkNHM2xaQ09IcF9mQlM1NnpqbkZWMVZzT05MdUZYRGt3NW0xbnAtTkJFaHIzSFVXQ0QtZDFmZHV6TUl2YktvMXR2bFNYMTR4Q2JkODVKaVJpQ2E5M096M0gtdTdmM0Q3MmhB?oc=5",
-      "date": "2026-10-25T10:49:06.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
