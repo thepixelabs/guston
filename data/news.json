@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:01:43.579Z",
+  "generated_at": "2026-10-27T12:09:16.634Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,43 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "a87eaf2b6ce7",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Storm Austen sees Kitesurfing world record broken in West Sussex - SussexWorld",
+      "snippet": "Storm Austen sees Kitesurfing world record broken in West Sussex SussexWorld",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFqMVJUaEpKX0M4cmdiS09zRW5kcVA1NXVTMnNyMkk3YXE0SHpRa1VIU21XelhHOG9MbjJMeU53SFdxSC1xUklUVWdRRmFZczItMGlyalhfVWtRNXEyZXdBNVlrQTg3Mkw2bnlac29Jc1NIOGlIZFdxZGVMRVpRdmtZSWFxUFplQXJYQTRVNWFleVZscFNhY2p4YWJackVSaktmM0ViRGpkV2pHTnRkS1dR?oc=5",
+      "date": "2026-10-27T09:37:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c906da838ba7",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Winning my 5th WORLD TITLE – SYLT",
+      "snippet": "After a few years of not stitting at the top, this year in SYLT James managed to gain my 5th GKA Kitesurfing world title! The post Winning my 5th WORLD TITLE –…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/winning-my-5th-world-title-sylt/",
+      "date": "2026-10-27T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-96.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c8a26027065d",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "INSIDE THE AC75 – THE LATEST TRENDS IN FOIL DESIGN - Louis Vuitton 38th America’s Cup",
+      "snippet": "INSIDE THE AC75 – THE LATEST TRENDS IN FOIL DESIGN Louis Vuitton 38th America’s Cup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3oxWS03N24yZnktUnVyRFV6cnJXSmQwbm1aUEd2ck5KZ2VTZFVVcFFDSWdKMFhVRGZXQjAzNGhFZkQ3SVF2SzNkTmFSYXphVVo3LWpfR2Vadm9nWG1YMG9RODVSclNKVGtFcVZmWUZycEpNaTdsMWlxWWgzcXhESlFtS0xSMXRHMUFwMzRpWQ?oc=5",
+      "date": "2026-10-27T06:00:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
     {
       "id": "0bfade9de17c",
       "source": "google_surf",
@@ -28,6 +65,18 @@
       "snippet": "SURF'S UP. International surfing competitors arrive on Siargao Island, Surigao del Norte, on Tuesday (Oct. 27, 2026), ahead of the World Surf League Championsh…",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDNfSS04OHR1bWRoa2dsWlp4UkRCSFdYLTNrRUQzRUViMjJqNzc3RFNMV3VtNUlRRTlkR2JtZkx2WXpHM25jZURHZldfLWdCM3Z3ME1iMHlIemFabTFxMlczYThmV0FrX1lKYW1IekRBRjI1TXREXzRIR2pZVV9fWkJlUGE4akw0TW1jWVFpbUFZYjNTNUN1VlNJOVFTam1fYU5melVQYTJ5STNuTnFFZy1MY2hxajk5ODVBVUpEbXk1ZEVQQUVfdTdWbHZXWHRkaHVsVw?oc=5",
       "date": "2026-10-27T00:25:54.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8dc3611458d7",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Phl sports tourism rides Cloud 9’s giant waves - Daily Tribune",
+      "snippet": "Phl sports tourism rides Cloud 9’s giant waves Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3RPNnF6cThHZDdLNHAzRzZqZ2piVFIwNDhhaHRKMWg2WFhNS1dhWGtwbVZhQlNPdFRfR3ZOMnFIR2pWMnFkOUpmNjRiamc4b3NxT3hndGJ5d2VvUV9nZWxIT1NnaWdoSS1PcUQ3SVVaS2l6WmJCQkJhYWJKa1E3QjNzRmhZdw?oc=5",
+      "date": "2026-10-26T20:15:11.000Z",
       "tags": [
         "surf"
       ]
@@ -234,30 +283,6 @@
       ]
     },
     {
-      "id": "df8261c74aa3",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Chabloz is crowned world champion for the second time - blue News",
-      "snippet": "Chabloz is crowned world champion for the second time blue News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZbUltaVlqQmQ5NXBnYTJNcHI2NDBEeWlwSll3cUJ6VHR5TGxtSlFKR2lmWUloTVktMzRDeXJyX1ZQOXpCSzJLR2ZrZW9Mb0RYOHF0YmlHeFpYSlJBZ0FObzZoOTd3SG9OakRSLXcwbElhWkU5dS1FbjZhWjF6cGFxak55clVkOEhfUW04MGxxYXk1VnJPVjBYZl8?oc=5",
-      "date": "2026-10-25T10:50:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9e83703e7fb0",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Zoe prepares for world championships at Lost Shore - The Edinburgh Reporter",
-      "snippet": "Zoe prepares for world championships at Lost Shore The Edinburgh Reporter",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdfVGlRSTVQMnZabTNINloxdzB3ZnBfNEhsNVVrRkVHTkRIMlVhVVJUQ0tTYUVRZkNHM2xaQ09IcF9mQlM1NnpqbkZWMVZzT05MdUZYRGt3NW0xbnAtTkJFaHIzSFVXQ0QtZDFmZHV6TUl2YktvMXR2bFNYMTR4Q2JkODVKaVJpQ2E5M096M0gtdTdmM0Q3MmhB?oc=5",
-      "date": "2026-10-25T10:49:06.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "e198e2054111",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -279,19 +304,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/bruna-kajiyas-in-the-hunt-of-her-7th-world-title-gka-gkakiteworldtour-brazil-gkafreestyle/",
       "date": "2026-10-24T17:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-87.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "91330a0bfb51",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Smooth, sharp, and straight into the semis! #gkakiteworldtour #kiteboarding #gkafreestyle #brazil",
-      "snippet": "‘Love you Mum and Dad’ – Those post win feelings! The post Smooth, sharp, and straight into the semis! #gkakiteworldtour #kiteboarding #gkafreestyle #brazil fi…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/smooth-sharp-and-straight-into-the-semis-gkakiteworldtour-kiteboarding-gkafreestyle-brazil/",
-      "date": "2026-10-24T14:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-85.jpg",
       "tags": [
         "kite"
       ]
@@ -367,19 +379,6 @@
       "date": "2026-10-22T11:04:44.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "a827e6e4b5cb",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE",
-      "snippet": "TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE TIREE WAVE CLASSIC 2026. THE INSIDE STORY: BY RUARAIDH SOMERVILLE You’ve seen the pictures. Y…",
-      "url": "https://www.windsurf.co.uk/tiree-wave-classic-2026-the-inside-story-by-ruaraidh-somerville/",
-      "date": "2026-10-22T05:53:31.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/TIREE_WAVE_CLASSIC_DAY_5_0844-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     }
   ]
