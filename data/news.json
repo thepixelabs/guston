@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:12:41.165Z",
+  "generated_at": "2026-10-28T05:40:11.984Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,63 @@
   },
   "items": [
     {
-      "id": "1e9778594acb",
+      "id": "f31e09356e62",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Record 18 Clubs Set for Australian Boardriders Battle at Cronulla - Sportzhub",
-      "snippet": "Record 18 Clubs Set for Australian Boardriders Battle at Cronulla Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGpubTBfalJXdDJVUF9IX1VhakVHWkhWdV9md0R6UXFmQWxQYjRtbHpPdnpYY2JBMFczVnpVaUdnTVBPQnRYR1ZoOHpLbEQwZ2E2X2UyVUpBbm1GOGlrWlFhSjQ0WTlrX2lqeUtnMGRJNlNUdWlkZUF1U1gzN2lpWGRGSHI2RERzQUZtSHRIa1JacEFXeDMyR0ktLUoya0JFS1RxQ2xtOA?oc=5",
-      "date": "2026-10-27T21:41:05.000Z",
+      "title": "'Near-perfect' surf conditions for East Coast Pro - NZ Herald",
+      "snippet": "'Near-perfect' surf conditions for East Coast Pro NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLV9naGNjckRsdWN3bU1aY2xJMjJwRWhBbGplVVY4Q1VIMzJ2SU5pRTdyVTMtOWlrRDZ1X0h3blhZSW9feVoyelpKYlBPQnNOdHcwN0tuamY4WlBMS2hmZE1nclN4UGV2eG5YeHZueGRaRmhNcUxwZDJ5VW13SGFVbi1ZWnAzNGdFbWRoRGt2OGlNVmNsbmFXY0IxZHBpUkhoTG5iMDFIT3JvWFVNdGllRlhpRTA1dG5pSnpsQ3lwVDgydGJ0NnljVXAyT0tYV2JvazVXRUYwU3h5OXVrNFdua00zX2lXSzNidXV0ZVN3aVBDNmQxekEzNnFrVE0?oc=5",
+      "date": "2026-10-28T03:00:22.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "255f5d2023d8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "ION Winter Essentials for Cold-Weather Sessions",
+      "snippet": "The season is far from over. From a lake spot or wave pool to rapid surf and a local break, there are plenty of ways to keep getting out on the water when the…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ion-winter-essentials-for-cold-weather-sessions/",
+      "date": "2026-10-28T03:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/06-ion-winter-essentials.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "80ddea3bbf10",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "A jet ski-powered surf comp is flying into Scarborough this November - Perth is OK!",
+      "snippet": "A jet ski-powered surf comp is flying into Scarborough this November Perth is OK!",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3VDS2otd0ZLZ0Y3d05RMHlaSUdkYXNZVlRUWFBfMW1UTFJrbm9pY005VmVTUHR0Q2k1TnR3QzRkODRqcTlhVFVOak0yYWV2S2hBVW1XZEt4WUlPZ2wweEpmcnRHZ0M5SXRldmRha0cwRVlQNUhUei1KWms4cU9jSFRaVjFsWU0?oc=5",
+      "date": "2026-10-28T02:56:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b6d1ba306084",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Mystic 4/3mm Wetsuits: Wind Up. Zip Up. Go.",
+      "snippet": "The right balance of warmth, stretch and freedom can keep a session going when the temperature drops. Mystic’s women’s 4/3mm wetsuits are made for the days rid…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/mystic-4-3mm-wetsuits-wind-up-zip-up-go/",
+      "date": "2026-10-28T00:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/05-mystic-4-3.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b76d99defb48",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing - The Coastland Times",
+      "snippet": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing The Coastland Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXYtenVKci0tYXpKcUhseGxTc0pDQzk2aC16NzFwV2tWNVJNTVZ0NnRQSEI4bGFCOEFqN1JuZkNjd0R2RjBaN1BtaUV2bk5tQmhPM0FkSk0xSUJNcHlUanZmTjQ2cXg5aDNvblVtSmVzZ1o1T2FjNVJtWS1GdHU4UTY3Qi1TdzhhU0NIcXFuajBvMTI4ZUxQT01GdVlrbVBVMVhPZGFsT2dlWGVxRFE?oc=5",
+      "date": "2026-10-27T22:58:47.000Z",
       "tags": [
         "surf"
       ]
@@ -158,18 +208,6 @@
       ]
     },
     {
-      "id": "2a2542fe9b87",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Light winds, big performances: Pro Men's Competition gets underway at the Aloha Classic - Sail-World.com",
-      "snippet": "Light winds, big performances: Pro Men's Competition gets underway at the Aloha Classic Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblRiTTAwVVRGc2RjVGt6Vmt0b3ljeGtWbkZ0Sl9rQ3NSTmd3RGRLeW1uQnJET012OEhJdUp2YnlHZzFJOXU1amlPc2FuVDlZVkdYN0gxc05JX05YT0syU2lzRWFtMkxZZ19mMmlBSmpDZEs2ODhSTkVZTEcwR1JNdE5UWjJtcGR5YVBSNm1LNW0?oc=5",
-      "date": "2026-10-27T08:33:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "c8a26027065d",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -179,18 +217,6 @@
       "date": "2026-10-27T06:00:00.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "0bfade9de17c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Action Jaxon: East Coast Pro glory to Gisborne teen - NZ Herald",
-      "snippet": "Action Jaxon: East Coast Pro glory to Gisborne teen NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWE3YlQ2UHdtbUNqckg3eS1Obi1odU9kSUJhYXBjLWFxMlJKOGE4UGduYmpqNmZmTGlkT1BLYU1US1BJcktQM3JFQ21pdC1MM2hnSEtUUmlRZm1qYTdMekRxajZxMVdkbElmSl9QOF9tZEJFQWQwbDhyV2VYTkJPckhUb29MV0FGRTFOamdSVWttd19wc19sV1pkWk5sWlQzc2JzeXZtX2ZpUVBjNDlYQ0VuOXZnNDBtbk1JMUJKQ1VtYS1OSk1kWDBqRld5ZmNjZHNR?oc=5",
-      "date": "2026-10-27T03:42:20.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -216,30 +242,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-95.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "54a90984b90d",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Foil speed ahead - Taipei Times",
-      "snippet": "Foil speed ahead Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VV3JQR1hBck8taDFjQ1labFZlcnlUekZWZUY3TXZSWkxxRGp5S1Uzb3VBME5LUk9XNDRkZFRoWUY4RGVIZ0FnSHZLUVRabTkzRnNCdmdjVVdRVFg4clJrNER2ejhnVUJpTnZxSGpqQlo5T2NsUFE?oc=5",
-      "date": "2026-10-26T16:00:00.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "c1aa55dcd884",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "OBAR’s 29th Annual Surf Fishing Tournament benefits scholars... - The Coastland Times",
-      "snippet": "OBAR’s 29th Annual Surf Fishing Tournament benefits scholars... The Coastland Times",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1VHLVdZTEUzSW5oTi12SUZBbzNsMTZXX2YwZTdyczJqTW9SVC1ZV1ZvUHhvb3lsYzB2M0hXb3FsMEhOZG9yLWgzSm9ZSC1zbVk3RWFvZGhYWnlmRmhweHZDb1N2UlJFYXlyckVVSGRrem5VMGZtT1hlRmNaaVY1Mk1fU0h3UFNQdy1EM0lRc2JnNnFvTXpuUUZXSElsbnZ2X19VYnRHV05Ha3NHeUJDVzhzQWM4SVd0YVZpbFNqOVN6UzFCMTNubGhoUlE?oc=5",
-      "date": "2026-10-26T15:59:18.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -281,6 +283,18 @@
       ]
     },
     {
+      "id": "ad476663a1ce",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo Leg at Agoo Eco-Tourism Park in Agoo, La Union on Monday. The competition highlights the pr - Facebook",
+      "snippet": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo L…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFVEZklWMWRpaXJHZGt3cE15YklhM0t4cnlNTE5pUVVrbGJ6OVV5bVFwbXlXbU9Yb3V5NXJLRk1mOUVoWFJsZ04xLVBMWkx6SkxIN2R3YlVHSHI1ZkRJSDlsR0lLeXpXWWVwb05aZlFjVGZqSWhaTTNjdlZWYmxOckh2MERKelN2alFHQW9Oa3YyNnJwcVBKSGhNRkE4ekNlR3hId2hmY0xINUlGdnpFbXVEMUdmSzQ2c0h4NkJfWmhOYncwY0ZiTFNJVFg2bDJ3bTloOXU2MGZVWjY0?oc=5",
+      "date": "2026-10-26T11:58:06.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "0fa936e29589",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -302,19 +316,6 @@
       "date": "2026-10-26T11:19:59.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "b27225b0d20c",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Event Highlights | Ilha do Guajiru 2026",
-      "snippet": "Two World Titles, decided on the final day in Brazil. 🏆 The 2026 GKA Freestyle Kite World Cup season finale at Ilha do Guajiru delivered drama to the very las…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/event-highlights-ilha-do-guajiru-2026/",
-      "date": "2026-10-26T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-92.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -343,19 +344,6 @@
       ]
     },
     {
-      "id": "20f937105766",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Jumping over the sun‍",
-      "snippet": "What a shot! Sunset never looked so good! The post Jumping over the sun‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/jumping-over-the-sun/",
-      "date": "2026-10-25T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-91.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "0a577f7f77be",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -372,10 +360,22 @@
       "id": "df8261c74aa3",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
-      "title": "Chabloz is crowned world champion for the second time - bluewin.ch",
-      "snippet": "Chabloz is crowned world champion for the second time bluewin.ch",
+      "title": "Chabloz is crowned world champion for the second time - blue News",
+      "snippet": "Chabloz is crowned world champion for the second time blue News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZbUltaVlqQmQ5NXBnYTJNcHI2NDBEeWlwSll3cUJ6VHR5TGxtSlFKR2lmWUloTVktMzRDeXJyX1ZQOXpCSzJLR2ZrZW9Mb0RYOHF0YmlHeFpYSlJBZ0FObzZoOTd3SG9OakRSLXcwbElhWkU5dS1FbjZhWjF6cGFxak55clVkOEhfUW04MGxxYXk1VnJPVjBYZl8?oc=5",
       "date": "2026-10-25T09:29:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ad2a2d66d3cd",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Freestyle Legends Bermuda 2027 brings World Champion Kiteboarding to Bermuda - Sail-World.com",
+      "snippet": "Freestyle Legends Bermuda 2027 brings World Champion Kiteboarding to Bermuda Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkU2VUl1NEhVTnY4RzJqeFg1aldtaG42b2d5X2lSd1BXZ2dfZE1QbjhpU1J0QVp5U0xoUXVsbjN6R2JxMzRyTEFkTVJsTk80T3F4b0lZQ1Y5LVRJejNDMUhtOHowVVlUX25ocFR2YXRrODVDcmVncExWWTdjOGF5enpYMA?oc=5",
+      "date": "2026-10-24T14:05:00.000Z",
       "tags": [
         "kite"
       ]
