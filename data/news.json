@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:40:11.984Z",
+  "generated_at": "2026-10-28T12:51:55.397Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,80 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "60197a29c470",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump - Surfertoday",
+      "snippet": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump Surfertoday",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDd4RUJqRmtIUUQ0M2V5X2hZTHRmb3FkWUtUYkt6cUplQXpubU9xcUV3SVhnQ05jUlVnLXJZZHhoS1dibTJ1SW1PRjl3UngtQ3Q1b2Q3blZlUDV1ak5nWWRqM0ladkw1N1Nyc3BKRklqbVZjbFFOdFh6X01kSVdfRHFKRTBXcGF1VXRJNXBiTmFJLVlPVU1r?oc=5",
+      "date": "2026-10-28T11:33:56.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "63b8c4b8271f",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "The Anam Mui Ne Takes Flight with New Windswept Adrenaline Experience - HospiBuz",
+      "snippet": "The Anam Mui Ne Takes Flight with New Windswept Adrenaline Experience HospiBuz",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUN4TDdXenpjQWRfeHlkNTNpTDFtMTVjRlFmMTMxU0dHekZlWGNRaDRoUFJUTDV2Nl9YX3ltYXp6aXVXaGJidE1BRnp6OXcyejlueDNuN0dwRmhmdF9YT3o0eDlWOFBVWDhHUTJYSW5vQXVsMzRxMHpWTy13MUpMeTY1S1VZWmZ0aUtRZDNJdUFfUEVmTU5lQXZIXzh0enRqWXRTcHVUTDBkeklqZDktSjJuY2Fqaks5S2J3QnZB0gG-AUFVX3lxTE51Q3hMN1d6emNBZF94eWQ1M2lMMW0xNWNGUWYxMzFTR0d6RmVYY1FoNGhQUlRMNXY2X1hfeW1henppdVdoYmJ0TUFGeno5dzJ6OW54M243R3BGaGZ0X1hPejR4OVY4UFVYOEdRMlhJbm9BdWwzNHEwelZPLXcxSkx5NjVLVVlaZnRpS1FkM0l1QV9QRWZNTmVBdkhfOHR6dGpZdFNwdVRMMGR6SWpkOS1KMm5jYWpqSzlLYndCdkE?oc=5",
+      "date": "2026-10-28T09:16:02.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e113ac2d80bf",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Crazy 50+ meter dune jump",
+      "snippet": "A huge dune jump to start the session! Golden hour making it look beautiful. The post Crazy 50+ meter dune jump first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/crazy-50-meter-dune-jump/",
+      "date": "2026-10-28T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-100.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "a4da623cb6ad",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Red Bull Aeriality jet ski-powered surfing event announced for Perth - Australasian Leisure Management Magazine",
+      "snippet": "Red Bull Aeriality jet ski-powered surfing event announced for Perth Australasian Leisure Management Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUJIWXNHSVlZZ1NLMTdfQUEwUnVPbllROUJnODVrWC1Ld2hKSGNBUkJoMHBoX1Z6eXNSLXhPa0hYejd3dUNwbzFhVzhPa2d5OTJ3SnpsaVc0R1ppQ3AweXo2QTZ4VTRzRDBhUHNGSDVPTVJUYzJ5QTdscTQ1c2hnQmRHV0hsMzdQVHpTMUQzWXB4cmVsNkFKR2ptSmdmYzl1Rm9vV3BR?oc=5",
+      "date": "2026-10-28T08:46:36.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ca0473b93722",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Storm Austen sees kitesurfing world record broken in West Sussex - SussexWorld",
+      "snippet": "Storm Austen sees kitesurfing world record broken in West Sussex SussexWorld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkwtRDVWV0ZvQmZDQ2NjSjBRd0F0Z2RkQ1YyQ2hPRnVJUWFJbS1STUt1VnNyRWVKdFc2R1ZVSkp1QmMxbDR4eWtqaFljam5WLVQ4ZjEwTVkyWkV3M0g3bHpQYVdTVTdTRUx0RHdlRFhzTGpGNlkzR1NrbFl6NVVpazFZWlpUOXNFUkF2UmhROVJlajRlRjhxY1BqZXU0ajVTQkRmMEVKbmF5THNoeDd0MUxiMG9UMmc?oc=5",
+      "date": "2026-10-28T08:33:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "21f2bc2cf093",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BETTER LATE THAN NEVER! ROSS WILLIAMS NITON SESSION",
+      "snippet": "BETTER LATE THAN NEVER! ROSS WILLIAMS NITON SESSION BETTER LATE THAN NEVER! ROSS WILLIAMS NITON SESSION Last Saturday, Storm Belio had given the south coast a…",
+      "url": "https://www.windsurf.co.uk/better-late-than-never-ross-williams-niton-session/",
+      "date": "2026-10-28T06:12:51.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/D2A0370-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "f31e09356e62",
       "source": "google_surf",
@@ -183,18 +257,6 @@
       ]
     },
     {
-      "id": "ca0473b93722",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Storm Austen sees kitesurfing world record broken in West Sussex - SussexWorld",
-      "snippet": "Storm Austen sees kitesurfing world record broken in West Sussex SussexWorld",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkwtRDVWV0ZvQmZDQ2NjSjBRd0F0Z2RkQ1YyQ2hPRnVJUWFJbS1STUt1VnNyRWVKdFc2R1ZVSkp1QmMxbDR4eWtqaFljam5WLVQ4ZjEwTVkyWkV3M0g3bHpQYVdTVTdTRUx0RHdlRFhzTGpGNlkzR1NrbFl6NVVpazFZWlpUOXNFUkF2UmhROVJlajRlRjhxY1BqZXU0ajVTQkRmMEVKbmF5THNoeDd0MUxiMG9UMmc?oc=5",
-      "date": "2026-10-27T09:37:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "c906da838ba7",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -220,6 +282,18 @@
       ]
     },
     {
+      "id": "0bfade9de17c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Action Jaxon: East Coast Pro glory to Gisborne teen - NZ Herald",
+      "snippet": "Action Jaxon: East Coast Pro glory to Gisborne teen NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWE3YlQ2UHdtbUNqckg3eS1Obi1odU9kSUJhYXBjLWFxMlJKOGE4UGduYmpqNmZmTGlkT1BLYU1US1BJcktQM3JFQ21pdC1MM2hnSEtUUmlRZm1qYTdMekRxajZxMVdkbElmSl9QOF9tZEJFQWQwbDhyV2VYTkJPckhUb29MV0FGRTFOamdSVWttd19wc19sV1pkWk5sWlQzc2JzeXZtX2ZpUVBjNDlYQ0VuOXZnNDBtbk1JMUJKQ1VtYS1OSk1kWDBqRld5ZmNjZHNR?oc=5",
+      "date": "2026-10-27T03:42:20.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "493492e876fa",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -227,6 +301,18 @@
       "snippet": "SURF'S UP. International surfing competitors arrive on Siargao Island, Surigao del Norte, on Tuesday (Oct. 27, 2026), ahead of the World Surf League Championsh…",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDNfSS04OHR1bWRoa2dsWlp4UkRCSFdYLTNrRUQzRUViMjJqNzc3RFNMV3VtNUlRRTlkR2JtZkx2WXpHM25jZURHZldfLWdCM3Z3ME1iMHlIemFabTFxMlczYThmV0FrX1lKYW1IekRBRjI1TXREXzRIR2pZVV9fWkJlUGE4akw0TW1jWVFpbUFZYjNTNUN1VlNJOVFTam1fYU5melVQYTJ5STNuTnFFZy1MY2hxajk5ODVBVUpEbXk1ZEVQQUVfdTdWbHZXWHRkaHVsVw?oc=5",
       "date": "2026-10-27T00:25:54.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8dc3611458d7",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Phl sports tourism rides Cloud 9’s giant waves - Daily Tribune",
+      "snippet": "Phl sports tourism rides Cloud 9’s giant waves Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3RPNnF6cThHZDdLNHAzRzZqZ2piVFIwNDhhaHRKMWg2WFhNS1dhWGtwbVZhQlNPdFRfR3ZOMnFIR2pWMnFkOUpmNjRiamc4b3NxT3hndGJ5d2VvUV9nZWxIT1NnaWdoSS1PcUQ3SVVaS2l6WmJCQkJhYWJKa1E3QjNzRmhZdw?oc=5",
+      "date": "2026-10-26T20:15:11.000Z",
       "tags": [
         "surf"
       ]
@@ -258,6 +344,18 @@
       ]
     },
     {
+      "id": "cec660a2193e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World Surf League Philippines Pro: Surfing Championship 2023 - The Chronicle PH",
+      "snippet": "World Surf League Philippines Pro: Surfing Championship 2023 The Chronicle PH",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2xtZDJ5RkFBcUs5RGZ3SkRDUHJubERzNFBhczV6RzVwalk4MF8zY0QwSGEwYzVXMl9feDFPTGFIRTJrU25xN0otdFZ3eXdIWGViS0JOX1pEdTBuN0dmLXhMMWNidWEtQmNodmFqUEtLVnN4RmZuY2FfdnIxLTJkOFpCa3ZmUTMxdWc?oc=5",
+      "date": "2026-10-26T12:50:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "d30ab2d9f41e",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -270,19 +368,6 @@
       ]
     },
     {
-      "id": "4b3594ac9385",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #gkakiteworldtour",
-      "snippet": "Seven world titles for this absolute wonder-woman… she really is unstoppable! The post Seventh GKA Freestyle World Title for Bruna #gka #gkafreestyle #brazil #…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/seventh-gka-freestyle-world-title-for-bruna-gka-gkafreestyle-brazil-gkakiteworldtour/",
-      "date": "2026-10-26T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-93.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "ad476663a1ce",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -292,92 +377,6 @@
       "date": "2026-10-26T11:58:06.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "0fa936e29589",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "WSL Pro Tour to put PH sports tourism on global stage MANILA – It's all systems go for the World Surf League (WSL) Philippines Pro Championship Tour on Oct. 30-Nov. 1 in Cloud 9 Siargao. The event presented by the Philippine Sports Commission (PSC), f - Facebook",
-      "snippet": "WSL Pro Tour to put PH sports tourism on global stage MANILA – It's all systems go for the World Surf League (WSL) Philippines Pro Championship Tour on Oct. 30…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXlwaXRWVldIRF9UZmt5TThocGJQemFKYlRCODJCWWh5MS1JelZIZHdTMHVRLVBydC1BTzZHVG50TEh5eTNBQllGQnVWRDhvVGMxOG5xV0ZKR01BNzd6TUhFVUZVWV8tbHhSTFpBMWc5RzZsazQteFNJNVdtTDVnVlJRRkVFOFBXZHFVaTVIa0ZjQ2lnNFVqdTdNd0dyaWhZUlN2eWhvZjhrQUVGYVJLck50dF83VXpITjBpREhQYVdGTUdXZVNFSlYzQVFQS05VQ3kxSQ?oc=5",
-      "date": "2026-10-26T11:30:13.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "7bef930c1b13",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "British Para Surfer Zoe Smith Training at Lost Shore for ISA World Champs at DSRT Surf - WavePoolMag",
-      "snippet": "British Para Surfer Zoe Smith Training at Lost Shore for ISA World Champs at DSRT Surf WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaHNacVFsTlRhYWdMMGN0SGJJeDdobThfMjJ0WTdHb0xTY2ZHRHRNVlo5OEx5WGlFYUJXb2ZOSUUwSGpad1F3aVdYSUx5NnpGdFhmOGhwS0c1d2poWXNTZHJZMXphX09uT3hHWjBiMEg?oc=5",
-      "date": "2026-10-26T11:19:59.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e4d22f7b2c34",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Incoming Swell Set to Kick Off HTA Sunset Pro and Qualifying Series North Shore Season - Surf News Network",
-      "snippet": "Incoming Swell Set to Kick Off HTA Sunset Pro and Qualifying Series North Shore Season Surf News Network",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLThsR2g3MnN3RUU4NDdXdVpGWnhaSmt1VmRLLTZRY1UwcWVJWTMxX1VSWkRjX0pXbUtJUkUwS1ZHNHpnRlJpRDV3eDUyU1lEdGRqY2QzVGR3WllsWHRqeGx5dUNYUy1KVXVwQ1VOSWt5cWpDbGtqbXpMV0FtS0FHLXZveVdSeTNkc095QnJuUUZRTlZhMWdWeGotR00tdGNBdWlndWQ5Qm95SzhMVWVxWEtlVFZUOFlNTThr?oc=5",
-      "date": "2026-10-26T06:52:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d687668a14e0",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "STORM AUSTEN: KIMMERIDGE CARNAGE!",
-      "snippet": "STORM AUSTEN: KIMMERIDGE CARNAGE! STORM AUSTEN: KIMMERIDGE CARNAGE! The first named storm of the season was always going to be worth chasing, but Storm Austen…",
-      "url": "https://www.windsurf.co.uk/storm-austen-kimmeridge-carnage/",
-      "date": "2026-10-26T06:00:47.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/D2A7579-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "0a577f7f77be",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE WAVE CLASSIC: THE FULL STORY!",
-      "snippet": "TIREE WAVE CLASSIC: THE FULL STORY! TIREE WAVE CLASSIC: THE FULL STORY! Alfie Hart has been burning the midnight oil, working around the clock to bring us the…",
-      "url": "https://www.windsurf.co.uk/tiree-wave-classic-the-full-story/",
-      "date": "2026-10-25T17:25:07.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/tiree-wave-classic-the-full-stor-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "df8261c74aa3",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Chabloz is crowned world champion for the second time - blue News",
-      "snippet": "Chabloz is crowned world champion for the second time blue News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRZbUltaVlqQmQ5NXBnYTJNcHI2NDBEeWlwSll3cUJ6VHR5TGxtSlFKR2lmWUloTVktMzRDeXJyX1ZQOXpCSzJLR2ZrZW9Mb0RYOHF0YmlHeFpYSlJBZ0FObzZoOTd3SG9OakRSLXcwbElhWkU5dS1FbjZhWjF6cGFxak55clVkOEhfUW04MGxxYXk1VnJPVjBYZl8?oc=5",
-      "date": "2026-10-25T09:29:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "ad2a2d66d3cd",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Freestyle Legends Bermuda 2027 brings World Champion Kiteboarding to Bermuda - Sail-World.com",
-      "snippet": "Freestyle Legends Bermuda 2027 brings World Champion Kiteboarding to Bermuda Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkU2VUl1NEhVTnY4RzJqeFg1aldtaG42b2d5X2lSd1BXZ2dfZE1QbjhpU1J0QVp5U0xoUXVsbjN6R2JxMzRyTEFkTVJsTk80T3F4b0lZQ1Y5LVRJejNDMUhtOHowVVlUX25ocFR2YXRrODVDcmVncExWWTdjOGF5enpYMA?oc=5",
-      "date": "2026-10-24T14:05:00.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
