@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:51:55.397Z",
+  "generated_at": "2026-10-28T22:33:41.527Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,15 +9,90 @@
   },
   "items": [
     {
+      "id": "7c66339fdfb5",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition - KRCG",
+      "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdC0xV21HOHJNbVlyODJmYjdLWnpqclo2aC1lNVNBaGlrSE5XbG1STlpaTUxxR041Wjl5eGdjWDYzWE96b3FoSWFYaGFaa1NJLV9hcy1Qajl3YVdwTHBtVFE1a3Z0TTBpdURESjR2TjJnUEpsRm04VFlDbTg1R00ySF8wc3oydk1SamtCNkVIMDdlRFpMSjNUTE1HSjFSZ19mUUtLZWpkQjN0RmM4LTJmdWJzN3k2RklxZjZr?oc=5",
+      "date": "2026-10-28T21:37:12.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "1bef3f58b675",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Giant surf, high stakes: Pro Men's Semi-Finals locked in at the Aloha Classic - Sail-World.com",
+      "snippet": "Giant surf, high stakes: Pro Men's Semi-Finals locked in at the Aloha Classic Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelpYakpHX3ZOZ21MS3NOX0R4aTEwMHZLTUczek4tbGlVUThNWTFfTVBJMUFoajVnSWgxWVVPVzBaNXF0MTlwV3NHVG1YOGcxRDBOYndyUUt2UmVzazJqemNRNWx3T09PVnRJcGJGamFoMi0zei1qZzBFSVltU05Sa2t5WVVrSXM?oc=5",
+      "date": "2026-10-28T19:05:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "4b637d4a5a4c",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Jumping from a 50m dune",
+      "snippet": "This camera POV is insane! The post Jumping from a 50m dune first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/jumping-from-a-50m-dune/",
+      "date": "2026-10-28T18:30:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-103.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "60197a29c470",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump - Surfertoday",
       "snippet": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump Surfertoday",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDd4RUJqRmtIUUQ0M2V5X2hZTHRmb3FkWUtUYkt6cUplQXpubU9xcUV3SVhnQ05jUlVnLXJZZHhoS1dibTJ1SW1PRjl3UngtQ3Q1b2Q3blZlUDV1ak5nWWRqM0ladkw1N1Nyc3BKRklqbVZjbFFOdFh6X01kSVdfRHFKRTBXcGF1VXRJNXBiTmFJLVlPVU1r?oc=5",
-      "date": "2026-10-28T11:33:56.000Z",
+      "date": "2026-10-28T15:59:55.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "ec90f4714a27",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "POV: You Can Only Pack ONE Kite #shorts",
+      "snippet": "One kite for the trip… what might you pick? The post POV: You Can Only Pack ONE Kite #shorts first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/pov-you-can-only-pack-one-kite-shorts/",
+      "date": "2026-10-28T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-102.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "1d8c468d1305",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "A strong comeback season for Anthar! #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil",
+      "snippet": "Anthar looking so good! The post A strong comeback season for Anthar! #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/a-strong-comeback-season-for-anthar-gka-gkakiteworldtour-kiteboarding-gkafreestyle-brazil/",
+      "date": "2026-10-28T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-101.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "a4da623cb6ad",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Red Bull Aeriality jet ski-powered surfing event announced for Perth - Australasian Leisure Management Magazine",
+      "snippet": "Red Bull Aeriality jet ski-powered surfing event announced for Perth Australasian Leisure Management Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUJIWXNHSVlZZ1NLMTdfQUEwUnVPbllROUJnODVrWC1Ld2hKSGNBUkJoMHBoX1Z6eXNSLXhPa0hYejd3dUNwbzFhVzhPa2d5OTJ3SnpsaVc0R1ppQ3AweXo2QTZ4VTRzRDBhUHNGSDVPTVJUYzJ5QTdscTQ1c2hnQmRHV0hsMzdQVHpTMUQzWXB4cmVsNkFKR2ptSmdmYzl1Rm9vV3BR?oc=5",
+      "date": "2026-10-28T11:26:25.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -43,18 +118,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-100.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "a4da623cb6ad",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Red Bull Aeriality jet ski-powered surfing event announced for Perth - Australasian Leisure Management Magazine",
-      "snippet": "Red Bull Aeriality jet ski-powered surfing event announced for Perth Australasian Leisure Management Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUJIWXNHSVlZZ1NLMTdfQUEwUnVPbllROUJnODVrWC1Ld2hKSGNBUkJoMHBoX1Z6eXNSLXhPa0hYejd3dUNwbzFhVzhPa2d5OTJ3SnpsaVc0R1ppQ3AweXo2QTZ4VTRzRDBhUHNGSDVPTVJUYzJ5QTdscTQ1c2hnQmRHV0hsMzdQVHpTMUQzWXB4cmVsNkFKR2ptSmdmYzl1Rm9vV3BR?oc=5",
-      "date": "2026-10-28T08:46:36.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -257,19 +320,6 @@
       ]
     },
     {
-      "id": "c906da838ba7",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Winning my 5th WORLD TITLE – SYLT",
-      "snippet": "After a few years of not stitting at the top, this year in SYLT James managed to gain my 5th GKA Kitesurfing world title! The post Winning my 5th WORLD TITLE –…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/winning-my-5th-world-title-sylt/",
-      "date": "2026-10-27T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-96.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "c8a26027065d",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -279,18 +329,6 @@
       "date": "2026-10-27T06:00:00.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "0bfade9de17c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Action Jaxon: East Coast Pro glory to Gisborne teen - NZ Herald",
-      "snippet": "Action Jaxon: East Coast Pro glory to Gisborne teen NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWE3YlQ2UHdtbUNqckg3eS1Obi1odU9kSUJhYXBjLWFxMlJKOGE4UGduYmpqNmZmTGlkT1BLYU1US1BJcktQM3JFQ21pdC1MM2hnSEtUUmlRZm1qYTdMekRxajZxMVdkbElmSl9QOF9tZEJFQWQwbDhyV2VYTkJPckhUb29MV0FGRTFOamdSVWttd19wc19sV1pkWk5sWlQzc2JzeXZtX2ZpUVBjNDlYQ0VuOXZnNDBtbk1JMUJKQ1VtYS1OSk1kWDBqRld5ZmNjZHNR?oc=5",
-      "date": "2026-10-27T03:42:20.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -318,32 +356,6 @@
       ]
     },
     {
-      "id": "bee4f61c99a7",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Life looks better upside down",
-      "snippet": "A view we could definitely get used to! The post Life looks better upside down first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/life-looks-better-upside-down/",
-      "date": "2026-10-26T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-95.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "35f9be5558ba",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Maxime claimed the event win and the 2026 World Title! #brazil #gka #gkakiteworldtour",
-      "snippet": "Maxime with the event win and the World Title! Congrats Max! The post Maxime claimed the event win and the 2026 World Title! #brazil #gka #gkakiteworldtour fir…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/maxime-claimed-the-event-win-and-the-2026-world-title-brazil-gka-gkakiteworldtour/",
-      "date": "2026-10-26T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-94.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "cec660a2193e",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -363,18 +375,6 @@
       "snippet": "After Asiad bronze, Alciso joins WSL Championship Tour in Siargao Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0JlcjVqMldndmYyeXZYdk5uVjVSbU5fQV9SdmpRYzZYVDBSenFYVEd0aEtqVmFJZDRBTlVJN0FQNDJxZ1BNQzQ4WGVHc2tqekZERGdKby16TzdCamhxNEM0cml5dXBOMEloRGFGTTJTUW5VTFJ6NURnY2w0MWR3dm96eGFndlVFQjV5OGlaRjl2NVRua3lmNG1VT3plalpl0gGmAUFVX3lxTE9Pc1FiRjdES1Y0amRSUXR4WFNzdGh1dkYzNV9UZFVHNDFRNktDbDZYMnZDT3djVW1oc3pqLWdhaWc0UXVheDNZSUNFZDJSWFVMVzgxakwwSG9hV3U2MDRvSUpyQVBkNHg3QmtEcEgzSTIyWW5XZmczM2xoaXJnZm9RdkM3VUV1S2EyYWZLWWxyNVhBNTNwb2hlVFZ6d1V2X2hoYlJjbFE?oc=5",
       "date": "2026-10-26T12:42:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ad476663a1ce",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo Leg at Agoo Eco-Tourism Park in Agoo, La Union on Monday. The competition highlights the pr - Facebook",
-      "snippet": "Local bangkeros (boatmen) showcase their elaborately decorated outrigger boats during the decorative boat competition at the La Union Surfing Break 2026 Agoo L…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFVEZklWMWRpaXJHZGt3cE15YklhM0t4cnlNTE5pUVVrbGJ6OVV5bVFwbXlXbU9Yb3V5NXJLRk1mOUVoWFJsZ04xLVBMWkx6SkxIN2R3YlVHSHI1ZkRJSDlsR0lLeXpXWWVwb05aZlFjVGZqSWhaTTNjdlZWYmxOckh2MERKelN2alFHQW9Oa3YyNnJwcVBKSGhNRkE4ekNlR3hId2hmY0xINUlGdnpFbXVEMUdmSzQ2c0h4NkJfWmhOYncwY0ZiTFNJVFg2bDJ3bTloOXU2MGZVWjY0?oc=5",
-      "date": "2026-10-26T11:58:06.000Z",
       "tags": [
         "surf"
       ]
