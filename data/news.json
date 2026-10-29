@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:33:41.527Z",
+  "generated_at": "2026-10-29T05:45:41.746Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,49 @@
   },
   "items": [
     {
-      "id": "7c66339fdfb5",
+      "id": "2b3be6363cda",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship - Politiko.com.ph",
+      "snippet": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship Politiko.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVpmLTMtTFpOQ2M4WXhiWE1NY2J2dzhpQnp6OFlYWWwxUVVFYmIyY1JwTjl5bmp0cFdtdEVtcVhkV1NOMXdvTUI2VXA4WHlrSVVCRUdSSXQ3UnUta2FiY3lBSmZFNC0zWmMzUXFDTjlQVFRYMFY2c25RNzVGa3hQLW5TTnN3dlJWeDNFb0xoUTVJYl9laS1mU2pZLUZTMEJzaFQxTEZrOV9ITzJRdDM1RS1xZmxrQndWQll1aGlWZ1pDZw?oc=5",
+      "date": "2026-10-29T02:02:38.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2905586c8fa3",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "What Surfing Can Learn From Scandinavia’s Women - SURFER Magazine",
+      "snippet": "What Surfing Can Learn From Scandinavia’s Women SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieTRGSlIxM0tjenhOVlRTNjQzNHZMeHFOX0ZrdjAzQlBqLVlKQ2Q4WFRYTEtjaEx5SDhVM0oyY0dzckpOQUZ3OWN4QjdvdkNPRzN1Um5CSVJIZmhGRlRtelRDcGo3VmJ4RjRFMXVmMXlnUTF5MDlZdENMU1pLQzQ?oc=5",
+      "date": "2026-10-28T23:06:09.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "39a20fed6ebe",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "2 Boards, 1 Trip to Indo, and No Plans: How Zoe Grospiron Fell in Love With Surfing Again - SURFER Magazine",
+      "snippet": "2 Boards, 1 Trip to Indo, and No Plans: How Zoe Grospiron Fell in Love With Surfing Again SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGQwU1RHMTlqQkZZOHU4ZV9qYWdVWHk2TW5YYkR1OGx5R05LNnk1aUx1cW5UdWpNS1p0RW9sdXdfTjk0MlFXUG1CY3Z0OV9RSzBuU0Q4REtvNWRLMHp0ZUdySHlCWXdrWHhZSkFuX043ajJQSzA2eWplRk11S28wX1RORERPSFptbF9B?oc=5",
+      "date": "2026-10-28T22:39:08.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "fb79d776d9d1",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition - KRCG",
       "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdC0xV21HOHJNbVlyODJmYjdLWnpqclo2aC1lNVNBaGlrSE5XbG1STlpaTUxxR041Wjl5eGdjWDYzWE96b3FoSWFYaGFaa1NJLV9hcy1Qajl3YVdwTHBtVFE1a3Z0TTBpdURESjR2TjJnUEpsRm04VFlDbTg1R00ySF8wc3oydk1SamtCNkVIMDdlRFpMSjNUTE1HSjFSZ19mUUtLZWpkQjN0RmM4LTJmdWJzN3k2RklxZjZr?oc=5",
-      "date": "2026-10-28T21:37:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWx3UnQwLXJoYlZ1N2FscVNZNDl3a29UcUpXYXZHaVBlLW1EZ2tHY1lHUWVrR3FkVWtFcF9oaG5zOERYeFg5cEFQYklzRGJCUS01S29iWVl4alZOaGtVS3lJdEtzNGx0TXlVbGU2bUdXZWp6Tmg5VEdIcnBhWnBFbWZ0NTl6SUJIejdyN0lXR3hKeGNjMG1pX3hTZWFNamdrOHVuMWR0YVpuamZIZXZNNA?oc=5",
+      "date": "2026-10-28T22:27:09.000Z",
       "tags": [
         "surf"
       ]
@@ -66,6 +102,18 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/pov-you-can-only-pack-one-kite-shorts/",
       "date": "2026-10-28T15:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-102.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6085cadfd88b",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast - Drift Travel Magazine",
+      "snippet": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast Drift Travel Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xSS1MbXNXNU04QzNJRHhXZy1wb00wZXU2N0xyNVlEZk1lNXdCaW9OWGxxMGJOYVFnRVp1aXQ1dDhCM3gxR3EwNkpab0FXZUxIcUxHekR5YjNCcjVjRllGZWhDYjJHaUdUYkhtVFhGMjFZUnM4MzVLdFVn0gF_QVVfeXFMUHU4VlJMQ0R6bG9obUp5RHZNRXhaOGZvQUEwakRWRHhMV1Q4dk92R0JLaUVLUzBGUDF1dXB6MU9WUTRuMC04NHhjOWQzU21ZclROZ1p0Rk1WLXoxNm42VFpYeUU4b1hNdHNPdkRZODFNN3BlUFB4RFlyYWIwRFhiMA?oc=5",
+      "date": "2026-10-28T14:49:24.000Z",
       "tags": [
         "kite"
       ]
@@ -221,18 +269,6 @@
       ]
     },
     {
-      "id": "44e53970ee32",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Kite surfer's Sussex jump becomes the highest ever recorded in world history - The Argus",
-      "snippet": "Kite surfer's Sussex jump becomes the highest ever recorded in world history The Argus",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlExVmE5WXNfTVd3SDJpR2tZZWJmc2pnMkszUnBBYkZyRDZuQWJIZTkybTlCRTAtdFk4bkxFckE3UTJjRlVHQXFkdjBkQUdTVEFRaEdPcXdIZFZzT1lGZ1pEemFpOWt0UWVWMGFVWFB3TWx5T2VTa2VLRXRyaFg1dkJBWG5SeDB3Ym5QbVJGMmtEX0lSeFZiY09IUko?oc=5",
-      "date": "2026-10-27T20:00:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "93f8653bf362",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -265,18 +301,6 @@
       "snippet": "World champion para surfer hones skills at Lost Shore resort ahead of global contest Edinburgh News",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEJ5Y1JCMmpKaFBKQWRZa3ZuTTdDZDVWem8zeVoybnlxbDkyZkZhVlcwbmQ0WTgwZkRTMF9BSEJMMmpLQWhucmlxU3hRdVRNLXhteFZCak91RERYMDJHckllU2Z3MTh2TnQ1R0trR3k2emxSZVY0OFk2V3B2WXFqTVEzTFV4WmJoZXNvN3BUcDNnUGpTZ1RGOEt6VnMwZFNrX3BhbVMyOVNMaVo4eWt1RGJMZC1sdmtRZFVzQnFaZW9aWGJkdDJkMHhaaHVxd1RWRHJGYUs1VHlsTnVCT0wzbw?oc=5",
       "date": "2026-10-27T15:33:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "09716fd36e0c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
-      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
-      "date": "2026-10-27T15:31:46.000Z",
       "tags": [
         "surf"
       ]
@@ -351,30 +375,6 @@
       "snippet": "Phl sports tourism rides Cloud 9’s giant waves Daily Tribune",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3RPNnF6cThHZDdLNHAzRzZqZ2piVFIwNDhhaHRKMWg2WFhNS1dhWGtwbVZhQlNPdFRfR3ZOMnFIR2pWMnFkOUpmNjRiamc4b3NxT3hndGJ5d2VvUV9nZWxIT1NnaWdoSS1PcUQ3SVVaS2l6WmJCQkJhYWJKa1E3QjNzRmhZdw?oc=5",
       "date": "2026-10-26T20:15:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "cec660a2193e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Surf League Philippines Pro: Surfing Championship 2023 - The Chronicle PH",
-      "snippet": "World Surf League Philippines Pro: Surfing Championship 2023 The Chronicle PH",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2xtZDJ5RkFBcUs5RGZ3SkRDUHJubERzNFBhczV6RzVwalk4MF8zY0QwSGEwYzVXMl9feDFPTGFIRTJrU25xN0otdFZ3eXdIWGViS0JOX1pEdTBuN0dmLXhMMWNidWEtQmNodmFqUEtLVnN4RmZuY2FfdnIxLTJkOFpCa3ZmUTMxdWc?oc=5",
-      "date": "2026-10-26T12:50:42.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d30ab2d9f41e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "After Asiad bronze, Alciso joins WSL Championship Tour in Siargao - Inquirer.net",
-      "snippet": "After Asiad bronze, Alciso joins WSL Championship Tour in Siargao Inquirer.net",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0JlcjVqMldndmYyeXZYdk5uVjVSbU5fQV9SdmpRYzZYVDBSenFYVEd0aEtqVmFJZDRBTlVJN0FQNDJxZ1BNQzQ4WGVHc2tqekZERGdKby16TzdCamhxNEM0cml5dXBOMEloRGFGTTJTUW5VTFJ6NURnY2w0MWR3dm96eGFndlVFQjV5OGlaRjl2NVRua3lmNG1VT3plalpl0gGmAUFVX3lxTE9Pc1FiRjdES1Y0amRSUXR4WFNzdGh1dkYzNV9UZFVHNDFRNktDbDZYMnZDT3djVW1oc3pqLWdhaWc0UXVheDNZSUNFZDJSWFVMVzgxakwwSG9hV3U2MDRvSUpyQVBkNHg3QmtEcEgzSTIyWW5XZmczM2xoaXJnZm9RdkM3VUV1S2EyYWZLWWxyNVhBNTNwb2hlVFZ6d1V2X2hoYlJjbFE?oc=5",
-      "date": "2026-10-26T12:42:00.000Z",
       "tags": [
         "surf"
       ]
