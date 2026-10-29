@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:58:25.163Z",
+  "generated_at": "2026-10-29T22:44:35.875Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,92 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "d851e5f02620",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Summer Romero Returned to Competitive Surfing, But Don’t Call It a Comeback - The Inertia",
+      "snippet": "Summer Romero Returned to Competitive Surfing, But Don’t Call It a Comeback The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzZ3TFBZN3B1QnU1VjZ0SDBxeVI5aHdfUFJwMTBKQzdQQU1jWEhmQ01FbzNNSG5VRE5iZnVzQ3FHck9Ic1Q1WnBSSjh0VGpCM3ZaSmkxOGxiRWw4WndTWmpmS2UzQXczdVVISnM3YWViRUZRT3Z6TEZUZ3Y5X0NzTGp6SQ?oc=5",
+      "date": "2026-10-29T20:41:16.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "04630431f55f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition - World Surf League",
+      "snippet": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3U5bzZXOUtLRTZnTE1ndk43WnRyWGVCUnFqM25BU1dDMjJ1NGFpTHlGS2JKQWlDbF9lSHZIVFpTbGZNaUszOUlJa0I2bDlndDd4eDkwUldDMDBiNG01ZHJxMmd6WTVHUmtSUGhxLWNvU1NwYlloNklHQ28xS0Z6NmtQX0twSlFoQ2lxR1E4Q2xtXzRnZkRBbXU2a1paT1JLOHdvVWJjYTR4WUNJZmNjSEJSOA?oc=5",
+      "date": "2026-10-29T20:10:04.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e6d0636b2d02",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica - Newswire",
+      "snippet": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlExZktONjg0T2E0cTJlYTlhZTE2NHhKQmdIMXd4dDYyeWFETExIczZ4dGU4Qzl4ZGtlNmJsQTFYXzNoQTc1OXE0b3FqZkxfcVlhczdCZ0hWeXFLZXhOOTRvc3dURF9YcEFoRnFra2xlY3E1akxDSl9YNFlIWVA5emcwN0JGLUZSVTRuVnJTbU9QUmh5eVFMN3pJMkI0UXZnMXVWc0htcmRiVFU?oc=5",
+      "date": "2026-10-29T19:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "4e4beb721eca",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Repair a Wetsuit Tear with Glue: Easy DIY Fix for Small Rips and Cuts (Step-by-Step)",
+      "snippet": "Got a small tear or rip in your wetsuit? In this step-by-step tutorial, you’ll learn how to repair a wetsuit with glue, so you can fix small cuts quickly, exte…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/how-to-repair-a-wetsuit-tear-with-glue-easy-diy-fix-for-small-rips-and-cuts-step-by-step/",
+      "date": "2026-10-29T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-107.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "7bbe716e148a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Philippine hosts surfing’s premier Championship Tour event - Philstar.com",
+      "snippet": "Philippine hosts surfing’s premier Championship Tour event Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMU01dWJiZXJJWHFSSDVrN2pDa2laY0x3bVZPeWdmZGlIV2thYWVzMmhBd2F4d3Z3SUdTQ1JoQ2pLZ2lzZnEta3hUVmRjQjAtWXR6ZGg5Zkg1RUJ4V1BkT3pmS1hUcTMzaDZFRFRtOTMwYnVkQTRPYWVlUjRHTGkwOUlxVVBQWmdlLVVXLVRPcGd1b2RrVW9xREJwUEN5MVFxQk54Y0pzZDFtOGRlYWhPamdOR05IMXVDNzFoTjJzT29ZWjjSAcoBQVVfeXFMTkQxbUFtbVI2cUNUZHBYZWV5djQ5WEctb0Z2WTdacmY4QUFEbTExVllidno1aFlYZXB5dXcyd1U2c0tLWmZmSW1lVm5IdTJGTjh4QVFRbk10V0lqZjk4WTNKM1hyWG5EaTlpbDhIaVRkRTBOU1pRd29LNlVJMFRyR1JyWUZEUlMzUlpDYnlXTUFYY1RuZVNLbDVHdzdlUThfeDAyMlBkS3o5ZmZlWkRrcldEY19KRVRHT3lWTlhUMndwVjItUHRHUHE5dw?oc=5",
+      "date": "2026-10-29T16:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a2bf145ee0e0",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "WORLD TITLE NUMBER 5",
+      "snippet": "Number one in the world, not once… not twice… but five times! The post WORLD TITLE NUMBER 5 first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-title-number-5/",
+      "date": "2026-10-29T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-106.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "530a60a6ea06",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach - Observer Local News",
+      "snippet": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach Observer Local News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkhmeldZbl9MV0VnYjNFaGIzSTQxYVFKUXJHOHVFWWd6SFFYcDcySXlTTHctOFpJZ0F2aV9NZVozVFZTNWVqVDNnTDZMYmpoaGJSeDIxRGFqaGttbE5XbjA4WXRua0ZVOE04bWNPemFCR09JeWI1NVpyYjIwVWxJUnFpZmdsR2ZTWVA5WEhFblo3dGVHd3lhVVUzT0VVN3pSdFRNcC1sNGZ6X2IzYUN3eFFBNHZxckRQekk4OHFpa1gzX1ExXzRMVTZMSWJmcWM?oc=5",
+      "date": "2026-10-29T14:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "37f00bad660b",
       "source": "iksurfmag",
@@ -59,31 +145,6 @@
       ]
     },
     {
-      "id": "03e811ea5ef7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt - Manila Bulletin",
-      "snippet": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlQMGZqSWVZb0p0NEpjU2hoTnhmYUc4dVVjSkRoZnU0N0tBc3hNNXJuS2UwYmdaVjZTdXJtdzNhTngyWjB5V0xiRnd2OUF3MFJrUnZxdW9oSEFoNVctd0NVXzM4Q2RhWDRHbEp2RWc3MEFVejNiOW4ybnFSSkJKUHZUVWFjdm5jbzZUdS1SSkpwT3I1dlpiUg?oc=5",
-      "date": "2026-10-29T07:02:31.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "c1ec6d3a5e43",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI",
-      "snippet": "PLAYLISTS OF THE PRO'S: MACIEK RUTKOWSKI PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI You’re sitting on the beach, anxiously waiting for your next heat. The sun’s…",
-      "url": "https://www.windsurf.co.uk/playlists-of-the-pros-maciek-rutkowski/",
-      "date": "2026-10-29T06:00:00.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/07/FV26_sl_POL23_01599-copy-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
       "id": "2b3be6363cda",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -103,6 +164,18 @@
       "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWx3UnQwLXJoYlZ1N2FscVNZNDl3a29UcUpXYXZHaVBlLW1EZ2tHY1lHUWVrR3FkVWtFcF9oaG5zOERYeFg5cEFQYklzRGJCUS01S29iWVl4alZOaGtVS3lJdEtzNGx0TXlVbGU2bUdXZWp6Tmg5VEdIcnBhWnBFbWZ0NTl6SUJIejdyN0lXR3hKeGNjMG1pX3hTZWFNamdrOHVuMWR0YVpuamZIZXZNNA?oc=5",
       "date": "2026-10-29T01:34:36.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "9188582983a2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "French Polynesia Opens Investigation Into Alleged Sexual Assault Following Tahiti Pro - STAB",
+      "snippet": "French Polynesia Opens Investigation Into Alleged Sexual Assault Following Tahiti Pro STAB",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjZfdWVQeHp1cWxvUFFHOGhJRkVLQS1JdEY0Q0NiVmJRcjZ0OUw0ZnUwSjloSTZTWlhubWZQYWhQa21ZM05OT2U4RWZMaDBFWnNzdGVIeER1MkJ3WGhvMlhLRTMyQ1pZMmJDbjlGelFYdWVfQ1VXVEdxX2ljNHltQWd1aWRHX2VKZWVpOGZlN2xJc1p1czNnRHJHWjlBa19Nd25tclpTWWRaVS1VWnhSTGlLTk9DTm8?oc=5",
+      "date": "2026-10-28T23:12:12.000Z",
       "tags": [
         "surf"
       ]
@@ -219,18 +292,6 @@
       ]
     },
     {
-      "id": "a4da623cb6ad",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Red Bull Aeriality jet ski-powered surfing event announced for Perth - Australasian Leisure Management Magazine",
-      "snippet": "Red Bull Aeriality jet ski-powered surfing event announced for Perth Australasian Leisure Management Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUJIWXNHSVlZZ1NLMTdfQUEwUnVPbllROUJnODVrWC1Ld2hKSGNBUkJoMHBoX1Z6eXNSLXhPa0hYejd3dUNwbzFhVzhPa2d5OTJ3SnpsaVc0R1ppQ3AweXo2QTZ4VTRzRDBhUHNGSDVPTVJUYzJ5QTdscTQ1c2hnQmRHV0hsMzdQVHpTMUQzWXB4cmVsNkFKR2ptSmdmYzl1Rm9vV3BR?oc=5",
-      "date": "2026-10-28T11:26:25.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "e113ac2d80bf",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -294,18 +355,6 @@
       ]
     },
     {
-      "id": "80ddea3bbf10",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "A jet ski-powered surf comp is flying into Scarborough this November - Perth is OK!",
-      "snippet": "A jet ski-powered surf comp is flying into Scarborough this November Perth is OK!",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3VDS2otd0ZLZ0Y3d05RMHlaSUdkYXNZVlRUWFBfMW1UTFJrbm9pY005VmVTUHR0Q2k1TnR3QzRkODRqcTlhVFVOak0yYWV2S2hBVW1XZEt4WUlPZ2wweEpmcnRHZ0M5SXRldmRha0cwRVlQNUhUei1KWms4cU9jSFRaVjFsWU0?oc=5",
-      "date": "2026-10-28T02:56:44.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "b6d1ba306084",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -319,63 +368,13 @@
       ]
     },
     {
-      "id": "790e9f466568",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Ride Engine RE_X: Cold Water Performance Starts with Every Detail",
-      "snippet": "Your wetsuit should keep you warm and moving freely through wingfoiling, kiteboarding and the surf sessions in between. Ride Engine’s RE_X wetsuit line combine…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/ride-engine-re_x-cold-water-performance-starts-with-every-detail/",
-      "date": "2026-10-27T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/07-ride-engine-re-x-1.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "93f8653bf362",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Golden brown winter swells! #courtintheact #kitesurfing #stormchase #storm @DUOTONEKiteboarding",
-      "snippet": "Winter swells are rolling in and everyone is so excited for it! The post Golden brown winter swells! #courtintheact #kitesurfing #stormchase #storm @DUOTONEKit…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/golden-brown-winter-swells-courtintheact-kitesurfing-stormchase-storm-duotonekiteboarding/",
-      "date": "2026-10-27T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-99.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "3ed216a51c53",
+      "id": "b76d99defb48",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "World champion para surfer hones skills at Lost Shore resort ahead of global contest - Edinburgh News",
-      "snippet": "World champion para surfer hones skills at Lost Shore resort ahead of global contest Edinburgh News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEJ5Y1JCMmpKaFBKQWRZa3ZuTTdDZDVWem8zeVoybnlxbDkyZkZhVlcwbmQ0WTgwZkRTMF9BSEJMMmpLQWhucmlxU3hRdVRNLXhteFZCak91RERYMDJHckllU2Z3MTh2TnQ1R0trR3k2emxSZVY0OFk2V3B2WXFqTVEzTFV4WmJoZXNvN3BUcDNnUGpTZ1RGOEt6VnMwZFNrX3BhbVMyOVNMaVo4eWt1RGJMZC1sdmtRZFVzQnFaZW9aWGJkdDJkMHhaaHVxd1RWRHJGYUs1VHlsTnVCT0wzbw?oc=5",
-      "date": "2026-10-27T15:33:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "09716fd36e0c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
-      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
-      "date": "2026-10-27T15:31:46.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ee8114c746b4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Nazaré's giant waves are back: the 2026/27 Big Wave Challenge is ready to begin - Portugal.fr",
-      "snippet": "Nazaré's giant waves are back: the 2026/27 Big Wave Challenge is ready to begin Portugal.fr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGl2eWZVN3VpVXhMVjBIZGFwRll3LWRfZXVFVmUwWnVaYmdoQkYyNU0zLTByMU56bVZ0QVI5cEVJVThfS3E0YnRBaFVpRzFVdThBNnV1akZGbEp6S0FNa1NsbXI1ZkotOFN1RzlOZnhBZElpTHRwbmhMV2lMNHRxQTh2dWtEZzdocFlBTVRLSjNMaFB3c3Z2ZHhn?oc=5",
-      "date": "2026-10-27T13:43:21.000Z",
+      "title": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing - The Coastland Times",
+      "snippet": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing The Coastland Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXYtenVKci0tYXpKcUhseGxTc0pDQzk2aC16NzFwV2tWNVJNTVZ0NnRQSEI4bGFCOEFqN1JuZkNjd0R2RjBaN1BtaUV2bk5tQmhPM0FkSk0xSUJNcHlUanZmTjQ2cXg5aDNvblVtSmVzZ1o1T2FjNVJtWS1GdHU4UTY3Qi1TdzhhU0NIcXFuajBvMTI4ZUxQT01GdVlrbVBVMVhPZGFsT2dlWGVxRFE?oc=5",
+      "date": "2026-10-27T22:58:47.000Z",
       "tags": [
         "surf"
       ]
