@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:45:41.746Z",
+  "generated_at": "2026-10-29T12:58:25.163Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,6 +9,81 @@
   },
   "items": [
     {
+      "id": "37f00bad660b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "That split second when the wave throws you right back into it",
+      "snippet": "The pure beauty of wave riding. The post That split second when the wave throws you right back into it first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/that-split-second-when-the-wave-throws-you-right-back-into-it/",
+      "date": "2026-10-29T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-105.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "71d44b351045",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Score the Wave of Your Life at a Pool? Yup, There’s Now a Contest for That - WavePoolMag",
+      "snippet": "Score the Wave of Your Life at a Pool? Yup, There’s Now a Contest for That WavePoolMag",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ldHdhdndfSE16NWVDVTIwXzhINzBaWEtlemhmQ2dvUnF0MzZvaUdCTHFYelJfaVhVaU5NUlFSRE5NTVJKYXJUd21TQnZKMUozZUFBNkFmS0o3UTRRMUdaRkhSdnBNUQ?oc=5",
+      "date": "2026-10-29T11:03:50.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "9c4872c05021",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Even voorstellen! #dogshorts #kitesurfen",
+      "snippet": "Dice the dog loves kitesurfing! 🐶 The post Even voorstellen! #dogshorts #kitesurfen first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/even-voorstellen-dogshorts-kitesurfen/",
+      "date": "2026-10-29T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-104.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e9adeb89d869",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfers chase glory on Causeway Coast - Belfast News Letter",
+      "snippet": "Surfers chase glory on Causeway Coast Belfast News Letter",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3BCeERleGQtWnhILTgzWlEtNjVGMmMxSzZjREZaSHJpbnRwSmhTR0ZsR1dPZFFBQ0tnNkdvd2h1WU9XMUpLVjlnQl9rNXVOVmRJOXBvT3BWS1I3UGUyN3FlSkNYNHFpOVhBeDMtdnpGZnVidm1sRXZUU3lOTlhhMWk4d0pvUXZsRXh0bU81UlFCZkwxMGl1bA?oc=5",
+      "date": "2026-10-29T07:56:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "03e811ea5ef7",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt - Manila Bulletin",
+      "snippet": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlQMGZqSWVZb0p0NEpjU2hoTnhmYUc4dVVjSkRoZnU0N0tBc3hNNXJuS2UwYmdaVjZTdXJtdzNhTngyWjB5V0xiRnd2OUF3MFJrUnZxdW9oSEFoNVctd0NVXzM4Q2RhWDRHbEp2RWc3MEFVejNiOW4ybnFSSkJKUHZUVWFjdm5jbzZUdS1SSkpwT3I1dlpiUg?oc=5",
+      "date": "2026-10-29T07:02:31.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "c1ec6d3a5e43",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI",
+      "snippet": "PLAYLISTS OF THE PRO'S: MACIEK RUTKOWSKI PLAYLISTS OF THE PRO’S: MACIEK RUTKOWSKI You’re sitting on the beach, anxiously waiting for your next heat. The sun’s…",
+      "url": "https://www.windsurf.co.uk/playlists-of-the-pros-maciek-rutkowski/",
+      "date": "2026-10-29T06:00:00.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/07/FV26_sl_POL23_01599-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
       "id": "2b3be6363cda",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -16,6 +91,18 @@
       "snippet": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship Politiko.com.ph",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVpmLTMtTFpOQ2M4WXhiWE1NY2J2dzhpQnp6OFlYWWwxUVVFYmIyY1JwTjl5bmp0cFdtdEVtcVhkV1NOMXdvTUI2VXA4WHlrSVVCRUdSSXQ3UnUta2FiY3lBSmZFNC0zWmMzUXFDTjlQVFRYMFY2c25RNzVGa3hQLW5TTnN3dlJWeDNFb0xoUTVJYl9laS1mU2pZLUZTMEJzaFQxTEZrOV9ITzJRdDM1RS1xZmxrQndWQll1aGlWZ1pDZw?oc=5",
       "date": "2026-10-29T02:02:38.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "fb79d776d9d1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition - KRCG",
+      "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWx3UnQwLXJoYlZ1N2FscVNZNDl3a29UcUpXYXZHaVBlLW1EZ2tHY1lHUWVrR3FkVWtFcF9oaG5zOERYeFg5cEFQYklzRGJCUS01S29iWVl4alZOaGtVS3lJdEtzNGx0TXlVbGU2bUdXZWp6Tmg5VEdIcnBhWnBFbWZ0NTl6SUJIejdyN0lXR3hKeGNjMG1pX3hTZWFNamdrOHVuMWR0YVpuamZIZXZNNA?oc=5",
+      "date": "2026-10-29T01:34:36.000Z",
       "tags": [
         "surf"
       ]
@@ -45,13 +132,13 @@
       ]
     },
     {
-      "id": "fb79d776d9d1",
+      "id": "9769231d9906",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition - KRCG",
-      "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWx3UnQwLXJoYlZ1N2FscVNZNDl3a29UcUpXYXZHaVBlLW1EZ2tHY1lHUWVrR3FkVWtFcF9oaG5zOERYeFg5cEFQYklzRGJCUS01S29iWVl4alZOaGtVS3lJdEtzNGx0TXlVbGU2bUdXZWp6Tmg5VEdIcnBhWnBFbWZ0NTl6SUJIejdyN0lXR3hKeGNjMG1pX3hTZWFNamdrOHVuMWR0YVpuamZIZXZNNA?oc=5",
-      "date": "2026-10-28T22:27:09.000Z",
+      "title": "Sexism has plagued surfing for generations. A rape allegation has led to a reckoning - The New York Times",
+      "snippet": "Sexism has plagued surfing for generations. A rape allegation has led to a reckoning The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGlZbWx4NmVKUDkzOVRxMTJ0SGpacTNMbjdGMERiVFFiUDlBazNhblRPMkhHQ0dFZ1ZrcTB5dm52ZDRiSzBrSW5HQWZ1RlR6dEdxUlpwWmczTXhLeDROREN6c2lrTUZCb29ZeFNGNnlXbEQwd20yTE1tRF9TSko2SDllTVJyRVRIQ3BESFpuSnQxTTA?oc=5",
+      "date": "2026-10-28T21:23:27.000Z",
       "tags": [
         "surf"
       ]
@@ -144,18 +231,6 @@
       ]
     },
     {
-      "id": "63b8c4b8271f",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "The Anam Mui Ne Takes Flight with New Windswept Adrenaline Experience - HospiBuz",
-      "snippet": "The Anam Mui Ne Takes Flight with New Windswept Adrenaline Experience HospiBuz",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUN4TDdXenpjQWRfeHlkNTNpTDFtMTVjRlFmMTMxU0dHekZlWGNRaDRoUFJUTDV2Nl9YX3ltYXp6aXVXaGJidE1BRnp6OXcyejlueDNuN0dwRmhmdF9YT3o0eDlWOFBVWDhHUTJYSW5vQXVsMzRxMHpWTy13MUpMeTY1S1VZWmZ0aUtRZDNJdUFfUEVmTU5lQXZIXzh0enRqWXRTcHVUTDBkeklqZDktSjJuY2Fqaks5S2J3QnZB0gG-AUFVX3lxTE51Q3hMN1d6emNBZF94eWQ1M2lMMW0xNWNGUWYxMzFTR0d6RmVYY1FoNGhQUlRMNXY2X1hfeW1henppdVdoYmJ0TUFGeno5dzJ6OW54M243R3BGaGZ0X1hPejR4OVY4UFVYOEdRMlhJbm9BdWwzNHEwelZPLXcxSkx5NjVLVVlaZnRpS1FkM0l1QV9QRWZNTmVBdkhfOHR6dGpZdFNwdVRMMGR6SWpkOS1KMm5jYWpqSzlLYndCdkE?oc=5",
-      "date": "2026-10-28T09:16:02.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "e113ac2d80bf",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -200,7 +275,7 @@
       "title": "'Near-perfect' surf conditions for East Coast Pro - NZ Herald",
       "snippet": "'Near-perfect' surf conditions for East Coast Pro NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLV9naGNjckRsdWN3bU1aY2xJMjJwRWhBbGplVVY4Q1VIMzJ2SU5pRTdyVTMtOWlrRDZ1X0h3blhZSW9feVoyelpKYlBPQnNOdHcwN0tuamY4WlBMS2hmZE1nclN4UGV2eG5YeHZueGRaRmhNcUxwZDJ5VW13SGFVbi1ZWnAzNGdFbWRoRGt2OGlNVmNsbmFXY0IxZHBpUkhoTG5iMDFIT3JvWFVNdGllRlhpRTA1dG5pSnpsQ3lwVDgydGJ0NnljVXAyT0tYV2JvazVXRUYwU3h5OXVrNFdua00zX2lXSzNidXV0ZVN3aVBDNmQxekEzNnFrVE0?oc=5",
-      "date": "2026-10-28T03:00:22.000Z",
+      "date": "2026-10-28T03:01:04.000Z",
       "tags": [
         "surf"
       ]
@@ -244,18 +319,6 @@
       ]
     },
     {
-      "id": "b76d99defb48",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing - The Coastland Times",
-      "snippet": "Drum beat blues: Tournament anglers enjoy sun, surf and fishing The Coastland Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXYtenVKci0tYXpKcUhseGxTc0pDQzk2aC16NzFwV2tWNVJNTVZ0NnRQSEI4bGFCOEFqN1JuZkNjd0R2RjBaN1BtaUV2bk5tQmhPM0FkSk0xSUJNcHlUanZmTjQ2cXg5aDNvblVtSmVzZ1o1T2FjNVJtWS1GdHU4UTY3Qi1TdzhhU0NIcXFuajBvMTI4ZUxQT01GdVlrbVBVMVhPZGFsT2dlWGVxRFE?oc=5",
-      "date": "2026-10-27T22:58:47.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "790e9f466568",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -282,18 +345,6 @@
       ]
     },
     {
-      "id": "7ecb50390742",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "#PTVNewsTonight | Siargao set to put PH on global surfing map as WSL PH Pro Championship Tour arrives at Cloud 9 - Facebook",
-      "snippet": "#PTVNewsTonight | Siargao set to put PH on global surfing map as WSL PH Pro Championship Tour arrives at Cloud 9 Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDBkWHRKcGFsekRNTDVGdW50TVZ2WWNHSDk5YVdSUVJrSnN0X3NsLTF4WDZlOHh3cVN1RHVrVFFDaWQtRUFidzVqdWhLUEZBcVFjTzFHdWI2blZBNDI0c2g3R2trcXpzbG9xZm1MNm1kNEhydUJaT01WZ0x4cnlidUZkcmUxd28yTVNaMzVvQUl0NGI4ZTJTOUdEdFphMkJFakFBNnV1RnFrUXB1N2xieDhJTko1MTdrTXc5cjg5QkozMHdnTEM3THNmRER4SnN5?oc=5",
-      "date": "2026-10-27T15:35:41.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "3ed216a51c53",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -306,16 +357,15 @@
       ]
     },
     {
-      "id": "32deeabc33cb",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "“BETO” Trailer | Duotone Kiteboarding",
-      "snippet": "Born where the desert meets the sea, in the windswept lands of La Guajira, Colombia, Adalberto Segundo Gómez Epieyu carries a story bigger than the sport that…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/beto-trailer-duotone-kiteboarding/",
-      "date": "2026-10-27T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-98.jpg",
+      "id": "09716fd36e0c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young surfers to compete for national titles at inland surf lake - Bristol24/7",
+      "snippet": "Young surfers to compete for national titles at inland surf lake Bristol24/7",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDlyaUpYYURjbHhneVE5QTU3SWNoWEpMS3BZSlo3TzM1UkozNUppMk9yQWxJWHhkTTFsTXRnaUIwOFVnOEtZcEVXMnNfZHhiTGVZVFF6YU5MMTNBbWRjQ0FWMlJZcl9MMzZIdWhoVXRnYjVmZ2l4a2kwSW5iYnR6bUEtZ0szUWFxYzlYZFBDdHJJaElTeEtCVGFHNUZ4dlAxaGRwUUUwM3VXT1YtXzJB?oc=5",
+      "date": "2026-10-27T15:31:46.000Z",
       "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -326,55 +376,6 @@
       "snippet": "Nazaré's giant waves are back: the 2026/27 Big Wave Challenge is ready to begin Portugal.fr",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGl2eWZVN3VpVXhMVjBIZGFwRll3LWRfZXVFVmUwWnVaYmdoQkYyNU0zLTByMU56bVZ0QVI5cEVJVThfS3E0YnRBaFVpRzFVdThBNnV1akZGbEp6S0FNa1NsbXI1ZkotOFN1RzlOZnhBZElpTHRwbmhMV2lMNHRxQTh2dWtEZzdocFlBTVRLSjNMaFB3c3Z2ZHhn?oc=5",
       "date": "2026-10-27T13:43:21.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "6fa158ee6de5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Two Dads | Two Groms | One Love – KITESURFING",
-      "snippet": "Family time never looked so good… The post Two Dads | Two Groms | One Love – KITESURFING first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/two-dads-two-groms-one-love-kitesurfing/",
-      "date": "2026-10-27T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-97.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "c8a26027065d",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "INSIDE THE AC75 – THE LATEST TRENDS IN FOIL DESIGN - Louis Vuitton 38th America’s Cup",
-      "snippet": "INSIDE THE AC75 – THE LATEST TRENDS IN FOIL DESIGN Louis Vuitton 38th America’s Cup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3oxWS03N24yZnktUnVyRFV6cnJXSmQwbm1aUEd2ck5KZ2VTZFVVcFFDSWdKMFhVRGZXQjAzNGhFZkQ3SVF2SzNkTmFSYXphVVo3LWpfR2Vadm9nWG1YMG9RODVSclNKVGtFcVZmWUZycEpNaTdsMWlxWWgzcXhESlFtS0xSMXRHMUFwMzRpWQ?oc=5",
-      "date": "2026-10-27T06:00:00.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "493492e876fa",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "SURF'S UP. International surfing competitors arrive on Siargao Island, Surigao del Norte, on Tuesday (Oct. 27, 2026), ahead of the World Surf League Championship set for Oct. 31 to Nov. 10. The athletes were welcomed by the Department of Tourism in the C - Facebook",
-      "snippet": "SURF'S UP. International surfing competitors arrive on Siargao Island, Surigao del Norte, on Tuesday (Oct. 27, 2026), ahead of the World Surf League Championsh…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDNfSS04OHR1bWRoa2dsWlp4UkRCSFdYLTNrRUQzRUViMjJqNzc3RFNMV3VtNUlRRTlkR2JtZkx2WXpHM25jZURHZldfLWdCM3Z3ME1iMHlIemFabTFxMlczYThmV0FrX1lKYW1IekRBRjI1TXREXzRIR2pZVV9fWkJlUGE4akw0TW1jWVFpbUFZYjNTNUN1VlNJOVFTam1fYU5melVQYTJ5STNuTnFFZy1MY2hxajk5ODVBVUpEbXk1ZEVQQUVfdTdWbHZXWHRkaHVsVw?oc=5",
-      "date": "2026-10-27T00:25:54.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "8dc3611458d7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Phl sports tourism rides Cloud 9’s giant waves - Daily Tribune",
-      "snippet": "Phl sports tourism rides Cloud 9’s giant waves Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3RPNnF6cThHZDdLNHAzRzZqZ2piVFIwNDhhaHRKMWg2WFhNS1dhWGtwbVZhQlNPdFRfR3ZOMnFIR2pWMnFkOUpmNjRiamc4b3NxT3hndGJ5d2VvUV9nZWxIT1NnaWdoSS1PcUQ3SVVaS2l6WmJCQkJhYWJKa1E3QjNzRmhZdw?oc=5",
-      "date": "2026-10-26T20:15:11.000Z",
       "tags": [
         "surf"
       ]
