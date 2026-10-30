@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:53:12.758Z",
+  "generated_at": "2026-10-30T22:17:20.538Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,56 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "e8e03f78ce63",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "These waves hit different‍",
+      "snippet": "Sunset waves hit different… The post These waves hit different‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/these-waves-hit-different/",
+      "date": "2026-10-30T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-110.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ef6947e3dffa",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The Eddie Aikau 2026/27 Invitees Announced: Who Made the Cut? - SURFER Magazine",
+      "snippet": "The Eddie Aikau 2026/27 Invitees Announced: Who Made the Cut? SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMnF4cW5mb0ZDUnFjTU05dGpBNkRObGgyaXdjMGUwalh0THBXdGRaSWNfWWpFMlVrYjBxb3c2NzJqMS0zSkhHZXd0TndRTmVPOG9yNmxJdjR2LTBjSEVZejJFWGh6QTZQUGlDSHlrTHRkQWR4LVE?oc=5",
+      "date": "2026-10-30T15:03:38.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2948cd34791f",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Epic STORM CHASE on the ISLE OF WIGHT!",
+      "snippet": "At home to welcome in the first storm of the season to the UK shores. Storm Austen, it was 50+ knots and a 3.5m Swell at 15secs. The post Epic STORM CHASE on t…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/epic-storm-chase-on-the-isle-of-wight/",
+      "date": "2026-10-30T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-109.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "42714d7ceb36",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "The Anam Mui Ne takes flight with wew windswept adrenaline experience - Great Travel Philippines",
+      "snippet": "The Anam Mui Ne takes flight with wew windswept adrenaline experience Great Travel Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnpCcnBPRVlQM2F4aXlkMzlFNnJheXJwRDhNOGp0bzBBLURKY0lTVjVqa240RTY2VDFWV2FGNjVPNzNfOXZQWThrRXZ4aWtqNWp5R3NUWlUxS1RkRE8zVDJmZVdyMy1oMElwSjJwVWgwa3Uyd1luYnNOWE1rd1NIV2UwaTBqY2pIQzdaNzJmTnRsVVozck1lLWtBV1BQVEsyUFJfd2ozN3ZORUM3MmNfT2Nodw?oc=5",
+      "date": "2026-10-30T13:01:23.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "48d18538ac17",
       "source": "google_surf",
@@ -21,13 +71,26 @@
       ]
     },
     {
+      "id": "267027b81e0e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Lewis Crathern takes the Woo World Record",
+      "snippet": "Lewis Crathern reached 42.6m (139.76 ft) at Bracklesham Bay last Friday becoming the world record holder. Loading… The post Lewis Crathern takes the Woo World…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/lewis-crathern-takes-the-woo-world-record/",
+      "date": "2026-10-30T12:00:16.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/869708085_1143942511303613_7585454741214449689_n.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "4f9d13539e5d",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition - Shop Eat Surf Outdoor",
       "snippet": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition Shop Eat Surf Outdoor",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUduRVlpOWxlYVNLdXprc2ZaVkxSWWJtdWl6S1ltTjUwV2xJZ1hGYUpYQ2ZNZ1pzUzhEWm1iYlNSUE01T3BPTWxNZnVDUk1KbDFPWmszd1F5WmxkeWRKZHQ4dllGNUlLWGxzTnB0eFVpRTB0aE05RlVvX2ZGMDg2cVctT3EtU2JuOTVSeVMxTEYwLUpEak5GdXpCSzdXSS1KdE1Cd2tGOWY0ajMzMFQ3UXZoOWVXcTRIc1dCcXpabHlmNE81bU1VdVN3?oc=5",
-      "date": "2026-10-30T09:47:21.000Z",
+      "date": "2026-10-30T10:00:47.000Z",
       "tags": [
         "surf"
       ]
@@ -76,7 +139,7 @@
       "title": "Siargao surf league debut tests PH readiness for global sports events - InsiderPH",
       "snippet": "Siargao surf league debut tests PH readiness for global sports events InsiderPH",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGZFS2VKMXdGaTdrZFExdzZySHp4QXU2MEpJVjdfN0dCNl9SWEdRMlFNT0ZWRkNaM0RmanEyaExDUFBZT2dZcjVUaFhTUDZWTk5VNUpNRVYxY2J4WHhSZFdydGlNTWxybTZmYWI2YUNERnlCOWlyOUlIeWg4WURwMENRSnhEdEduOFRjNllDcXVKeDJLUlE?oc=5",
-      "date": "2026-10-30T07:01:55.000Z",
+      "date": "2026-10-30T07:01:47.000Z",
       "tags": [
         "surf"
       ]
@@ -104,6 +167,18 @@
       "date": "2026-10-30T05:25:15.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "384ce65ad602",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Eddie Aikau Big Wave Invitational invitees announced - Hawaii News Now",
+      "snippet": "Eddie Aikau Big Wave Invitational invitees announced Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN19lTExQREp6RkhNQlMtLURqYm9qVGU4UmV1ZGhMZXhjTHNBcmxnTEtNWGhKeW1QQzh2a0pzenV2SWpLc1l6UW5kUHVyNVhQYXl1cHp2T09RckxxUzBQWjNlVndmSkJUTThUakhQRDlzcG9EbjRoOVJCNnhGTjl2dVBPU0prQl9lMGpVZnh4V1dCTEp3WTJyTTdn0gGuAUFVX3lxTE9QYW9URFVJZy1wYVRQMmpodUNkMk95Z05TNngwaHFBRTdKOUlQWlJXQVRGRXJFRGpOTFlvTHhteU96a1RVLThFR2NKSzA2OVhDTE9xVU02ZmdzVWE0VzlRbllmU3Q0M1NGVXdYZ3JSRHhSZWgzSnFzeXMxdC11enlFTkJ0Q0lLSThPczBoNDJDZExYc2NJazdDN2dTQ01kZWhTeFJjUEkyTmVQQnNDUQ?oc=5",
+      "date": "2026-10-30T00:40:00.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -141,18 +216,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-107.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "7bbe716e148a",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Philippine hosts surfing’s premier Championship Tour event - Philstar.com",
-      "snippet": "Philippine hosts surfing’s premier Championship Tour event Philstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMU01dWJiZXJJWHFSSDVrN2pDa2laY0x3bVZPeWdmZGlIV2thYWVzMmhBd2F4d3Z3SUdTQ1JoQ2pLZ2lzZnEta3hUVmRjQjAtWXR6ZGg5Zkg1RUJ4V1BkT3pmS1hUcTMzaDZFRFRtOTMwYnVkQTRPYWVlUjRHTGkwOUlxVVBQWmdlLVVXLVRPcGd1b2RrVW9xREJwUEN5MVFxQk54Y0pzZDFtOGRlYWhPamdOR05IMXVDNzFoTjJzT29ZWjjSAcoBQVVfeXFMTkQxbUFtbVI2cUNUZHBYZWV5djQ5WEctb0Z2WTdacmY4QUFEbTExVllidno1aFlYZXB5dXcyd1U2c0tLWmZmSW1lVm5IdTJGTjh4QVFRbk10V0lqZjk4WTNKM1hyWG5EaTlpbDhIaVRkRTBOU1pRd29LNlVJMFRyR1JyWUZEUlMzUlpDYnlXTUFYY1RuZVNLbDVHdzdlUThfeDAyMlBkS3o5ZmZlWkRrcldEY19KRVRHT3lWTlhUMndwVjItUHRHUHE5dw?oc=5",
-      "date": "2026-10-29T16:00:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -206,13 +269,25 @@
       ]
     },
     {
+      "id": "03e811ea5ef7",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt - Manila Bulletin",
+      "snippet": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlQMGZqSWVZb0p0NEpjU2hoTnhmYUc4dVVjSkRoZnU0N0tBc3hNNXJuS2UwYmdaVjZTdXJtdzNhTngyWjB5V0xiRnd2OUF3MFJrUnZxdW9oSEFoNVctd0NVXzM4Q2RhWDRHbEp2RWc3MEFVejNiOW4ybnFSSkJKUHZUVWFjdm5jbzZUdS1SSkpwT3I1dlpiUg?oc=5",
+      "date": "2026-10-29T09:40:02.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "96e53b7c8b9a",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part - https://safariindia.com/",
       "snippet": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part https://safariindia.com/",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NR3ZBVE1DbHBVbmRfdDhKNy1LZURodmJBUkJMYmRtdGdhS3VUN3Rtc3NlaG1HRE9pTll1Z21uanlFc1pJMHVaU0FGNnVRZUZUMXlqbkk1akoySXhsdHppMTA2X0thMXBnMXBpTjNvVUZjY1FSMGc?oc=5",
-      "date": "2026-10-29T09:17:12.000Z",
+      "date": "2026-10-29T09:06:11.000Z",
       "tags": [
         "kite"
       ]
@@ -231,6 +306,18 @@
       ]
     },
     {
+      "id": "e9adeb89d869",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfers chase glory on Causeway Coast - Belfast News Letter",
+      "snippet": "Surfers chase glory on Causeway Coast Belfast News Letter",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3BCeERleGQtWnhILTgzWlEtNjVGMmMxSzZjREZaSHJpbnRwSmhTR0ZsR1dPZFFBQ0tnNkdvd2h1WU9XMUpLVjlnQl9rNXVOVmRJOXBvT3BWS1I3UGUyN3FlSkNYNHFpOVhBeDMtdnpGZnVidm1sRXZUU3lOTlhhMWk4d0pvUXZsRXh0bU81UlFCZkwxMGl1bA?oc=5",
+      "date": "2026-10-29T07:56:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "1ed687de9cd9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -238,6 +325,18 @@
       "snippet": "Surfing: Michel Bourez, Dakar 2026 Role Model: \"Self-confidence has to be earned\" Olympic Channel",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnQ2eFYyMm5RN0JZdTVqSmxxRVg1WFdxMURoMnpEMjlCOGVTOHYxOFl4UzVLeHoyUVc3am5icGx2TF9xRnk5dG1pX2FVMVBIcVNEODJxY2xTcThYN2RydVNnZ1A4b2hFYWRSdS1jMHVETmo4Z1hGVzFXQW45U0dJaTJQQ0FIMHJpQ1cw?oc=5",
       "date": "2026-10-29T07:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2b3be6363cda",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship - Politiko.com.ph",
+      "snippet": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship Politiko.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVpmLTMtTFpOQ2M4WXhiWE1NY2J2dzhpQnp6OFlYWWwxUVVFYmIyY1JwTjl5bmp0cFdtdEVtcVhkV1NOMXdvTUI2VXA4WHlrSVVCRUdSSXQ3UnUta2FiY3lBSmZFNC0zWmMzUXFDTjlQVFRYMFY2c25RNzVGa3hQLW5TTnN3dlJWeDNFb0xoUTVJYl9laS1mU2pZLUZTMEJzaFQxTEZrOV9ITzJRdDM1RS1xZmxrQndWQll1aGlWZ1pDZw?oc=5",
+      "date": "2026-10-29T02:02:38.000Z",
       "tags": [
         "surf"
       ]
@@ -276,104 +375,6 @@
       "date": "2026-10-28T23:06:09.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "39a20fed6ebe",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "2 Boards, 1 Trip to Indo, and No Plans: How Zoe Grospiron Fell in Love With Surfing Again - SURFER Magazine",
-      "snippet": "2 Boards, 1 Trip to Indo, and No Plans: How Zoe Grospiron Fell in Love With Surfing Again SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGQwU1RHMTlqQkZZOHU4ZV9qYWdVWHk2TW5YYkR1OGx5R05LNnk1aUx1cW5UdWpNS1p0RW9sdXdfTjk0MlFXUG1CY3Z0OV9RSzBuU0Q4REtvNWRLMHp0ZUdySHlCWXdrWHhZSkFuX043ajJQSzA2eWplRk11S28wX1RORERPSFptbF9B?oc=5",
-      "date": "2026-10-28T22:39:08.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "7c66339fdfb5",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition - KRCG",
-      "snippet": "Lake of the Ozarks teen wins gold medals at international wakesurfing competition KRCG",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdC0xV21HOHJNbVlyODJmYjdLWnpqclo2aC1lNVNBaGlrSE5XbG1STlpaTUxxR041Wjl5eGdjWDYzWE96b3FoSWFYaGFaa1NJLV9hcy1Qajl3YVdwTHBtVFE1a3Z0TTBpdURESjR2TjJnUEpsRm04VFlDbTg1R00ySF8wc3oydk1SamtCNkVIMDdlRFpMSjNUTE1HSjFSZ19mUUtLZWpkQjN0RmM4LTJmdWJzN3k2RklxZjZr?oc=5",
-      "date": "2026-10-28T21:37:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9769231d9906",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Sexism has plagued surfing for generations. A rape allegation has led to a reckoning - The New York Times",
-      "snippet": "Sexism has plagued surfing for generations. A rape allegation has led to a reckoning The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGlZbWx4NmVKUDkzOVRxMTJ0SGpacTNMbjdGMERiVFFiUDlBazNhblRPMkhHQ0dFZ1ZrcTB5dm52ZDRiSzBrSW5HQWZ1RlR6dEdxUlpwWmczTXhLeDROREN6c2lrTUZCb29ZeFNGNnlXbEQwd20yTE1tRF9TSko2SDllTVJyRVRIQ3BESFpuSnQxTTA?oc=5",
-      "date": "2026-10-28T21:23:27.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "4b637d4a5a4c",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Jumping from a 50m dune",
-      "snippet": "This camera POV is insane! The post Jumping from a 50m dune first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/jumping-from-a-50m-dune/",
-      "date": "2026-10-28T18:30:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-103.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "60197a29c470",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump - Surfertoday",
-      "snippet": "Lewis Crathern breaks the kitesurfing world record with a 42.6-meter jump Surfertoday",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDd4RUJqRmtIUUQ0M2V5X2hZTHRmb3FkWUtUYkt6cUplQXpubU9xcUV3SVhnQ05jUlVnLXJZZHhoS1dibTJ1SW1PRjl3UngtQ3Q1b2Q3blZlUDV1ak5nWWRqM0ladkw1N1Nyc3BKRklqbVZjbFFOdFh6X01kSVdfRHFKRTBXcGF1VXRJNXBiTmFJLVlPVU1r?oc=5",
-      "date": "2026-10-28T15:59:55.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "566b7f333469",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Worthing kite surfer in record books after Bracklesham Bay jump - BBC",
-      "snippet": "Worthing kite surfer in record books after Bracklesham Bay jump BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xcW1FeG9uQlRSWXNQZUJDN0puTFRXT2xkUndkVkE1a1R5LVRfSmo2bEFsMS1MelYybURTYW9mN180aDdXdTNKTHl5RWQtQW1mbWdiWnctVHlPclU?oc=5",
-      "date": "2026-10-28T15:41:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "ec90f4714a27",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "POV: You Can Only Pack ONE Kite #shorts",
-      "snippet": "One kite for the trip… what might you pick? The post POV: You Can Only Pack ONE Kite #shorts first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/pov-you-can-only-pack-one-kite-shorts/",
-      "date": "2026-10-28T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-102.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "6085cadfd88b",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast - Drift Travel Magazine",
-      "snippet": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast Drift Travel Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xSS1MbXNXNU04QzNJRHhXZy1wb00wZXU2N0xyNVlEZk1lNXdCaW9OWGxxMGJOYVFnRVp1aXQ1dDhCM3gxR3EwNkpab0FXZUxIcUxHekR5YjNCcjVjRllGZWhDYjJHaUdUYkhtVFhGMjFZUnM4MzVLdFVn0gF_QVVfeXFMUHU4VlJMQ0R6bG9obUp5RHZNRXhaOGZvQUEwakRWRHhMV1Q4dk92R0JLaUVLUzBGUDF1dXB6MU9WUTRuMC04NHhjOWQzU21ZclROZ1p0Rk1WLXoxNm42VFpYeUU4b1hNdHNPdkRZODFNN3BlUFB4RFlyYWIwRFhiMA?oc=5",
-      "date": "2026-10-28T14:49:24.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
