@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:14:53.073Z",
+  "generated_at": "2026-10-30T12:05:16.479Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -429,7 +429,7 @@
       "location": null,
       "country": "JP",
       "url": "https://www.pwaworldtour.com/events/detail/2026-yokosuka-japan-world-cup-1/",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "id": "pwa-2026-shanghai-freestyle-foil-invitational",
