@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:44:35.875Z",
+  "generated_at": "2026-10-30T05:45:32.242Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "e09f4f4faf32",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "How Extreme Watersports Are Redefining the Modern Active Lifestyle | - https://creammagazine.com/",
+      "snippet": "How Extreme Watersports Are Redefining the Modern Active Lifestyle | https://creammagazine.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObE5LLVdWanpzVU9DcWZWM1MtSmxwWDlBdDFNTzFpVW1uV016MVdBc0k0dVNqZ1JScERTMmxOU1FnUmdKYXQ1NFhUdHZGZF9uajlFa0YyNzUzbnFSUnRWRmNpSW1vODA2ZTd6cWZkUWFtNDdsS1NBNlFUcW1oY2NIWFVfekFZenp0bkUyRmJyTW5VZlRYdEYzY2J2TmlFcEw2RUFSa09Qbw?oc=5",
+      "date": "2026-10-30T05:15:37.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "d851e5f02620",
       "source": "google_surf",
@@ -27,18 +39,18 @@
       "title": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition - World Surf League",
       "snippet": "Hurley Named Presenting Sponsor of WSL Haleʻiwa Pro Surf Competition World Surf League",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3U5bzZXOUtLRTZnTE1ndk43WnRyWGVCUnFqM25BU1dDMjJ1NGFpTHlGS2JKQWlDbF9lSHZIVFpTbGZNaUszOUlJa0I2bDlndDd4eDkwUldDMDBiNG01ZHJxMmd6WTVHUmtSUGhxLWNvU1NwYlloNklHQ28xS0Z6NmtQX0twSlFoQ2lxR1E4Q2xtXzRnZkRBbXU2a1paT1JLOHdvVWJjYTR4WUNJZmNjSEJSOA?oc=5",
-      "date": "2026-10-29T20:10:04.000Z",
+      "date": "2026-10-29T20:10:05.000Z",
       "tags": [
         "surf"
       ]
     },
     {
-      "id": "e6d0636b2d02",
+      "id": "634749bf3b6e",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica - Newswire",
-      "snippet": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlExZktONjg0T2E0cTJlYTlhZTE2NHhKQmdIMXd4dDYyeWFETExIczZ4dGU4Qzl4ZGtlNmJsQTFYXzNoQTc1OXE0b3FqZkxfcVlhczdCZ0hWeXFLZXhOOTRvc3dURF9YcEFoRnFra2xlY3E1akxDSl9YNFlIWVA5emcwN0JGLUZSVTRuVnJTbU9QUmh5eVFMN3pJMkI0UXZnMXVWc0htcmRiVFU?oc=5",
+      "title": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica - mykxlg.com",
+      "snippet": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeFR6aURGcmdMUm9fYUw4NFlUeXhNRmRYbVpxVGp1cmZ2bzhrQ0FvS0tjaENZQWYxSzlTNTlzNkFiRmp6VnU3aDZuOG9fZGROeTk3d3NCclZsaXpGa2o4U3R1LWJkeEg3SFFudko5bDd1Y1JoR2hUNFB6b0NxOUREbTFkYlN3Z1NiRVZXMGJDbmVMWU1reDBwcnJQYUpaQzI2ZUN1b1RBRDZXZ25wUzU4ZFU0VmJmbVpDS2xXRFBHMjFsdGNFaUJzMmVCRGhlSW0xYUNWbDFJRVFJSDgxMVVHajVvbnI2OUtBMjhDN2w1U1JNai1mYlJsUjAyQmNJdm9KVVE?oc=5",
       "date": "2026-10-29T19:00:00.000Z",
       "tags": [
         "surf"
@@ -140,18 +152,6 @@
       "snippet": "Surfers chase glory on Causeway Coast Belfast News Letter",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3BCeERleGQtWnhILTgzWlEtNjVGMmMxSzZjREZaSHJpbnRwSmhTR0ZsR1dPZFFBQ0tnNkdvd2h1WU9XMUpLVjlnQl9rNXVOVmRJOXBvT3BWS1I3UGUyN3FlSkNYNHFpOVhBeDMtdnpGZnVidm1sRXZUU3lOTlhhMWk4d0pvUXZsRXh0bU81UlFCZkwxMGl1bA?oc=5",
       "date": "2026-10-29T07:56:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "2b3be6363cda",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship - Politiko.com.ph",
-      "snippet": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship Politiko.com.ph",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVpmLTMtTFpOQ2M4WXhiWE1NY2J2dzhpQnp6OFlYWWwxUVVFYmIyY1JwTjl5bmp0cFdtdEVtcVhkV1NOMXdvTUI2VXA4WHlrSVVCRUdSSXQ3UnUta2FiY3lBSmZFNC0zWmMzUXFDTjlQVFRYMFY2c25RNzVGa3hQLW5TTnN3dlJWeDNFb0xoUTVJYl9laS1mU2pZLUZTMEJzaFQxTEZrOV9ITzJRdDM1RS1xZmxrQndWQll1aGlWZ1pDZw?oc=5",
-      "date": "2026-10-29T02:02:38.000Z",
       "tags": [
         "surf"
       ]
@@ -267,18 +267,6 @@
       ]
     },
     {
-      "id": "6085cadfd88b",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast - Drift Travel Magazine",
-      "snippet": "The Anam Mui Ne Introduces a New Kitesurfing Adventure Along Vietnam’s Coast Drift Travel Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xSS1MbXNXNU04QzNJRHhXZy1wb00wZXU2N0xyNVlEZk1lNXdCaW9OWGxxMGJOYVFnRVp1aXQ1dDhCM3gxR3EwNkpab0FXZUxIcUxHekR5YjNCcjVjRllGZWhDYjJHaUdUYkhtVFhGMjFZUnM4MzVLdFVn0gF_QVVfeXFMUHU4VlJMQ0R6bG9obUp5RHZNRXhaOGZvQUEwakRWRHhMV1Q4dk92R0JLaUVLUzBGUDF1dXB6MU9WUTRuMC04NHhjOWQzU21ZclROZ1p0Rk1WLXoxNm42VFpYeUU4b1hNdHNPdkRZODFNN3BlUFB4RFlyYWIwRFhiMA?oc=5",
-      "date": "2026-10-28T14:49:24.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "1d8c468d1305",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -377,6 +365,18 @@
       "date": "2026-10-27T22:58:47.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "44e53970ee32",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kite surfer's Sussex jump becomes the highest ever recorded in world history - The Argus",
+      "snippet": "Kite surfer's Sussex jump becomes the highest ever recorded in world history The Argus",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlExVmE5WXNfTVd3SDJpR2tZZWJmc2pnMkszUnBBYkZyRDZuQWJIZTkybTlCRTAtdFk4bkxFckE3UTJjRlVHQXFkdjBkQUdTVEFRaEdPcXdIZFZzT1lGZ1pEemFpOWt0UWVWMGFVWFB3TWx5T2VTa2VLRXRyaFg1dkJBWG5SeDB3Ym5QbVJGMmtEX0lSeFZiY09IUko?oc=5",
+      "date": "2026-10-27T20:00:00.000Z",
+      "tags": [
+        "kite"
       ]
     }
   ]
