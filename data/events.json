@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:05:16.479Z",
+  "generated_at": "2026-10-31T11:38:50.634Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -393,7 +393,7 @@
       "location": null,
       "country": "US",
       "url": "https://www.pwaworldtour.com/events/detail/2026-aloha-classic-maui/",
-      "status": "live"
+      "status": "past"
     },
     {
       "id": "pwa-2026-miami-florida-youth-slalom",
