@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:38:13.913Z",
+  "generated_at": "2026-10-31T12:25:40.491Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,44 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "5e48bcc5c93c",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Inaugural X-15 Wingfoil World Championships - Preview - Sail-World.com",
+      "snippet": "Inaugural X-15 Wingfoil World Championships - Preview Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWdFT1V4aENBdnRnTzhNcUEtbEZxZHA4eVlEUVcwWEpoNWYyZUlOeExHc1pxNjY1OGdjcmlVTVhBOHkwUDVSWXN2LTNnUmxOSDZLbHQybWQxaUlUWFdUZi1palZ0RWJxNUZTc0NfQ2hfWlBrV29sY0wwdkJrNTdxS1B5Zw?oc=5",
+      "date": "2026-10-31T10:42:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "fa9bfc5acd30",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Evo D/LAB Tech Talk",
+      "snippet": "The new Evo D/LAB is the highest-performance version of Duotone’s most versatile kite, and an industry benchmark for all-round performance. Its three-strut des…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/evo-d-lab-tech-talk/",
+      "date": "2026-10-31T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-111.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "cc83b8444409",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WARMING UP FOR WITTERING! THE LOCALS MEAN BUSINESS!",
+      "snippet": "WARMING UP FOR WITTERING! THE LOCALS MEAN BUSINESS! WARMING UP FOR WITTERING! THE LOCALS MEAN BUSINESS! With the 2XS West Wittering Wave Classic just around th…",
+      "url": "https://www.windsurf.co.uk/warming-up-for-wittering-the-locals-mean-business/",
+      "date": "2026-10-31T06:41:06.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/D2A3676-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "030eabd29fe8",
       "source": "google_surf",
@@ -145,18 +183,6 @@
       ]
     },
     {
-      "id": "476f9500d436",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "WSL PH Pro kicks off Saturday in Siargao - Manila Bulletin",
-      "snippet": "WSL PH Pro kicks off Saturday in Siargao Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMmozR3NhLUl3cVk0WHFaNlJodS1wTEdzcEpzVUxEWU5fUHlUY3VYQS0zbFdMaEo0X2ZhY1hlWlhxS1NBR2NPbjNaRmdHSlppV0FZb3lLVmJIdkJ6Z1pjam9VdDdCRkZpMGJfUDZZaHZmYTNXSUE?oc=5",
-      "date": "2026-10-30T08:55:32.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "265af62274c0",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -164,18 +190,6 @@
       "snippet": "WATCH: Philippine Sports Commission Chairman Patrick Gregorio says it’s sports tourism that made it possible for the World Surf League to conduct the Philippin…",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTdtQ1FiLWU1QjVVSXZISmJMYXdxYTJxdjN1TTkydzliOVU3WDNxeUt6aFlPYUUyRktuNmU2TmdHREhnR19sYjFXd3Q3amZlZkVMaUdDYnZyY01yRFo3eGtZbU1Fc1JjRUtoNU1iWTg0bWpCaDF0aHFoSDg2M3dGX1haOFhhQ3B5aVFyci1vM3g4WldvV1l6bXRISFpqMjdJVmQxUkRGOTAySHNKZzFycTdiSGZzUFpia1ZSTFV5MlFwZWk4RHlKTjlmbzRQVE1uMW5LbXJmTzVmeGM?oc=5",
       "date": "2026-10-30T07:07:02.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "711baeabdd62",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Siargao surf league debut tests PH readiness for global sports events - InsiderPH",
-      "snippet": "Siargao surf league debut tests PH readiness for global sports events InsiderPH",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGZFS2VKMXdGaTdrZFExdzZySHp4QXU2MEpJVjdfN0dCNl9SWEdRMlFNT0ZWRkNaM0RmanEyaExDUFBZT2dZcjVUaFhTUDZWTk5VNUpNRVYxY2J4WHhSZFdydGlNTWxybTZmYWI2YUNERnlCOWlyOUlIeWg4WURwMENRSnhEdEduOFRjNllDcXVKeDJLUlE?oc=5",
-      "date": "2026-10-30T07:01:47.000Z",
       "tags": [
         "surf"
       ]
@@ -242,18 +256,6 @@
       ]
     },
     {
-      "id": "e6d0636b2d02",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica - Newswire",
-      "snippet": "Aqua Surf School to Host Kids' Halloween Surf Contest in Santa Monica Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlExZktONjg0T2E0cTJlYTlhZTE2NHhKQmdIMXd4dDYyeWFETExIczZ4dGU4Qzl4ZGtlNmJsQTFYXzNoQTc1OXE0b3FqZkxfcVlhczdCZ0hWeXFLZXhOOTRvc3dURF9YcEFoRnFra2xlY3E1akxDSl9YNFlIWVA5emcwN0JGLUZSVTRuVnJTbU9QUmh5eVFMN3pJMkI0UXZnMXVWc0htcmRiVFU?oc=5",
-      "date": "2026-10-29T19:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "4e4beb721eca",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -280,6 +282,18 @@
       ]
     },
     {
+      "id": "530a60a6ea06",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach - Observer Local News",
+      "snippet": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach Observer Local News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkhmeldZbl9MV0VnYjNFaGIzSTQxYVFKUXJHOHVFWWd6SFFYcDcySXlTTHctOFpJZ0F2aV9NZVozVFZTNWVqVDNnTDZMYmpoaGJSeDIxRGFqaGttbE5XbjA4WXRua0ZVOE04bWNPemFCR09JeWI1NVpyYjIwVWxJUnFpZmdsR2ZTWVA5WEhFblo3dGVHd3lhVVUzT0VVN3pSdFRNcC1sNGZ6X2IzYUN3eFFBNHZxckRQekk4OHFpa1gzX1ExXzRMVTZMSWJmcWM?oc=5",
+      "date": "2026-10-29T14:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "37f00bad660b",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -290,18 +304,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-105.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "03e811ea5ef7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt - Manila Bulletin",
-      "snippet": "Tokong leads 3-strong PH charge in historic Siargao surfing tilt Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlQMGZqSWVZb0p0NEpjU2hoTnhmYUc4dVVjSkRoZnU0N0tBc3hNNXJuS2UwYmdaVjZTdXJtdzNhTngyWjB5V0xiRnd2OUF3MFJrUnZxdW9oSEFoNVctd0NVXzM4Q2RhWDRHbEp2RWc3MEFVejNiOW4ybnFSSkJKUHZUVWFjdm5jbzZUdS1SSkpwT3I1dlpiUg?oc=5",
-      "date": "2026-10-29T09:40:02.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -318,18 +320,6 @@
       ]
     },
     {
-      "id": "e9adeb89d869",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfers chase glory on Causeway Coast - Belfast News Letter",
-      "snippet": "Surfers chase glory on Causeway Coast Belfast News Letter",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3BCeERleGQtWnhILTgzWlEtNjVGMmMxSzZjREZaSHJpbnRwSmhTR0ZsR1dPZFFBQ0tnNkdvd2h1WU9XMUpLVjlnQl9rNXVOVmRJOXBvT3BWS1I3UGUyN3FlSkNYNHFpOVhBeDMtdnpGZnVidm1sRXZUU3lOTlhhMWk4d0pvUXZsRXh0bU81UlFCZkwxMGl1bA?oc=5",
-      "date": "2026-10-29T07:56:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "1ed687de9cd9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -342,15 +332,16 @@
       ]
     },
     {
-      "id": "2b3be6363cda",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship - Politiko.com.ph",
-      "snippet": "Making waves! Vinny Marcos helps bring world's surfing elite to Siargao for historic WSL championship Politiko.com.ph",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVpmLTMtTFpOQ2M4WXhiWE1NY2J2dzhpQnp6OFlYWWwxUVVFYmIyY1JwTjl5bmp0cFdtdEVtcVhkV1NOMXdvTUI2VXA4WHlrSVVCRUdSSXQ3UnUta2FiY3lBSmZFNC0zWmMzUXFDTjlQVFRYMFY2c25RNzVGa3hQLW5TTnN3dlJWeDNFb0xoUTVJYl9laS1mU2pZLUZTMEJzaFQxTEZrOV9ITzJRdDM1RS1xZmxrQndWQll1aGlWZ1pDZw?oc=5",
-      "date": "2026-10-29T02:02:38.000Z",
+      "id": "37077f691265",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026",
+      "snippet": "IT'S ON!...2XS WAVE CLASSIC: WEST WITTERING 2026 IT’S ON!…2XS WAVE CLASSIC: WEST WITTERING 2026 The 2XS Wave Classic -presented by Windsurfer Magazine at West…",
+      "url": "https://www.windsurf.co.uk/its-on-2xs-wave-classic-west-wittering-2026/",
+      "date": "2026-10-29T05:30:23.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/L5A0711-800x600.jpg",
       "tags": [
-        "surf"
+        "wind"
       ]
     },
     {
@@ -373,6 +364,18 @@
       "snippet": "French Polynesia Opens Investigation Into Alleged Sexual Assault Following Tahiti Pro STAB",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjZfdWVQeHp1cWxvUFFHOGhJRkVLQS1JdEY0Q0NiVmJRcjZ0OUw0ZnUwSjloSTZTWlhubWZQYWhQa21ZM05OT2U4RWZMaDBFWnNzdGVIeER1MkJ3WGhvMlhLRTMyQ1pZMmJDbjlGelFYdWVfQ1VXVEdxX2ljNHltQWd1aWRHX2VKZWVpOGZlN2xJc1p1czNnRHJHWjlBa19Nd25tclpTWWRaVS1VWnhSTGlLTk9DTm8?oc=5",
       "date": "2026-10-28T23:12:12.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2905586c8fa3",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "What Surfing Can Learn From Scandinavia’s Women - SURFER Magazine",
+      "snippet": "What Surfing Can Learn From Scandinavia’s Women SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieTRGSlIxM0tjenhOVlRTNjQzNHZMeHFOX0ZrdjAzQlBqLVlKQ2Q4WFRYTEtjaEx5SDhVM0oyY0dzckpOQUZ3OWN4QjdvdkNPRzN1Um5CSVJIZmhGRlRtelRDcGo3VmJ4RjRFMXVmMXlnUTF5MDlZdENMU1pLQzQ?oc=5",
+      "date": "2026-10-28T23:06:09.000Z",
       "tags": [
         "surf"
       ]
