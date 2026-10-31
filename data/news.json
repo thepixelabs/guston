@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:17:20.538Z",
+  "generated_at": "2026-10-31T05:38:13.913Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,42 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "030eabd29fe8",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Waves Ignite Day 3 of competition at Omaezaki Long Beach - World Surf League",
+      "snippet": "Waves Ignite Day 3 of competition at Omaezaki Long Beach World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0tuODhBaGtBQ0dNNmhZMmJYMjN1eHlFVG1xM1Y4U3VYeFZIOVd1WGgxUzM5eHVMeTN4LTY2V0F6TFoxaHpXSXh0eGVYSGJDWlY4dHhWVlI0dWxpT2tJdHF1YXpVTnN4UUtSMHFnTF9wNm9Cc3I2RW9XWjQzc2lmbXdkVHczSXl0RWFjemptZzZXSFQzMkZtRW9jazFqMXM?oc=5",
+      "date": "2026-10-30T23:15:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ad363815f85c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Picklum Leads Australian Charge as World Surf League Makes Historic Philippines Debut - Sportzhub",
+      "snippet": "Picklum Leads Australian Charge as World Surf League Makes Historic Philippines Debut Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXQ5X1VGOUJSOVF4djRCQTZzLXAzZGxKbWUxb3hNQVpxUnNYTUU2U2ZrZzNfdmpPZS15Zml5SDlrT3RxWEZ3dnRDZ3ZYbTJYLV9QMFVkLWsyZ0NPbE9ocjZ0cjl3dzdjUGJZbExWTnJfOWllOUZPVnlDNFhvWUl1MzB4MTh3NS0xYTJyOUlyZHV4Rk90Ylg1V09GbnNZZ2hTYnV4R2o1d050OUlsU2ZzNlE1T2xxQ1MzNXRzdnpWTDBlZw?oc=5",
+      "date": "2026-10-30T23:09:30.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "0daedc77572d",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Pro Juniors Shine on Day 2 of whitebuffalo Omaezaki Pro - World Surf League",
+      "snippet": "Pro Juniors Shine on Day 2 of whitebuffalo Omaezaki Pro World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTFyUkJDQ1lkNklZUGVMUFU0ck9rbGpIeDlMSzlkaEVUcTk5bXE5a1U0YjBsdnY1bTJOQ3BOanVWdEFzcGhobU9TLU5mZmdualV1U0RETXVBaHU2MFhneWxsQ1pvZEx6aHFGU3dKSG80Ri1Ka2ZJS1JYMWE5NEVlUlJPc3FqV21sbHVPaDlBYTdPZF9KVFFPdmp0ejlEUWJhVXc?oc=5",
+      "date": "2026-10-30T21:51:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "e8e03f78ce63",
       "source": "iksurfmag",
@@ -170,6 +206,18 @@
       ]
     },
     {
+      "id": "fe7e7ee355ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "'I'm so happy' | Encinitas native Jett Maughan proud to win 2026 ISA World Junior Surfing Championship - cbs8.com",
+      "snippet": "'I'm so happy' | Encinitas native Jett Maughan proud to win 2026 ISA World Junior Surfing Championship cbs8.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQX1dLNlltc3EwUlZvSGpWWVdScS1YVlJRMWdGc3RScGw0cVZxTS1fSlNQMkl0UHpXZmJpZE1pWWc2dm9KVWNtdE9KR09ReEZlNDh4T3lUOGY4cDNOSUJVeHlMVVozLVBLbWk2QjZkN18ydTduTkhRQVhHai1zR3dJNkdZeGpJTDJMeWhlMEdjSkVwWnI3NkltUnk5NkE0MVRzRlVMTHo5aHlwVTZQOWQ2Wk5MdkRvVXdKU21VRlBEQk50bmkyaG9xcjFGUDFnS2pqekgzNElmZ3ZZUTlNcEFzWno0U3JiVFlsR3pGUlBNZw?oc=5",
+      "date": "2026-10-30T02:10:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "384ce65ad602",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -232,18 +280,6 @@
       ]
     },
     {
-      "id": "530a60a6ea06",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach - Observer Local News",
-      "snippet": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach Observer Local News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkhmeldZbl9MV0VnYjNFaGIzSTQxYVFKUXJHOHVFWWd6SFFYcDcySXlTTHctOFpJZ0F2aV9NZVozVFZTNWVqVDNnTDZMYmpoaGJSeDIxRGFqaGttbE5XbjA4WXRua0ZVOE04bWNPemFCR09JeWI1NVpyYjIwVWxJUnFpZmdsR2ZTWVA5WEhFblo3dGVHd3lhVVUzT0VVN3pSdFRNcC1sNGZ6X2IzYUN3eFFBNHZxckRQekk4OHFpa1gzX1ExXzRMVTZMSWJmcWM?oc=5",
-      "date": "2026-10-29T14:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "37f00bad660b",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -257,18 +293,6 @@
       ]
     },
     {
-      "id": "71d44b351045",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Score the Wave of Your Life at a Pool? Yup, There’s Now a Contest for That - WavePoolMag",
-      "snippet": "Score the Wave of Your Life at a Pool? Yup, There’s Now a Contest for That WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ldHdhdndfSE16NWVDVTIwXzhINzBaWEtlemhmQ2dvUnF0MzZvaUdCTHFYelJfaVhVaU5NUlFSRE5NTVJKYXJUd21TQnZKMUozZUFBNkFmS0o3UTRRMUdaRkhSdnBNUQ?oc=5",
-      "date": "2026-10-29T11:03:50.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "03e811ea5ef7",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -278,18 +302,6 @@
       "date": "2026-10-29T09:40:02.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "96e53b7c8b9a",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part - https://safariindia.com/",
-      "snippet": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part https://safariindia.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NR3ZBVE1DbHBVbmRfdDhKNy1LZURodmJBUkJMYmRtdGdhS3VUN3Rtc3NlaG1HRE9pTll1Z21uanlFc1pJMHVaU0FGNnVRZUZUMXlqbkk1akoySXhsdHppMTA2X0thMXBnMXBpTjNvVUZjY1FSMGc?oc=5",
-      "date": "2026-10-29T09:06:11.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -361,18 +373,6 @@
       "snippet": "French Polynesia Opens Investigation Into Alleged Sexual Assault Following Tahiti Pro STAB",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjZfdWVQeHp1cWxvUFFHOGhJRkVLQS1JdEY0Q0NiVmJRcjZ0OUw0ZnUwSjloSTZTWlhubWZQYWhQa21ZM05OT2U4RWZMaDBFWnNzdGVIeER1MkJ3WGhvMlhLRTMyQ1pZMmJDbjlGelFYdWVfQ1VXVEdxX2ljNHltQWd1aWRHX2VKZWVpOGZlN2xJc1p1czNnRHJHWjlBa19Nd25tclpTWWRaVS1VWnhSTGlLTk9DTm8?oc=5",
       "date": "2026-10-28T23:12:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "2905586c8fa3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "What Surfing Can Learn From Scandinavia’s Women - SURFER Magazine",
-      "snippet": "What Surfing Can Learn From Scandinavia’s Women SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieTRGSlIxM0tjenhOVlRTNjQzNHZMeHFOX0ZrdjAzQlBqLVlKQ2Q4WFRYTEtjaEx5SDhVM0oyY0dzckpOQUZ3OWN4QjdvdkNPRzN1Um5CSVJIZmhGRlRtelRDcGo3VmJ4RjRFMXVmMXlnUTF5MDlZdENMU1pLQzQ?oc=5",
-      "date": "2026-10-28T23:06:09.000Z",
       "tags": [
         "surf"
       ]
