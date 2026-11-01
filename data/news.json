@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:00:00.263Z",
+  "generated_at": "2026-11-01T13:20:42.931Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,25 +9,88 @@
   },
   "items": [
     {
-      "id": "e90db52b9c0d",
+      "id": "668c0b8f021c",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Dune jump in brazil",
+      "snippet": "Jumping from the Dunes in Brazil, this is epic! The post Dune jump in brazil first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/dune-jump-in-brazil/",
+      "date": "2026-11-01T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-1.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "926a6b7ced0a",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "15-year-old La Union pride earns admiration of World No. 1 surfer - Manila Bulletin",
-      "snippet": "15-year-old La Union pride earns admiration of World No. 1 surfer Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVhCX2MtN1pRMnhWUXhlTzBMdnlBTWFJNHRIX3UwdGNPQ3FBWUE5Qi1ia282ZUZJc2c4bF9POS1ZNzBOVkFKY1R4dFBzeU96MG9hZHdiV1RIQzI5MGNOUTk2VFBZOGFpTDNNZUg2cl9zRlIycUZZVFk4Z1NUclYtd05LMXdnMUk5d1pGSy1KRTBFaU80R0xhbQ?oc=5",
-      "date": "2026-11-01T02:57:58.000Z",
+      "title": "Cloud 9's own aces seized the moment. John Mark \"Marama\" Tokong and Jayuard Alciso turned wildcard tickets into statement wins on Sunday, defending Philippine turf against foreign invasion on Day 2 of the World Surf League Championship Tour Philippin - Facebook",
+      "snippet": "Cloud 9's own aces seized the moment. John Mark \"Marama\" Tokong and Jayuard Alciso turned wildcard tickets into statement wins on Sunday, defending Philippine…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeko4ZFZfV0RqeVQ3SmtFZ05XMjdxTTBaT19rVlRxY1NLMHBxX0Q3eFRlaHQyMlVxdC1yMFJvZTFlajNyN19xZUlEVnFYaDBPbmdORW5tYkFGdGRHTGRQMTE5QjdDclBoT3MyNWhKdkJvUUlxRjJtZWg0OGJfaTVheXVHak92dHNEMl8tNXZGcGR6MDIybDlIem81ZllyQTFYNllHNWJCU1FsbDFLeVZGSWNNNjJORVpqb0dPLVZlOEdEMWE1a3dIN1FpU3JtSGJrN0VRREVONnhDYnU4?oc=5",
+      "date": "2026-11-01T10:06:29.000Z",
       "tags": [
         "surf"
       ]
     },
     {
-      "id": "1311cbcaf1f2",
+      "id": "06d1a35391c8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kiting in Egypt’s blue waters",
+      "snippet": "Crystal clear blue waters in Egypt. What a dream. The post Kiting in Egypt’s blue waters first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kiting-in-egypts-blue-waters/",
+      "date": "2026-11-01T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6ad57b0367ca",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Namyangju City Council Holds First Chairperson's Cup Indoor Surfing Competition; About 90 Athletes Participate - 아시아경제",
-      "snippet": "Namyangju City Council Holds First Chairperson's Cup Indoor Surfing Competition; About 90 Athletes Participate 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bEhQQU9XbmxBYndiZ05lUE9nUjB0amRrYnRhemI4U05SVHdpUmoySV82c0VIV1Rld01EeVNSakNsT29DZmV0R0Z2dlFTWjl1MHpfa1NLMGEtWm1xalpOZzFhV1VKbnl3bm4zdHF0aWtEQ1duWW00dA?oc=5",
-      "date": "2026-11-01T02:56:52.000Z",
+      "title": "Filipino wildcard Jayuard Alciso beats reigning Olympic gold medalist Kauli Vaast of French Polynesia in the World Surf League (WSL) Championship Tour in Siargao. | via Nelson Beltran - Facebook",
+      "snippet": "Filipino wildcard Jayuard Alciso beats reigning Olympic gold medalist Kauli Vaast of French Polynesia in the World Surf League (WSL) Championship Tour in Siarg…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1I2SDJ4VzViZDN1UmYwX1FYOTdHTU9xMEJxZDFTX1ZwYXlZTXF5TjUycXlwVW9nbFZQU2NGb251WWZNa1VacXFscmFNcU1fUWU1a0tkRXRNV3lMeTkwV1ZUby1wd0g0Q252OVF2eXlLbFVJX0lUaTNOWlFKZUZDbTBsaE5nQmxMXzFoY1E5NU84a2twcXJCNFJNVmZTZTVUeUNZSEp4eG1BMDFCbkpOSHJGbnNmWVVibkZrbjI2SXZaaDVNMnpIc1RnNUJKOEpBX0RKYmxJdW1FVFds?oc=5",
+      "date": "2026-11-01T08:30:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3f7162001722",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION",
+      "snippet": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION If you missed the live stream from finals day at the Tiree Wave Class…",
+      "url": "https://www.windsurf.co.uk/tiree-wave-classic-insane-finals-day-action/",
+      "date": "2026-11-01T07:45:42.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/tiree-wave-classic-insane-finals-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "53ddd18dfd29",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Local bet John Mark “Marama” Tokong beats Brazil’s Samuel Pupo, 16.60-11.00, in the opening round of the World Surf League Championship Tour Philippines Pro at Cloud 9 in Siargao Island on Sunday (Nov. 1, 2026). He said hearing his family and support - Facebook",
+      "snippet": "Local bet John Mark “Marama” Tokong beats Brazil’s Samuel Pupo, 16.60-11.00, in the opening round of the World Surf League Championship Tour Philippines Pro at…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEUzUlI5ekxybnowNFNfU1U5ME1aazdaZ0RCbEIzRE43RXZVMVc5RjVhY3phYldCLWNuLUZtWW9pVFc2cGJlbl9HX1g3OXhqTDVJTEsweVUtRHJRb0JpOWV5LTdVYzUzT20wQ2FjUk82VzNHb01aakdIMHY1Q0EybE1OMngzYXN2bjRnQXI2VS05SDhhT1RLSDBBUFhjNUFPMk12Uk1fUnA1ZFNmVGRvWkxWc2toUnpZUElhVFhKaDk2a2pOLTc1VllURWtUUW9rQW1ZTQ?oc=5",
+      "date": "2026-11-01T07:32:53.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "f3315b9419ea",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Competition Called ON at Philippines Pro Presented by the Philippine Sports Commission - Surf News Network",
+      "snippet": "Competition Called ON at Philippines Pro Presented by the Philippine Sports Commission Surf News Network",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0F4eGxwbktYQkhHTFBRVElYVXd0OUh3SXZIUGk4OHFucC1qNlVMRjFzbzk1TmtrYzM0cG9wVnI0YXJYazdFVVgyb25iWENObHVRLWRlMm9nUkhodlQ5NjdkdXFyVWEzZ1daeTJIcGYzX3FNejlqYThPMDNEcjNucXB6WW4tYWcxRnYxNFBlMmMxVlp2YTJCazBESS1OU0pNT01MSVdzWGxJNkVKMGNPUGJPdw?oc=5",
+      "date": "2026-11-01T05:48:45.000Z",
       "tags": [
         "surf"
       ]
@@ -39,7 +102,7 @@
       "title": "Hopkins scores huge WSL upset - Daily Tribune",
       "snippet": "Hopkins scores huge WSL upset Daily Tribune",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55U0RKSjh2MnlmX01KNlBtWU1yaThsakNrVUxBU0ZHeG1ScGJzNlptMC01cDBqLVJKVWd2NDFpTWR3eEt5ZmlTM1BXVkRaZS1UWlg4c2pNLXRnaEpPMURmcGdwa2RPeXBFdEhSUFpkTHI?oc=5",
-      "date": "2026-10-31T21:07:36.000Z",
+      "date": "2026-10-31T23:54:22.000Z",
       "tags": [
         "surf"
       ]
@@ -158,18 +221,6 @@
       ]
     },
     {
-      "id": "f3315b9419ea",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Short Day of Competition Opens Proceedings at Inaugural Philippines Pro Presented by the Philippine Sports Commission - Surf News Network",
-      "snippet": "Short Day of Competition Opens Proceedings at Inaugural Philippines Pro Presented by the Philippine Sports Commission Surf News Network",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0F4eGxwbktYQkhHTFBRVElYVXd0OUh3SXZIUGk4OHFucC1qNlVMRjFzbzk1TmtrYzM0cG9wVnI0YXJYazdFVVgyb25iWENObHVRLWRlMm9nUkhodlQ5NjdkdXFyVWEzZ1daeTJIcGYzX3FNejlqYThPMDNEcjNucXB6WW4tYWcxRnYxNFBlMmMxVlp2YTJCazBESS1OU0pNT01MSVdzWGxJNkVKMGNPUGJPdw?oc=5",
-      "date": "2026-10-31T01:43:55.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "030eabd29fe8",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -204,18 +255,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-110.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "f3da96877a96",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Siargao makes history as World Surf League Championship Tour hits the waves in Cloud 9 - BusinessMirror",
-      "snippet": "Siargao makes history as World Surf League Championship Tour hits the waves in Cloud 9 BusinessMirror",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON251NVVPUHlLWjR4aE5CRkt6Z3VycUpaazVZVGFJOFhhbTVyekdISlYtZ0RpWjFxZmhWYVNBYTZ4bHpBS3V2ZkpMMDFlbGxLZ1JRU0RBVlp2UlUxcFpFLVF4WU5rcjhWRnBhVFU5LXowaExMdm1tSmV2UXB2MF9QTnBpeDBhc3RIVldjQkNfa0N0NDh3ZkUxRUJpUjNTU1N5dEIxRHRWcmNsT2E0dy15ZHlHVFJXTW1Ld1lxT1dpalIxSFo1eFhz?oc=5",
-      "date": "2026-10-30T16:01:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -294,30 +333,6 @@
       ]
     },
     {
-      "id": "476f9500d436",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "WSL PH Pro kicks off Saturday in Siargao - Manila Bulletin",
-      "snippet": "WSL PH Pro kicks off Saturday in Siargao Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMmozR3NhLUl3cVk0WHFaNlJodS1wTEdzcEpzVUxEWU5fUHlUY3VYQS0zbFdMaEo0X2ZhY1hlWlhxS1NBR2NPbjNaRmdHSlppV0FZb3lLVmJIdkJ6Z1pjam9VdDdCRkZpMGJfUDZZaHZmYTNXSUE?oc=5",
-      "date": "2026-10-30T08:55:32.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "711baeabdd62",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Siargao surf league debut tests PH readiness for global sports events - InsiderPH",
-      "snippet": "Siargao surf league debut tests PH readiness for global sports events InsiderPH",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGZFS2VKMXdGaTdrZFExdzZySHp4QXU2MEpJVjdfN0dCNl9SWEdRMlFNT0ZWRkNaM0RmanEyaExDUFBZT2dZcjVUaFhTUDZWTk5VNUpNRVYxY2J4WHhSZFdydGlNTWxybTZmYWI2YUNERnlCOWlyOUlIeWg4WURwMENRSnhEdEduOFRjNllDcXVKeDJLUlE?oc=5",
-      "date": "2026-10-30T07:01:47.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "e5446304ffbc",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -343,41 +358,27 @@
       ]
     },
     {
-      "id": "d851e5f02620",
+      "id": "96e53b7c8b9a",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part - safariindia.com",
+      "snippet": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part safariindia.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NR3ZBVE1DbHBVbmRfdDhKNy1LZURodmJBUkJMYmRtdGdhS3VUN3Rtc3NlaG1HRE9pTll1Z21uanlFc1pJMHVaU0FGNnVRZUZUMXlqbkk1akoySXhsdHppMTA2X0thMXBnMXBpTjNvVUZjY1FSMGc?oc=5",
+      "date": "2026-10-29T22:52:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "5f95685b6a15",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Summer Romero Returned to Competitive Surfing, But Don’t Call It a Comeback - The Inertia",
-      "snippet": "Summer Romero Returned to Competitive Surfing, But Don’t Call It a Comeback The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzZ3TFBZN3B1QnU1VjZ0SDBxeVI5aHdfUFJwMTBKQzdQQU1jWEhmQ01FbzNNSG5VRE5iZnVzQ3FHck9Ic1Q1WnBSSjh0VGpCM3ZaSmkxOGxiRWw4WndTWmpmS2UzQXczdVVISnM3YWViRUZRT3Z6TEZUZ3Y5X0NzTGp6SQ?oc=5",
-      "date": "2026-10-29T20:41:16.000Z",
+      "title": "Tamarindo Celebrates Halloween Weekend With Costume Surfing, Parades and Beach Parties - The Tico Times",
+      "snippet": "Tamarindo Celebrates Halloween Weekend With Costume Surfing, Parades and Beach Parties The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95UXQ2ZTlLN1lvclVCYWtqaDJKSm04WVo5ZnluM0NtWUkyZ3lnWF9PcnV5OWVtZ1VGSWlYY1J0dDIwbDhqcDZVdnNKaTJfN0hNMkpKNzRGeUxoT2J6RW5sbklRVTROZDRhRmcwR2dGbVZGdnUyYUZNZVUxRWg?oc=5",
+      "date": "2026-10-29T22:30:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "4e4beb721eca",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Repair a Wetsuit Tear with Glue: Easy DIY Fix for Small Rips and Cuts (Step-by-Step)",
-      "snippet": "Got a small tear or rip in your wetsuit? In this step-by-step tutorial, you’ll learn how to repair a wetsuit with glue, so you can fix small cuts quickly, exte…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/how-to-repair-a-wetsuit-tear-with-glue-easy-diy-fix-for-small-rips-and-cuts-step-by-step/",
-      "date": "2026-10-29T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-107.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a2bf145ee0e0",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "WORLD TITLE NUMBER 5",
-      "snippet": "Number one in the world, not once… not twice… but five times! The post WORLD TITLE NUMBER 5 first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-title-number-5/",
-      "date": "2026-10-29T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-106.jpg",
-      "tags": [
-        "kite"
       ]
     }
   ]
