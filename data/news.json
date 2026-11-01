@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:31:29.365Z",
+  "generated_at": "2026-11-01T06:00:00.263Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,30 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "e90db52b9c0d",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "15-year-old La Union pride earns admiration of World No. 1 surfer - Manila Bulletin",
+      "snippet": "15-year-old La Union pride earns admiration of World No. 1 surfer Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVhCX2MtN1pRMnhWUXhlTzBMdnlBTWFJNHRIX3UwdGNPQ3FBWUE5Qi1ia282ZUZJc2c4bF9POS1ZNzBOVkFKY1R4dFBzeU96MG9hZHdiV1RIQzI5MGNOUTk2VFBZOGFpTDNNZUg2cl9zRlIycUZZVFk4Z1NUclYtd05LMXdnMUk5d1pGSy1KRTBFaU80R0xhbQ?oc=5",
+      "date": "2026-11-01T02:57:58.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "1311cbcaf1f2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Namyangju City Council Holds First Chairperson's Cup Indoor Surfing Competition; About 90 Athletes Participate - 아시아경제",
+      "snippet": "Namyangju City Council Holds First Chairperson's Cup Indoor Surfing Competition; About 90 Athletes Participate 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bEhQQU9XbmxBYndiZ05lUE9nUjB0amRrYnRhemI4U05SVHdpUmoySV82c0VIV1Rld01EeVNSakNsT29DZmV0R0Z2dlFTWjl1MHpfa1NLMGEtWm1xalpOZzFhV1VKbnl3bm4zdHF0aWtEQ1duWW00dA?oc=5",
+      "date": "2026-11-01T02:56:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "e5f9dff8a888",
       "source": "google_surf",
@@ -68,18 +92,6 @@
       "date": "2026-10-31T13:55:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "016e92b56990",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "從國際風箏衝浪競技到全民親海 縣府打造三條崙為海洋運動新亮點 - 雲林縣政府全球資訊網",
-      "snippet": "從國際風箏衝浪競技到全民親海 縣府打造三條崙為海洋運動新亮點 雲林縣政府全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRWUF5Tk1kemJqa0RqbWNkSkpiakVjdHNwbVI2amZyOWx3WXFsLVotVkl0QUt3ek1EVGNMZ3F3TmJ1VWt1WlZwY0JCUTRlc09XT1RoMGFjLUFiaTByeVVVdThzRlJsdFpjamRXZU43X0RkUjJoMEo0?oc=5",
-      "date": "2026-10-31T12:09:05.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -195,6 +207,18 @@
       ]
     },
     {
+      "id": "f3da96877a96",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Siargao makes history as World Surf League Championship Tour hits the waves in Cloud 9 - BusinessMirror",
+      "snippet": "Siargao makes history as World Surf League Championship Tour hits the waves in Cloud 9 BusinessMirror",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON251NVVPUHlLWjR4aE5CRkt6Z3VycUpaazVZVGFJOFhhbTVyekdISlYtZ0RpWjFxZmhWYVNBYTZ4bHpBS3V2ZkpMMDFlbGxLZ1JRU0RBVlp2UlUxcFpFLVF4WU5rcjhWRnBhVFU5LXowaExMdm1tSmV2UXB2MF9QTnBpeDBhc3RIVldjQkNfa0N0NDh3ZkUxRUJpUjNTU1N5dEIxRHRWcmNsT2E0dy15ZHlHVFJXTW1Ld1lxT1dpalIxSFo1eFhz?oc=5",
+      "date": "2026-10-30T16:01:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "ef6947e3dffa",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -215,18 +239,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/epic-storm-chase-on-the-isle-of-wight/",
       "date": "2026-10-30T15:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-109.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "42714d7ceb36",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "The Anam Mui Ne takes flight with wew windswept adrenaline experience - Great Travel Philippines",
-      "snippet": "The Anam Mui Ne takes flight with wew windswept adrenaline experience Great Travel Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnpCcnBPRVlQM2F4aXlkMzlFNnJheXJwRDhNOGp0bzBBLURKY0lTVjVqa240RTY2VDFWV2FGNjVPNzNfOXZQWThrRXZ4aWtqNWp5R3NUWlUxS1RkRE8zVDJmZVdyMy1oMElwSjJwVWgwa3Uyd1luYnNOWE1rd1NIV2UwaTBqY2pIQzdaNzJmTnRsVVozck1lLWtBV1BQVEsyUFJfd2ozN3ZORUM3MmNfT2Nodw?oc=5",
-      "date": "2026-10-30T13:01:23.000Z",
       "tags": [
         "kite"
       ]
@@ -282,6 +294,30 @@
       ]
     },
     {
+      "id": "476f9500d436",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "WSL PH Pro kicks off Saturday in Siargao - Manila Bulletin",
+      "snippet": "WSL PH Pro kicks off Saturday in Siargao Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMmozR3NhLUl3cVk0WHFaNlJodS1wTEdzcEpzVUxEWU5fUHlUY3VYQS0zbFdMaEo0X2ZhY1hlWlhxS1NBR2NPbjNaRmdHSlppV0FZb3lLVmJIdkJ6Z1pjam9VdDdCRkZpMGJfUDZZaHZmYTNXSUE?oc=5",
+      "date": "2026-10-30T08:55:32.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "711baeabdd62",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Siargao surf league debut tests PH readiness for global sports events - InsiderPH",
+      "snippet": "Siargao surf league debut tests PH readiness for global sports events InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGZFS2VKMXdGaTdrZFExdzZySHp4QXU2MEpJVjdfN0dCNl9SWEdRMlFNT0ZWRkNaM0RmanEyaExDUFBZT2dZcjVUaFhTUDZWTk5VNUpNRVYxY2J4WHhSZFdydGlNTWxybTZmYWI2YUNERnlCOWlyOUlIeWg4WURwMENRSnhEdEduOFRjNllDcXVKeDJLUlE?oc=5",
+      "date": "2026-10-30T07:01:47.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "e5446304ffbc",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -292,18 +328,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/10/SY26_fl_GER404_0830-copy-1-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "fe7e7ee355ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "'I'm so happy' | Encinitas native Jett Maughan proud to win 2026 ISA World Junior Surfing Championship - cbs8.com",
-      "snippet": "'I'm so happy' | Encinitas native Jett Maughan proud to win 2026 ISA World Junior Surfing Championship cbs8.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQX1dLNlltc3EwUlZvSGpWWVdScS1YVlJRMWdGc3RScGw0cVZxTS1fSlNQMkl0UHpXZmJpZE1pWWc2dm9KVWNtdE9KR09ReEZlNDh4T3lUOGY4cDNOSUJVeHlMVVozLVBLbWk2QjZkN18ydTduTkhRQVhHai1zR3dJNkdZeGpJTDJMeWhlMEdjSkVwWnI3NkltUnk5NkE0MVRzRlVMTHo5aHlwVTZQOWQ2Wk5MdkRvVXdKU21VRlBEQk50bmkyaG9xcjFGUDFnS2pqekgzNElmZ3ZZUTlNcEFzWno0U3JiVFlsR3pGUlBNZw?oc=5",
-      "date": "2026-10-30T02:10:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -352,30 +376,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/10/world-title-number-5/",
       "date": "2026-10-29T15:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/10/maxresdefault-106.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "530a60a6ea06",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach - Observer Local News",
-      "snippet": "Small town, surf family: 24th annual Tommy Tant Memorial Surf Classic begins new chapter in Flagler Beach Observer Local News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkhmeldZbl9MV0VnYjNFaGIzSTQxYVFKUXJHOHVFWWd6SFFYcDcySXlTTHctOFpJZ0F2aV9NZVozVFZTNWVqVDNnTDZMYmpoaGJSeDIxRGFqaGttbE5XbjA4WXRua0ZVOE04bWNPemFCR09JeWI1NVpyYjIwVWxJUnFpZmdsR2ZTWVA5WEhFblo3dGVHd3lhVVUzT0VVN3pSdFRNcC1sNGZ6X2IzYUN3eFFBNHZxckRQekk4OHFpa1gzX1ExXzRMVTZMSWJmcWM?oc=5",
-      "date": "2026-10-29T14:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "96e53b7c8b9a",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part - https://safariindia.com/",
-      "snippet": "Morjim Hosts Kiteboarding Championship as Rohan Khaunte Takes Part https://safariindia.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NR3ZBVE1DbHBVbmRfdDhKNy1LZURodmJBUkJMYmRtdGdhS3VUN3Rtc3NlaG1HRE9pTll1Z21uanlFc1pJMHVaU0FGNnVRZUZUMXlqbkk1akoySXhsdHppMTA2X0thMXBnMXBpTjNvVUZjY1FSMGc?oc=5",
-      "date": "2026-10-29T09:06:11.000Z",
       "tags": [
         "kite"
       ]
