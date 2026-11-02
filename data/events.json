@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:38:01.725Z",
+  "generated_at": "2026-11-02T14:41:34.096Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
@@ -417,7 +417,7 @@
       "location": null,
       "country": "PT",
       "url": "https://www.worldsurfleague.com/posts/546281/2026-championship-tour-schedule-and-formats",
-      "status": "live"
+      "status": "past"
     },
     {
       "id": "pwa-2026-yokosuka-japan-world-cup",
