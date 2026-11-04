@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:17:44.773Z",
+  "generated_at": "2026-11-04T19:43:43.408Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,100 @@
   },
   "items": [
     {
-      "id": "01a6b68220e0",
+      "id": "48626e4c22bb",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro - Live Sail Die",
+      "snippet": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro Live Sail Die",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHBkSGFTZTQwZWpha0lfaDVad2FqVDl5MC1PWTV5cGpVQnpuTkNLRXpKNUdIOXpUd0NTTUNIcTUyZmtldi1kZHhOZUtPY184dVdsSTBVYjNFQk56LXNrZHRpd2Z2Z1BLVms2M0o3NllPcXA3X3dnVWE3eG9qVHdpdHFQejJSbHhLTmpUbjVVbm16cE4tR2c?oc=5",
+      "date": "2026-11-04T18:16:53.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "0e7e3e79446e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing with a view",
+      "snippet": "Jumping towards the sunset. The post Kitesurfing with a view first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-with-a-view/",
+      "date": "2026-11-04T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-13.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d420ca64fd27",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Every Frame of One Kite Jump Red Sea, Egypt #kiteboarding #watersports",
+      "snippet": "Slowing time down for just a second… The post Every Frame of One Kite Jump Red Sea, Egypt #kiteboarding #watersports first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/every-frame-of-one-kite-jump-red-sea-egypt-kiteboarding-watersports/",
+      "date": "2026-11-04T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-12.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "a222c030b984",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports - Manila Bulletin",
-      "snippet": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWQzQWhldEt0MHZMTzR0eV9URFpIdHRqUzVmX09TMEw2WS1vbHJXdmszTm1CbnFjODNNSzVnSVZFUFFaZjJYU0ZBWnRyRGtMVFNzLXdPQUdpQnhMZDFFTXVfektFTzdteFZoeGxTbGZhOVFsbVBlWUxOMTIzTEhJY1FvQmY4anJOVUluWDI3TDVQMmZQbEcwRzVROUJBcXNmaVE?oc=5",
-      "date": "2026-11-04T05:08:22.000Z",
+      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - FL Times-Union",
+      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 FL Times-Union",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWJuNk5sRUo0bHRIRkF2VVRDMjFYdnFOamRxZTRlcTJ6c3M2aGJobk0wTHEtOEFpQ2pENTdOcWRrQTJqcjZyZ2dRbmhrSmtaQU0welNTbFBTMmJGRm0zN2VsNFhoMUJNdmdoWGM5RFhpdkxTQUh0N1RJd3EzTEZ4YmlPSU9CZnJFY1BITktzcnFHb3liOHRlakc5Q3oydDluS0dnclVrTE41QzJZQ0g2TXY1aFBfR05wd1ZESkFucWdSVWp6TWVCcC1GSEVpeW9TNThSdTlyQXZhT0o2MFE?oc=5",
+      "date": "2026-11-04T11:12:53.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "da60308fa234",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions - News24",
+      "snippet": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions News24",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVlaS0dsMlBQb2NMLTFaYlRqNFctbnBDWmF1cFZvRGFyb05KYm9zRHdhb3BYV0lydlByU3NyS1dQd0RUVjd4LWV1SkRpMUd0OVJ5WW10Rlk0UkFuNjZRckdtT0tOQnYyUjV1aTZHek5QWU04azgzVHlTUzhDWWN1ZmN6ZEJWbnRtX1dwOTRGZG1oVjViRDdDcmlzVG1PR2Q0Z1BZYWFzc2Z2Z0p0bXNOVVZ4LWliaUxWV0dhQU5NQWpWR3licWs1RF9qdnhNSk5WVlBrRXJqVEEtX2RUU2d5UUhZc2t1LVRla2Z3?oc=5",
+      "date": "2026-11-04T10:55:08.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "61822c7aef61",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘The community here is incredible’: Local support creates waves of opportunity for young surfers - Hawaii Tribune-Herald",
+      "snippet": "‘The community here is incredible’: Local support creates waves of opportunity for young surfers Hawaii Tribune-Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTC15U1VwX0ZrTFdjTlc3bWJwVW9FNEYyaW56Vy1xNzBJcVlyUFFMSTdUczhRaDd3bG02Vi1sTGxiVGNVUW5lU0lxMnh1Y2c0YU9GTk15MEJoNEc3Rm5xYmd3VEQwSE5iUk5YN3hxajNDUDNzeDRQMmxTYjd6a2haeGhacndIcWViaEtXQ2dpakY5TlhTX3dncDBnTXJFZmhwNkwtRkNjNTR5Zm1KbDVHdTZSU0JxckY2ZndTNTV6YWM4MnE5Z3ozLVVZOTliemdvMHZPUXdoVjc4OWY3REowSzRSOA?oc=5",
+      "date": "2026-11-04T10:05:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "c4d210762d9d",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "This feeling of getting the perfect kicker",
+      "snippet": "When it all lines up… The post This feeling of getting the perfect kicker first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-feeling-of-getting-the-perfect-kicker/",
+      "date": "2026-11-04T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-11.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "af07e0c7c4fe",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports - The Manila Times",
+      "snippet": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWtDUHYtNFVvRm4zdEtBanpHOHNDVGRrTGJnWjdhWm1qYW5Yd0FuWWp0RktBYVpBTFhfU25yeEtBNHhIRVgwcE9NeXFhaXlMUVlma2lWcEY2bnE3ZWFaMC12ZGx6Mks4ay1HaVVtekp4M2RJUVRRMkdtUWYxeVdkR2FibEVrVjhvR3pRSTVvZFVwLXROU1duYVI4cnMxR21sNkJaaXYwbHc3XzFRMGQ1OWN5T0FjLVZCU01MR0Z4MV9PVnPSAcgBQVVfeXFMTjdmUS1YbXp5LUg5eFlycG1tc3gwUlVuLVBsSU5wZGFuSUZJZUZXVDlOR0VEUlNfcTMxejVWUExFTFlwSkVPNkE2cVN0RHRrVmNoVUdWRFlvYkZRNHp3YlFBS3FiVndVMEw5ZlJoQlFhZ1JhQ041RGhsbm92MTBRZnIxdi1LcTJMdnB4OEUxbElwelNZckZQc0lmOFVJU1VLaEdXdThHTmNKNk1uS3l0Z2FKRnpxZXA3U2ZZMnFWNGFnUWtSS0tsZlU?oc=5",
+      "date": "2026-11-04T07:08:00.000Z",
       "tags": [
         "surf"
       ]
@@ -158,6 +245,18 @@
       ]
     },
     {
+      "id": "90c57a595fa6",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Coming of age for wingfoiling - Scuttlebutt Sailing News",
+      "snippet": "Coming of age for wingfoiling Scuttlebutt Sailing News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkd1T1hzRG94UzZ6WHZyblF1bnNHdXVNVHBLQnNpWDFfSUtESDhkSkZHcFB2TmxQLUdWRkhZOWg3ZUsxdk90dWotSU1QVTd6SGFQbW1KUnNSMFlxY2NqemF5RlFUQXE4UlY0RGpHZEtWVnBtTWY1YUl3S2JrejlJOGhn?oc=5",
+      "date": "2026-11-02T20:35:54.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
       "id": "822608fe0364",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -233,19 +332,6 @@
       ]
     },
     {
-      "id": "e9bee3d80bbd",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "“BETO” – The life story of Adalberto Segundo Gomez Epieyu of the Wayuu people of Colombia",
-      "snippet": "Born where the desert meets the sea, in the windswept lands of La Guajira, Colombia, Adalberto Segundo Gómez Epieyu carries a story bigger than the sport that…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/beto-the-life-story-of-adalberto-segundo-gomez-epieyu-of-the-wayuu-people-of-colombia/",
-      "date": "2026-11-02T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-3.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "5934aea5bf53",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -292,93 +378,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2025/11/GC25_ls_E11_00762-copy-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "4c869d963019",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Alciso Upsets French Olympic Champ, Advances at WSL Philippines Pro - Sports Bytes Philippines",
-      "snippet": "Alciso Upsets French Olympic Champ, Advances at WSL Philippines Pro Sports Bytes Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDFWQVcwMjFqTWJ1ZC1mTkNjS01lVmk1ZV9uaGF5bDJaSWQxbWdlc3FxaUFNUTBEdjg5QmJLWUtTNE1oOUY5dFZzOTdlWWhqVmdGYk5aSlN5VWxKYndTYm8yYWtkZWg3NkFCVnBfYzBreV9maThrWU9QUFlkbHlFMTRsaW9WWk92NUNqOGpSZmdiOWc1dVE?oc=5",
-      "date": "2026-11-01T19:52:14.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "67cd8b01ac80",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "This jump was on another level‍",
-      "snippet": "Breaking the Spanish height record and blowing our minds!! The post This jump was on another level‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-jump-was-on-another-level/",
-      "date": "2026-11-01T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-2.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "dc3e808135c6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Tokong Tops Brazilian Pupo, Keeps Filipino Hopes Alive in Siargao - Sports Bytes Philippines",
-      "snippet": "Tokong Tops Brazilian Pupo, Keeps Filipino Hopes Alive in Siargao Sports Bytes Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGdCUldRNHIwYlNWem1KQ0RYR0l2SHYxVkI4UFgxZWRMVXo3c0c5QzZscXFMY1k3Q00yVG8wZHp4QmY1WklZSjRaTUJ6SGhtbmVSbUZoUXJrdVBOTlU4NUE5ZFl2QjVFOHhPQ0piV1dIaFpUd2VFbTFBc0xJeS1XNlBCdldTT1hVbkpocEhRRXVNRFF3ZTNOMw?oc=5",
-      "date": "2026-11-01T15:09:40.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "668c0b8f021c",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Dune jump in brazil",
-      "snippet": "Jumping from the Dunes in Brazil, this is epic! The post Dune jump in brazil first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/dune-jump-in-brazil/",
-      "date": "2026-11-01T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-1.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "46243dcc1898",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "FILIPINO SURFER JAYUARD ALCISO DEFEATS KAULI VAAST IN WSL CHAMPIONSHIP TOUR PHILIPPINES PRO - thechronicle.com.ph",
-      "snippet": "FILIPINO SURFER JAYUARD ALCISO DEFEATS KAULI VAAST IN WSL CHAMPIONSHIP TOUR PHILIPPINES PRO thechronicle.com.ph",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaG1kUFJqMzNDRldqUzNoMVlFLTlDYzNRRFFpR3F0Y29XQ3ZKNGNDWGhkQmNNc3o2RXYwc3hfeGZhSVpaYmdZSk9BeWVMNTBoQ2NIOXlxVTEwTXh5blI1cHRaSzItVFdZLXJBOWl6MGYyekJvUk5lMnFzT2NKaUQzMm9VQ0ZQbjRZdzdLUjJjZTZaRmVva0ZHdkl1VDJBOXZJZFNJcWNMckQyakhoVVlsY2N3V1c4LW5EbVhPSA?oc=5",
-      "date": "2026-11-01T08:45:49.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "3f7162001722",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION",
-      "snippet": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION If you missed the live stream from finals day at the Tiree Wave Class…",
-      "url": "https://www.windsurf.co.uk/tiree-wave-classic-insane-finals-day-action/",
-      "date": "2026-11-01T07:45:42.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/tiree-wave-classic-insane-finals-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "6408b23eb7f3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "JOHN MARK “MARAMA” TOKONG DEFEATS BRAZILIAN RIVAL IN WSL PHILIPPINES PRO OPENER - thechronicle.com.ph",
-      "snippet": "JOHN MARK “MARAMA” TOKONG DEFEATS BRAZILIAN RIVAL IN WSL PHILIPPINES PRO OPENER thechronicle.com.ph",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU02a0tZZnVVaUhsaUpiWW80RTRqNUpZTkprTEpQSVR5NnlNcEpsOEJfZkdBWFc3bWx0dHZsVjZNSFd6cTRUaW5qcUtXM21ua1BQcm5YNXhjMmVEMmg5TVpGLW5nNkRWbW1lWlVoTVhxVEx0MEZXWkVLYmMxOVJDMExFRkpGMGJubmxIeC1WMktINHBpNTA0ZUZSWkoyTTlQSFhSMi1QQ0hndw?oc=5",
-      "date": "2026-11-01T07:33:33.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
