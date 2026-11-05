@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:43:43.408Z",
+  "generated_at": "2026-11-05T06:43:37.778Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,187 @@
   },
   "items": [
     {
+      "id": "6b6337ad5dad",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET!",
+      "snippet": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! Pete Vennik first got hooked on windsur…",
+      "url": "https://www.windsurf.co.uk/pete-vennik-50-years-on-the-water-and-hes-not-done-yet/",
+      "date": "2026-11-05T06:00:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2020/10/IMG_3970-800x600.jpeg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "65ad8036294e",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Inaugural X-15 Wingfoil World Championships - Day 1 - Sail-World.com",
+      "snippet": "Inaugural X-15 Wingfoil World Championships - Day 1 Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1dkcWN2cmxJTmx4SkN1Ni14Ql96YUtNQ0JQWlZkczJFZ1hHU1k3TzNsbUU4dnh6bjhQeWNxRkxhRnptU2lSTnIwN3dOQ0RnZUF4R1pfTzlZYjFEakxudFozSlZwQVpuV2V3eEZvS05QTmFVNWRxX3RJMGFGTGJnZw?oc=5",
+      "date": "2026-11-05T05:46:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "20b703d89dc6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Locals claim wins at 42nd edition of Margaret River Classic - South Western Times",
+      "snippet": "Locals claim wins at 42nd edition of Margaret River Classic South Western Times",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY2RQUG5aUlFEWDcyZ0ZZRlhsMnk2UmdBYzllY1RIeDRLSmNFZzNrcDluVG9BakVRdzd5VjE4cFZKVWdtcW14T2U5Z0QzZURHS0Y4cUg4NXBtUGpxQ2Nsdl95S2NTWF91cFdpVmpWeHIwYl80dmR4VmtHU2xJcWFic2s1dUlMRlBsdkFocTBLZkotRGwyVWp0RGZieE5UNTRfVDVJdmJVWWtSQlhJU1VvTGZTZEI4cDBCWWdoYnRwMWVYeFFxNjRyWUlNWnI4TVdMNF9TLXQwVXRjd05IMDU3OXhoZ3owandJcWdiaXFUUWNHX3l5?oc=5",
+      "date": "2026-11-05T05:00:41.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e7d520ebd71c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Australia Targets Back-to-Back World Surfing Gold as Irukandjis Head to Peru - Sportzhub",
+      "snippet": "Australia Targets Back-to-Back World Surfing Gold as Irukandjis Head to Peru Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkxUWkdNNHVibDJHU0FxNjdwVUFYdHRVYnVOSXBuMmNoNXM3TXl2WnhYN1RIWXlPc3dBcXlRRDFpWUhTanI3TDNxeFFIMWpJdUFKZWp6N3lJdjFIQTZVYVlCUkdEcG12Y2VYb3dWWEdFNFpzMDZJTWhhOFFpUkJpNWpLcm9LOEdWQlB4ZjZWX2Fld1otOThpQ216UUJCQjRiSnZJU0g1V2tBTUM2eDI0S0tBYWZxZw?oc=5",
+      "date": "2026-11-05T04:19:43.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2985cc2bcba6",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS!",
+      "snippet": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! Looking to give your rig a winter upgrade? Robin Hood Water…",
+      "url": "https://www.windsurf.co.uk/windsurfing-boom-deals-at-robin-hood-watersports/",
+      "date": "2026-11-05T04:16:56.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "97d804f5e352",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Ozone Says Goodbye to the Hyperlink V4 and Alpha V3 Ultra-X",
+      "snippet": "Two kites, one last chance. Production finishes Monday 16th November. Some kites earn a special place in a rider’s quiver. The one that comes out on the light…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ozone-says-goodbye-to-the-hyperlink-v4-and-alpha-v3-ultra-x/",
+      "date": "2026-11-05T03:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-ozone-goodbye.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "9983557f6f7c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao - ABS-CBN",
+      "snippet": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUkkyaFhtMEVWRjFDS285UjAzT3lhYmJUdkNTd2JVTTdpdWUyR2dfM3d5WlpuMHVOTDJDSnZoem5ITjloNHkzRDRBRm8yQ1RWZzhlUE5PWDZqN2pDSFc4Zi1PeHR3Q0NOR3J4MjFEdzJ6dDNJZWlqYy1fb3RHN2dYZU5BT1hUcGxfVXYyak4zeS1kZ2NuZ3J2WjVPaUF0WlZDSkpfTzRtVXhaODlqNEltZWwtQTBNbC1RNzAzbC1iZW81NHBkYTVlYWRpbkdwbk1ucnRjbWdWUVF6NjQ2bENEZXhzQXBaMTZyOTB2S0EyQ083Rkh6ZlhoZXgxY3RiQQ?oc=5",
+      "date": "2026-11-05T01:13:51.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "9eff3e59fded",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Mystic: Built for the Cold, Ready for Anything",
+      "snippet": "Complete your cold-water setup with neoprene hoods, boots and gloves. When the temperature drops, your session doesn’t have to stop. Gear up with Mystic neopre…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/built-for-the-cold-ready-for-anything/",
+      "date": "2026-11-05T00:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/06-mystic-cold-water.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "9faba4cf7553",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter - SURFER Magazine",
+      "snippet": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTBoR1hVN2JYRTJDZ3FfREUxSjR3VVNPczhHWEVCeXBPYWdTbVBGM1puMnlSMk9HV01yaFc2OW0waE02VE1qQkpObmlMamtFN1Y0X3I3Xy1YdXFCUllycUJTa3p0TW5UanlSeFM0R3BmM3F6T05QRFZqWml6VzhsNWFJRVQ?oc=5",
+      "date": "2026-11-04T23:54:56.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6564f25a6cb4",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "First X-15 Wingfoil World Championship opens in Ibiza - Sailweb",
+      "snippet": "First X-15 Wingfoil World Championship opens in Ibiza Sailweb",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG1vSlNFSmtlZE9XSE5nVGJwWXNzNTFnMU53U3hOM09GazU0V1ROb2stNi02NS1nQUJ6WmpHYW9NRFk5YUlUSmtDSjNlYkZrVmdxNGhrc1F6bno2d2xlME54dGc3Rm9FNWNjVkZRSjFwOGF2SDF2Sjh4QjB5WUZKR0U3VlpESGpfZGU4aXlKV0Jhc2VHcEE?oc=5",
+      "date": "2026-11-04T23:36:55.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
       "id": "48626e4c22bb",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro - Live Sail Die",
       "snippet": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro Live Sail Die",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHBkSGFTZTQwZWpha0lfaDVad2FqVDl5MC1PWTV5cGpVQnpuTkNLRXpKNUdIOXpUd0NTTUNIcTUyZmtldi1kZHhOZUtPY184dVdsSTBVYjNFQk56LXNrZHRpd2Z2Z1BLVms2M0o3NllPcXA3X3dnVWE3eG9qVHdpdHFQejJSbHhLTmpUbjVVbm16cE4tR2c?oc=5",
-      "date": "2026-11-04T18:16:53.000Z",
+      "date": "2026-11-04T22:25:36.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "214f646f53a1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Wavepool Surf Tour Launches Event That Anyone Can Enter for $10 - The Inertia",
+      "snippet": "Wavepool Surf Tour Launches Event That Anyone Can Enter for $10 The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2VGcjVkZWtYaHJ5dlc4N1V3aTRfclBvNzl4SWdoN1FOeFlTb01wbGN5dUJ5QUF0WDJEUHZwVWtqNHBCRjZzY2hHMmZSMENQR095cC1EYnZ4UXpCNVZ0UlR0dVFUZy00bWRYd2Y1NXIyaXl0WkVUS3hmb0dlUF9wbQ?oc=5",
+      "date": "2026-11-04T22:19:02.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "781947c93936",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN!",
+      "snippet": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! The final racing event of the PWA season has a habit of del…",
+      "url": "https://www.windsurf.co.uk/crazy-finals-day-at-the-pwa-foil-slalom-in-japan/",
+      "date": "2026-11-04T22:01:00.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/crazy-finals-day-at-the-pwa-foil-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "7a531607b6e8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Meet Antoine Ollivier",
+      "snippet": "Power, precision, pinnacle of style Meet Ride Engine team athlete Antoine Ollivier. From his first sessions at Îlot Maître in New Caledonia to setting his sigh…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/meet-antoine-ollivier/",
+      "date": "2026-11-04T21:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/04-antoine-ollivier.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "9b0e89f259bf",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Riders - Red Bull",
+      "snippet": "Riders Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWVRZmhJSTQ2RTJTeGxMMDRnbVFrLXVjY3h1NUMtRTA0VkdxU2Y0NDZHeDM0VldVLUYtcGVpdW9CTkx3UldoRVF2cEdHbnNDeHY0YXlvNnRMZW9MeFUwWFJpYl9CdkxVTEg0QWlJRGtWTkV0RW5hV01vUUU1QmNhb1NOQWE3YlpuMXlDLS1BT25ZR2RYUmRxS1RRTXh3NDQ?oc=5",
+      "date": "2026-11-04T19:38:30.000Z",
       "tags": [
         "kite"
       ]
@@ -65,7 +239,7 @@
       "title": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions - News24",
       "snippet": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions News24",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVlaS0dsMlBQb2NMLTFaYlRqNFctbnBDWmF1cFZvRGFyb05KYm9zRHdhb3BYV0lydlByU3NyS1dQd0RUVjd4LWV1SkRpMUd0OVJ5WW10Rlk0UkFuNjZRckdtT0tOQnYyUjV1aTZHek5QWU04azgzVHlTUzhDWWN1ZmN6ZEJWbnRtX1dwOTRGZG1oVjViRDdDcmlzVG1PR2Q0Z1BZYWFzc2Z2Z0p0bXNOVVZ4LWliaUxWV0dhQU5NQWpWR3licWs1RF9qdnhNSk5WVlBrRXJqVEEtX2RUU2d5UUhZc2t1LVRla2Z3?oc=5",
-      "date": "2026-11-04T10:55:08.000Z",
+      "date": "2026-11-04T10:27:15.000Z",
       "tags": [
         "kite"
       ]
@@ -127,18 +301,6 @@
       "snippet": "Controversial Priority Call Stuns Carissa Moore, Propels Caity Simmers at Philippines Pro (Video) Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU5feE9aUFd4Q3JRazZhMjFyOGhTVHVzWGktNkRHdDFLdmMycVNmSTRvMFk3YjI3d1h5M0FjZWNoOGUwRWFEWlNpMXkwc0ZHcUNlS29FeXZOVWNmMUFUS210anM0Z2dSSmFzZGJDWU9WMTFnN0dsLTVMMW9LZ1JUZWZjam1Wb3pkam5YQXFVcDhaMjVU?oc=5",
       "date": "2026-11-03T20:22:53.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a987dfa1695d",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Kelly Slater on Being the GOAT, Fatherhood, and the Legacy He Wants to Leave - The Inertia",
-      "snippet": "Kelly Slater on Being the GOAT, Fatherhood, and the Legacy He Wants to Leave The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejNNNE5HSEk3ZHI4WUNwM21Rd0pfc2drYVM2RFNvU0E0X1NDSThzOHpVNHQ0SHV1ZVZRSFlPM2J3S1BER2NmbThWLTN1Unpyd0RGVXNzelVRSkUzMFdZZGFMYzBPT09RTWNDRzJweHJYZ1ZnY3E4TnNEczUwSlo2NXVFeHMyN1lqcmZfYm13allvcnc?oc=5",
-      "date": "2026-11-03T19:21:48.000Z",
       "tags": [
         "surf"
       ]
@@ -217,167 +379,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-7.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "2a558aaa5f66",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World figures began to arrive in Peru for the ISA World Surfing Games - Agencia Andina",
-      "snippet": "World figures began to arrive in Peru for the ISA World Surfing Games Agencia Andina",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTZLMXdYMlczU21jcE1MWkpqTmtyNVFTRFRuUE10SGZuOUtzSm85OFFYQ3ROWkQwa0dNei1jUjhOUnRyZ1BhbXJRMXVXR2tsWXVKdTY2VGtTMHVvU0NLYmxXT2h1UFpmcndZa1l1WjJsaVJWaVJJUFVXYXVjaGdrZURXOTZJWEl6NDQxUUxaUFhrZklBWmtLQkczN1dPOVRMaHBab0g3X1RVWmZsZTA3bUlidHFCdw?oc=5",
-      "date": "2026-11-02T21:41:46.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "64c8bd8f389d",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sometimes you just send it‍",
-      "snippet": "Sometimes you just have to go for it. The post Sometimes you just send it‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sometimes-you-just-send-it/",
-      "date": "2026-11-02T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-6.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "90c57a595fa6",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Coming of age for wingfoiling - Scuttlebutt Sailing News",
-      "snippet": "Coming of age for wingfoiling Scuttlebutt Sailing News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkd1T1hzRG94UzZ6WHZyblF1bnNHdXVNVHBLQnNpWDFfSUtESDhkSkZHcFB2TmxQLUdWRkhZOWg3ZUsxdk90dWotSU1QVTd6SGFQbW1KUnNSMFlxY2NqemF5RlFUQXE4UlY0RGpHZEtWVnBtTWY1YUl3S2JrejlJOGhn?oc=5",
-      "date": "2026-11-02T20:35:54.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "822608fe0364",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "MORE WAVES AHEAD - Daily Tribune",
-      "snippet": "MORE WAVES AHEAD Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wamwtektJa2pjOE9sRi13OFJwa21NZ1N3US0wdEVoeFE3VEZaa3Mwd2t1YUtIMXNJU2ZhNmtQa3dJTUVLQXJQRlhZc1F3bkVSdFBFd2RRcVFhWjRVeksw?oc=5",
-      "date": "2026-11-02T19:23:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "bd9619407e7f",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Try letting go of the bar and focus on riding the wave. Have you tried?",
-      "snippet": "Ripping in the waves hands free! The post Try letting go of the bar and focus on riding the wave. Have you tried? first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/try-letting-go-of-the-bar-and-focus-on-riding-the-wave-have-you-tried/",
-      "date": "2026-11-02T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-5.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "57c6d467a046",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Filipino surfer steals the spotlight at world surfing event in Siargao - The Filipino Times",
-      "snippet": "Filipino surfer steals the spotlight at world surfing event in Siargao The Filipino Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeW9GZnplOWJNaTZoTm5CeVA2UWlpRkJUb040dUJyQVd6TU83aVhwZTNjN3BYa1ZjYzBlNDN4dm9XTlJJQVc5VS1XOW9YZE1WS216a2JRNkd5bjdCUmpYS2JMTHEydjl5ZmpnY18wdVdhZHMxVk1QRXhwZ1A1ODNEeVZLX2c0UWJwWUJnbGowUXlobUp2RUpqNk51T1hXaTlhZjVYZmVhSDJfbUpWcnhia3g3YldMSlFpUjFkaw?oc=5",
-      "date": "2026-11-02T14:21:22.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "766338140c91",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "A little throwback to the women’s Freestyle game in Brazil! #freestyle #brazil #gkakiteworldtour",
-      "snippet": "The women’s freestyle game in Brazil looking so strong. The bar never stops rising! The post A little throwback to the women’s Freestyle game in Brazil! #frees…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/a-little-throwback-to-the-womens-freestyle-game-in-brazil-freestyle-brazil-gkakiteworldtour/",
-      "date": "2026-11-02T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-4.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d0acbf2a1dd9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World champion para surfer trains at Edinburgh’s Lost Shore ahead of California title defence - Midlothian View",
-      "snippet": "World champion para surfer trains at Edinburgh’s Lost Shore ahead of California title defence Midlothian View",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHFTazVfWGxFMXVIT0k3a05WZ25QcmRXTHFmdG5RVVZ5MDBONDVET0JtZ2ZUM3N6QXYyanZvNGtRWFl0MXVzMEtzWER1ZlFDTDFBUEYyc0M5cDRJOG5lcWNTTHU1YWt3ZTVvcENYUjJSRUdJbEVrdDh5a3pKSHRJVjJ6RExoY1ptZUQ5cEMxTWM2TFVxMlBhdGRYSHRWb3dLdTdlUk40bFB2MUdrSWpwdURJa2V4ZmNSeUVZcTRwRXF4UQ?oc=5",
-      "date": "2026-11-02T11:15:38.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "0bb93b0b0e6a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "MARC PARE: THE ALOHA BREAKTHROUGH!",
-      "snippet": "MARC PARE: THE ALOHA BREAKTHROUGH! MARC PARE: THE ALOHA BREAKTHROUGH! Marc Pare has just pulled off one of the biggest victories of his career, claiming his fi…",
-      "url": "https://www.windsurf.co.uk/marc-pare-the-aloha-breakthrough/",
-      "date": "2026-11-02T09:39:54.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/photo-9829-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "5934aea5bf53",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World No.1 surfer: Siargao is different from other championship tour stops WATCH: World No.1 surfer and WSL defending champion Yago Dora reflects on Round 2 of the 2026 Championship Tour after defeating Connor O’Leary of Japan on Monday, Novemb - Facebook",
-      "snippet": "World No.1 surfer: Siargao is different from other championship tour stops WATCH: World No.1 surfer and WSL defending champion Yago Dora reflects on Round 2 of…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQmtzMHdOX0hsbml1alpQNmFMbnN2b2t5REQ3TDFJWUxIZ2hLM2RTWURuTGVuY183c0pJNVpsYURpNXFZNHowTXl2MHBTdWVuV3pST01NYW5VcXRXLWpEYWxHXzdaSTltajRfSlF3ZGFabTBqSk1fZ1pvYUJRQkpCeFo5alF5RndkTnEzb0NZbDkzeHZWNTlQUWx6ZnR1SzVBd1ljNURPdndsVDFUWnhxOGtIa3pVaVJJZm5Qb1BqZHVZMHNpQUJyLXFYd3kyYklfend4Yy1NemRxTzA?oc=5",
-      "date": "2026-11-02T05:58:16.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "f3315b9419ea",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Next Call • Tuesday Nov 3 • 8:30 AM SGT (230pm Monday HI time) At Cloud 9 for the Philippines Pro Presented by the Philippine Sports Commission - Surf News Network",
-      "snippet": "Next Call • Tuesday Nov 3 • 8:30 AM SGT (230pm Monday HI time) At Cloud 9 for the Philippines Pro Presented by the Philippine Sports Commission Surf News Netwo…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0F4eGxwbktYQkhHTFBRVElYVXd0OUh3SXZIUGk4OHFucC1qNlVMRjFzbzk1TmtrYzM0cG9wVnI0YXJYazdFVVgyb25iWENObHVRLWRlMm9nUkhodlQ5NjdkdXFyVWEzZ1daeTJIcGYzX3FNejlqYThPMDNEcjNucXB6WW4tYWcxRnYxNFBlMmMxVlp2YTJCazBESS1OU0pNT01MSVdzWGxJNkVKMGNPUGJPdw?oc=5",
-      "date": "2026-11-02T01:43:24.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "be3346d54de9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Tokong tops Brazilian, enters WSL Round 2 - Daily Tribune",
-      "snippet": "Tokong tops Brazilian, enters WSL Round 2 Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iX3hIaEl2VWEwTEZiZXQ2T1RRZzhzRFFyQU45dS1CamszNDlRS1k2b1psX3lXUDVOdTJEN0hydFF4M1Zack1IazZteEtjaFRFbzFKN3JBdnJtVkVpandCVFlEbk91aGtmNk01U2FSZDFoWFNoMVIzckN3YkRRSUk?oc=5",
-      "date": "2026-11-01T23:54:27.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a494d71b1ded",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "BORN TO WINDSURF: BJORN DUNKERBECK",
-      "snippet": "BORN TO WINDSURF: BJORN DUNKERBECK BORN TO WINDSURF: BJORN DUNKERBECK If you haven’t watched this film celebrating the incredible career of Björn Dunkerbeck, n…",
-      "url": "https://www.windsurf.co.uk/born-to-windsurf-bjorn-dunkerbeck/",
-      "date": "2026-11-01T20:48:06.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2025/11/GC25_ls_E11_00762-copy-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     }
   ]
