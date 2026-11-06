@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:40:44.283Z",
+  "generated_at": "2026-11-06T19:23:12.052Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,82 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "89993b5733ed",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The hard art of defending a surfing world title - Surfertoday",
+      "snippet": "The hard art of defending a surfing world title Surfertoday",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVTJ1T29nTTI2enFOSVJrLUphVS00dXVlVzQzbm9yanUtQ0xMVlZEVU9ZLVM5UkhmaXpYS0pHTmhwdERaMVp5V3JHRTVKQTlxTlZuNFFIV08teHd5TVpOMmt0LTR2cFA0cExzWmhsZ3ktdjhTbEdQZkxkMmI?oc=5",
+      "date": "2026-11-06T17:57:20.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a414f5297c0b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing is awesome",
+      "snippet": "‘Kitesurfing is awesome’ a statement we can only agree with! The post Kitesurfing is awesome first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-is-awesome/",
+      "date": "2026-11-06T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-20.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ba013d280768",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER!",
+      "snippet": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! PWA FOIL SLALOM WORLD CHAMPIONS! What a…",
+      "url": "https://www.windsurf.co.uk/we-are-the-champions-matteo-iachino-and-justine-lemeteyer/",
+      "date": "2026-11-06T13:38:57.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/JP26_ls_ITA140_00813-JC-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "251ab5c8dc40",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "300KM DOWNWINDER IN BRAZIL – MISSION 3.0",
+      "snippet": "300 kilometres of downwinding in Brazil! The post 300KM DOWNWINDER IN BRAZIL – MISSION 3.0 first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/300km-downwinder-in-brazil-mission-3-0/",
+      "date": "2026-11-06T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-19.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "38323473e104",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Graham Howes' mother questions what really happened to her son - Briefly News",
+      "snippet": "Graham Howes' mother questions what really happened to her son Briefly News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTJIQXdQSFZsM2cxaGZVeFFrZzF6STBhUXhKdHcxYkFmQXFjUHE2Tm9JZlRqSVo0WnZnbTR5TFZJY1VDOEhhUGItYjNmcC1VU1hLcXlPVWs2UEJVV3QxZlYxTGZ5aHF5cUloREtEOXgtcUlidVZtUkU0SkVXd0FZamFOZk5pckx0XzJmMkZVSUpWOXhKbzB0aC1uZw?oc=5",
+      "date": "2026-11-06T11:04:52.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f43888bb0c16",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Sunset with a twist‍",
+      "snippet": "Sunset with a twist… or more! The post Sunset with a twist‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sunset-with-a-twist/",
+      "date": "2026-11-06T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-18.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "15009c203bcb",
       "source": "google_surf",
@@ -108,18 +184,6 @@
       ]
     },
     {
-      "id": "de6c17feed81",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Great Day In the Stoke Provides Competition, Connection - Los Angeles Sentinel",
-      "snippet": "Great Day In the Stoke Provides Competition, Connection Los Angeles Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3dWYmJZMjhkSnRJT0h6R3NZeVMxeUVJVFZ4YTdjVEh4RTloM0NEcldvQTNKVmd3MWs2TkdQQ3EzM05mMVVtNU5TLVdzVlJJN0NxRXRiSW15bkhHb004VHpBUFI1ME5WR055dFpmRE82NVczV1dJUnhHbHRVZWw3aFljWVRlM2c0WUE?oc=5",
-      "date": "2026-11-05T10:08:26.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "5794d5fa51ec",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -145,32 +209,6 @@
       ]
     },
     {
-      "id": "51476eae4ddf",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER",
-      "snippet": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER We chat with two world champions, Sarah-Qui…",
-      "url": "https://www.windsurf.co.uk/the-fin-factor-sarah-quita-offringa-and-lennart-neubauer/",
-      "date": "2026-11-05T06:34:12.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/FV26_fs_GRE734_00605-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "6b6337ad5dad",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET!",
-      "snippet": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! Pete Vennik first got hooked on windsur…",
-      "url": "https://www.windsurf.co.uk/pete-vennik-50-years-on-the-water-and-hes-not-done-yet/",
-      "date": "2026-11-05T06:00:48.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2020/10/IMG_3970-800x600.jpeg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
       "id": "65ad8036294e",
       "source": "google_wing",
       "source_name": "Google News: Wing Foil",
@@ -180,18 +218,6 @@
       "date": "2026-11-05T05:46:00.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "20b703d89dc6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Locals claim wins at 42nd edition of Margaret River Classic - South Western Times",
-      "snippet": "Locals claim wins at 42nd edition of Margaret River Classic South Western Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY2RQUG5aUlFEWDcyZ0ZZRlhsMnk2UmdBYzllY1RIeDRLSmNFZzNrcDluVG9BakVRdzd5VjE4cFZKVWdtcW14T2U5Z0QzZURHS0Y4cUg4NXBtUGpxQ2Nsdl95S2NTWF91cFdpVmpWeHIwYl80dmR4VmtHU2xJcWFic2s1dUlMRlBsdkFocTBLZkotRGwyVWp0RGZieE5UNTRfVDVJdmJVWWtSQlhJU1VvTGZTZEI4cDBCWWdoYnRwMWVYeFFxNjRyWUlNWnI4TVdMNF9TLXQwVXRjd05IMDU3OXhoZ3owandJcWdiaXFUUWNHX3l5?oc=5",
-      "date": "2026-11-05T05:00:41.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -258,30 +284,6 @@
       ]
     },
     {
-      "id": "6564f25a6cb4",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "First X-15 Wingfoil World Championship opens in Ibiza - Sailweb",
-      "snippet": "First X-15 Wingfoil World Championship opens in Ibiza Sailweb",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG1vSlNFSmtlZE9XSE5nVGJwWXNzNTFnMU53U3hOM09GazU0V1ROb2stNi02NS1nQUJ6WmpHYW9NRFk5YUlUSmtDSjNlYkZrVmdxNGhrc1F6bno2d2xlME54dGc3Rm9FNWNjVkZRSjFwOGF2SDF2Sjh4QjB5WUZKR0U3VlpESGpfZGU4aXlKV0Jhc2VHcEE?oc=5",
-      "date": "2026-11-04T23:36:55.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "48626e4c22bb",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro - Live Sail Die",
-      "snippet": "Back on the Powder: IKA Snowkite World Cup Heads to Alto Sangro Live Sail Die",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHBkSGFTZTQwZWpha0lfaDVad2FqVDl5MC1PWTV5cGpVQnpuTkNLRXpKNUdIOXpUd0NTTUNIcTUyZmtldi1kZHhOZUtPY184dVdsSTBVYjNFQk56LXNrZHRpd2Z2Z1BLVms2M0o3NllPcXA3X3dnVWE3eG9qVHdpdHFQejJSbHhLTmpUbjVVbm16cE4tR2c?oc=5",
-      "date": "2026-11-04T22:25:36.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "214f646f53a1",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -320,32 +322,6 @@
       ]
     },
     {
-      "id": "0e7e3e79446e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kitesurfing with a view",
-      "snippet": "Jumping towards the sunset. The post Kitesurfing with a view first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-with-a-view/",
-      "date": "2026-11-04T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-13.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d420ca64fd27",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Every Frame of One Kite Jump Red Sea, Egypt #kiteboarding #watersports",
-      "snippet": "Slowing time down for just a second… The post Every Frame of One Kite Jump Red Sea, Egypt #kiteboarding #watersports first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/every-frame-of-one-kite-jump-red-sea-egypt-kiteboarding-watersports/",
-      "date": "2026-11-04T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-12.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "a222c030b984",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -370,16 +346,39 @@
       ]
     },
     {
-      "id": "c4d210762d9d",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "This feeling of getting the perfect kicker",
-      "snippet": "When it all lines up… The post This feeling of getting the perfect kicker first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-feeling-of-getting-the-perfect-kicker/",
-      "date": "2026-11-04T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-11.jpg",
+      "id": "9983557f6f7c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao - ABS-CBN",
+      "snippet": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUkkyaFhtMEVWRjFDS285UjAzT3lhYmJUdkNTd2JVTTdpdWUyR2dfM3d5WlpuMHVOTDJDSnZoem5ITjloNHkzRDRBRm8yQ1RWZzhlUE5PWDZqN2pDSFc4Zi1PeHR3Q0NOR3J4MjFEdzJ6dDNJZWlqYy1fb3RHN2dYZU5BT1hUcGxfVXYyak4zeS1kZ2NuZ3J2WjVPaUF0WlZDSkpfTzRtVXhaODlqNEltZWwtQTBNbC1RNzAzbC1iZW81NHBkYTVlYWRpbkdwbk1ucnRjbWdWUVF6NjQ2bENEZXhzQXBaMTZyOTB2S0EyQ083Rkh6ZlhoZXgxY3RiQQ?oc=5",
+      "date": "2026-11-04T08:48:10.000Z",
       "tags": [
-        "kite"
+        "surf"
+      ]
+    },
+    {
+      "id": "af07e0c7c4fe",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports - The Manila Times",
+      "snippet": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWtDUHYtNFVvRm4zdEtBanpHOHNDVGRrTGJnWjdhWm1qYW5Yd0FuWWp0RktBYVpBTFhfU25yeEtBNHhIRVgwcE9NeXFhaXlMUVlma2lWcEY2bnE3ZWFaMC12ZGx6Mks4ay1HaVVtekp4M2RJUVRRMkdtUWYxeVdkR2FibEVrVjhvR3pRSTVvZFVwLXROU1duYVI4cnMxR21sNkJaaXYwbHc3XzFRMGQ1OWN5T0FjLVZCU01MR0Z4MV9PVnPSAcgBQVVfeXFMTjdmUS1YbXp5LUg5eFlycG1tc3gwUlVuLVBsSU5wZGFuSUZJZUZXVDlOR0VEUlNfcTMxejVWUExFTFlwSkVPNkE2cVN0RHRrVmNoVUdWRFlvYkZRNHp3YlFBS3FiVndVMEw5ZlJoQlFhZ1JhQ041RGhsbm92MTBRZnIxdi1LcTJMdnB4OEUxbElwelNZckZQc0lmOFVJU1VLaEdXdThHTmNKNk1uS3l0Z2FKRnpxZXA3U2ZZMnFWNGFnUWtSS0tsZlU?oc=5",
+      "date": "2026-11-04T07:08:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b4c32c860a50",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Medina, Simmers Make Surfing History With Inaugural Siargao Pro Titles - Sports Bytes Philippines",
+      "snippet": "Medina, Simmers Make Surfing History With Inaugural Siargao Pro Titles Sports Bytes Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWNFUWFMeHFtLTVVdERwODl2bThPNnNfbEJFOEVaQjJTT0ZpNkU5bmxaUXVkZ0tqZjFZeVBCSEhMb0lwWlhIcUtla1o2UjJSNkNhNXROMmIzUHNZZGxHWjREWExUeGJUa1NPblFyQVExTkFvcTRXVHNhVm1kbFcxU216VmJhWWVfR0VCNWdKZDRVb05lU1V1NVl3?oc=5",
+      "date": "2026-11-03T20:29:19.000Z",
+      "tags": [
+        "surf"
       ]
     }
   ]
