@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:55:52.212Z",
+  "generated_at": "2026-11-06T06:40:44.283Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,37 @@
   },
   "items": [
     {
+      "id": "15009c203bcb",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young surfer hits the headlines - Noosa Today",
+      "snippet": "Young surfer hits the headlines Noosa Today",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qSlFRNkZpd0hhM25DNnNzcUNXallIOHhPM3ZmOGxzYXdQYVhMSmxlN21vcnQyRFZENTRDNjd3aG5jQUdlT3RXTmpSNG1VWk1EeFRyZXRaaTFrZTctaVhySWVubjUyN0phUWZVSldkSTZzWUVzLWU5am5GX2ZBSk0?oc=5",
+      "date": "2026-11-06T05:17:58.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "5af9936fa516",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "This Mexican Beach Town Just Became the Country’s First Official \"Surf City\" - Caribbean Journal",
       "snippet": "This Mexican Beach Town Just Became the Country’s First Official \"Surf City\" Caribbean Journal",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YYkk2VHVpQWdPcFRnVW53M0U2ck9IbWpQQ0pYYjZCdVR1T2Y0REMzZkdEX3o3V2E3WHY0cW9vNjNDbUhLRWwtR0NwUHk3a2xLOTkyVFU4Y0FmMHRZZ3U5SjR1ZkZUajBtOWJscjIzQ2hHY2M?oc=5",
-      "date": "2026-11-05T19:33:50.000Z",
+      "date": "2026-11-06T01:43:35.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "faf5fd6a34c0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "WSL, PSC eye local surfing development - Daily Tribune",
+      "snippet": "WSL, PSC eye local surfing development Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nc1gzUzZneFpGWXRtRkxPSzJaMTltTUFndzRkX1U3N0kzazZ1ZXpHVWo1WG52aE12R0M1ZlV0WnNudEZwcWJLcWVTVDYwN3pqbHlPLVlWTUNNTHoxTDdvV19ZMk1fTnlGeXRYTjQ2Zlc0QzVJZGl0Sk51VQ?oc=5",
+      "date": "2026-11-05T21:28:11.000Z",
       "tags": [
         "surf"
       ]
@@ -93,18 +117,6 @@
       "date": "2026-11-05T10:08:26.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "0de5046b7f41",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Maika Monroe Was a World Ranked Kiteboarder Before Acting - Yahoo",
-      "snippet": "Maika Monroe Was a World Ranked Kiteboarder Before Acting Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUhVbFRpZENkMkE1Vkg2SU5UQVhDSktPMVItYjZlMWJyYlpHZHhUS2NGT19UQXdkclhfXy03LU1NbEZkWXk4Ym9CQUtvei05Qy04NmtwMUNSTjROVWtMNk1DanlCRm9MM1AwblRPakNYU240VGFTcjFZZGFoX3RMLTZtUHA2alh0SVBJaUI2elB6cnctTmtGcDVpQjRBYWxh?oc=5",
-      "date": "2026-11-05T09:30:33.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -218,18 +230,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-ozone-goodbye.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "9983557f6f7c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao - ABS-CBN",
-      "snippet": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUkkyaFhtMEVWRjFDS285UjAzT3lhYmJUdkNTd2JVTTdpdWUyR2dfM3d5WlpuMHVOTDJDSnZoem5ITjloNHkzRDRBRm8yQ1RWZzhlUE5PWDZqN2pDSFc4Zi1PeHR3Q0NOR3J4MjFEdzJ6dDNJZWlqYy1fb3RHN2dYZU5BT1hUcGxfVXYyak4zeS1kZ2NuZ3J2WjVPaUF0WlZDSkpfTzRtVXhaODlqNEltZWwtQTBNbC1RNzAzbC1iZW81NHBkYTVlYWRpbkdwbk1ucnRjbWdWUVF6NjQ2bENEZXhzQXBaMTZyOTB2S0EyQ083Rkh6ZlhoZXgxY3RiQQ?oc=5",
-      "date": "2026-11-05T01:13:51.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
