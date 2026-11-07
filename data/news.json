@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:58:06.512Z",
+  "generated_at": "2026-11-07T21:48:16.392Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,76 @@
   },
   "items": [
     {
+      "id": "9a8b865116ca",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gabriel Medina and Caity Simmers Win Philippines Pro, Shake Up World Title Race - Teton Gravity Research",
+      "snippet": "Gabriel Medina and Caity Simmers Win Philippines Pro, Shake Up World Title Race Teton Gravity Research",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OUjhNZGN1cjlkRmxpeGZuMzRqZkYzSjk5YUZ0SlJ5TWdONGEzdUpIR3hkMTctSGpoQ0VDMU9qT1lUanBQek5WUThSbmpTSGZHeFdIWXhxNUtUVGwtVUdmaXpZek9LSUJQdmlCbHhGRFhjTGRpZU1ORw?oc=5",
+      "date": "2026-11-07T18:57:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8a61ec352561",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "PINKY // KPL TEAM BATTLE 2026 presented by Knot Future.",
+      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Isak Petersen. This years KPL Team Battle presented by Knot Future 4th Place “PINKY”. F…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/pinky-kpl-team-battle-2026-presented-by-knot-future/",
+      "date": "2026-11-07T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-25.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c00d49295016",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kite Legends // KPL TEAM BATTLE 2026 presented by Knot Future.",
+      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Anthony Brown & Leo Verrecchia. This years KPL Team Battle presented by Knot Future 3rd…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kite-legends-kpl-team-battle-2026-presented-by-knot-future/",
+      "date": "2026-11-07T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-24.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "3cfee9892ea3",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown - Cape Town ETC",
+      "snippet": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RkJhS0pxWV9QT3lEbWhGZXJBbjRtTkRwajFaOTBlUXpTZlJwaHIxY09hQ1MxZFVBQXAzOV92OVFKX2cyN25fVjROOEZKSlpLZWJOQ2o1VVBOalZsOHJ4OXhQUmtrSHF1dHJITXFoUXRFVHBC?oc=5",
+      "date": "2026-11-07T12:20:19.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "84674f2ce921",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "ITALIAN MAPHIA // KPL TEAM BATTLE 2026 presented by Knot Future.",
+      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Killian Blot. This years KPL Team Battle presented by Knot Future 2nd Place “Italian Ma…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/italian-maphia-kpl-team-battle-2026-presented-by-knot-future/",
+      "date": "2026-11-07T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-23.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "ad0cee37d0ec",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US - News24",
       "snippet": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US News24",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeWM1LUFYWHFEb0tuU2FGNGVZWGNGU2xzdlJzeWNEQllkRWIxU0R5a1hUWEdzR2dRX1Jjd2FwdllldGNISWpQdS1qLWRCSU5WdFluRFhtcEZuVDE4VXhGUXhrRHdHV3RCaUpZQ3pScXBTNEVHb0pwYkJMbE04YmtpbDBNemRlYkMxeTlyRjFtMjRJVGNvZVo5Nk93RU9BRDVtOEMtN3FVVWpzYlFta3NPVnRVTHp0TjdzM196ZWRjS283TzhmUFE0V1JfSVZpQ0NlSU9aeEVhREM?oc=5",
-      "date": "2026-11-07T11:29:03.000Z",
+      "date": "2026-11-07T10:59:03.000Z",
       "tags": [
         "surf"
       ]
@@ -197,19 +260,6 @@
       ]
     },
     {
-      "id": "fd7f555216d1",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Fastest KITEBOARD in the world! #kitesurfing #extreme #tack #kite #watersports #satisfying",
-      "snippet": "We could watch the magic of Alina zipping around on her foil all day long. The post Fastest KITEBOARD in the world! #kitesurfing #extreme #tack #kite #waterspo…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/fastest-kiteboard-in-the-world-kitesurfing-extreme-tack-kite-watersports-satisfying/",
-      "date": "2026-11-05T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-15.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "f48fedf1ad22",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -222,14 +272,13 @@
       ]
     },
     {
-      "id": "5794d5fa51ec",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Fun Kite Sessions in Holland, Lots of Laughs & a Little Bit of Fear | The Diary of a Kitesurf Girl",
-      "snippet": "Zara kitesurfing in Holland before heading to Cape Town! The post Fun Kite Sessions in Holland, Lots of Laughs & a Little Bit of Fear | The Diary of a Kitesurf…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/fun-kite-sessions-in-holland-lots-of-laughs-a-little-bit-of-fear-the-diary-of-a-kitesurf-girl/",
-      "date": "2026-11-05T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-14.jpg",
+      "id": "0de5046b7f41",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Maika Monroe Was a World Ranked Kiteboarder Before Acting - Yahoo",
+      "snippet": "Maika Monroe Was a World Ranked Kiteboarder Before Acting Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUhVbFRpZENkMkE1Vkg2SU5UQVhDSktPMVItYjZlMWJyYlpHZHhUS2NGT19UQXdkclhfXy03LU1NbEZkWXk4Ym9CQUtvei05Qy04NmtwMUNSTjROVWtMNk1DanlCRm9MM1AwblRPakNYU240VGFTcjFZZGFoX3RMLTZtUHA2alh0SVBJaUI2elB6cnctTmtGcDVpQjRBYWxh?oc=5",
+      "date": "2026-11-05T09:30:33.000Z",
       "tags": [
         "kite"
       ]
@@ -247,18 +296,6 @@
       ]
     },
     {
-      "id": "e7d520ebd71c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Australia Targets Back-to-Back World Surfing Gold as Irukandjis Head to Peru - Sportzhub",
-      "snippet": "Australia Targets Back-to-Back World Surfing Gold as Irukandjis Head to Peru Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkxUWkdNNHVibDJHU0FxNjdwVUFYdHRVYnVOSXBuMmNoNXM3TXl2WnhYN1RIWXlPc3dBcXlRRDFpWUhTanI3TDNxeFFIMWpJdUFKZWp6N3lJdjFIQTZVYVlCUkdEcG12Y2VYb3dWWEdFNFpzMDZJTWhhOFFpUkJpNWpLcm9LOEdWQlB4ZjZWX2Fld1otOThpQ216UUJCQjRiSnZJU0g1V2tBTUM2eDI0S0tBYWZxZw?oc=5",
-      "date": "2026-11-05T04:19:43.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "2985cc2bcba6",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -269,31 +306,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "97d804f5e352",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Ozone Says Goodbye to the Hyperlink V4 and Alpha V3 Ultra-X",
-      "snippet": "Two kites, one last chance. Production finishes Monday 16th November. Some kites earn a special place in a rider’s quiver. The one that comes out on the light…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ozone-says-goodbye-to-the-hyperlink-v4-and-alpha-v3-ultra-x/",
-      "date": "2026-11-05T03:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-ozone-goodbye.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "4f283749a24c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "There's A New Global Wave Pool Surf Contest, And Anyone Can Enter - Yahoo Sports",
-      "snippet": "There's A New Global Wave Pool Surf Contest, And Anyone Can Enter Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGdscXVtVFFSa194eUczUG1KN24xMkU1ZDR2YnZ3Y3VHY09rQkViNGJ2c0tRSExHZ1NVdXNVeDJ5LTg5c3BrN2t4TkdfY1R1bHZ2NmRXLUJjbWFJOUdfUFAwUE9saklCc1pqOF92ZDhFdWFsMTlSQk1LZnl1N09ET1lTbw?oc=5",
-      "date": "2026-11-04T23:54:56.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -313,8 +325,8 @@
       "id": "a222c030b984",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - FL Times-Union",
-      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 FL Times-Union",
+      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - The Florida Times-Union",
+      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 The Florida Times-Union",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWJuNk5sRUo0bHRIRkF2VVRDMjFYdnFOamRxZTRlcTJ6c3M2aGJobk0wTHEtOEFpQ2pENTdOcWRrQTJqcjZyZ2dRbmhrSmtaQU0welNTbFBTMmJGRm0zN2VsNFhoMUJNdmdoWGM5RFhpdkxTQUh0N1RJd3EzTEZ4YmlPSU9CZnJFY1BITktzcnFHb3liOHRlakc5Q3oydDluS0dnclVrTE41QzJZQ0g2TXY1aFBfR05wd1ZESkFucWdSVWp6TWVCcC1GSEVpeW9TNThSdTlyQXZhT0o2MFE?oc=5",
       "date": "2026-11-04T11:12:53.000Z",
       "tags": [
@@ -346,6 +358,18 @@
       ]
     },
     {
+      "id": "8f89e8ef3f5d",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air - Red Bull",
+      "snippet": "Red Bull King of the Air Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcm50aXBGWGJtRlQwbnVMV0pGN3htTXRoYUNvLVl4ZHRJeFY1NmgySGgzNk9sZ211TlUxbE1TRGVMWlR5TnUzR01tVzl1MG5oVnpxRVdqNnVkTXhPNlB2THJzSDVKVGpudzRkb3BuLUpybjJURHFiN1FkbEY0T1lWdWFUdw?oc=5",
+      "date": "2026-11-04T08:00:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "af07e0c7c4fe",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -353,30 +377,6 @@
       "snippet": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWtDUHYtNFVvRm4zdEtBanpHOHNDVGRrTGJnWjdhWm1qYW5Yd0FuWWp0RktBYVpBTFhfU25yeEtBNHhIRVgwcE9NeXFhaXlMUVlma2lWcEY2bnE3ZWFaMC12ZGx6Mks4ay1HaVVtekp4M2RJUVRRMkdtUWYxeVdkR2FibEVrVjhvR3pRSTVvZFVwLXROU1duYVI4cnMxR21sNkJaaXYwbHc3XzFRMGQ1OWN5T0FjLVZCU01MR0Z4MV9PVnPSAcgBQVVfeXFMTjdmUS1YbXp5LUg5eFlycG1tc3gwUlVuLVBsSU5wZGFuSUZJZUZXVDlOR0VEUlNfcTMxejVWUExFTFlwSkVPNkE2cVN0RHRrVmNoVUdWRFlvYkZRNHp3YlFBS3FiVndVMEw5ZlJoQlFhZ1JhQ041RGhsbm92MTBRZnIxdi1LcTJMdnB4OEUxbElwelNZckZQc0lmOFVJU1VLaEdXdThHTmNKNk1uS3l0Z2FKRnpxZXA3U2ZZMnFWNGFnUWtSS0tsZlU?oc=5",
       "date": "2026-11-04T07:08:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "b4c32c860a50",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Medina, Simmers Make Surfing History With Inaugural Siargao Pro Titles - Sports Bytes Philippines",
-      "snippet": "Medina, Simmers Make Surfing History With Inaugural Siargao Pro Titles Sports Bytes Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWNFUWFMeHFtLTVVdERwODl2bThPNnNfbEJFOEVaQjJTT0ZpNkU5bmxaUXVkZ0tqZjFZeVBCSEhMb0lwWlhIcUtla1o2UjJSNkNhNXROMmIzUHNZZGxHWjREWExUeGJUa1NPblFyQVExTkFvcTRXVHNhVm1kbFcxU216VmJhWWVfR0VCNWdKZDRVb05lU1V1NVl3?oc=5",
-      "date": "2026-11-03T20:29:19.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "961b7a6bed61",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Controversial Priority Call Stuns Carissa Moore, Propels Caity Simmers at Philippines Pro (Video) - Yahoo Sports",
-      "snippet": "Controversial Priority Call Stuns Carissa Moore, Propels Caity Simmers at Philippines Pro (Video) Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU5feE9aUFd4Q3JRazZhMjFyOGhTVHVzWGktNkRHdDFLdmMycVNmSTRvMFk3YjI3d1h5M0FjZWNoOGUwRWFEWlNpMXkwc0ZHcUNlS29FeXZOVWNmMUFUS210anM0Z2dSSmFzZGJDWU9WMTFnN0dsLTVMMW9LZ1JUZWZjam1Wb3pkam5YQXFVcDhaMjVU?oc=5",
-      "date": "2026-11-03T20:22:53.000Z",
       "tags": [
         "surf"
       ]
