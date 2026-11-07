@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:56:26.691Z",
+  "generated_at": "2026-11-07T12:58:06.512Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,55 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "ad0cee37d0ec",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US - News24",
+      "snippet": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US News24",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeWM1LUFYWHFEb0tuU2FGNGVZWGNGU2xzdlJzeWNEQllkRWIxU0R5a1hUWEdzR2dRX1Jjd2FwdllldGNISWpQdS1qLWRCSU5WdFluRFhtcEZuVDE4VXhGUXhrRHdHV3RCaUpZQ3pScXBTNEVHb0pwYkJMbE04YmtpbDBNemRlYkMxeTlyRjFtMjRJVGNvZVo5Nk93RU9BRDVtOEMtN3FVVWpzYlFta3NPVnRVTHp0TjdzM196ZWRjS283TzhmUFE0V1JfSVZpQ0NlSU9aeEVhREM?oc=5",
+      "date": "2026-11-07T11:29:03.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "9e897d969d89",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "El Tunco Beach hosts WSL juniors from 25 November - ad-hoc-news.de",
+      "snippet": "El Tunco Beach hosts WSL juniors from 25 November ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW5GbG5UZThrTG9pdVEwd2w0MHJxdXYwTXFCb05DUnd1QjRXb1M5QjE0Y0ZsSGNOVTgwRVBJckpNZGtiRnFpd2NkV29CeWU2X3BTMndfaXRvaTF3dkEzdVJUX2lXT29Bb09YRXpqcFVTRHFEMFQ0UUJPZExxeXdBQzZHOE5FTURaNjNZUko1Qi1iWmZmTHp4cmU5NXlEUC1abVA1OEpIVWY?oc=5",
+      "date": "2026-11-07T09:00:59.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3d578efe829b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Polish Kite Mafia // KPL TEAM BATTLE 2026 presented by Knot Future.",
+      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. This years KPL Team Battle presented by Knot Future 5th Place “Polish Kite Mafia”. Featuring Woj…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/polish-kite-mafia-kpl-team-battle-2026-presented-by-knot-future/",
+      "date": "2026-11-07T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-22.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "442265effbaf",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp - The West Australian",
+      "snippet": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWZ1OUhnUExhQUhuT0lQY0FrVGFsU0xUS0NuR1U4M2t2X3VkY0RxXzJSRnpfMWluZ3dFQnBaTHdnX0FrSkp4SmV6RzZzWHY1c2NjRmt5RFZkQmZHdEotSm9yeS1KOW1nZG9nRlpzVXBVb24xT0YtSUtmeE1oVnVNT0VhMlVhNDF0OFgyUGdvTDFfN0FKQV9lNktOaUJvLTNZNDNDSmpRX2VsWDJCMldQUXRRamdpajItUG5iZVJjRHJVbm4zR3B1ZVhaM1ZjSHpieldhbU95Rmp4TkMyajNwN1dVelNJLWs?oc=5",
+      "date": "2026-11-07T07:08:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "5436fe005f7a",
       "source": "iksurfmag",
@@ -198,18 +247,6 @@
       ]
     },
     {
-      "id": "65ad8036294e",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Inaugural X-15 Wingfoil World Championships - Day 1 - Sail-World.com",
-      "snippet": "Inaugural X-15 Wingfoil World Championships - Day 1 Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1dkcWN2cmxJTmx4SkN1Ni14Ql96YUtNQ0JQWlZkczJFZ1hHU1k3TzNsbUU4dnh6bjhQeWNxRkxhRnptU2lSTnIwN3dOQ0RnZUF4R1pfTzlZYjFEakxudFozSlZwQVpuV2V3eEZvS05QTmFVNWRxX3RJMGFGTGJnZw?oc=5",
-      "date": "2026-11-05T05:46:00.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
       "id": "e7d520ebd71c",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -248,25 +285,12 @@
       ]
     },
     {
-      "id": "9eff3e59fded",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Mystic: Built for the Cold, Ready for Anything",
-      "snippet": "Complete your cold-water setup with neoprene hoods, boots and gloves. When the temperature drops, your session doesn’t have to stop. Gear up with Mystic neopre…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/built-for-the-cold-ready-for-anything/",
-      "date": "2026-11-05T00:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/06-mystic-cold-water.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9faba4cf7553",
+      "id": "4f283749a24c",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter - SURFER Magazine",
-      "snippet": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTBoR1hVN2JYRTJDZ3FfREUxSjR3VVNPczhHWEVCeXBPYWdTbVBGM1puMnlSMk9HV01yaFc2OW0waE02VE1qQkpObmlMamtFN1Y0X3I3Xy1YdXFCUllycUJTa3p0TW5UanlSeFM0R3BmM3F6T05QRFZqWml6VzhsNWFJRVQ?oc=5",
+      "title": "There's A New Global Wave Pool Surf Contest, And Anyone Can Enter - Yahoo Sports",
+      "snippet": "There's A New Global Wave Pool Surf Contest, And Anyone Can Enter Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGdscXVtVFFSa194eUczUG1KN24xMkU1ZDR2YnZ3Y3VHY09rQkViNGJ2c0tRSExHZ1NVdXNVeDJ5LTg5c3BrN2t4TkdfY1R1bHZ2NmRXLUJjbWFJOUdfUFAwUE9saklCc1pqOF92ZDhFdWFsMTlSQk1LZnl1N09ET1lTbw?oc=5",
       "date": "2026-11-04T23:54:56.000Z",
       "tags": [
         "surf"
@@ -355,30 +379,6 @@
       "date": "2026-11-03T20:22:53.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "8e811e8cdbe1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "PUNTA ROCAS WILL HOST THE 2026 ISA WORLD SURFING GAMES, AND YOU CAN WATCH IT ON THE PANAM SPORTS CHANNEL - Panam Sports",
-      "snippet": "PUNTA ROCAS WILL HOST THE 2026 ISA WORLD SURFING GAMES, AND YOU CAN WATCH IT ON THE PANAM SPORTS CHANNEL Panam Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQXlETHNOT2VIT2FMLXFaTjIySjd0RFRWVmdTLU9GSEhkb0MwWGpTNUhZUkFWNlFZTEptOW5zc0QzQ3kxX3gxMjFtbmtnUEdzMW12VnZnUG51cWhtTHFmeVE5TEZSVndyaWtZVVR0dFlNRnlwc29NZXhBMlAwTlczVmJTb0VtUnJOLTJUTm9xOTNaeHhnTjVPOGZ6bUtuQ2VLTnREM3gzSV9QZk8tRjR6WEMyb2NzTFFiajlYWG00LTFocnlMR0NMYUxDZENUNnhBcWdNVm4wZEs0Z09vRko4?oc=5",
-      "date": "2026-11-03T16:06:14.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "502536ee47e9",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: the rider list is confirmed - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: the rider list is confirmed Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pbUFfME9CblpQb3AtUWNJbVJXSU0wNFZHZDBxMGRobVo4c2pTVHZ5WHk5M3pEUGQ2UHlMVTI1WExzQXNWczRpMWU1bmtQd0g4M0dFelJmRFRJamdOVjl1NlFnNURzeHR1NVc3X19jdTNGTVRvd2tScF9B?oc=5",
-      "date": "2026-11-03T11:38:56.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
