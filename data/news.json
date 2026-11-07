@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:23:12.052Z",
+  "generated_at": "2026-11-07T05:56:26.691Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "5436fe005f7a",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Jacksons Five // KPL TEAM BATTLE 2026 presented by Knot Future.",
+      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Ramiro Gallart. This years KPL Team Battle presented by Knot Future Winner “Jacksons Fi…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/jacksons-five-kpl-team-battle-2026-presented-by-knot-future/",
+      "date": "2026-11-06T21:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-21.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "89993b5733ed",
       "source": "google_surf",
@@ -97,18 +110,6 @@
       ]
     },
     {
-      "id": "5af9936fa516",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "This Mexican Beach Town Just Became the Country’s First Official \"Surf City\" - Caribbean Journal",
-      "snippet": "This Mexican Beach Town Just Became the Country’s First Official \"Surf City\" Caribbean Journal",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YYkk2VHVpQWdPcFRnVW53M0U2ck9IbWpQQ0pYYjZCdVR1T2Y0REMzZkdEX3o3V2E3WHY0cW9vNjNDbUhLRWwtR0NwUHk3a2xLOTkyVFU4Y0FmMHRZZ3U5SjR1ZkZUajBtOWJscjIzQ2hHY2M?oc=5",
-      "date": "2026-11-06T01:43:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "faf5fd6a34c0",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -144,18 +145,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-16.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "7e9f3dbd20da",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" - Olympic Channel",
-      "snippet": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" Olympic Channel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajAtbzFaNTlkWXFtX191OElJRTJfd0lwV1ZKbHp0X3lhS1k3TXdYU2ZkbS1KNHhxSzV0enV2Y3VmbWhVUFpoRjZ6M041ZFB3cTNlVG9YQ3VIRXA1UGo4RkExNUwxOV9qUGNfT0htRGxhVDd5eUJIQktYemxMUXFmMjJ2TjZMUk1lMTlxbHVWT0k4RE5ESWZSNkppVk1XVFFy?oc=5",
-      "date": "2026-11-05T14:53:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -284,18 +273,6 @@
       ]
     },
     {
-      "id": "214f646f53a1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Wavepool Surf Tour Launches Event That Anyone Can Enter for $10 - The Inertia",
-      "snippet": "Wavepool Surf Tour Launches Event That Anyone Can Enter for $10 The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2VGcjVkZWtYaHJ5dlc4N1V3aTRfclBvNzl4SWdoN1FOeFlTb01wbGN5dUJ5QUF0WDJEUHZwVWtqNHBCRjZzY2hHMmZSMENQR095cC1EYnZ4UXpCNVZ0UlR0dVFUZy00bWRYd2Y1NXIyaXl0WkVUS3hmb0dlUF9wbQ?oc=5",
-      "date": "2026-11-04T22:19:02.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "781947c93936",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -306,19 +283,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/crazy-finals-day-at-the-pwa-foil-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "7a531607b6e8",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Meet Antoine Ollivier",
-      "snippet": "Power, precision, pinnacle of style Meet Ride Engine team athlete Antoine Ollivier. From his first sessions at Îlot Maître in New Caledonia to setting his sigh…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/meet-antoine-ollivier/",
-      "date": "2026-11-04T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/04-antoine-ollivier.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -379,6 +343,42 @@
       "date": "2026-11-03T20:29:19.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "961b7a6bed61",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Controversial Priority Call Stuns Carissa Moore, Propels Caity Simmers at Philippines Pro (Video) - Yahoo Sports",
+      "snippet": "Controversial Priority Call Stuns Carissa Moore, Propels Caity Simmers at Philippines Pro (Video) Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU5feE9aUFd4Q3JRazZhMjFyOGhTVHVzWGktNkRHdDFLdmMycVNmSTRvMFk3YjI3d1h5M0FjZWNoOGUwRWFEWlNpMXkwc0ZHcUNlS29FeXZOVWNmMUFUS210anM0Z2dSSmFzZGJDWU9WMTFnN0dsLTVMMW9LZ1JUZWZjam1Wb3pkam5YQXFVcDhaMjVU?oc=5",
+      "date": "2026-11-03T20:22:53.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "8e811e8cdbe1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "PUNTA ROCAS WILL HOST THE 2026 ISA WORLD SURFING GAMES, AND YOU CAN WATCH IT ON THE PANAM SPORTS CHANNEL - Panam Sports",
+      "snippet": "PUNTA ROCAS WILL HOST THE 2026 ISA WORLD SURFING GAMES, AND YOU CAN WATCH IT ON THE PANAM SPORTS CHANNEL Panam Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQXlETHNOT2VIT2FMLXFaTjIySjd0RFRWVmdTLU9GSEhkb0MwWGpTNUhZUkFWNlFZTEptOW5zc0QzQ3kxX3gxMjFtbmtnUEdzMW12VnZnUG51cWhtTHFmeVE5TEZSVndyaWtZVVR0dFlNRnlwc29NZXhBMlAwTlczVmJTb0VtUnJOLTJUTm9xOTNaeHhnTjVPOGZ6bUtuQ2VLTnREM3gzSV9QZk8tRjR6WEMyb2NzTFFiajlYWG00LTFocnlMR0NMYUxDZENUNnhBcWdNVm4wZEs0Z09vRko4?oc=5",
+      "date": "2026-11-03T16:06:14.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "502536ee47e9",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: the rider list is confirmed - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: the rider list is confirmed Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pbUFfME9CblpQb3AtUWNJbVJXSU0wNFZHZDBxMGRobVo4c2pTVHZ5WHk5M3pEUGQ2UHlMVTI1WExzQXNWczRpMWU1bmtQd0g4M0dFelJmRFRJamdOVjl1NlFnNURzeHR1NVc3X19jdTNGTVRvd2tScF9B?oc=5",
+      "date": "2026-11-03T11:38:56.000Z",
+      "tags": [
+        "kite"
       ]
     }
   ]
