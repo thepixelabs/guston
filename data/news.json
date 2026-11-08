@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:22:26.189Z",
+  "generated_at": "2026-11-08T22:02:21.582Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,51 @@
   },
   "items": [
     {
-      "id": "a7d1ea3e52e0",
+      "id": "33349e8ad138",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Inaugural X-15 Wingfoil World Championships - Overall - Sail-World.com",
+      "snippet": "Inaugural X-15 Wingfoil World Championships - Overall Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0dJMEVTMlczTmM3LWZ2LVliZW1DVUpYQ1dQNC1WamRmeUN4VXBpV3NWTC1XNDhIRjVOZFNmNC1TeG5YcldRR0gxTWU4SmRNYWxHZ28yS3VJYjVHR3V4RzJlUVBPa3BLaTY2X3M5aEp2eGQwTWdQWk96MGJ3RDY5UmNDNA?oc=5",
+      "date": "2026-11-08T21:57:00.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "ecb1689ae69b",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Claiming it, and rightly so! ‍ #kiteboarding #gkakiteworldtour #kitesurfing #sylt #gka",
+      "snippet": "If it’s legit then you’ve got to claim it! The post Claiming it, and rightly so! ‍ #kiteboarding #gkakiteworldtour #kitesurfing #sylt #gka first appeared on IK…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/claiming-it-and-rightly-so-kiteboarding-gkakiteworldtour-kitesurfing-sylt-gka/",
+      "date": "2026-11-08T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-29.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "9c3b14d6df4d",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "U-nidentified F-lying O-verbeek",
+      "snippet": "UFO… Unidentified Flying Overbeek! The post U-nidentified F-lying O-verbeek first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/u-nidentified-f-lying-o-verbeek/",
+      "date": "2026-11-08T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-28.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "19f72ef361e4",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "HOMESTRETCH: Surfing legends make history in Siargao The top 40 surfers in the world made Siargao a global stage. As the Philippines hosted the 11th stop of the World Surf League’s 2026 Championship Tour for the first time, the best international surfers - Facebook",
-      "snippet": "HOMESTRETCH: Surfing legends make history in Siargao The top 40 surfers in the world made Siargao a global stage. As the Philippines hosted the 11th stop of th…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHNhYnpvVC1wVGlTTUc4a0NyTExEMVdRbG5jRWJ3TzVTWkhNY1NXOWVkbXQ5TGpkX29mZVdTYnVuX2hyVnZEbmQ5dUJ3c0lkVHl5ZVZzNUJZSkVOa2ZpdFhiQTdDNDlGMEs2QVk1YW0tcFFIWG5kRGtXTHN0aE5aRlRzcWJZeVg5OU5pQTJKZEptWU1ISWZzdHM5THhWR2hzUXBQX0pPXzNNdWROWDY3NHVCcVk2QXBBNUM4ZlN5Q2FPNTl4SThtclhBV2VVVnhMYXZiOHFzOEtsNWs?oc=5",
-      "date": "2026-11-08T12:26:39.000Z",
+      "title": "Aaya's domination ended by 9-year-old Aaliyah - Edition.mv",
+      "snippet": "Aaya's domination ended by 9-year-old Aaliyah Edition.mv",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWx4a1JSaUNoVGRDVFpwTHpVTV9UQWlNLUJyRjRBTWdPYkZTTEpLTjlwam5xd0VXYUh4X1FoVVZNNGdyZERwby1FVjFUWUxMLU81WTZB?oc=5",
+      "date": "2026-11-08T13:02:23.000Z",
       "tags": [
         "surf"
       ]
@@ -34,13 +72,13 @@
       ]
     },
     {
-      "id": "19f72ef361e4",
+      "id": "7c6add6e0281",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Aaya's domination ended by 9-year-old Aaliyah - Edition.mv",
-      "snippet": "Aaya's domination ended by 9-year-old Aaliyah Edition.mv",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWx4a1JSaUNoVGRDVFpwTHpVTV9UQWlNLUJyRjRBTWdPYkZTTEpLTjlwam5xd0VXYUh4X1FoVVZNNGdyZERwby1FVjFUWUxMLU81WTZB?oc=5",
-      "date": "2026-11-08T10:22:20.000Z",
+      "title": "HOMESTRETCH: Surfing legends make history in Siargao - Rappler",
+      "snippet": "HOMESTRETCH: Surfing legends make history in Siargao Rappler",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaG40MnBPNW9BMUw3MnpCeXFtSHBpYUVNTVF4N0V2UmoxVllMVXpHWnBqVVMxS2NXYVJQRkRhZ2FfRElYLS1wbVRpaDhmZWl3UWdHUGtkcFc1eTdhOTVYbUx4Rk54RXNJcTN6bVZJb3JROEEyMFVpaXp2eHJTOUlrcTF5SC1RbmJ0WndkYW5Rbzd0ajctQVJPbFYzb1FaWWlDdzdjTzB4d3dtZw?oc=5",
+      "date": "2026-11-08T10:43:30.000Z",
       "tags": [
         "surf"
       ]
@@ -110,18 +148,6 @@
       ]
     },
     {
-      "id": "3cfee9892ea3",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown - Cape Town ETC",
-      "snippet": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown Cape Town ETC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RkJhS0pxWV9QT3lEbWhGZXJBbjRtTkRwajFaOTBlUXpTZlJwaHIxY09hQ1MxZFVBQXAzOV92OVFKX2cyN25fVjROOEZKSlpLZWJOQ2o1VVBOalZsOHJ4OXhQUmtrSHF1dHJITXFoUXRFVHBC?oc=5",
-      "date": "2026-11-07T12:20:19.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "84674f2ce921",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -147,18 +173,6 @@
       ]
     },
     {
-      "id": "9e897d969d89",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "El Tunco Beach hosts WSL juniors from 25 November - ad-hoc-news.de",
-      "snippet": "El Tunco Beach hosts WSL juniors from 25 November ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW5GbG5UZThrTG9pdVEwd2w0MHJxdXYwTXFCb05DUnd1QjRXb1M5QjE0Y0ZsSGNOVTgwRVBJckpNZGtiRnFpd2NkV29CeWU2X3BTMndfaXRvaTF3dkEzdVJUX2lXT29Bb09YRXpqcFVTRHFEMFQ0UUJPZExxeXdBQzZHOE5FTURaNjNZUko1Qi1iWmZmTHp4cmU5NXlEUC1abVA1OEpIVWY?oc=5",
-      "date": "2026-11-07T09:00:59.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "3d578efe829b",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -169,18 +183,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-22.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "442265effbaf",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp - The West Australian",
-      "snippet": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp The West Australian",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWZ1OUhnUExhQUhuT0lQY0FrVGFsU0xUS0NuR1U4M2t2X3VkY0RxXzJSRnpfMWluZ3dFQnBaTHdnX0FrSkp4SmV6RzZzWHY1c2NjRmt5RFZkQmZHdEotSm9yeS1KOW1nZG9nRlpzVXBVb24xT0YtSUtmeE1oVnVNT0VhMlVhNDF0OFgyUGdvTDFfN0FKQV9lNktOaUJvLTNZNDNDSmpRX2VsWDJCMldQUXRRamdpajItUG5iZVJjRHJVbm4zR3B1ZVhaM1ZjSHpieldhbU95Rmp4TkMyajNwN1dVelNJLWs?oc=5",
-      "date": "2026-11-07T07:08:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -235,19 +237,6 @@
       ]
     },
     {
-      "id": "251ab5c8dc40",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "300KM DOWNWINDER IN BRAZIL – MISSION 3.0",
-      "snippet": "300 kilometres of downwinding in Brazil! The post 300KM DOWNWINDER IN BRAZIL – MISSION 3.0 first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/300km-downwinder-in-brazil-mission-3-0/",
-      "date": "2026-11-06T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-19.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "38323473e104",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -255,19 +244,6 @@
       "snippet": "Graham Howes' mother questions what really happened to her son Briefly News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTJIQXdQSFZsM2cxaGZVeFFrZzF6STBhUXhKdHcxYkFmQXFjUHE2Tm9JZlRqSVo0WnZnbTR5TFZJY1VDOEhhUGItYjNmcC1VU1hLcXlPVWs2UEJVV3QxZlYxTGZ5aHF5cUloREtEOXgtcUlidVZtUkU0SkVXd0FZamFOZk5pckx0XzJmMkZVSUpWOXhKbzB0aC1uZw?oc=5",
       "date": "2026-11-06T11:04:52.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f43888bb0c16",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sunset with a twist‍",
-      "snippet": "Sunset with a twist… or more! The post Sunset with a twist‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sunset-with-a-twist/",
-      "date": "2026-11-06T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-18.jpg",
       "tags": [
         "kite"
       ]
@@ -321,18 +297,6 @@
       ]
     },
     {
-      "id": "0de5046b7f41",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Maika Monroe Was a World Ranked Kiteboarder Before Acting - Yahoo",
-      "snippet": "Maika Monroe Was a World Ranked Kiteboarder Before Acting Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUhVbFRpZENkMkE1Vkg2SU5UQVhDSktPMVItYjZlMWJyYlpHZHhUS2NGT19UQXdkclhfXy03LU1NbEZkWXk4Ym9CQUtvei05Qy04NmtwMUNSTjROVWtMNk1DanlCRm9MM1AwblRPakNYU240VGFTcjFZZGFoX3RMLTZtUHA2alh0SVBJaUI2elB6cnctTmtGcDVpQjRBYWxh?oc=5",
-      "date": "2026-11-05T09:30:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "2985cc2bcba6",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -343,6 +307,18 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "9faba4cf7553",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter - SURFER Magazine",
+      "snippet": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTBoR1hVN2JYRTJDZ3FfREUxSjR3VVNPczhHWEVCeXBPYWdTbVBGM1puMnlSMk9HV01yaFc2OW0waE02VE1qQkpObmlMamtFN1Y0X3I3Xy1YdXFCUllycUJTa3p0TW5UanlSeFM0R3BmM3F6T05QRFZqWml6VzhsNWFJRVQ?oc=5",
+      "date": "2026-11-04T23:54:56.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -371,6 +347,18 @@
       ]
     },
     {
+      "id": "d6195e20e5f3",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gregorio raves about successful WSL hosting - Daily Tribune",
+      "snippet": "Gregorio raves about successful WSL hosting Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHFBNFBDT1o0N1Vzd3N5c2oydTZILWphX2RfNFFxd3lDdjZZSDJtdHVqVnRfVmhrcDg3cGxkRjQ1T0MtQXhnaFNWV0FsclJhZW45ZkRqeGg3cU5tZ0RYSkJCLWc1NmkxY1dkSkdYb1FqY2l2NUhtUFdjcnlGSEVUb25Icw?oc=5",
+      "date": "2026-11-04T18:43:58.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "a222c030b984",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -380,6 +368,18 @@
       "date": "2026-11-04T11:12:53.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "da60308fa234",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions - News24",
+      "snippet": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions News24",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVlaS0dsMlBQb2NMLTFaYlRqNFctbnBDWmF1cFZvRGFyb05KYm9zRHdhb3BYV0lydlByU3NyS1dQd0RUVjd4LWV1SkRpMUd0OVJ5WW10Rlk0UkFuNjZRckdtT0tOQnYyUjV1aTZHek5QWU04azgzVHlTUzhDWWN1ZmN6ZEJWbnRtX1dwOTRGZG1oVjViRDdDcmlzVG1PR2Q0Z1BZYWFzc2Z2Z0p0bXNOVVZ4LWliaUxWV0dhQU5NQWpWR3licWs1RF9qdnhNSk5WVlBrRXJqVEEtX2RUU2d5UUhZc2t1LVRla2Z3?oc=5",
+      "date": "2026-11-04T10:27:15.000Z",
+      "tags": [
+        "kite"
       ]
     }
   ]
