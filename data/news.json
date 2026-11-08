@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:48:16.392Z",
+  "generated_at": "2026-11-08T05:58:22.621Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "33271e487ac8",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PWA CHINA FOILSTLYE: HISTORY IN THE MAKING!",
+      "snippet": "PWA CHINA FOILSTLYE: HISTORY IN THE MAKING! PWA CHINA FOILSTLYE: HISTORY IN THE MAKING! Thirteen riders headed to China for the 2026 Shanghai Freestyle Foil In…",
+      "url": "https://www.windsurf.co.uk/pwa-china-foilstlye-history-in-the-making/",
+      "date": "2026-11-07T23:34:30.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/pwa-china-foilstlye-history-in-t-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "9a8b865116ca",
       "source": "google_surf",
@@ -78,7 +91,7 @@
       "title": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US - News24",
       "snippet": "He lost his legs as a baby, but SA’s para surfing champ now flies our flag in the US News24",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeWM1LUFYWHFEb0tuU2FGNGVZWGNGU2xzdlJzeWNEQllkRWIxU0R5a1hUWEdzR2dRX1Jjd2FwdllldGNISWpQdS1qLWRCSU5WdFluRFhtcEZuVDE4VXhGUXhrRHdHV3RCaUpZQ3pScXBTNEVHb0pwYkJMbE04YmtpbDBNemRlYkMxeTlyRjFtMjRJVGNvZVo5Nk93RU9BRDVtOEMtN3FVVWpzYlFta3NPVnRVTHp0TjdzM196ZWRjS283TzhmUFE0V1JfSVZpQ0NlSU9aeEVhREM?oc=5",
-      "date": "2026-11-07T10:59:03.000Z",
+      "date": "2026-11-07T10:59:33.000Z",
       "tags": [
         "surf"
       ]
@@ -284,18 +297,6 @@
       ]
     },
     {
-      "id": "70c7b291dcec",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Where wind meets water, these adventure-seekers soar - Your Observer",
-      "snippet": "Where wind meets water, these adventure-seekers soar Your Observer",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzZSTmh5dDJEWDhyc25udzZ3R2NwdjdmM283eG43RkYxOUpHWVdyd2hYVjE2bzg0Zml1OC1rMTg2RUVnYlF5aG1hM0drWEMtb25PZHRnc0pGZ21ZbFZyQXRTdE1wdXNoZXpDd0tGVm9DOHlROFNRTDlfVmtHM3RZXzJ3?oc=5",
-      "date": "2026-11-05T09:00:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "2985cc2bcba6",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -306,6 +307,18 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "6564f25a6cb4",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "First X-15 Wingfoil World Championship opens in Ibiza - Sailweb",
+      "snippet": "First X-15 Wingfoil World Championship opens in Ibiza Sailweb",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG1vSlNFSmtlZE9XSE5nVGJwWXNzNTFnMU53U3hOM09GazU0V1ROb2stNi02NS1nQUJ6WmpHYW9NRFk5YUlUSmtDSjNlYkZrVmdxNGhrc1F6bno2d2xlME54dGc3Rm9FNWNjVkZRSjFwOGF2SDF2Sjh4QjB5WUZKR0U3VlpESGpfZGU4aXlKV0Jhc2VHcEE?oc=5",
+      "date": "2026-11-04T23:36:55.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -325,8 +338,8 @@
       "id": "a222c030b984",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - The Florida Times-Union",
-      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 The Florida Times-Union",
+      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - FL Times-Union",
+      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 FL Times-Union",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWJuNk5sRUo0bHRIRkF2VVRDMjFYdnFOamRxZTRlcTJ6c3M2aGJobk0wTHEtOEFpQ2pENTdOcWRrQTJqcjZyZ2dRbmhrSmtaQU0welNTbFBTMmJGRm0zN2VsNFhoMUJNdmdoWGM5RFhpdkxTQUh0N1RJd3EzTEZ4YmlPSU9CZnJFY1BITktzcnFHb3liOHRlakc5Q3oydDluS0dnclVrTE41QzJZQ0g2TXY1aFBfR05wd1ZESkFucWdSVWp6TWVCcC1GSEVpeW9TNThSdTlyQXZhT0o2MFE?oc=5",
       "date": "2026-11-04T11:12:53.000Z",
       "tags": [
@@ -367,18 +380,6 @@
       "date": "2026-11-04T08:00:00.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "af07e0c7c4fe",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports - The Manila Times",
-      "snippet": "Gregorio: Siargao WSL stop a historic breakthrough for Philippine sports The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWtDUHYtNFVvRm4zdEtBanpHOHNDVGRrTGJnWjdhWm1qYW5Yd0FuWWp0RktBYVpBTFhfU25yeEtBNHhIRVgwcE9NeXFhaXlMUVlma2lWcEY2bnE3ZWFaMC12ZGx6Mks4ay1HaVVtekp4M2RJUVRRMkdtUWYxeVdkR2FibEVrVjhvR3pRSTVvZFVwLXROU1duYVI4cnMxR21sNkJaaXYwbHc3XzFRMGQ1OWN5T0FjLVZCU01MR0Z4MV9PVnPSAcgBQVVfeXFMTjdmUS1YbXp5LUg5eFlycG1tc3gwUlVuLVBsSU5wZGFuSUZJZUZXVDlOR0VEUlNfcTMxejVWUExFTFlwSkVPNkE2cVN0RHRrVmNoVUdWRFlvYkZRNHp3YlFBS3FiVndVMEw5ZlJoQlFhZ1JhQ041RGhsbm92MTBRZnIxdi1LcTJMdnB4OEUxbElwelNZckZQc0lmOFVJU1VLaEdXdThHTmNKNk1uS3l0Z2FKRnpxZXA3U2ZZMnFWNGFnUWtSS0tsZlU?oc=5",
-      "date": "2026-11-04T07:08:00.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
