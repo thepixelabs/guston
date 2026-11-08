@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:58:22.621Z",
+  "generated_at": "2026-11-08T13:22:26.189Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,56 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "a7d1ea3e52e0",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "HOMESTRETCH: Surfing legends make history in Siargao The top 40 surfers in the world made Siargao a global stage. As the Philippines hosted the 11th stop of the World Surf League’s 2026 Championship Tour for the first time, the best international surfers - Facebook",
+      "snippet": "HOMESTRETCH: Surfing legends make history in Siargao The top 40 surfers in the world made Siargao a global stage. As the Philippines hosted the 11th stop of th…",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHNhYnpvVC1wVGlTTUc4a0NyTExEMVdRbG5jRWJ3TzVTWkhNY1NXOWVkbXQ5TGpkX29mZVdTYnVuX2hyVnZEbmQ5dUJ3c0lkVHl5ZVZzNUJZSkVOa2ZpdFhiQTdDNDlGMEs2QVk1YW0tcFFIWG5kRGtXTHN0aE5aRlRzcWJZeVg5OU5pQTJKZEptWU1ISWZzdHM5THhWR2hzUXBQX0pPXzNNdWROWDY3NHVCcVk2QXBBNUM4ZlN5Q2FPNTl4SThtclhBV2VVVnhMYXZiOHFzOEtsNWs?oc=5",
+      "date": "2026-11-08T12:26:39.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ef2ace519366",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Remove the Safety Handle on a Kitesurfing Harness (Step-by-Step)",
+      "snippet": "Want to remove the safety handle from your kitesurfing harness, or replace it with a new one? Learn how to remove and reattach the safety handle step by step,…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-remove-the-safety-handle-on-a-kitesurfing-harness-step-by-step/",
+      "date": "2026-11-08T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-27.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "19f72ef361e4",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Aaya's domination ended by 9-year-old Aaliyah - Edition.mv",
+      "snippet": "Aaya's domination ended by 9-year-old Aaliyah Edition.mv",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWx4a1JSaUNoVGRDVFpwTHpVTV9UQWlNLUJyRjRBTWdPYkZTTEpLTjlwam5xd0VXYUh4X1FoVVZNNGdyZERwby1FVjFUWUxMLU81WTZB?oc=5",
+      "date": "2026-11-08T10:22:20.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "921b599cebad",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Storm Chasing in The Netherlands | 30m jump!",
+      "snippet": "Storm Boelo hit the Dutch coast! . Filmed during extreme weather conditions, this video captures a unique day of professional kiteboarding footage, featuring d…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/storm-chasing-in-the-netherlands-30m-jump/",
+      "date": "2026-11-08T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-26.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "33271e487ac8",
       "source": "windsurf_uk",
@@ -247,29 +297,15 @@
       ]
     },
     {
-      "id": "ed2570574a67",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Golden waves, zero complaints‍",
-      "snippet": "Golden hour in the lineup… The post Golden waves, zero complaints‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/golden-waves-zero-complaints/",
-      "date": "2026-11-05T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-17.jpg",
+      "id": "7e9f3dbd20da",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" - Olympic Channel",
+      "snippet": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" Olympic Channel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajAtbzFaNTlkWXFtX191OElJRTJfd0lwV1ZKbHp0X3lhS1k3TXdYU2ZkbS1KNHhxSzV0enV2Y3VmbWhVUFpoRjZ6M041ZFB3cTNlVG9YQ3VIRXA1UGo4RkExNUwxOV9qUGNfT0htRGxhVDd5eUJIQktYemxMUXFmMjJ2TjZMUk1lMTlxbHVWT0k4RE5ESWZSNkppVk1XVFFy?oc=5",
+      "date": "2026-11-05T14:53:00.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "988fef013deb",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "BIG FLIGHTS SNOWKITE",
-      "snippet": "Some big flights are on the forecast, winter is creeping up on us fast! The post BIG FLIGHTS SNOWKITE first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/big-flights-snowkite/",
-      "date": "2026-11-05T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-16.jpg",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -344,42 +380,6 @@
       "date": "2026-11-04T11:12:53.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "da60308fa234",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions - News24",
-      "snippet": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions News24",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVlaS0dsMlBQb2NMLTFaYlRqNFctbnBDWmF1cFZvRGFyb05KYm9zRHdhb3BYV0lydlByU3NyS1dQd0RUVjd4LWV1SkRpMUd0OVJ5WW10Rlk0UkFuNjZRckdtT0tOQnYyUjV1aTZHek5QWU04azgzVHlTUzhDWWN1ZmN6ZEJWbnRtX1dwOTRGZG1oVjViRDdDcmlzVG1PR2Q0Z1BZYWFzc2Z2Z0p0bXNOVVZ4LWliaUxWV0dhQU5NQWpWR3licWs1RF9qdnhNSk5WVlBrRXJqVEEtX2RUU2d5UUhZc2t1LVRla2Z3?oc=5",
-      "date": "2026-11-04T10:27:15.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9983557f6f7c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao - ABS-CBN",
-      "snippet": "Andi Eigenmann celebrates Philippine surfing milestone as WSL Championship Tour comes to Siargao ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUkkyaFhtMEVWRjFDS285UjAzT3lhYmJUdkNTd2JVTTdpdWUyR2dfM3d5WlpuMHVOTDJDSnZoem5ITjloNHkzRDRBRm8yQ1RWZzhlUE5PWDZqN2pDSFc4Zi1PeHR3Q0NOR3J4MjFEdzJ6dDNJZWlqYy1fb3RHN2dYZU5BT1hUcGxfVXYyak4zeS1kZ2NuZ3J2WjVPaUF0WlZDSkpfTzRtVXhaODlqNEltZWwtQTBNbC1RNzAzbC1iZW81NHBkYTVlYWRpbkdwbk1ucnRjbWdWUVF6NjQ2bENEZXhzQXBaMTZyOTB2S0EyQ083Rkh6ZlhoZXgxY3RiQQ?oc=5",
-      "date": "2026-11-04T08:48:10.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "8f89e8ef3f5d",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air - Red Bull",
-      "snippet": "Red Bull King of the Air Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcm50aXBGWGJtRlQwbnVMV0pGN3htTXRoYUNvLVl4ZHRJeFY1NmgySGgzNk9sZ211TlUxbE1TRGVMWlR5TnUzR01tVzl1MG5oVnpxRVdqNnVkTXhPNlB2THJzSDVKVGpudzRkb3BuLUpybjJURHFiN1FkbEY0T1lWdWFUdw?oc=5",
-      "date": "2026-11-04T08:00:00.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
