@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:24:09.549Z",
+  "generated_at": "2026-11-09T22:19:55.552Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,106 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "ce25915be99a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Great Ocean Road Women’s Surf Festival attracts record participation - Australasian Leisure Management Magazine",
+      "snippet": "Great Ocean Road Women’s Surf Festival attracts record participation Australasian Leisure Management Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY015amg4OGp4a1VwTlJMTnFZdTlpTWlvX2FHS0d3QWpic0V1OXREN3RzNk9LMkhQNlRTR0lxUmU0Nk94Z243LXhWdzdiQU1jVUhFTzlMcHcwd3p2TGxidmFNbGh2UTRWVUItUDN6a2lOWWVQOHRsNXNKS2dWbFFNUXl0bnBIRzZvb0M2LUxNVTNsQ3RCcHdFcWdMVnNxdmxHR2R0aQ?oc=5",
+      "date": "2026-11-09T21:10:18.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "5c5b4424d987",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The weekend in sport: Olympic qualification heats up in shooting and surfing - Inside The Games",
+      "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
+      "date": "2026-11-09T18:32:10.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "55b338097e46",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "… especially when the wave keeps building up for multiple turns. What’s yours right now?",
+      "snippet": "Looking so stylish down the line! The post … especially when the wave keeps building up for multiple turns. What’s yours right now? first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/especially-when-the-wave-keeps-building-up-for-multiple-turns-whats-yours-right-now/",
+      "date": "2026-11-09T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-32.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b73dd220e325",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Matteo Dorotini Best Male Performance in the KPL TEAM BATTLE 2026",
+      "snippet": "Matteo’s Best Male Performance highlights, it’s a work of art. The post Matteo Dorotini Best Male Performance in the KPL TEAM BATTLE 2026 first appeared on IKS…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/matteo-dorotini-best-male-performance-in-the-kpl-team-battle-2026/",
+      "date": "2026-11-09T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/hqdefault.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "4fb7fb0d3554",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air returns with local riders in the mix - novanews.co.za",
+      "snippet": "Red Bull King of the Air returns with local riders in the mix novanews.co.za",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEVqX0lrbklxWDZoS1Z2Z0Iza0wxWEJ2UUZpam5QMjk0ZWNseDlHRmItMWdQZWJGbmxhMzRfQVJOM3R5WXZab0EwVl9BaDIxSVFhM1dCMTktMy1SeVptNFJxM01QdFM1RDYzaEQyNWkwd2tRMDMzc1hEb2NzSGc0X1U2V1AwbnRBNUhqaEJkdkFOTGR1LWJuRzlUWk1sQQ?oc=5",
+      "date": "2026-11-09T13:17:13.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "8bf239b8f2a0",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Part 3: How to Repair Bigger Tears in Wetsuits by Stitching (Step-by-Step)",
+      "snippet": "Got a big rip or a tear in a high-stress area of your wetsuit? Learn how to repair a wetsuit by gluing and hand stitching it with nylon thread and a cross stit…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/part-3-how-to-repair-bigger-tears-in-wetsuits-by-stitching-step-by-step/",
+      "date": "2026-11-09T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-31.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "bbaf602393bf",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "WA surfers fly high in Red Bull aerial comp at Perth beach - PerthNow",
+      "snippet": "WA surfers fly high in Red Bull aerial comp at Perth beach PerthNow",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVNKY0hoeEN4amZzNmZZcVg5YVV4VjVQbTZUdjFMYUQ1YlpOTWtDWnRoWkd3TEpLLWw3dC1tV2JfbnlKN01XMEJZZjBmN3ZYM0FPQk53VGxKR0hPa2JHbnRBTWFaYm16d3BxQjZLaGtkYkhDdzVtTmJaRnlHRkpXNTBDV1RXdVdFckxvamFiNWxkSm9Obi1ZaVc1ZmtHWWxXMk10M0w0YmhRb25EOW5zUW5SWUpIMzJqYWJLemdQbkN6YWdSak9ETzlFZDhqU2xLanlB?oc=5",
+      "date": "2026-11-09T09:47:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a485fba02958",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "That airtime looks unreal‍",
+      "snippet": "Jump high, loop low! The post That airtime looks unreal‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/that-airtime-looks-unreal/",
+      "date": "2026-11-09T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-30.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "27a6c6825bda",
       "source": "google_surf",
@@ -28,6 +128,18 @@
       "snippet": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 Surfing Australia",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ282WHY3RHJPOGNURXppLWdsVFVqaWVWVkZoei1zb3NpT3hoVFlYellYQ3U0djNrbFNsZDlFc1lGZ2stNUMxT0x1dmc4RFlHQXk5blUtR3ZuWThsLXdKRlVlNk5NMjRWa2YyQXNSTHJRMVlYaUVkdzZ0b2VUVVByaTdGelh5NUxkeC1kbzAzWHZhSzJwTkc0dnV2OFNNVkFhTl9PWnp6YzhBRTVzLWtOYk5xaVh1MGtR?oc=5",
       "date": "2026-11-09T04:17:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6f917a5fb502",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Lennox-Ballina Boardriders Club Claims Victory at Australian Boardriders Battle NSW Northern Regional Qualifier - Surfing Australia",
+      "snippet": "Lennox-Ballina Boardriders Club Claims Victory at Australian Boardriders Battle NSW Northern Regional Qualifier Surfing Australia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS200S0ZxYmZHdnVKU1U1WGR5d1Q4UnRVRUI0UVU2MXNPV3VwZUdxQVFMei1PSnRha3NzYzNWR2ktaHNzcVVRa0VhSTVuaHN4ZjdJcGhzOEVLbWJxRXZRaVU4eFl5ZzhHOVJqTmhqN0ZkZklVWXA3clgtM1RPRll1dnlaVGptSUkxZlVNdDk4SHZSZGNTNjJjZm8yTkJMcVdFSFFpSHFmc0N1UktRNmR6VmI5dDJMbzNDOTUzOWRYVHJYdXFibnJ0ZU13UXJ6S0FoRFZhT1VvS00?oc=5",
+      "date": "2026-11-09T04:06:14.000Z",
       "tags": [
         "surf"
       ]
@@ -90,18 +202,6 @@
       "snippet": "HOMESTRETCH: Surfing legends make history in Siargao Rappler",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaG40MnBPNW9BMUw3MnpCeXFtSHBpYUVNTVF4N0V2UmoxVllMVXpHWnBqVVMxS2NXYVJQRkRhZ2FfRElYLS1wbVRpaDhmZWl3UWdHUGtkcFc1eTdhOTVYbUx4Rk54RXNJcTN6bVZJb3JROEEyMFVpaXp2eHJTOUlrcTF5SC1RbmJ0WndkYW5Rbzd0ajctQVJPbFYzb1FaWWlDdzdjTzB4d3dtZw?oc=5",
       "date": "2026-11-08T13:55:17.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "19f72ef361e4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aaya's domination ended by 9-year-old Aaliyah - Edition.mv",
-      "snippet": "Aaya's domination ended by 9-year-old Aaliyah Edition.mv",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWx4a1JSaUNoVGRDVFpwTHpVTV9UQWlNLUJyRjRBTWdPYkZTTEpLTjlwam5xd0VXYUh4X1FoVVZNNGdyZERwby1FVjFUWUxMLU81WTZB?oc=5",
-      "date": "2026-11-08T13:02:23.000Z",
       "tags": [
         "surf"
       ]
@@ -184,14 +284,25 @@
       ]
     },
     {
-      "id": "84674f2ce921",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "ITALIAN MAPHIA // KPL TEAM BATTLE 2026 presented by Knot Future.",
-      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Killian Blot. This years KPL Team Battle presented by Knot Future 2nd Place “Italian Ma…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/italian-maphia-kpl-team-battle-2026-presented-by-knot-future/",
-      "date": "2026-11-07T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-23.jpg",
+      "id": "3cad1fc80e42",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Results - Super Girl Surf Festival Women's 2026 - World Surf League",
+      "snippet": "Results - Super Girl Surf Festival Women's 2026 World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0RqVFN4UVZBdGh3VEIwWVlFcmRzSWdwVWpjQmxtTURfb185N00wbVFUSXRqaGRjYlJvQ2tkeTA3LV9JcnpLdHA3ZkFWcEZfMERPdG5nN1JHc0FoZWJ5Y0ZLNHVNQUc4elRjQ1VkSVdqWTJfSkgyalUwZWswSk5iZXpDY2thckJieFBhbTN3?oc=5",
+      "date": "2026-11-07T12:50:55.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3cfee9892ea3",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown - Cape Town ETC",
+      "snippet": "RedBull King of the Air 2026: Meet the riders chasing Cape Town’s crown Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RkJhS0pxWV9QT3lEbWhGZXJBbjRtTkRwajFaOTBlUXpTZlJwaHIxY09hQ1MxZFVBQXAzOV92OVFKX2cyN25fVjROOEZKSlpLZWJOQ2o1VVBOalZsOHJ4OXhQUmtrSHF1dHJITXFoUXRFVHBC?oc=5",
+      "date": "2026-11-07T12:20:19.000Z",
       "tags": [
         "kite"
       ]
@@ -209,42 +320,15 @@
       ]
     },
     {
-      "id": "3d578efe829b",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Polish Kite Mafia // KPL TEAM BATTLE 2026 presented by Knot Future.",
-      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. This years KPL Team Battle presented by Knot Future 5th Place “Polish Kite Mafia”. Featuring Woj…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/polish-kite-mafia-kpl-team-battle-2026-presented-by-knot-future/",
-      "date": "2026-11-07T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-22.jpg",
+      "id": "442265effbaf",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp - The West Australian",
+      "snippet": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWZ1OUhnUExhQUhuT0lQY0FrVGFsU0xUS0NuR1U4M2t2X3VkY0RxXzJSRnpfMWluZ3dFQnBaTHdnX0FrSkp4SmV6RzZzWHY1c2NjRmt5RFZkQmZHdEotSm9yeS1KOW1nZG9nRlpzVXBVb24xT0YtSUtmeE1oVnVNT0VhMlVhNDF0OFgyUGdvTDFfN0FKQV9lNktOaUJvLTNZNDNDSmpRX2VsWDJCMldQUXRRamdpajItUG5iZVJjRHJVbm4zR3B1ZVhaM1ZjSHpieldhbU95Rmp4TkMyajNwN1dVelNJLWs?oc=5",
+      "date": "2026-11-07T07:08:00.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "5436fe005f7a",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Jacksons Five // KPL TEAM BATTLE 2026 presented by Knot Future.",
-      "snippet": "KPL TEAM BATTLE 2026 presented by @KnotFuture – TAIBA, Brazil. Video by Ramiro Gallart. This years KPL Team Battle presented by Knot Future Winner “Jacksons Fi…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/jacksons-five-kpl-team-battle-2026-presented-by-knot-future/",
-      "date": "2026-11-06T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-21.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a414f5297c0b",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kitesurfing is awesome",
-      "snippet": "‘Kitesurfing is awesome’ a statement we can only agree with! The post Kitesurfing is awesome first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-is-awesome/",
-      "date": "2026-11-06T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-20.jpg",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -294,92 +378,6 @@
       "date": "2026-11-05T14:53:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "f48fedf1ad22",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Surf League, PSC tie up to develop next generation of Filipino surfers - FASTBREAK.com.ph",
-      "snippet": "World Surf League, PSC tie up to develop next generation of Filipino surfers FASTBREAK.com.ph",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnVLRHVuTEl2alA5Tm1GUVBsUnhSZFZJMUdQc3ZPZE5HaHFYdHA5YXRpOGtiZWk0YW5jb3R3S2tRTkljZmpNQ1o0eEhOMTJUUWNLQUktellmRlJyVkxIaHdEeVUxeXNjOXE4Wk1DWG9aa1lScmxuZkZHSGJuYjRJUkZ0T3N4R0FIMV84X3BfbDRjMVpjRnFZSkNBTkZXOGJlUHNydWRreGExeFFyVElSaFk4SDQ4QQ?oc=5",
-      "date": "2026-11-05T10:40:09.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "2985cc2bcba6",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS!",
-      "snippet": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! Looking to give your rig a winter upgrade? Robin Hood Water…",
-      "url": "https://www.windsurf.co.uk/windsurfing-boom-deals-at-robin-hood-watersports/",
-      "date": "2026-11-05T04:16:56.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "9faba4cf7553",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter - SURFER Magazine",
-      "snippet": "There’s A New Global Wave Pool Surf Contest, And Anyone Can Enter SURFER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTBoR1hVN2JYRTJDZ3FfREUxSjR3VVNPczhHWEVCeXBPYWdTbVBGM1puMnlSMk9HV01yaFc2OW0waE02VE1qQkpObmlMamtFN1Y0X3I3Xy1YdXFCUllycUJTa3p0TW5UanlSeFM0R3BmM3F6T05QRFZqWml6VzhsNWFJRVQ?oc=5",
-      "date": "2026-11-04T23:54:56.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "6564f25a6cb4",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "First X-15 Wingfoil World Championship opens in Ibiza - Sailweb",
-      "snippet": "First X-15 Wingfoil World Championship opens in Ibiza Sailweb",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOG1vSlNFSmtlZE9XSE5nVGJwWXNzNTFnMU53U3hOM09GazU0V1ROb2stNi02NS1nQUJ6WmpHYW9NRFk5YUlUSmtDSjNlYkZrVmdxNGhrc1F6bno2d2xlME54dGc3Rm9FNWNjVkZRSjFwOGF2SDF2Sjh4QjB5WUZKR0U3VlpESGpfZGU4aXlKV0Jhc2VHcEE?oc=5",
-      "date": "2026-11-04T23:36:55.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "781947c93936",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN!",
-      "snippet": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! The final racing event of the PWA season has a habit of del…",
-      "url": "https://www.windsurf.co.uk/crazy-finals-day-at-the-pwa-foil-slalom-in-japan/",
-      "date": "2026-11-04T22:01:00.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/crazy-finals-day-at-the-pwa-foil-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "a222c030b984",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 - FL Times-Union",
-      "snippet": "Super Girl Surf Festival returns to Jacksonville Beach Nov. 7-8 FL Times-Union",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWJuNk5sRUo0bHRIRkF2VVRDMjFYdnFOamRxZTRlcTJ6c3M2aGJobk0wTHEtOEFpQ2pENTdOcWRrQTJqcjZyZ2dRbmhrSmtaQU0welNTbFBTMmJGRm0zN2VsNFhoMUJNdmdoWGM5RFhpdkxTQUh0N1RJd3EzTEZ4YmlPSU9CZnJFY1BITktzcnFHb3liOHRlakc5Q3oydDluS0dnclVrTE41QzJZQ0g2TXY1aFBfR05wd1ZESkFucWdSVWp6TWVCcC1GSEVpeW9TNThSdTlyQXZhT0o2MFE?oc=5",
-      "date": "2026-11-04T11:12:53.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "da60308fa234",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions - News24",
-      "snippet": "‘There was no whale’: Kitesurfer Graham Howes’ mom breaks her silence on her grief and unanswered questions News24",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVlaS0dsMlBQb2NMLTFaYlRqNFctbnBDWmF1cFZvRGFyb05KYm9zRHdhb3BYV0lydlByU3NyS1dQd0RUVjd4LWV1SkRpMUd0OVJ5WW10Rlk0UkFuNjZRckdtT0tOQnYyUjV1aTZHek5QWU04azgzVHlTUzhDWWN1ZmN6ZEJWbnRtX1dwOTRGZG1oVjViRDdDcmlzVG1PR2Q0Z1BZYWFzc2Z2Z0p0bXNOVVZ4LWliaUxWV0dhQU5NQWpWR3licWs1RF9qdnhNSk5WVlBrRXJqVEEtX2RUU2d5UUhZc2t1LVRla2Z3?oc=5",
-      "date": "2026-11-04T10:27:15.000Z",
-      "tags": [
-        "kite"
       ]
     }
   ]
