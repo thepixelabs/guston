@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:02:21.582Z",
+  "generated_at": "2026-11-09T06:24:09.549Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,42 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "27a6c6825bda",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Australian Boardriders Battle Grand Final Returns to Burleigh Heads Until 2029 - Sportzhub",
+      "snippet": "Australian Boardriders Battle Grand Final Returns to Burleigh Heads Until 2029 Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWdmd2xwaFBzZlgtWDBDcDJDVHpvRUVmLXU1Q19NZ2c2dzVIUlNtWVduX3F1M29aRjd5ZnR4UUZXRElLbmhDZkJuU1NaNFRMdDFVSXJTQzB6QkFQNGl0WW43OWRwVm5pU3daemhiOXkzTmN5NnB6MlU2cXA4VmZWZmlRVDRiVU8yTWVMMDgtLWpxSlE5YXRteFc3U3d3WGo3VUtvWUlTVzNrV25zUmVycllQRzI2WGZW?oc=5",
+      "date": "2026-11-09T05:30:02.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b0880745eadd",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 - Surfing Australia",
+      "snippet": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 Surfing Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ282WHY3RHJPOGNURXppLWdsVFVqaWVWVkZoei1zb3NpT3hoVFlYellYQ3U0djNrbFNsZDlFc1lGZ2stNUMxT0x1dmc4RFlHQXk5blUtR3ZuWThsLXdKRlVlNk5NMjRWa2YyQXNSTHJRMVlYaUVkdzZ0b2VUVVByaTdGelh5NUxkeC1kbzAzWHZhSzJwTkc0dnV2OFNNVkFhTl9PWnp6YzhBRTVzLWtOYk5xaVh1MGtR?oc=5",
+      "date": "2026-11-09T04:17:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e528cf549674",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Team USA Surfers Compete for Additional Olympic Spots Ahead of 2028 Games at Trestles - NBC Palm Springs",
+      "snippet": "Team USA Surfers Compete for Additional Olympic Spots Ahead of 2028 Games at Trestles NBC Palm Springs",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM1lRTVU5WklEREtYSnBsM1BnYkxFNVBsN0V3bXZqN1o0RzRiQjVyeFlLUURoRko5T0lia1NDQVBvcDRldEMxSVRoY1o3dmllcWJId2g2WHRrbndDb3BTTlozZ3dEbTd1WTRsRmhlYTh0LTk3am5MellBd1BraGhvemduajJNTG8wSk11REdkZnFoT0VVT0U2RDNqRGRibEFvaTZaelE5Mm9odGNfV0M3ZE1mVDluZHZFMTBIZDBweWFKZjQ0WFhYX05XRXF6SnJ4NkE?oc=5",
+      "date": "2026-11-08T23:38:11.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "33349e8ad138",
       "source": "google_wing",
@@ -47,6 +83,18 @@
       ]
     },
     {
+      "id": "7c6add6e0281",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "HOMESTRETCH: Surfing legends make history in Siargao - Rappler",
+      "snippet": "HOMESTRETCH: Surfing legends make history in Siargao Rappler",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaG40MnBPNW9BMUw3MnpCeXFtSHBpYUVNTVF4N0V2UmoxVllMVXpHWnBqVVMxS2NXYVJQRkRhZ2FfRElYLS1wbVRpaDhmZWl3UWdHUGtkcFc1eTdhOTVYbUx4Rk54RXNJcTN6bVZJb3JROEEyMFVpaXp2eHJTOUlrcTF5SC1RbmJ0WndkYW5Rbzd0ajctQVJPbFYzb1FaWWlDdzdjTzB4d3dtZw?oc=5",
+      "date": "2026-11-08T13:55:17.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "19f72ef361e4",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -69,18 +117,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-27.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "7c6add6e0281",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "HOMESTRETCH: Surfing legends make history in Siargao - Rappler",
-      "snippet": "HOMESTRETCH: Surfing legends make history in Siargao Rappler",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaG40MnBPNW9BMUw3MnpCeXFtSHBpYUVNTVF4N0V2UmoxVllMVXpHWnBqVVMxS2NXYVJQRkRhZ2FfRElYLS1wbVRpaDhmZWl3UWdHUGtkcFc1eTdhOTVYbUx4Rk54RXNJcTN6bVZJb3JROEEyMFVpaXp2eHJTOUlrcTF5SC1RbmJ0WndkYW5Rbzd0ajctQVJPbFYzb1FaWWlDdzdjTzB4d3dtZw?oc=5",
-      "date": "2026-11-08T10:43:30.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -199,18 +235,6 @@
       ]
     },
     {
-      "id": "89993b5733ed",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The hard art of defending a surfing world title - Surfertoday",
-      "snippet": "The hard art of defending a surfing world title Surfertoday",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVTJ1T29nTTI2enFOSVJrLUphVS00dXVlVzQzbm9yanUtQ0xMVlZEVU9ZLVM5UkhmaXpYS0pHTmhwdERaMVp5V3JHRTVKQTlxTlZuNFFIV08teHd5TVpOMmt0LTR2cFA0cExzWmhsZ3ktdjhTbEdQZkxkMmI?oc=5",
-      "date": "2026-11-06T17:57:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "a414f5297c0b",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -246,18 +270,6 @@
       "date": "2026-11-06T11:04:52.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "15009c203bcb",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surfer hits the headlines - Noosa Today",
-      "snippet": "Young surfer hits the headlines Noosa Today",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qSlFRNkZpd0hhM25DNnNzcUNXallIOHhPM3ZmOGxzYXdQYVhMSmxlN21vcnQyRFZENTRDNjd3aG5jQUdlT3RXTmpSNG1VWk1EeFRyZXRaaTFrZTctaVhySWVubjUyN0phUWZVSldkSTZzWUVzLWU5am5GX2ZBSk0?oc=5",
-      "date": "2026-11-06T05:17:58.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -344,18 +356,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/crazy-finals-day-at-the-pwa-foil-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "d6195e20e5f3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Gregorio raves about successful WSL hosting - Daily Tribune",
-      "snippet": "Gregorio raves about successful WSL hosting Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHFBNFBDT1o0N1Vzd3N5c2oydTZILWphX2RfNFFxd3lDdjZZSDJtdHVqVnRfVmhrcDg3cGxkRjQ1T0MtQXhnaFNWV0FsclJhZW45ZkRqeGg3cU5tZ0RYSkJCLWc1NmkxY1dkSkdYb1FqY2l2NUhtUFdjcnlGSEVUb25Icw?oc=5",
-      "date": "2026-11-04T18:43:58.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
