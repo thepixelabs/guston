@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:19:55.552Z",
+  "generated_at": "2026-11-10T07:15:26.169Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,69 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "c592acdf0de2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gold Coast night surfing trial gets green light despite concerns about sharks - ABC News & Headlines – Australian Broadcasting Corporation",
+      "snippet": "Gold Coast night surfing trial gets green light despite concerns about sharks ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEdfRmVfT2hPLTJ2T2poNGdsbnNKa0VjNWt4ZXhLbXIzTGZxTWo4X29lVGVfWVR4VVRYMk5MN2V6V0F3elgxV3pMZnpObWYtTm9RNkw3cUE5Skh5cFRlNktlcmhvYkVJVW8za1JHZjJFbWNfOGdIQWs0cnFRWWI1LW53V0ZXMXYtd2xySVY4Q0lIN0JfaGVjTnRXdUE2NGYzQXdnTTRuVTJ5R1k?oc=5",
+      "date": "2026-11-10T07:06:42.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "270e1cb2e8cb",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Great Ocean Road Women’s Surf Festival Breaks Record Participation - Ministry of Sport",
+      "snippet": "Great Ocean Road Women’s Surf Festival Breaks Record Participation Ministry of Sport",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXpud0I0bEN0cjFkUXB1cnhfV0E0Y1Q5ZUVCNHhrZ1AtdUVXNkpGaFVPSEJSSEFlMkVEcTl0ZjdtQVkyZnpvOW5lbGk5czJPbmJYVkc1X20xVEhPbUNPMnFGaDR0THItbWxudG03Qjc4UEdUeERBYTVNSkhsVnVnU1RSczREcGlLNkhEcE1JdEtvMFM5OVVpWmV3?oc=5",
+      "date": "2026-11-10T02:09:09.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "0205a8fb3cd4",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL",
+      "snippet": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL When the top freestylers arrived in China they…",
+      "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
+      "date": "2026-11-09T23:15:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3ab002983b7a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
+      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
+      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
+      "date": "2026-11-09T23:02:05.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "fb7d6fb70642",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
+      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
+      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
+      "date": "2026-11-09T22:51:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "ce25915be99a",
       "source": "google_surf",
@@ -27,7 +90,7 @@
       "title": "The weekend in sport: Olympic qualification heats up in shooting and surfing - Inside The Games",
       "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
-      "date": "2026-11-09T18:32:10.000Z",
+      "date": "2026-11-09T18:33:02.000Z",
       "tags": [
         "surf"
       ]
@@ -54,18 +117,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/matteo-dorotini-best-male-performance-in-the-kpl-team-battle-2026/",
       "date": "2026-11-09T15:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/hqdefault.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "4fb7fb0d3554",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air returns with local riders in the mix - novanews.co.za",
-      "snippet": "Red Bull King of the Air returns with local riders in the mix novanews.co.za",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEVqX0lrbklxWDZoS1Z2Z0Iza0wxWEJ2UUZpam5QMjk0ZWNseDlHRmItMWdQZWJGbmxhMzRfQVJOM3R5WXZab0EwVl9BaDIxSVFhM1dCMTktMy1SeVptNFJxM01QdFM1RDYzaEQyNWkwd2tRMDMzc1hEb2NzSGc0X1U2V1AwbnRBNUhqaEJkdkFOTGR1LWJuRzlUWk1sQQ?oc=5",
-      "date": "2026-11-09T13:17:13.000Z",
       "tags": [
         "kite"
       ]
@@ -327,55 +378,6 @@
       "snippet": "SEE THE PICS: WA surfers show epic aerials in Red Bull comp The West Australian",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWZ1OUhnUExhQUhuT0lQY0FrVGFsU0xUS0NuR1U4M2t2X3VkY0RxXzJSRnpfMWluZ3dFQnBaTHdnX0FrSkp4SmV6RzZzWHY1c2NjRmt5RFZkQmZHdEotSm9yeS1KOW1nZG9nRlpzVXBVb24xT0YtSUtmeE1oVnVNT0VhMlVhNDF0OFgyUGdvTDFfN0FKQV9lNktOaUJvLTNZNDNDSmpRX2VsWDJCMldQUXRRamdpajItUG5iZVJjRHJVbm4zR3B1ZVhaM1ZjSHpieldhbU95Rmp4TkMyajNwN1dVelNJLWs?oc=5",
       "date": "2026-11-07T07:08:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ba013d280768",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER!",
-      "snippet": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! PWA FOIL SLALOM WORLD CHAMPIONS! What a…",
-      "url": "https://www.windsurf.co.uk/we-are-the-champions-matteo-iachino-and-justine-lemeteyer/",
-      "date": "2026-11-06T13:38:57.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/JP26_ls_ITA140_00813-JC-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "38323473e104",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Graham Howes' mother questions what really happened to her son - Briefly News",
-      "snippet": "Graham Howes' mother questions what really happened to her son Briefly News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTJIQXdQSFZsM2cxaGZVeFFrZzF6STBhUXhKdHcxYkFmQXFjUHE2Tm9JZlRqSVo0WnZnbTR5TFZJY1VDOEhhUGItYjNmcC1VU1hLcXlPVWs2UEJVV3QxZlYxTGZ5aHF5cUloREtEOXgtcUlidVZtUkU0SkVXd0FZamFOZk5pckx0XzJmMkZVSUpWOXhKbzB0aC1uZw?oc=5",
-      "date": "2026-11-06T11:04:52.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "faf5fd6a34c0",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "WSL, PSC eye local surfing development - Daily Tribune",
-      "snippet": "WSL, PSC eye local surfing development Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nc1gzUzZneFpGWXRtRkxPSzJaMTltTUFndzRkX1U3N0kzazZ1ZXpHVWo1WG52aE12R0M1ZlV0WnNudEZwcWJLcWVTVDYwN3pqbHlPLVlWTUNNTHoxTDdvV19ZMk1fTnlGeXRYTjQ2Zlc0QzVJZGl0Sk51VQ?oc=5",
-      "date": "2026-11-05T21:28:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "7e9f3dbd20da",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" - Olympic Channel",
-      "snippet": "Luana Silva heads to the 2026 ISA World Surfing Games fueled by confidence, mental well-being and an Olympic dream: \"Expectations are high\" Olympic Channel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajAtbzFaNTlkWXFtX191OElJRTJfd0lwV1ZKbHp0X3lhS1k3TXdYU2ZkbS1KNHhxSzV0enV2Y3VmbWhVUFpoRjZ6M041ZFB3cTNlVG9YQ3VIRXA1UGo4RkExNUwxOV9qUGNfT0htRGxhVDd5eUJIQktYemxMUXFmMjJ2TjZMUk1lMTlxbHVWT0k4RE5ESWZSNkppVk1XVFFy?oc=5",
-      "date": "2026-11-05T14:53:00.000Z",
       "tags": [
         "surf"
       ]
