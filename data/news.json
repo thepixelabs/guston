@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:14:44.914Z",
+  "generated_at": "2026-11-11T14:26:22.266Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,39 @@
   },
   "items": [
     {
+      "id": "9ed003101037",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Change the Hook on a Spectre Bar 2 (Step-by-Step)",
+      "snippet": "Is the hook on your kite harness damaged, worn, or corroded? Learn how to change the hook on the Spectre Bar 2 spreader bar with just a Torx T20 screwdriver. T…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-change-the-hook-on-a-spectre-bar-2-step-by-step/",
+      "date": "2026-11-11T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-38.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2860331d10c5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Sunset state of mind‍",
+      "snippet": "Sunset state of mind😍 The post Sunset state of mind‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sunset-state-of-mind/",
+      "date": "2026-11-11T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-37.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "f21a8dc6a94f",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Young surf stars take on the waves and each other in junior series finale - Port Macquarie News",
       "snippet": "Young surf stars take on the waves and each other in junior series finale Port Macquarie News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1RDdmZIR09Kby1pRFdVMjlwSFViaWNVd1dkcGR1T2Fxc3l4YzRMU0Z2a19wcThnUkgzZ0IxV2hHczI1NzFKRHZQYS1FMjY5R1pEMXdPWF9tN3RUeGtDbHFCS0g2eWRiRFNkQ3BDcVBUNWpkT3NVakl3UUdCTGhuSHlfVUFmUzJJV0xZaUNLMXBVcXgtMVk0ekpHU1I3b1Blc1FpdV9n?oc=5",
-      "date": "2026-11-11T05:02:42.000Z",
+      "date": "2026-11-11T05:03:12.000Z",
       "tags": [
         "surf"
       ]
@@ -33,13 +59,25 @@
       ]
     },
     {
+      "id": "21054d8e5f60",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Atlantic Park Surf Announces Inaugural Commonwealth Cup - Shop Eat Surf Outdoor",
+      "snippet": "Atlantic Park Surf Announces Inaugural Commonwealth Cup Shop Eat Surf Outdoor",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNll4Y29fcnRzOXMwZnctNkNKMFNULVh2ZXNmSXE4QnZmaVQ4MDJOdG1LYXk2Zk1YOWdmRlV1WUhfRWZLS19EWkZmU05XbkR3X1VnOS1NRHRJNENRTC1Qd0RkemJUcExJQXRsZ1NiT2JkNVV1NnUtTU9jaUZFM3huQVNMbldiWjRObVpTeVQwa25FZFJIWHRkTDBBR20zUnZFS19QV2wtWnlnZG5sNWw1cnZn?oc=5",
+      "date": "2026-11-11T00:19:32.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "dc395ddd6b35",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Night surfing trial on Gold Coast gets initial green light - 1029 Hot Tomato",
       "snippet": "Night surfing trial on Gold Coast gets initial green light 1029 Hot Tomato",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0Y3OXdBanBxdlRsc1lyY2p2bXhLUDRfR0V0WDRGZVBpWXlPbzJfLXVDMU96ZWsxLUJEQXVBQjFGNHJ0Q0dxMi1FWFZ4UjdzNlJrVG5RYnhmSVlDeEhYc1QzM1c5RU1iMndNZVQ0OEJDY1JsaGJHZFNhbGdCaG5hMDNxM3p3b3VKcVNKSF83LXVQanVSOVVIb2dQdXpjRzg2?oc=5",
-      "date": "2026-11-10T21:35:55.000Z",
+      "date": "2026-11-10T21:37:20.000Z",
       "tags": [
         "surf"
       ]
@@ -143,18 +181,6 @@
       ]
     },
     {
-      "id": "b788f2c05b73",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision - ESPN",
-      "snippet": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVl0cTZJcGRibkdva0ZrbmxFME9MWE5YY1F5RGE0Z0o3SmZTMVNXa0JUSVRGeHRYLV9PR3UzVDUwM3djS3FEU3VyVmkxWVlFZVJ4ei1NWWQ4Q0IxS0pUUFBuMTdMMW1Hb2dSajBWdlJRY01ZVGZpcUluOGxUd2RmV2N2UXE4eVdCWE5pa2tjSDhCQzZvX1QyQWR3?oc=5",
-      "date": "2026-11-10T13:09:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "fd0f057d32b8",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -162,6 +188,18 @@
       "snippet": "Gold Coast backs Snapper Rocks night surfing trial Oz Arab Media",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zZGxLNnN2Sk4tWkJXLTBFSEwtdEhqTWY2OUdnRkRwaWxrMGtNSE4xSkxxWlpTVkdzZlVlWE9uQ2xIeEd1TGNBTVF2WFBHdFBrWjZhRnpSNlNRb19Tc2pCSHhDTzhHa0dSbThfZjFsejZxZ0Q1VEtCV1ZEVHo?oc=5",
       "date": "2026-11-10T13:01:05.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b788f2c05b73",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision - ESPN",
+      "snippet": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVl0cTZJcGRibkdva0ZrbmxFME9MWE5YY1F5RGE0Z0o3SmZTMVNXa0JUSVRGeHRYLV9PR3UzVDUwM3djS3FEU3VyVmkxWVlFZVJ4ei1NWWQ4Q0IxS0pUUFBuMTdMMW1Hb2dSajBWdlJRY01ZVGZpcUluOGxUd2RmV2N2UXE4eVdCWE5pa2tjSDhCQzZvX1QyQWR3?oc=5",
+      "date": "2026-11-10T13:00:00.000Z",
       "tags": [
         "surf"
       ]
@@ -224,18 +262,6 @@
       "snippet": "Gold Coast night surfing trial gets green light despite concerns about sharks ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEdfRmVfT2hPLTJ2T2poNGdsbnNKa0VjNWt4ZXhLbXIzTGZxTWo4X29lVGVfWVR4VVRYMk5MN2V6V0F3elgxV3pMZnpObWYtTm9RNkw3cUE5Skh5cFRlNktlcmhvYkVJVW8za1JHZjJFbWNfOGdIQWs0cnFRWWI1LW53V0ZXMXYtd2xySVY4Q0lIN0JfaGVjTnRXdUE2NGYzQXdnTTRuVTJ5R1k?oc=5",
       "date": "2026-11-10T07:04:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "f697feb40487",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "LA 2028 qualifiers: shooting, swimming and surfing - KarloBag.eu",
-      "snippet": "LA 2028 qualifiers: shooting, swimming and surfing KarloBag.eu",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2tIaFVZZmQxVjEyUlIxcVJZVWtWZ1RESjdwRHFzUEZ4ZlREajNQb19HbHB1SVZwdENrMnhWd1NlTzBxa2lNTFg5MDJSMDM5V3Q0ZXAwY3NZX0xGNVpqZXBLdmhJeW1IYUJZcTdUdlRXTjViNlhIMjRaZU1lb1paMzdBemtuQXpXNTZaUEpTbFJWbXJaN0dfeU9vTm5yR0tSeDRrZjRhWjhBSldBTk43ZjJlUGR6WlA3?oc=5",
-      "date": "2026-11-10T06:32:19.000Z",
       "tags": [
         "surf"
       ]
@@ -350,31 +376,6 @@
       "snippet": "WA surfers fly high in Red Bull aerial comp at Perth beach PerthNow",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVNKY0hoeEN4amZzNmZZcVg5YVV4VjVQbTZUdjFMYUQ1YlpOTWtDWnRoWkd3TEpLLWw3dC1tV2JfbnlKN01XMEJZZjBmN3ZYM0FPQk53VGxKR0hPa2JHbnRBTWFaYm16d3BxQjZLaGtkYkhDdzVtTmJaRnlHRkpXNTBDV1RXdVdFckxvamFiNWxkSm9Obi1ZaVc1ZmtHWWxXMk10M0w0YmhRb25EOW5zUW5SWUpIMzJqYWJLemdQbkN6YWdSak9ETzlFZDhqU2xLanlB?oc=5",
       "date": "2026-11-09T09:47:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a485fba02958",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "That airtime looks unreal‍",
-      "snippet": "Jump high, loop low! The post That airtime looks unreal‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/that-airtime-looks-unreal/",
-      "date": "2026-11-09T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-30.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "27a6c6825bda",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Australian Boardriders Battle Grand Final Returns to Burleigh Heads Until 2029 - Sportzhub",
-      "snippet": "Australian Boardriders Battle Grand Final Returns to Burleigh Heads Until 2029 Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWdmd2xwaFBzZlgtWDBDcDJDVHpvRUVmLXU1Q19NZ2c2dzVIUlNtWVduX3F1M29aRjd5ZnR4UUZXRElLbmhDZkJuU1NaNFRMdDFVSXJTQzB6QkFQNGl0WW43OWRwVm5pU3daemhiOXkzTmN5NnB6MlU2cXA4VmZWZmlRVDRiVU8yTWVMMDgtLWpxSlE5YXRteFc3U3d3WGo3VUtvWUlTVzNrV25zUmVycllQRzI2WGZW?oc=5",
-      "date": "2026-11-09T05:30:02.000Z",
       "tags": [
         "surf"
       ]
