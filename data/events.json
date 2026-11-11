@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T14:16:34.430Z",
+  "generated_at": "2026-11-11T13:30:06.023Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
-    "pwa": "ok",
+    "pwa": "failed",
     "gwa": "ok"
   },
   "items": [
