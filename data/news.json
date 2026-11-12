@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:26:22.266Z",
+  "generated_at": "2026-11-12T00:41:32.045Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,93 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "418a7b8aef88",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surf Club opens season in winning fashion - Coastal View News",
+      "snippet": "Surf Club opens season in winning fashion Coastal View News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM1dxeHhCYnRCb0tSOVoxdmtTNGdtYWNEUHUzOXhaN1BneDZfM3g5TGxQY05UWnpuWjZPX3ZmZ1pjY0x0Q3JaVlZHeW1SYlRycEE1OFFFS2QtS1FDN1I1UVJkRHFGLXEycGhYSUNjaGZUbkFLRkFjUXZIdWNNajhkc0JMTUN6QTRxSlpHZ2piZ3ZRMzE5NFV6V0FiMDl6WkRTMnJOOUV0TW5UWnBnajFNZ1ZOMzB2M0NkSE92UkZ1cncxY2Fv?oc=5",
+      "date": "2026-11-11T22:46:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "057dd089118c",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "SEVERNE VERSO 110L | WINDSURFER MAGAZINE",
+      "snippet": "SEVERNE VERSO 110L | WINDSURFER MAGAZINE SEVERNE VERSO 110L | WINDSURFER MAGAZINE The latest test from the crew at Windsurfer Magazine features the Severne Ver…",
+      "url": "https://www.windsurf.co.uk/severne-verso-110l-windsurfer-magazine/",
+      "date": "2026-11-11T21:12:09.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/severne-verso-110l-windsurfer-ma-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "724fc9425a0e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Larry ‘The Rubberman’ Bertlemann Speaks In a Long Lost Interview From 2006 - The Inertia",
+      "snippet": "Larry ‘The Rubberman’ Bertlemann Speaks In a Long Lost Interview From 2006 The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXhXLXVuTFAxLVRLbXkzaWtkcDM4QlJhdkhJcjFYSjBaUXhlN3VSS0JETzR6aGdESHltUkk0U0Z0RzU0TTlTRFp6Nmc3QkRFYVY4Q0lPeFlnNDFfdlZiN0RYbllUSUt0NjdJdWdWd2dlZDd2dEJQOWthRUE4YTgwQlQtQURZVjczWUVjSmhWQkxxeHE1R2JJWDZpVEp4NzVxMmVMc2F1bms?oc=5",
+      "date": "2026-11-11T19:41:56.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b1970a01c9cf",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "The best session of the year in The Netherlands #storm #kitesurfing #kiteboarding",
+      "snippet": "Slowing things down for a second in the Netherlands. The post The best session of the year in The Netherlands #storm #kitesurfing #kiteboarding first appeared…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-best-session-of-the-year-in-the-netherlands-storm-kitesurfing-kiteboarding/",
+      "date": "2026-11-11T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-40.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "738d349e907a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Competition Gets Underway At Junior Pro Taghazout Bay - World Surf League",
+      "snippet": "Competition Gets Underway At Junior Pro Taghazout Bay World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVl0YmU2U21MZnlLV0FKOUxIdzhEM0hjN2JHeFZNb0w1WmV2ZnV4V0FrU3VpdV9iUWlmUGNUWkF6U3FvMmthSXpwU3JodV9ncVVMTENSN3VZdE9SU3BXTXBMU1lnN3FDaEJxd0FIRl94aHdTaEE1bVVPdS1XTm5ENGhnLTFpTnMwWUtjOUY2enJkREVaanZIX3FMWktQZ00?oc=5",
+      "date": "2026-11-11T17:53:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "46c4c557db06",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "US’ John Florence to skip world tour, jeopardizing Olympic chances in LA - Taipei Times",
+      "snippet": "US’ John Florence to skip world tour, jeopardizing Olympic chances in LA Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Rc1NmakM2ZXEzdEk4NFZsQUZMc0tscVZhVkdaaUZjX09hUVpMNHg5SFJWTjdjdVpmVE1SblctSW5namVFQzBvQTZZbW9hN0NOaXlKR1VMMlJabG41cmJpS0hVNkJ4NGZNcW84RFRvNTR5YTgtWDNWeA?oc=5",
+      "date": "2026-11-11T16:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e948a94a814d",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing with a view",
+      "snippet": "Mid week views with Leonardo. Stunning! The post Kitesurfing with a view first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-with-a-view-2/",
+      "date": "2026-11-11T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-39.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "9ed003101037",
       "source": "iksurfmag",
@@ -95,18 +182,6 @@
       ]
     },
     {
-      "id": "0814a91ee03b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Red Bull Aeriality Takes Surfing to New Heights in Perth - The Times Australia",
-      "snippet": "Red Bull Aeriality Takes Surfing to New Heights in Perth The Times Australia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXg0OE1yNHMtX3cxNEtDUi05MDY1V0dfN0F1T1E0MmY1SFpFcTlidWJ3ZGVnMnNFZU84WVZPd1ZSOFNzUmlzRndQb0lURUFrcU1mLUlMc05VZy1HZUZtX1o0cUprbGc3X0dSTVFtSmRxZmlXVHFZNk5QbWhLZUMxV2FNTER2VldINk9tWTA0YWNpZ3R4eFhQZnlpbkY?oc=5",
-      "date": "2026-11-10T20:29:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "c27bbff601b4",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -150,18 +225,6 @@
       "title": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 - eticketing.co",
       "snippet": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 eticketing.co",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDgzQ2lGZnBUeWxKYVFQbzZJTWw0X3B6cDJSMjgtM2xZME0tMml1dVBGcTloRkZxdWU3dHFrNTlXVzFMaE4weWtLT3FPeThhVE5raUVoMWZjZmp0Zjh3bXBtVnZzMXk4YmpDWlQ5dlFtQk52VkFCNFl1MS0weDczQXVfVHFpRWRvdVQ5dEdHdjA1N3NOSVhlLUZ0MA?oc=5",
-      "date": "2026-11-10T15:14:28.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "3ca80990693a",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Olympic Shooting: Olympic qualification heats up in shooting and surfing - eticketing.co",
-      "snippet": "Olympic Shooting: Olympic qualification heats up in shooting and surfing eticketing.co",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDgzWExpZ3RFSXlYU0lET2hhYUpYQ25DR1dHM0xkUzQzM0JybUQ0RHlFUDFENzNGblBsM1JpSzRCZENrQWx3U3VRS0J2Mk0wREE0cFhaa245TTFXdF8zVUMtbTBMeDhtX2ZKZEJQTTB6bld3c2NjdnhQSjB0QzRUS2tKczhwTE13VXR1TzZrbFhHMHlwYkV5QnJVMUJEelFt?oc=5",
       "date": "2026-11-10T15:14:28.000Z",
       "tags": [
         "surf"
@@ -227,18 +290,6 @@
       "date": "2026-11-10T12:00:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "5d56506ef5e2",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Inaugural X-15 Wingfoil World Championship 2026 hailed a great success - Sail-World.com",
-      "snippet": "Inaugural X-15 Wingfoil World Championship 2026 hailed a great success Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFRGZVRIcml4aXR6RWdVUThYM0hub3VMMUtHSXJXUHRXdmVaVF9neXBaTDh1MkszbmdjenBPeGtCZDZ1VXdEckdpNWpfcElvclh6Q1VnTlBhdEd0V0E5dGJNM1FCNDlCaG44c2VMVmczNDlHcVlrOWVBQWs2N2dnSDRTUF9RdzJfazVzNU5R?oc=5",
-      "date": "2026-11-10T09:18:00.000Z",
-      "tags": [
-        "wing"
       ]
     },
     {
@@ -325,57 +376,6 @@
       "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
       "date": "2026-11-09T18:33:02.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "55b338097e46",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "… especially when the wave keeps building up for multiple turns. What’s yours right now?",
-      "snippet": "Looking so stylish down the line! The post … especially when the wave keeps building up for multiple turns. What’s yours right now? first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/especially-when-the-wave-keeps-building-up-for-multiple-turns-whats-yours-right-now/",
-      "date": "2026-11-09T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-32.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "b73dd220e325",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Matteo Dorotini Best Male Performance in the KPL TEAM BATTLE 2026",
-      "snippet": "Matteo’s Best Male Performance highlights, it’s a work of art. The post Matteo Dorotini Best Male Performance in the KPL TEAM BATTLE 2026 first appeared on IKS…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/matteo-dorotini-best-male-performance-in-the-kpl-team-battle-2026/",
-      "date": "2026-11-09T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/hqdefault.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "8bf239b8f2a0",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Part 3: How to Repair Bigger Tears in Wetsuits by Stitching (Step-by-Step)",
-      "snippet": "Got a big rip or a tear in a high-stress area of your wetsuit? Learn how to repair a wetsuit by gluing and hand stitching it with nylon thread and a cross stit…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/part-3-how-to-repair-bigger-tears-in-wetsuits-by-stitching-step-by-step/",
-      "date": "2026-11-09T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-31.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "bbaf602393bf",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "WA surfers fly high in Red Bull aerial comp at Perth beach - PerthNow",
-      "snippet": "WA surfers fly high in Red Bull aerial comp at Perth beach PerthNow",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVNKY0hoeEN4amZzNmZZcVg5YVV4VjVQbTZUdjFMYUQ1YlpOTWtDWnRoWkd3TEpLLWw3dC1tV2JfbnlKN01XMEJZZjBmN3ZYM0FPQk53VGxKR0hPa2JHbnRBTWFaYm16d3BxQjZLaGtkYkhDdzVtTmJaRnlHRkpXNTBDV1RXdVdFckxvamFiNWxkSm9Obi1ZaVc1ZmtHWWxXMk10M0w0YmhRb25EOW5zUW5SWUpIMzJqYWJLemdQbkN6YWdSak9ETzlFZDhqU2xLanlB?oc=5",
-      "date": "2026-11-09T09:47:00.000Z",
       "tags": [
         "surf"
       ]
