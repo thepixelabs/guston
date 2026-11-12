@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T13:30:06.023Z",
+  "generated_at": "2026-11-12T14:34:16.499Z",
   "source_status": {
     "gka": "ok",
     "wsl": "ok",
-    "pwa": "failed",
+    "pwa": "ok",
     "gwa": "ok"
   },
   "items": [
@@ -441,7 +441,7 @@
       "location": null,
       "country": null,
       "url": "https://www.pwaworldtour.com/events/detail/2026-shanghai-foil-freestyle-invitational/",
-      "status": "live"
+      "status": "past"
     },
     {
       "id": "pwa-2026-chile-world-cup",
