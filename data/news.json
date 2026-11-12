@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:41:32.045Z",
+  "generated_at": "2026-11-12T15:12:00.683Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,56 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "1b572fb60a22",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Atlantic Park Surf Announces Inaugural Commonwealth Cup, a First-of-Its-Kind Statewide High School Surfing Championship - Surf Park Central",
+      "snippet": "Atlantic Park Surf Announces Inaugural Commonwealth Cup, a First-of-Its-Kind Statewide High School Surfing Championship Surf Park Central",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3pvTVhocmUxX1hpbGdFb3k2UThZVHBUZHdsRWhBbTJjdnpndlhNNXNPWllZVGJRTDJscENIRzdVemRwd3BxdGdiZkFITFctSWhlcnpCekVJb1pOOWdORzZCOGRiQVZWb0tGazlwWW41Q3l3ejY1eHJWR2ZJaHgxbklqTDVDQmpGRzJ1U01ncjhVQXBGVzlUZDhLdk5aMHRnbVltdzhJQUxZQ1k5OUl0SVZBZkZpM2QtaGNTdWFaODM0RTR6ejlFS3JDSURwdW02Zm9nblpIS0EyUHF2YWk4UQ?oc=5",
+      "date": "2026-11-12T14:04:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "abe182f70513",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Taking golden hour to the sky",
+      "snippet": "Golden hour hits different with a kite in the sky. The post Taking golden hour to the sky first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/taking-golden-hour-to-the-sky/",
+      "date": "2026-11-12T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-42.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "ae7222788fd3",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Ballito surfer reaches quarter-finals at Masters Surf Reunion - The Citizen",
+      "snippet": "Ballito surfer reaches quarter-finals at Masters Surf Reunion The Citizen",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3o1SDF5dWJqLV9LMmNPOHM4b2FlR0hjblBxUEJRQjdrR2hZd0s4SFU3S1BGNWNmNHNEUVlsRmJIQVFRdEZoMC1ndGk3VlRwUmZBN0FyUkZjVVVGNWVHUjdSa3ZpRDBfUW1nNmRJdGhYNEdVaWl6SkczeVppekFFeGFUdGZ2N1dtZHhxLXA2WEkwT1U1OXBUR2MtcTNsQ09OeXBCZTQtZ3I0bFNlMVdVeTE1WF93MGdMbWYyOC1sX1FTMUxy?oc=5",
+      "date": "2026-11-12T11:01:11.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "5a628092a894",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "#44 Welcome Jamie Overbeek",
+      "snippet": "Jamie Overbeek has established himself as one of the leading riders in the Big Air scene, and now he officially joins the Duotone team. In this episode of Insi…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/44-welcome-jamie-overbeek/",
+      "date": "2026-11-12T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-41.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "418a7b8aef88",
       "source": "google_surf",
@@ -71,18 +121,6 @@
       ]
     },
     {
-      "id": "46c4c557db06",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "US’ John Florence to skip world tour, jeopardizing Olympic chances in LA - Taipei Times",
-      "snippet": "US’ John Florence to skip world tour, jeopardizing Olympic chances in LA Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Rc1NmakM2ZXEzdEk4NFZsQUZMc0tscVZhVkdaaUZjX09hUVpMNHg5SFJWTjdjdVpmVE1SblctSW5namVFQzBvQTZZbW9hN0NOaXlKR1VMMlJabG41cmJpS0hVNkJ4NGZNcW84RFRvNTR5YTgtWDNWeA?oc=5",
-      "date": "2026-11-11T16:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "e948a94a814d",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -122,42 +160,6 @@
       ]
     },
     {
-      "id": "f21a8dc6a94f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surf stars take on the waves and each other in junior series finale - Port Macquarie News",
-      "snippet": "Young surf stars take on the waves and each other in junior series finale Port Macquarie News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1RDdmZIR09Kby1pRFdVMjlwSFViaWNVd1dkcGR1T2Fxc3l4YzRMU0Z2a19wcThnUkgzZ0IxV2hHczI1NzFKRHZQYS1FMjY5R1pEMXdPWF9tN3RUeGtDbHFCS0g2eWRiRFNkQ3BDcVBUNWpkT3NVakl3UUdCTGhuSHlfVUFmUzJJV0xZaUNLMXBVcXgtMVk0ekpHU1I3b1Blc1FpdV9n?oc=5",
-      "date": "2026-11-11T05:03:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d5074b12583e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Russ K. Mākaha Point Challenge Presented by Roark Brings Elite Surfing to Mākaha Beach - Shop Eat Surf Outdoor",
-      "snippet": "Russ K. Mākaha Point Challenge Presented by Roark Brings Elite Surfing to Mākaha Beach Shop Eat Surf Outdoor",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1Y1WG9faGRmR0hxVGlqeGdiVHpUTTA0NHcxUXJQXzlVaFJVR0FLems0alY3S2VVRnpKaUk1Xzg4c1BHS2pWcW9MNFNtRlkxRDRSby1GMGdwNXliWnF1LXdoVVJDczMzZ1JSd3FoM3ozdTQ1eUo4czlvX04td0tRQl9HVEhzV19OTTlSdWZFeHRIQ2xDc0l1UEZkejdpOEEwSkNjb1lsQzhjT3hEUlp0Z0VrVUlJSnlMd053X0Y2aVlWc2NmSnpLMG43U01MZE5KTkFOMk1mR3doQQ?oc=5",
-      "date": "2026-11-11T01:34:32.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "21054d8e5f60",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Atlantic Park Surf Announces Inaugural Commonwealth Cup - Shop Eat Surf Outdoor",
-      "snippet": "Atlantic Park Surf Announces Inaugural Commonwealth Cup Shop Eat Surf Outdoor",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNll4Y29fcnRzOXMwZnctNkNKMFNULVh2ZXNmSXE4QnZmaVQ4MDJOdG1LYXk2Zk1YOWdmRlV1WUhfRWZLS19EWkZmU05XbkR3X1VnOS1NRHRJNENRTC1Qd0RkemJUcExJQXRsZ1NiT2JkNVV1NnUtTU9jaUZFM3huQVNMbldiWjRObVpTeVQwa25FZFJIWHRkTDBBR20zUnZFS19QV2wtWnlnZG5sNWw1cnZn?oc=5",
-      "date": "2026-11-11T00:19:32.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "dc395ddd6b35",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -165,18 +167,6 @@
       "snippet": "Night surfing trial on Gold Coast gets initial green light 1029 Hot Tomato",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0Y3OXdBanBxdlRsc1lyY2p2bXhLUDRfR0V0WDRGZVBpWXlPbzJfLXVDMU96ZWsxLUJEQXVBQjFGNHJ0Q0dxMi1FWFZ4UjdzNlJrVG5RYnhmSVlDeEhYc1QzM1c5RU1iMndNZVQ0OEJDY1JsaGJHZFNhbGdCaG5hMDNxM3p3b3VKcVNKSF83LXVQanVSOVVIb2dQdXpjRzg2?oc=5",
       "date": "2026-11-10T21:37:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "3fb50ade4b78",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Victorian Boardriders Clubs Headed To Gold Coast Final - Surfing Victoria",
-      "snippet": "Victorian Boardriders Clubs Headed To Gold Coast Final Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvOXBHN1hfWWMtenJOaHFRT0ZTbjV2ODVtUUxjZFBIVktab1pUeXJMcVZyc3RjQnVISHB0NXhtTkZqc3NfRk9v?oc=5",
-      "date": "2026-11-10T20:58:22.000Z",
       "tags": [
         "surf"
       ]
@@ -225,6 +215,18 @@
       "title": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 - eticketing.co",
       "snippet": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 eticketing.co",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDgzQ2lGZnBUeWxKYVFQbzZJTWw0X3B6cDJSMjgtM2xZME0tMml1dVBGcTloRkZxdWU3dHFrNTlXVzFMaE4weWtLT3FPeThhVE5raUVoMWZjZmp0Zjh3bXBtVnZzMXk4YmpDWlQ5dlFtQk52VkFCNFl1MS0weDczQXVfVHFpRWRvdVQ5dEdHdjA1N3NOSVhlLUZ0MA?oc=5",
+      "date": "2026-11-10T15:14:28.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3ca80990693a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Olympic Shooting: Olympic qualification heats up in shooting and surfing - eticketing.co",
+      "snippet": "Olympic Shooting: Olympic qualification heats up in shooting and surfing eticketing.co",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDgzWExpZ3RFSXlYU0lET2hhYUpYQ25DR1dHM0xkUzQzM0JybUQ0RHlFUDFENzNGblBsM1JpSzRCZENrQWx3U3VRS0J2Mk0wREE0cFhaa245TTFXdF8zVUMtbTBMeDhtX2ZKZEJQTTB6bld3c2NjdnhQSjB0QzRUS2tKczhwTE13VXR1TzZrbFhHMHlwYkV5QnJVMUJEelFt?oc=5",
       "date": "2026-11-10T15:14:28.000Z",
       "tags": [
         "surf"
@@ -318,6 +320,18 @@
       ]
     },
     {
+      "id": "7296ba71e01f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Abu Dhabi to host opening round of UAE Water Ski Championship on November 13 - www.wam.ae",
+      "snippet": "Abu Dhabi to host opening round of UAE Water Ski Championship on November 13 www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkw4TGhwUXdZWXNMbVY0Tjh1V0hYellVaEJMcDJzMGVwY2FKOTl2V00yTUhMb1RUZFFXbjVWd3cwZkxISGRZcE01eXlESzFqWE5ZR2ZzTXF0b1pheFhDZ2RUMG9lOTd3dmVSdEdyUi1iZmtqaVFPVEFYdVJNbnFRVk5UQy02WVk?oc=5",
+      "date": "2026-11-10T06:08:24.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "270e1cb2e8cb",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -366,18 +380,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "5c5b4424d987",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The weekend in sport: Olympic qualification heats up in shooting and surfing - Inside The Games",
-      "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
-      "date": "2026-11-09T18:33:02.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
