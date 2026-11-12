@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:12:00.683Z",
+  "generated_at": "2026-11-12T23:37:06.454Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,6 +9,69 @@
   },
   "items": [
     {
+      "id": "48c838724909",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Naxos named Greece’s top kitesurfing destination for 2025 - The Greek Herald",
+      "snippet": "Naxos named Greece’s top kitesurfing destination for 2025 The Greek Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05nbjhZMGFacmF5ZjJLVUZkR3VmM0gtUC1xUUkyekJ3dXpsZVRRYjBQRF9kcUZ0NTZ0c3g2cnpuMzNxRXM3Qm5FM0JJQ2xPNWdOUEMxc3oxT3ZtUEhUd01hbUdIdUVwbVp2cERIQXZoWExHak95ejNWRThTRllYajNtZnhsMFNKb0dqSWNaZHdlOTQ?oc=5",
+      "date": "2026-11-12T21:14:42.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "4d97547963b3",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Ride Engine Launches New Elite Harness Colours",
+      "snippet": "Two New Looks for the Elite Series Forge Black brings a new look to the 12K carbon hard shell of the Elite Carbon Type 1. Dazzle Camo brings the bold geometry…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ride-engine-launches-new-elite-harness-colours/",
+      "date": "2026-11-12T21:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/04-ride-engine-elite-colors.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b39206745f3d",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Roof of the World Regatta 2027 at Lake Karakul, Tajikistan - Preview - Sail-World.com",
+      "snippet": "Roof of the World Regatta 2027 at Lake Karakul, Tajikistan - Preview Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWd2QUt1a3dONVhINkxCUTdVMS15cFIzb2pxX3dZS2Vkbmx4ZzE4WW9CU3hqcV9lUlg1QkFWLXdHd0duZWNNdU91NU5rS2p3S1l6TVlFbGhpQm01WkNlLWJDcVFkdWJjcmhwcWx2MXBKTmpBV3YtSlZXZXNRTG52UzI3QQ?oc=5",
+      "date": "2026-11-12T19:48:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f8eee8057472",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Who needs a beach anyway? #shorts #kitesurfing #kiteground #kiteboarding #insta360",
+      "snippet": "Slow it down for a moment. The post Who needs a beach anyway? #shorts #kitesurfing #kiteground #kiteboarding #insta360 first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/who-needs-a-beach-anyway-shorts-kitesurfing-kiteground-kiteboarding-insta360/",
+      "date": "2026-11-12T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-44.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "d758a43701d8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Change the C30 Adjustment Buckle on a Kite Harness (Step-by-Step)",
+      "snippet": "Adjustment buckle on your kite harness broken? Learn how to change the C30 adjustment buckles on a kitesurfing harness, shown here on the Riot Curv. All you ne…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-change-the-c30-adjustment-buckle-on-a-kite-harness-step-by-step/",
+      "date": "2026-11-12T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-43.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "1b572fb60a22",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -16,6 +79,18 @@
       "snippet": "Atlantic Park Surf Announces Inaugural Commonwealth Cup, a First-of-Its-Kind Statewide High School Surfing Championship Surf Park Central",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3pvTVhocmUxX1hpbGdFb3k2UThZVHBUZHdsRWhBbTJjdnpndlhNNXNPWllZVGJRTDJscENIRzdVemRwd3BxdGdiZkFITFctSWhlcnpCekVJb1pOOWdORzZCOGRiQVZWb0tGazlwWW41Q3l3ejY1eHJWR2ZJaHgxbklqTDVDQmpGRzJ1U01ncjhVQXBGVzlUZDhLdk5aMHRnbVltdzhJQUxZQ1k5OUl0SVZBZkZpM2QtaGNTdWFaODM0RTR6ejlFS3JDSURwdW02Zm9nblpIS0EyUHF2YWk4UQ?oc=5",
       "date": "2026-11-12T14:04:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "64e8618c43ae",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics - Yahoo Sports",
+      "snippet": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2xVek1CREJFZXNpVWZvNkZqc3RYdDhUVHd3OU1tYl9WZ0oyclVjWlBUanFmZVA0bklsNVR1U0J3UWFwSGtPLVI1SkdDNkNuQVllaEZlXzJ4R2FDb0U4SGhKTlVINHgwSHB3R2NUSUNhNzVwUnM3c0RlTGV1MVg2OE10SUpjaVU?oc=5",
+      "date": "2026-11-12T13:14:28.000Z",
       "tags": [
         "surf"
       ]
@@ -31,18 +106,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-42.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "ae7222788fd3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Ballito surfer reaches quarter-finals at Masters Surf Reunion - The Citizen",
-      "snippet": "Ballito surfer reaches quarter-finals at Masters Surf Reunion The Citizen",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3o1SDF5dWJqLV9LMmNPOHM4b2FlR0hjblBxUEJRQjdrR2hZd0s4SFU3S1BGNWNmNHNEUVlsRmJIQVFRdEZoMC1ndGk3VlRwUmZBN0FyUkZjVVVGNWVHUjdSa3ZpRDBfUW1nNmRJdGhYNEdVaWl6SkczeVppekFFeGFUdGZ2N1dtZHhxLXA2WEkwT1U1OXBUR2MtcTNsQ09OeXBCZTQtZ3I0bFNlMVdVeTE1WF93MGdMbWYyOC1sX1FTMUxy?oc=5",
-      "date": "2026-11-12T11:01:11.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -233,19 +296,6 @@
       ]
     },
     {
-      "id": "7bc6a92a3722",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "The art of having a magnetic hand",
-      "snippet": "It’s like watching a superhero The post The art of having a magnetic hand first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-art-of-having-a-magnetic-hand/",
-      "date": "2026-11-10T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-35.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "fd0f057d32b8",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -270,19 +320,6 @@
       ]
     },
     {
-      "id": "2523eb271798",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Change the Hook on a C-Bar 1 Kite Harness Spreader Bar (Step-by-Step)",
-      "snippet": "Is the hook on your kite harness C-Bar worn or damaged? Learn how to change the hook on the C-Bar 1 spreader bar with just a Torx T20 screwdriver. This quick t…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-change-the-hook-on-a-c-bar-1-kite-harness-spreader-bar-step-by-step/",
-      "date": "2026-11-10T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-34.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "25a8fac5edeb",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -295,19 +332,6 @@
       ]
     },
     {
-      "id": "47466f29c72a",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Alice quickly flew to the moon and came back #gkakiteworldtour #gkabigair #mykonos #greece",
-      "snippet": "Full send from Alice! The post Alice quickly flew to the moon and came back #gkakiteworldtour #gkabigair #mykonos #greece first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/alice-quickly-flew-to-the-moon-and-came-back-gkakiteworldtour-gkabigair-mykonos-greece/",
-      "date": "2026-11-10T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-33.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "c592acdf0de2",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -315,18 +339,6 @@
       "snippet": "Gold Coast night surfing trial gets green light despite concerns about sharks ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEdfRmVfT2hPLTJ2T2poNGdsbnNKa0VjNWt4ZXhLbXIzTGZxTWo4X29lVGVfWVR4VVRYMk5MN2V6V0F3elgxV3pMZnpObWYtTm9RNkw3cUE5Skh5cFRlNktlcmhvYkVJVW8za1JHZjJFbWNfOGdIQWs0cnFRWWI1LW53V0ZXMXYtd2xySVY4Q0lIN0JfaGVjTnRXdUE2NGYzQXdnTTRuVTJ5R1k?oc=5",
       "date": "2026-11-10T07:04:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "7296ba71e01f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Abu Dhabi to host opening round of UAE Water Ski Championship on November 13 - www.wam.ae",
-      "snippet": "Abu Dhabi to host opening round of UAE Water Ski Championship on November 13 www.wam.ae",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkw4TGhwUXdZWXNMbVY0Tjh1V0hYellVaEJMcDJzMGVwY2FKOTl2V00yTUhMb1RUZFFXbjVWd3cwZkxISGRZcE01eXlESzFqWE5ZR2ZzTXF0b1pheFhDZ2RUMG9lOTd3dmVSdEdyUi1iZmtqaVFPVEFYdVJNbnFRVk5UQy02WVk?oc=5",
-      "date": "2026-11-10T06:08:24.000Z",
       "tags": [
         "surf"
       ]
@@ -365,19 +377,6 @@
       "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
       "date": "2026-11-09T23:02:05.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "fb7d6fb70642",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
-      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
-      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
-      "date": "2026-11-09T22:51:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
       ]
