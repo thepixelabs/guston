@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:42:41.966Z",
+  "generated_at": "2026-11-13T19:39:47.472Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,57 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "218362585de7",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing: Morocco’s ISA Worlds run ends · SNA - Sport News Africa",
+      "snippet": "Surfing: Morocco’s ISA Worlds run ends · SNA Sport News Africa",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SblU4am5jUTlHdW5ndzFPZ3YwbktHR1BZNzdvUk41MTFCZnZhejV2QVFLQXYzZE84VjUwc2VYNENJU09UR3dRR1UtazNtZWNmam5NM2lfUEZieEdpZHc1eGloNjlWWWQ2aG1memlGQ3pzbER3alBZR1pRTm9mUQ?oc=5",
+      "date": "2026-11-13T19:05:44.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b4e9f0219524",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Above the ordinary‍",
+      "snippet": "Beach start on point. The post Above the ordinary‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/above-the-ordinary/",
+      "date": "2026-11-13T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-46.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "f368202ddf85",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Lewis Crathern: The 42.6m World Record",
+      "snippet": "This episode of Beneath the Surface sees Aaron Hadlow take over hosting duties to sit down with Lewis Crathern, fresh off breaking the kitesurfing world record…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/lewis-crathern-the-42-6m-world-record/",
+      "date": "2026-11-13T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-50.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6b6337ad5dad",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET!",
+      "snippet": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! Pete Vennik first got hooked on windsur…",
+      "url": "https://www.windsurf.co.uk/pete-vennik-50-years-on-the-water-and-hes-not-done-yet/",
+      "date": "2026-11-13T06:00:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2020/10/IMG_3970-800x600.jpeg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "695cbfe32842",
       "source": "iksurfmag",
@@ -186,51 +237,13 @@
       ]
     },
     {
-      "id": "738d349e907a",
+      "id": "3fb50ade4b78",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Competition Gets Underway At Junior Pro Taghazout Bay - World Surf League",
-      "snippet": "Competition Gets Underway At Junior Pro Taghazout Bay World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVl0YmU2U21MZnlLV0FKOUxIdzhEM0hjN2JHeFZNb0w1WmV2ZnV4V0FrU3VpdV9iUWlmUGNUWkF6U3FvMmthSXpwU3JodV9ncVVMTENSN3VZdE9SU3BXTXBMU1lnN3FDaEJxd0FIRl94aHdTaEE1bVVPdS1XTm5ENGhnLTFpTnMwWUtjOUY2enJkREVaanZIX3FMWktQZ00?oc=5",
-      "date": "2026-11-11T17:53:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e948a94a814d",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kitesurfing with a view",
-      "snippet": "Mid week views with Leonardo. Stunning! The post Kitesurfing with a view first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-with-a-view-2/",
-      "date": "2026-11-11T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-39.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9ed003101037",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Change the Hook on a Spectre Bar 2 (Step-by-Step)",
-      "snippet": "Is the hook on your kite harness damaged, worn, or corroded? Learn how to change the hook on the Spectre Bar 2 spreader bar with just a Torx T20 screwdriver. T…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-change-the-hook-on-a-spectre-bar-2-step-by-step/",
-      "date": "2026-11-11T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-38.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "dc395ddd6b35",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Night surfing trial on Gold Coast gets initial green light - 1029 Hot Tomato",
-      "snippet": "Night surfing trial on Gold Coast gets initial green light 1029 Hot Tomato",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0Y3OXdBanBxdlRsc1lyY2p2bXhLUDRfR0V0WDRGZVBpWXlPbzJfLXVDMU96ZWsxLUJEQXVBQjFGNHJ0Q0dxMi1FWFZ4UjdzNlJrVG5RYnhmSVlDeEhYc1QzM1c5RU1iMndNZVQ0OEJDY1JsaGJHZFNhbGdCaG5hMDNxM3p3b3VKcVNKSF83LXVQanVSOVVIb2dQdXpjRzg2?oc=5",
-      "date": "2026-11-10T21:37:20.000Z",
+      "title": "Victorian Boardriders Clubs Headed To Gold Coast Final - Surfing Victoria",
+      "snippet": "Victorian Boardriders Clubs Headed To Gold Coast Final Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvOXBHN1hfWWMtenJOaHFRT0ZTbjV2ODVtUUxjZFBIVktab1pUeXJMcVZyc3RjQnVISHB0NXhtTkZqc3NfRk9v?oc=5",
+      "date": "2026-11-10T20:58:22.000Z",
       "tags": [
         "surf"
       ]
@@ -248,30 +261,6 @@
       ]
     },
     {
-      "id": "687ef1336026",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point - Sportzhub",
-      "snippet": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGxzN2VweDJnS0VJTm1XX0pCejVEQkVyZTVrcV9FOGRubk1kMTdWNGp5NllwV2NWY25ReDV4WmFJb0tRN3Z5LUVzYmdjNmJjM3QyZnM3R3ZlTFJaanBQVVhVMTVvOG56ajJXZ2Z2Q1lBYnpvRzBhQ2VwV3BUOHhIMDFMalJ0WGVockNkNWR5dEU5TW9VN2FseWl4eG50STk2YTkwVjdxU01BVzRrRVdGdDRMSV9JOTVB?oc=5",
-      "date": "2026-11-10T19:19:39.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "31afd94b8025",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 - eticketing.co",
-      "snippet": "Olympic Surfing Tickets: How USA Surfers Can Qualify for the LA 2028 eticketing.co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDgzQ2lGZnBUeWxKYVFQbzZJTWw0X3B6cDJSMjgtM2xZME0tMml1dVBGcTloRkZxdWU3dHFrNTlXVzFMaE4weWtLT3FPeThhVE5raUVoMWZjZmp0Zjh3bXBtVnZzMXk4YmpDWlQ5dlFtQk52VkFCNFl1MS0weDczQXVfVHFpRWRvdVQ5dEdHdjA1N3NOSVhlLUZ0MA?oc=5",
-      "date": "2026-11-10T15:14:28.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "3ca80990693a",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -279,18 +268,6 @@
       "snippet": "Olympic Shooting: Olympic qualification heats up in shooting and surfing eticketing.co",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDgzWExpZ3RFSXlYU0lET2hhYUpYQ25DR1dHM0xkUzQzM0JybUQ0RHlFUDFENzNGblBsM1JpSzRCZENrQWx3U3VRS0J2Mk0wREE0cFhaa245TTFXdF8zVUMtbTBMeDhtX2ZKZEJQTTB6bld3c2NjdnhQSjB0QzRUS2tKczhwTE13VXR1TzZrbFhHMHlwYkV5QnJVMUJEelFt?oc=5",
       "date": "2026-11-10T15:14:28.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "fd0f057d32b8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Gold Coast backs Snapper Rocks night surfing trial - Oz Arab Media",
-      "snippet": "Gold Coast backs Snapper Rocks night surfing trial Oz Arab Media",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zZGxLNnN2Sk4tWkJXLTBFSEwtdEhqTWY2OUdnRkRwaWxrMGtNSE4xSkxxWlpTVkdzZlVlWE9uQ2xIeEd1TGNBTVF2WFBHdFBrWjZhRnpSNlNRb19Tc2pCSHhDTzhHa0dSbThfZjFsejZxZ0Q1VEtCV1ZEVHo?oc=5",
-      "date": "2026-11-10T13:01:05.000Z",
       "tags": [
         "surf"
       ]
@@ -332,13 +309,13 @@
       ]
     },
     {
-      "id": "270e1cb2e8cb",
+      "id": "e20053c5ca20",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Great Ocean Road Women’s Surf Festival Breaks Record Participation - Ministry of Sport",
-      "snippet": "Great Ocean Road Women’s Surf Festival Breaks Record Participation Ministry of Sport",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXpud0I0bEN0cjFkUXB1cnhfV0E0Y1Q5ZUVCNHhrZ1AtdUVXNkpGaFVPSEJSSEFlMkVEcTl0ZjdtQVkyZnpvOW5lbGk5czJPbmJYVkc1X20xVEhPbUNPMnFGaDR0THItbWxudG03Qjc4UEdUeERBYTVNSkhsVnVnU1RSczREcGlLNkhEcE1JdEtvMFM5OVVpWmV3?oc=5",
-      "date": "2026-11-10T02:18:21.000Z",
+      "title": "Everything You Need To Know About Stab High China, Presented By Monster Energy - STAB",
+      "snippet": "Everything You Need To Know About Stab High China, Presented By Monster Energy STAB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWEUwaWRrcnQwZnY1azllX2R2bTZjcDFBSGk5OVpmN2d2SkxWR1N2alphRl90Ylp6SXZBZl9hWHVIQ2pUNGI3elgyN0NjTmhobFI2TW5VTUYxTnlQdDBLVWxnYldCbUFjU2lfNGVfTmEzX1Zlci1ZVEdB?oc=5",
+      "date": "2026-11-10T00:52:38.000Z",
       "tags": [
         "surf"
       ]
@@ -380,6 +357,30 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "5c5b4424d987",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The weekend in sport: Olympic qualification heats up in shooting and surfing - Inside The Games",
+      "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
+      "date": "2026-11-09T18:33:02.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "b0880745eadd",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 - Surfing Australia",
+      "snippet": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 Surfing Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ282WHY3RHJPOGNURXppLWdsVFVqaWVWVkZoei1zb3NpT3hoVFlYellYQ3U0djNrbFNsZDlFc1lGZ2stNUMxT0x1dmc4RFlHQXk5blUtR3ZuWThsLXdKRlVlNk5NMjRWa2YyQXNSTHJRMVlYaUVkdzZ0b2VUVVByaTdGelh5NUxkeC1kbzAzWHZhSzJwTkc0dnV2OFNNVkFhTl9PWnp6YzhBRTVzLWtOYk5xaVh1MGtR?oc=5",
+      "date": "2026-11-09T04:17:44.000Z",
+      "tags": [
+        "surf"
       ]
     }
   ]
