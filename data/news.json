@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:37:06.454Z",
+  "generated_at": "2026-11-13T06:42:41.966Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,44 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "695cbfe32842",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Lieuwe Retro Collection Returns",
+      "snippet": "Back by popular demand, Lieuwe’s limited Retro Collection brings a nostalgic look to four of the brand’s performance boards. Shotgun & Shotgun AIR The Shotgun…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/lieuwe-retro-collection-returns/",
+      "date": "2026-11-13T03:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-lieuwe-retro.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "98f12a0a33e0",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Interactive road safety mural unveiled on busy road - Geraldton Guardian",
+      "snippet": "Interactive road safety mural unveiled on busy road Geraldton Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUdjcWJFMlI5Ui1SQnNsMkFSVFBFTVpFZVlCaG5PTlJkSVZueVdMOVRYLTBOSmxFbWZuLW1KTkxqRHNMVlBUV0dDN0V3NlFON1poYS05WWZablNsSzRLbWd1WGk2V2hzN195LWVtRXFFZTY3Zy1EUlBLSzVKNERST0V6Q2ZRMVpiVkd5ek5jLUVkVXhXNmtYVEtZMGtLMlBvZERBazAwazRrY01zdndLOTl0U05rODdtOWR6NFF3WVpqbFdBYjdySVJRX2VHRzI0bFd2RUUwdF9NZl8tUW5Jdm5hcnl0RlJVcU9QZmFVM0I?oc=5",
+      "date": "2026-11-13T00:15:14.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "80553b160653",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "The Fleet Is Set: Rider List Confirmed for Red Bull King of the Air 2026",
+      "snippet": "Defending champions Lorenzo Casati and Nathalie Lambrecht return, joined by Taiwan Qualifier winners Hugo Wigglesworth and Alessa Sophia Mensch. CAPE TOWN, Sou…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-fleet-is-set-rider-list-confirmed-for-red-bull-king-of-the-air-2026/",
+      "date": "2026-11-13T00:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-red-bull-kota-riders.png",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "48c838724909",
       "source": "google_kite",
@@ -29,18 +67,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ride-engine-launches-new-elite-harness-colours/",
       "date": "2026-11-12T21:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/04-ride-engine-elite-colors.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "b39206745f3d",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Roof of the World Regatta 2027 at Lake Karakul, Tajikistan - Preview - Sail-World.com",
-      "snippet": "Roof of the World Regatta 2027 at Lake Karakul, Tajikistan - Preview Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWd2QUt1a3dONVhINkxCUTdVMS15cFIzb2pxX3dZS2Vkbmx4ZzE4WW9CU3hqcV9lUlg1QkFWLXdHd0duZWNNdU91NU5rS2p3S1l6TVlFbGhpQm01WkNlLWJDcVFkdWJjcmhwcWx2MXBKTmpBV3YtSlZXZXNRTG52UzI3QQ?oc=5",
-      "date": "2026-11-12T19:48:00.000Z",
       "tags": [
         "kite"
       ]
@@ -84,12 +110,12 @@
       ]
     },
     {
-      "id": "64e8618c43ae",
+      "id": "1cb0fb30ca90",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics - Yahoo Sports",
-      "snippet": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2xVek1CREJFZXNpVWZvNkZqc3RYdDhUVHd3OU1tYl9WZ0oyclVjWlBUanFmZVA0bklsNVR1U0J3UWFwSGtPLVI1SkdDNkNuQVllaEZlXzJ4R2FDb0U4SGhKTlVINHgwSHB3R2NUSUNhNzVwUnM3c0RlTGV1MVg2OE10SUpjaVU?oc=5",
+      "title": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics - SURFER Magazine",
+      "snippet": "John John Florence Chooses Life at Sea Over WSL Championship Tour and LA 2028 Olympics SURFER Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWEFObTRiTkJVTjhNMEZZNGFkNC1tQUMwanBrODZQNEhUY2JZQzIyOFhVZzlObkYtTlBxaEd1VV9RQ1ZtcUlKckpCbzJmaVFGdER1Z2Q3eE93ZFRjS2xQb0ZTN1kycEFmMWVwWWhGY2FhVVZvTnlYaDlzSmE5V3c?oc=5",
       "date": "2026-11-12T13:14:28.000Z",
       "tags": [
         "surf"
@@ -119,18 +145,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-41.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "418a7b8aef88",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surf Club opens season in winning fashion - Coastal View News",
-      "snippet": "Surf Club opens season in winning fashion Coastal View News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM1dxeHhCYnRCb0tSOVoxdmtTNGdtYWNEUHUzOXhaN1BneDZfM3g5TGxQY05UWnpuWjZPX3ZmZ1pjY0x0Q3JaVlZHeW1SYlRycEE1OFFFS2QtS1FDN1I1UVJkRHFGLXEycGhYSUNjaGZUbkFLRkFjUXZIdWNNajhkc0JMTUN6QTRxSlpHZ2piZ3ZRMzE5NFV6V0FiMDl6WkRTMnJOOUV0TW5UWnBnajFNZ1ZOMzB2M0NkSE92UkZ1cncxY2Fv?oc=5",
-      "date": "2026-11-11T22:46:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -210,19 +224,6 @@
       ]
     },
     {
-      "id": "2860331d10c5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sunset state of mind‍",
-      "snippet": "Sunset state of mind😍 The post Sunset state of mind‍ first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sunset-state-of-mind/",
-      "date": "2026-11-11T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-37.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "dc395ddd6b35",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -256,19 +257,6 @@
       "date": "2026-11-10T19:19:39.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "e9a664e49b31",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Just playing around with the board # fyp #foryou #viral #kite #bigairkite",
-      "snippet": "Is that a boomerang or is that a twintip? The post Just playing around with the board # fyp #foryou #viral #kite #bigairkite first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/just-playing-around-with-the-board-fyp-foryou-viral-kite-bigairkite/",
-      "date": "2026-11-10T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-36.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -377,6 +365,19 @@
       "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
       "date": "2026-11-09T23:02:05.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "fb7d6fb70642",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
+      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
+      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
+      "date": "2026-11-09T22:51:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
       ]
