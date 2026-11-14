@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:59:10.547Z",
+  "generated_at": "2026-11-14T22:22:41.076Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,31 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "0cb66e86177a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Jhony Corzo brings his competitive drive to the Pacifico Surf Open Cerritos with podium in mind - World Surf League",
+      "snippet": "Jhony Corzo brings his competitive drive to the Pacifico Surf Open Cerritos with podium in mind World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUtmY1ZGa042VU1ia05aVUljQklJaWc4bTJEVmF0d2J0S1dsUjY0YmNKTzlVdzJVRE5tYUFVcVVEMkQxajR2TWwyMXFYSlpYU2JnOElSUHpOOFZ3WTFmYnlpS0pibThrWmVENGw2VXFuTWZ5NndhVlFqSTVJMXpzNEdFYzg2NVV3ZUtPQmFOWmlaemRXOXBMV3JPMGl1a1ZacUdJNm8zZzhhSWxFLURJdThyMjR4UEZiX081emRFcm8wZUtsMWVUb3V2QzEwNFI0MTVmbw?oc=5",
+      "date": "2026-11-14T19:43:33.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "3510d591b2bb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing is epic",
+      "snippet": "Can you count how many times Leonardos board flips? The post Kitesurfing is epic first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-is-epic/",
+      "date": "2026-11-14T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-49.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "63946283a096",
       "source": "iksurfmag",
@@ -199,18 +224,6 @@
       ]
     },
     {
-      "id": "48c838724909",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Naxos named Greece’s top kitesurfing destination for 2025 - The Greek Herald",
-      "snippet": "Naxos named Greece’s top kitesurfing destination for 2025 The Greek Herald",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05nbjhZMGFacmF5ZjJLVUZkR3VmM0gtUC1xUUkyekJ3dXpsZVRRYjBQRF9kcUZ0NTZ0c3g2cnpuMzNxRXM3Qm5FM0JJQ2xPNWdOUEMxc3oxT3ZtUEhUd01hbUdIdUVwbVp2cERIQXZoWExHak95ejNWRThTRllYajNtZnhsMFNKb0dqSWNaZHdlOTQ?oc=5",
-      "date": "2026-11-12T21:14:42.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "4d97547963b3",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -232,19 +245,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/who-needs-a-beach-anyway-shorts-kitesurfing-kiteground-kiteboarding-insta360/",
       "date": "2026-11-12T18:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-44.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "d758a43701d8",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Change the C30 Adjustment Buckle on a Kite Harness (Step-by-Step)",
-      "snippet": "Adjustment buckle on your kite harness broken? Learn how to change the C30 adjustment buckles on a kitesurfing harness, shown here on the Riot Curv. All you ne…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-change-the-c30-adjustment-buckle-on-a-kite-harness-step-by-step/",
-      "date": "2026-11-12T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-43.jpg",
       "tags": [
         "kite"
       ]
@@ -311,18 +311,6 @@
       ]
     },
     {
-      "id": "dc395ddd6b35",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Night surfing trial on Gold Coast gets initial green light - 1029 Hot Tomato",
-      "snippet": "Night surfing trial on Gold Coast gets initial green light 1029 Hot Tomato",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0Y3OXdBanBxdlRsc1lyY2p2bXhLUDRfR0V0WDRGZVBpWXlPbzJfLXVDMU96ZWsxLUJEQXVBQjFGNHJ0Q0dxMi1FWFZ4UjdzNlJrVG5RYnhmSVlDeEhYc1QzM1c5RU1iMndNZVQ0OEJDY1JsaGJHZFNhbGdCaG5hMDNxM3p3b3VKcVNKSF83LXVQanVSOVVIb2dQdXpjRzg2?oc=5",
-      "date": "2026-11-10T21:37:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "687ef1336026",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -359,18 +347,6 @@
       ]
     },
     {
-      "id": "e20053c5ca20",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Everything You Need To Know About Stab High China, Presented By Monster Energy - STAB",
-      "snippet": "Everything You Need To Know About Stab High China, Presented By Monster Energy STAB",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWEUwaWRrcnQwZnY1azllX2R2bTZjcDFBSGk5OVpmN2d2SkxWR1N2alphRl90Ylp6SXZBZl9hWHVIQ2pUNGI3elgyN0NjTmhobFI2TW5VTUYxTnlQdDBLVWxnYldCbUFjU2lfNGVfTmEzX1Zlci1ZVEdB?oc=5",
-      "date": "2026-11-10T00:52:38.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "0205a8fb3cd4",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -379,6 +355,32 @@
       "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
       "date": "2026-11-09T23:15:48.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3ab002983b7a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
+      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
+      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
+      "date": "2026-11-09T23:02:05.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "fb7d6fb70642",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
+      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
+      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
+      "date": "2026-11-09T22:51:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
       ]
