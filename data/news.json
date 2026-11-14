@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:19:53.873Z",
+  "generated_at": "2026-11-14T17:59:10.547Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,58 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "63946283a096",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "This is not your average wetsuit…",
+      "snippet": "The Amaze Amp is built for those who value unrestricted movement in cold conditions ❄️⛄️☔️ The post This is not your average wetsuit… first appeared on IKSURFM…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-is-not-your-average-wetsuit/",
+      "date": "2026-11-14T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-51.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2a57f61189a2",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Tune into our latest Podcast Episode!",
+      "snippet": "Check out the latest gossip with Mr Overbeek The post Tune into our latest Podcast Episode! first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/tune-into-our-latest-podcast-episode-2/",
+      "date": "2026-11-14T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-45.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "be6badc504f7",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Jumping over an island",
+      "snippet": "Island hopping with Leonardo. Watch out! The post Jumping over an island first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/jumping-over-an-island-6/",
+      "date": "2026-11-14T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-47.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "22c346bbb944",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE",
+      "snippet": "NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE Goya have recently launched their new Custom Thruster 5…",
+      "url": "https://www.windsurf.co.uk/new-goya-custom-thruster-5-pro-carbon-haiku-package/",
+      "date": "2026-11-14T08:00:46.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/custom-thruster-5-pro-carbon-haiku-package-agility-gigapixel-low_res-scale-2_00x-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "60dd4716b8bb",
       "source": "windsurf_uk",
@@ -28,7 +80,7 @@
       "title": "Irukandjis Chase Gold in Peru - Northern Rivers Times",
       "snippet": "Irukandjis Chase Gold in Peru Northern Rivers Times",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzlhUFAwZVBBbE9KbzRjUWJjbll5cjRLeExmZEs3YlVXXzRxcG50eVBEdm9vcF9idUlMVGpDeTllSmh0Ull0UzZEVlRDTEEwYXQ1aFVIaDhhNFJ6OU5QVUU4YnJmZkotNXpnZG1TamlsNUlLUVZZR1hMSkRMVDRTNkZJMHdsY0xYWl9nTWZwWDNtVGZvNkg2eUVvZEZIajhLMVhCdVZzZEdTMF8xcFZV?oc=5",
-      "date": "2026-11-13T23:11:33.000Z",
+      "date": "2026-11-13T23:07:57.000Z",
       "tags": [
         "surf"
       ]
@@ -71,6 +123,18 @@
       ]
     },
     {
+      "id": "b19c52a91c68",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "2026 Taiwan Open of Surfing Brings Star-Studded Field to Jinzun Harbor - World Surf League",
+      "snippet": "2026 Taiwan Open of Surfing Brings Star-Studded Field to Jinzun Harbor World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYk1CZldlS2FpQ2JocGt0RXpEMlFiZ3ZXbl9IS2h1aks0RS1jY0NLblpJeHNFMk5Gems4VzBrc25obDVZWXVUc3YzVjhTd3FkQmFiaFhHVmZlZ3ZsU1lIN21LR1NzS1pLLTBSV3pVWmRoUGI1WVJMSFRpQXI2NndfUVZFamZscWxUdDBHR21iX3NiSVN2Ukw3YzNBemQ5SHZPeFVtZXhRSmxnUzlGZkZKYmlmV05mQQ?oc=5",
+      "date": "2026-11-13T10:49:12.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "f368202ddf85",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -105,6 +169,18 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/lieuwe-retro-collection-returns/",
       "date": "2026-11-13T03:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-lieuwe-retro.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "98f12a0a33e0",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Interactive road safety mural unveiled on busy road - Geraldton Guardian",
+      "snippet": "Interactive road safety mural unveiled on busy road Geraldton Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUdjcWJFMlI5Ui1SQnNsMkFSVFBFTVpFZVlCaG5PTlJkSVZueVdMOVRYLTBOSmxFbWZuLW1KTkxqRHNMVlBUV0dDN0V3NlFON1poYS05WWZablNsSzRLbWd1WGk2V2hzN195LWVtRXFFZTY3Zy1EUlBLSzVKNERST0V6Q2ZRMVpiVkd5ek5jLUVkVXhXNmtYVEtZMGtLMlBvZERBazAwazRrY01zdndLOTl0U05rODdtOWR6NFF3WVpqbFdBYjdySVJRX2VHRzI0bFd2RUUwdF9NZl8tUW5Jdm5hcnl0RlJVcU9QZmFVM0I?oc=5",
+      "date": "2026-11-13T00:15:14.000Z",
       "tags": [
         "kite"
       ]
@@ -174,18 +250,6 @@
       ]
     },
     {
-      "id": "1b572fb60a22",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Atlantic Park Surf Announces Inaugural Commonwealth Cup, a First-of-Its-Kind Statewide High School Surfing Championship - Surf Park Central",
-      "snippet": "Atlantic Park Surf Announces Inaugural Commonwealth Cup, a First-of-Its-Kind Statewide High School Surfing Championship Surf Park Central",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3pvTVhocmUxX1hpbGdFb3k2UThZVHBUZHdsRWhBbTJjdnpndlhNNXNPWllZVGJRTDJscENIRzdVemRwd3BxdGdiZkFITFctSWhlcnpCekVJb1pOOWdORzZCOGRiQVZWb0tGazlwWW41Q3l3ejY1eHJWR2ZJaHgxbklqTDVDQmpGRzJ1U01ncjhVQXBGVzlUZDhLdk5aMHRnbVltdzhJQUxZQ1k5OUl0SVZBZkZpM2QtaGNTdWFaODM0RTR6ejlFS3JDSURwdW02Zm9nblpIS0EyUHF2YWk4UQ?oc=5",
-      "date": "2026-11-12T14:04:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "1cb0fb30ca90",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -198,29 +262,15 @@
       ]
     },
     {
-      "id": "abe182f70513",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Taking golden hour to the sky",
-      "snippet": "Golden hour hits different with a kite in the sky. The post Taking golden hour to the sky first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/taking-golden-hour-to-the-sky/",
-      "date": "2026-11-12T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-42.jpg",
+      "id": "4fd4eac94c7b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing On The Olympic Chopping Block - Swellnet",
+      "snippet": "Surfing On The Olympic Chopping Block Swellnet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObldSdVk3eVpVMnFUU1ZKa0FJc2NadHRNVHBaNklWOF9LMzVpZDNqX0pBOU52bDctYW1EWk5oMHpGQ2FZY1dXdmMzcVZKaXJWak9vU0tNTm1tM05LdUptUzBWakx5Ui1kNmhjZmY4Y2I2WmtOUUo0ZWdSLTJDeF9WM1FxNkFDa3h0M1VwUjljb01acXhGdmI1Xw?oc=5",
+      "date": "2026-11-12T04:40:02.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "5a628092a894",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "#44 Welcome Jamie Overbeek",
-      "snippet": "Jamie Overbeek has established himself as one of the leading riders in the Big Air scene, and now he officially joins the Duotone team. In this episode of Insi…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/44-welcome-jamie-overbeek/",
-      "date": "2026-11-12T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-41.jpg",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -237,31 +287,6 @@
       ]
     },
     {
-      "id": "724fc9425a0e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Larry ‘The Rubberman’ Bertlemann Speaks In a Long Lost Interview From 2006 - The Inertia",
-      "snippet": "Larry ‘The Rubberman’ Bertlemann Speaks In a Long Lost Interview From 2006 The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXhXLXVuTFAxLVRLbXkzaWtkcDM4QlJhdkhJcjFYSjBaUXhlN3VSS0JETzR6aGdESHltUkk0U0Z0RzU0TTlTRFp6Nmc3QkRFYVY4Q0lPeFlnNDFfdlZiN0RYbllUSUt0NjdJdWdWd2dlZDd2dEJQOWthRUE4YTgwQlQtQURZVjczWUVjSmhWQkxxeHE1R2JJWDZpVEp4NzVxMmVMc2F1bms?oc=5",
-      "date": "2026-11-11T19:41:56.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "b1970a01c9cf",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "The best session of the year in The Netherlands #storm #kitesurfing #kiteboarding",
-      "snippet": "Slowing things down for a second in the Netherlands. The post The best session of the year in The Netherlands #storm #kitesurfing #kiteboarding first appeared…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-best-session-of-the-year-in-the-netherlands-storm-kitesurfing-kiteboarding/",
-      "date": "2026-11-11T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-40.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "738d349e907a",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -269,6 +294,18 @@
       "snippet": "Competition Gets Underway At Junior Pro Taghazout Bay World Surf League",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVl0YmU2U21MZnlLV0FKOUxIdzhEM0hjN2JHeFZNb0w1WmV2ZnV4V0FrU3VpdV9iUWlmUGNUWkF6U3FvMmthSXpwU3JodV9ncVVMTENSN3VZdE9SU3BXTXBMU1lnN3FDaEJxd0FIRl94aHdTaEE1bVVPdS1XTm5ENGhnLTFpTnMwWUtjOUY2enJkREVaanZIX3FMWktQZ00?oc=5",
       "date": "2026-11-11T17:53:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "f21a8dc6a94f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young surf stars take on the waves and each other in junior series finale - Port Macquarie News",
+      "snippet": "Young surf stars take on the waves and each other in junior series finale Port Macquarie News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1RDdmZIR09Kby1pRFdVMjlwSFViaWNVd1dkcGR1T2Fxc3l4YzRMU0Z2a19wcThnUkgzZ0IxV2hHczI1NzFKRHZQYS1FMjY5R1pEMXdPWF9tN3RUeGtDbHFCS0g2eWRiRFNkQ3BDcVBUNWpkT3NVakl3UUdCTGhuSHlfVUFmUzJJV0xZaUNLMXBVcXgtMVk0ekpHU1I3b1Blc1FpdV9n?oc=5",
+      "date": "2026-11-11T05:03:12.000Z",
       "tags": [
         "surf"
       ]
@@ -286,30 +323,6 @@
       ]
     },
     {
-      "id": "3fb50ade4b78",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Victorian Boardriders Clubs Headed To Gold Coast Final - Surfing Victoria",
-      "snippet": "Victorian Boardriders Clubs Headed To Gold Coast Final Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvOXBHN1hfWWMtenJOaHFRT0ZTbjV2ODVtUUxjZFBIVktab1pUeXJMcVZyc3RjQnVISHB0NXhtTkZqc3NfRk9v?oc=5",
-      "date": "2026-11-10T20:58:22.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "0814a91ee03b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Red Bull Aeriality Takes Surfing to New Heights in Perth - The Times Australia",
-      "snippet": "Red Bull Aeriality Takes Surfing to New Heights in Perth The Times Australia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXg0OE1yNHMtX3cxNEtDUi05MDY1V0dfN0F1T1E0MmY1SFpFcTlidWJ3ZGVnMnNFZU84WVZPd1ZSOFNzUmlzRndQb0lURUFrcU1mLUlMc05VZy1HZUZtX1o0cUprbGc3X0dSTVFtSmRxZmlXVHFZNk5QbWhLZUMxV2FNTER2VldINk9tWTA0YWNpZ3R4eFhQZnlpbkY?oc=5",
-      "date": "2026-11-10T20:29:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "687ef1336026",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -322,18 +335,6 @@
       ]
     },
     {
-      "id": "3ca80990693a",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Olympic Shooting: Olympic qualification heats up in shooting and surfing - eticketing.co",
-      "snippet": "Olympic Shooting: Olympic qualification heats up in shooting and surfing eticketing.co",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDgzWExpZ3RFSXlYU0lET2hhYUpYQ25DR1dHM0xkUzQzM0JybUQ0RHlFUDFENzNGblBsM1JpSzRCZENrQWx3U3VRS0J2Mk0wREE0cFhaa245TTFXdF8zVUMtbTBMeDhtX2ZKZEJQTTB6bld3c2NjdnhQSjB0QzRUS2tKczhwTE13VXR1TzZrbFhHMHlwYkV5QnJVMUJEelFt?oc=5",
-      "date": "2026-11-10T15:14:28.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "b788f2c05b73",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -341,18 +342,6 @@
       "snippet": "The weight of gold: Inside surfing star John Florence's Olympic-sized decision ESPN",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVl0cTZJcGRibkdva0ZrbmxFME9MWE5YY1F5RGE0Z0o3SmZTMVNXa0JUSVRGeHRYLV9PR3UzVDUwM3djS3FEU3VyVmkxWVlFZVJ4ei1NWWQ4Q0IxS0pUUFBuMTdMMW1Hb2dSajBWdlJRY01ZVGZpcUluOGxUd2RmV2N2UXE4eVdCWE5pa2tjSDhCQzZvX1QyQWR3?oc=5",
       "date": "2026-11-10T13:00:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "25a8fac5edeb",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources - Oswego County News Now",
-      "snippet": "In Senegal, Black surfers want to reclaim the waves despite lack of resources Oswego County News Now",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU29nMDEwcnl0eTRSQ2FKbUZwUnk3eE9wS1JTQ0xpcDJnaUJLM2lPMzFxWUp3OXhXRjJkQmExRkRpaWgxYzNNVXdpc1g0VURQQ2FwOHhqQktuR2xXd0VtVEdvU0RxTzFaWjk5YU83U3NvbmtTeGZ4UEdXa3lrVVE4TDNyYkxxck5MWGVBemtkTXJGVHZGWGJQOGluTk1LRU5KdTFNbGhWRkRtdHg1bzlwVmVuRnJhTTJtQnFYT3VUQjJCSEYtUG01a2RpYUw0OFNmSEUyWWN1bWZKU1hYZGxJMTBrQUU2cC1iZ1RJT3V5bjhOOTRMWl8wNDJpM0FFZw?oc=5",
-      "date": "2026-11-10T12:00:00.000Z",
       "tags": [
         "surf"
       ]
@@ -379,6 +368,19 @@
       "date": "2026-11-10T00:52:38.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "0205a8fb3cd4",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL",
+      "snippet": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL When the top freestylers arrived in China they…",
+      "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
+      "date": "2026-11-09T23:15:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
+      "tags": [
+        "wind"
       ]
     }
   ]
