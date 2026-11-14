@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:39:47.472Z",
+  "generated_at": "2026-11-14T06:19:53.873Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,43 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "60dd4716b8bb",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION!",
+      "snippet": "LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION! LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION! After two counting events in Cornwall and Tiree, Lucas Meldrum has reclai…",
+      "url": "https://www.windsurf.co.uk/lucas-meldrum-2026-british-wave-champion/",
+      "date": "2026-11-14T06:10:21.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/TIREE_WAVE_CLASSIC_DAY_1_0160-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "ca2385b2e90c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Irukandjis Chase Gold in Peru - Northern Rivers Times",
+      "snippet": "Irukandjis Chase Gold in Peru Northern Rivers Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzlhUFAwZVBBbE9KbzRjUWJjbll5cjRLeExmZEs3YlVXXzRxcG50eVBEdm9vcF9idUlMVGpDeTllSmh0Ull0UzZEVlRDTEEwYXQ1aFVIaDhhNFJ6OU5QVUU4YnJmZkotNXpnZG1TamlsNUlLUVZZR1hMSkRMVDRTNkZJMHdsY0xYWl9nTWZwWDNtVGZvNkg2eUVvZEZIajhLMVhCdVZzZEdTMF8xcFZV?oc=5",
+      "date": "2026-11-13T23:11:33.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "dee0fb5bdd3c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Australians Chase WorldTour Qualification as Taiwan Open Draws Record Field - Sportzhub",
+      "snippet": "Australians Chase WorldTour Qualification as Taiwan Open Draws Record Field Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEZUc0NQdkZlS3ptcTFHWDJyc0FKSVBpd1VDVXVIVVo1dDlxMWR1c1ZSUm14am11MzNJMUhqMnlYRjI2YV92cVAyNllDalVmZXhITDZ0emxfazBwNy1jSG8za0hUNFpvOUt3WXNoel9CdWtJY0RZa2wtLXIzbTJHYkVNUmotcEhNT0NHTmUtUHdkdURZaHpTTHVIV1c1OVFWNVlKMm5GcFNTWFB2NGIwZGhPYVk?oc=5",
+      "date": "2026-11-13T21:47:59.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "218362585de7",
       "source": "google_surf",
@@ -68,18 +105,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/lieuwe-retro-collection-returns/",
       "date": "2026-11-13T03:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-lieuwe-retro.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "98f12a0a33e0",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Interactive road safety mural unveiled on busy road - Geraldton Guardian",
-      "snippet": "Interactive road safety mural unveiled on busy road Geraldton Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUdjcWJFMlI5Ui1SQnNsMkFSVFBFTVpFZVlCaG5PTlJkSVZueVdMOVRYLTBOSmxFbWZuLW1KTkxqRHNMVlBUV0dDN0V3NlFON1poYS05WWZablNsSzRLbWd1WGk2V2hzN195LWVtRXFFZTY3Zy1EUlBLSzVKNERST0V6Q2ZRMVpiVkd5ek5jLUVkVXhXNmtYVEtZMGtLMlBvZERBazAwazRrY01zdndLOTl0U05rODdtOWR6NFF3WVpqbFdBYjdySVJRX2VHRzI0bFd2RUUwdF9NZl8tUW5Jdm5hcnl0RlJVcU9QZmFVM0I?oc=5",
-      "date": "2026-11-13T00:15:14.000Z",
       "tags": [
         "kite"
       ]
@@ -237,6 +262,30 @@
       ]
     },
     {
+      "id": "738d349e907a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Competition Gets Underway At Junior Pro Taghazout Bay - World Surf League",
+      "snippet": "Competition Gets Underway At Junior Pro Taghazout Bay World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVl0YmU2U21MZnlLV0FKOUxIdzhEM0hjN2JHeFZNb0w1WmV2ZnV4V0FrU3VpdV9iUWlmUGNUWkF6U3FvMmthSXpwU3JodV9ncVVMTENSN3VZdE9SU3BXTXBMU1lnN3FDaEJxd0FIRl94aHdTaEE1bVVPdS1XTm5ENGhnLTFpTnMwWUtjOUY2enJkREVaanZIX3FMWktQZ00?oc=5",
+      "date": "2026-11-11T17:53:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "dc395ddd6b35",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Night surfing trial on Gold Coast gets initial green light - 1029 Hot Tomato",
+      "snippet": "Night surfing trial on Gold Coast gets initial green light 1029 Hot Tomato",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0Y3OXdBanBxdlRsc1lyY2p2bXhLUDRfR0V0WDRGZVBpWXlPbzJfLXVDMU96ZWsxLUJEQXVBQjFGNHJ0Q0dxMi1FWFZ4UjdzNlJrVG5RYnhmSVlDeEhYc1QzM1c5RU1iMndNZVQ0OEJDY1JsaGJHZFNhbGdCaG5hMDNxM3p3b3VKcVNKSF83LXVQanVSOVVIb2dQdXpjRzg2?oc=5",
+      "date": "2026-11-10T21:37:20.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "3fb50ade4b78",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -249,13 +298,25 @@
       ]
     },
     {
-      "id": "c27bbff601b4",
+      "id": "0814a91ee03b",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "John John Florence Won’t Return to the Championship Tour in 2027 - The Inertia",
-      "snippet": "John John Florence Won’t Return to the Championship Tour in 2027 The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY05kZmFLd3ZNZkRrdkd3dGxNRV96M3k5V3FQS1Bxb0o1dF8tRmgtaXJGcHNpYkZWc3huS1RrOHJFdzNsSzJaeEpJOE9vQkVMMEptSW05ZV9HY3ZxbUxoTWZJUVVKYWQxd1A3blkxZ05yN2NMVHdxc3VGWDNiVXc1M3VBWWFYMWh5YTdWOWZ0Zw?oc=5",
-      "date": "2026-11-10T19:54:10.000Z",
+      "title": "Red Bull Aeriality Takes Surfing to New Heights in Perth - The Times Australia",
+      "snippet": "Red Bull Aeriality Takes Surfing to New Heights in Perth The Times Australia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXg0OE1yNHMtX3cxNEtDUi05MDY1V0dfN0F1T1E0MmY1SFpFcTlidWJ3ZGVnMnNFZU84WVZPd1ZSOFNzUmlzRndQb0lURUFrcU1mLUlMc05VZy1HZUZtX1o0cUprbGc3X0dSTVFtSmRxZmlXVHFZNk5QbWhLZUMxV2FNTER2VldINk9tWTA0YWNpZ3R4eFhQZnlpbkY?oc=5",
+      "date": "2026-11-10T20:29:07.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "687ef1336026",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point - Sportzhub",
+      "snippet": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGxzN2VweDJnS0VJTm1XX0pCejVEQkVyZTVrcV9FOGRubk1kMTdWNGp5NllwV2NWY25ReDV4WmFJb0tRN3Z5LUVzYmdjNmJjM3QyZnM3R3ZlTFJaanBQVVhVMTVvOG56ajJXZ2Z2Q1lBYnpvRzBhQ2VwV3BUOHhIMDFMalJ0WGVockNkNWR5dEU5TW9VN2FseWl4eG50STk2YTkwVjdxU01BVzRrRVdGdDRMSV9JOTVB?oc=5",
+      "date": "2026-11-10T19:19:39.000Z",
       "tags": [
         "surf"
       ]
@@ -316,69 +377,6 @@
       "snippet": "Everything You Need To Know About Stab High China, Presented By Monster Energy STAB",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWEUwaWRrcnQwZnY1azllX2R2bTZjcDFBSGk5OVpmN2d2SkxWR1N2alphRl90Ylp6SXZBZl9hWHVIQ2pUNGI3elgyN0NjTmhobFI2TW5VTUYxTnlQdDBLVWxnYldCbUFjU2lfNGVfTmEzX1Zlci1ZVEdB?oc=5",
       "date": "2026-11-10T00:52:38.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "0205a8fb3cd4",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL",
-      "snippet": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL When the top freestylers arrived in China they…",
-      "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
-      "date": "2026-11-09T23:15:48.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "3ab002983b7a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
-      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
-      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
-      "date": "2026-11-09T23:02:05.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "fb7d6fb70642",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
-      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
-      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
-      "date": "2026-11-09T22:51:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "5c5b4424d987",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The weekend in sport: Olympic qualification heats up in shooting and surfing - Inside The Games",
-      "snippet": "The weekend in sport: Olympic qualification heats up in shooting and surfing Inside The Games",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmk3LWp6NzFLaWdjVG5nY3NGcW9FMEFfVHhJd0xpSHlnTmVWbzZ6TmVMM01NSnl6VlBKNmYwMkZmVHdOZmY1RkdaQ3o4ZmR4ZURRRU9vaEstcHdiTFEzY0lhcFZuTHpnVElEWDgtRS1EOTlUS25LNHVtU3JRQWNwYnVwTDMxOWhTWGJGMENyMmVoMmhMc0hZbFhOZEMyZVc3VkNCM2h2U1JYdktWcDRxN1FBTk1Vdw?oc=5",
-      "date": "2026-11-09T18:33:02.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "b0880745eadd",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 - Surfing Australia",
-      "snippet": "Award-Winning NRMA Insurance Australian Boardriders Battle Grand Final Returns For 2027 Surfing Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ282WHY3RHJPOGNURXppLWdsVFVqaWVWVkZoei1zb3NpT3hoVFlYellYQ3U0djNrbFNsZDlFc1lGZ2stNUMxT0x1dmc4RFlHQXk5blUtR3ZuWThsLXdKRlVlNk5NMjRWa2YyQXNSTHJRMVlYaUVkdzZ0b2VUVVByaTdGelh5NUxkeC1kbzAzWHZhSzJwTkc0dnV2OFNNVkFhTl9PWnp6YzhBRTVzLWtOYk5xaVh1MGtR?oc=5",
-      "date": "2026-11-09T04:17:44.000Z",
       "tags": [
         "surf"
       ]
