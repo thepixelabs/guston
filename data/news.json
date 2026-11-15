@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:27:48.090Z",
+  "generated_at": "2026-11-15T18:50:19.674Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,108 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "cb2121dcbc92",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing is awesome",
+      "snippet": "Full steam ahead… The post Kitesurfing is awesome first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-is-awesome-2/",
+      "date": "2026-11-15T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-52.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "3c52a2661c14",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "WINTER’s around the corner! #snowkiting #kitesurf #skiing #winter #paradies #Switzerland #sport",
+      "snippet": "Who’s winter forecast has a sprinkling of snow in it?! The post WINTER’s around the corner! #snowkiting #kitesurf #skiing #winter #paradies #Switzerland #sport…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/winters-around-the-corner-snowkiting-kitesurf-skiing-winter-paradies-switzerland-sport/",
+      "date": "2026-11-15T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-54.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b31a004531a8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "⏳vs Finding that balance is one of life’s biggest challenges",
+      "snippet": "We’re always searching for the next best thing but sometimes it’s the very moment we’re in. The post ⏳vs Finding that balance is one of life’s biggest challeng…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/%e2%8f%b3vs-finding-that-balance-is-one-of-lifes-biggest-challenges/",
+      "date": "2026-11-15T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-53.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b6d09c7a4e67",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NEILPRYDE: RIGMORALE 1990",
+      "snippet": "NEILPRYDE: RIGMORALE 1990 NEILPRYDE: RIGMORALE 1990 Let’s rewind to 1990 and the days of the classic NeilPryde videos. Rigmorale was a Robert Masters Productio…",
+      "url": "https://www.windsurf.co.uk/neilpryde-rigmorale-1990/",
+      "date": "2026-11-15T10:26:00.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/neilpryde-rigmorale-1990-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "9c6b632910c2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Men's Early Round Kickoff Action at The 2026 Taiwan Open of Surfing - World Surf League",
+      "snippet": "Men's Early Round Kickoff Action at The 2026 Taiwan Open of Surfing World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1N0S0hXUXY0TXdIODJ2NGRkbm10YUN2eF9HYy03UHktWTBUVHB0NkpDeU00cmlJaTVEOHRINHdRTmYwSGc4b0FLYUdNa3dMamUxbDZ1NGJkd3pUYXFWdDJzYzNTVFU3aHRiY2UzWkZHSHlHZWZiUjItUkQwNG1sajZvc3JrV2VURlpROE9HZndJNWkyV2JrQWdmLUlKSHpzZkZoTVhLbVl1dC1jMFR1VA?oc=5",
+      "date": "2026-11-15T10:24:23.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "5fc7380a8887",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "More sunsets like this please‍",
+      "snippet": "Are you a sunset or a sunrise kind of person? The post More sunsets like this please‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/more-sunsets-like-this-please/",
+      "date": "2026-11-15T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-48.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "cb9fead5fb4f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Pump foiling or dancing? Andy's case for racing in no wind at the Olympics - Live Sail Die",
+      "snippet": "Pump foiling or dancing? Andy's case for racing in no wind at the Olympics Live Sail Die",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU4zZzliblJfX0lITnlyaVgwNEVsbHI3eXM4ZXF0MjBWSEcydEQ0WmwyY3BRRmNNNXRrVEd2Qk00cG9SeGNxZmVLaDVDdTBrOFZwNDFKQVFjR1gyMUFmNFhYSVY2dTNHV1VZbGI3VC11UzNiT0RVVnVyYk1RSkhtUGNFd2pEU0hkUEQ3Q3o3RHRRQV9PeDlobm5ZRGdhWS0wVlE?oc=5",
+      "date": "2026-11-15T06:46:27.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "51476eae4ddf",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER",
+      "snippet": "THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER THE FIN FACTOR! SARAH-QUITA OFFRINGA AND LENNART NEUBAUER We chat with two world champions, Sarah-Qui…",
+      "url": "https://www.windsurf.co.uk/the-fin-factor-sarah-quita-offringa-and-lennart-neubauer/",
+      "date": "2026-11-15T06:34:12.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/FV26_fs_GRE734_00605-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "10d75abfc4c1",
       "source": "google_surf",
@@ -21,13 +123,13 @@
       ]
     },
     {
-      "id": "0cb66e86177a",
+      "id": "48fc8fd4739f",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Jhony Corzo brings his competitive drive to the Pacifico Surf Open Cerritos with podium in mind - World Surf League",
-      "snippet": "Jhony Corzo brings his competitive drive to the Pacifico Surf Open Cerritos with podium in mind World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUtmY1ZGa042VU1ia05aVUljQklJaWc4bTJEVmF0d2J0S1dsUjY0YmNKTzlVdzJVRE5tYUFVcVVEMkQxajR2TWwyMXFYSlpYU2JnOElSUHpOOFZ3WTFmYnlpS0pibThrWmVENGw2VXFuTWZ5NndhVlFqSTVJMXpzNEdFYzg2NVV3ZUtPQmFOWmlaemRXOXBMV3JPMGl1a1ZacUdJNm8zZzhhSWxFLURJdThyMjR4UEZiX081emRFcm8wZUtsMWVUb3V2QzEwNFI0MTVmbw?oc=5",
-      "date": "2026-11-14T19:43:33.000Z",
+      "title": "Washington Post. . Ibra Samb learned to surf using discarded plywood in his Senegalese fishing village. Now, he is helping a new generation discover the sport through free weekly lessons in his hometown, who dream of turning into professional surfers. - Facebook",
+      "snippet": "Washington Post. . Ibra Samb learned to surf using discarded plywood in his Senegalese fishing village. Now, he is helping a new generation discover the sport…",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObk5wYXlmanVrLVRaMUtXcTJxdTVGT25BSDZOZXlYbTM3YU1aajZtdnVLYnAtNTV4Zk1RQjRHR1hSbWxCT0d0QUVEemV1MUZNNXZtOWloRzFwaVdjbmJkd3F6OU5uNVNSLXVSWUpHSzJ3elE1aVphcW1aWFRsQ3ppRlpMUVVydVF3WG1nN2dDWWtGNWZUVzZ1RlotSEJGcXR0ZkpZOTh5NkJDMjdHdkc3S0NiTmdpb0hscS04MWhZOVd4UUgxTENvMDBIbnBkU0VoTEdFc0pQeVU1T2hSWGc?oc=5",
+      "date": "2026-11-14T18:00:10.000Z",
       "tags": [
         "surf"
       ]
@@ -111,18 +213,6 @@
       ]
     },
     {
-      "id": "0d8755567b17",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surf : Johann Androt champion de France - Le Journal de Saint-Barth",
-      "snippet": "Surf : Johann Androt champion de France Le Journal de Saint-Barth",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnlYMHZ5Vm1pTjBzd2hyejhBOFFlZ3dUWlZZY0FXM3VyMTRBNXZYdno4Wm9iR1RsRU1QYXM3SUFiUVNmV2p4bHdxNW94amZhaW42cU5rWDNPQktRMGhIamp6QmNGeTRWdVFTeFVNMldqWDR5VzNLTWtpM2pGbVBFWXVGTkhGQTJlV254YVNuUGxGSG1uNnd2UUNPTnFFRmFhVUFDMHMxQ0tncGFvbWJ0Sg?oc=5",
-      "date": "2026-11-14T01:32:49.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "dee0fb5bdd3c",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -186,44 +276,6 @@
       ]
     },
     {
-      "id": "695cbfe32842",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Lieuwe Retro Collection Returns",
-      "snippet": "Back by popular demand, Lieuwe’s limited Retro Collection brings a nostalgic look to four of the brand’s performance boards. Shotgun & Shotgun AIR The Shotgun…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/lieuwe-retro-collection-returns/",
-      "date": "2026-11-13T03:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-lieuwe-retro.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "98f12a0a33e0",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Interactive road safety mural unveiled on busy road - Geraldton Guardian",
-      "snippet": "Interactive road safety mural unveiled on busy road Geraldton Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUdjcWJFMlI5Ui1SQnNsMkFSVFBFTVpFZVlCaG5PTlJkSVZueVdMOVRYLTBOSmxFbWZuLW1KTkxqRHNMVlBUV0dDN0V3NlFON1poYS05WWZablNsSzRLbWd1WGk2V2hzN195LWVtRXFFZTY3Zy1EUlBLSzVKNERST0V6Q2ZRMVpiVkd5ek5jLUVkVXhXNmtYVEtZMGtLMlBvZERBazAwazRrY01zdndLOTl0U05rODdtOWR6NFF3WVpqbFdBYjdySVJRX2VHRzI0bFd2RUUwdF9NZl8tUW5Jdm5hcnl0RlJVcU9QZmFVM0I?oc=5",
-      "date": "2026-11-13T00:15:14.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "80553b160653",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "The Fleet Is Set: Rider List Confirmed for Red Bull King of the Air 2026",
-      "snippet": "Defending champions Lorenzo Casati and Nathalie Lambrecht return, joined by Taiwan Qualifier winners Hugo Wigglesworth and Alessa Sophia Mensch. CAPE TOWN, Sou…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-fleet-is-set-rider-list-confirmed-for-red-bull-king-of-the-air-2026/",
-      "date": "2026-11-13T00:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-red-bull-kota-riders.png",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "48c838724909",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -231,32 +283,6 @@
       "snippet": "Naxos named Greece’s top kitesurfing destination for 2025 The Greek Herald",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05nbjhZMGFacmF5ZjJLVUZkR3VmM0gtUC1xUUkyekJ3dXpsZVRRYjBQRF9kcUZ0NTZ0c3g2cnpuMzNxRXM3Qm5FM0JJQ2xPNWdOUEMxc3oxT3ZtUEhUd01hbUdIdUVwbVp2cERIQXZoWExHak95ejNWRThTRllYajNtZnhsMFNKb0dqSWNaZHdlOTQ?oc=5",
       "date": "2026-11-12T21:14:42.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "4d97547963b3",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Ride Engine Launches New Elite Harness Colours",
-      "snippet": "Two New Looks for the Elite Series Forge Black brings a new look to the 12K carbon hard shell of the Elite Carbon Type 1. Dazzle Camo brings the bold geometry…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ride-engine-launches-new-elite-harness-colours/",
-      "date": "2026-11-12T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/04-ride-engine-elite-colors.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f8eee8057472",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Who needs a beach anyway? #shorts #kitesurfing #kiteground #kiteboarding #insta360",
-      "snippet": "Slow it down for a moment. The post Who needs a beach anyway? #shorts #kitesurfing #kiteground #kiteboarding #insta360 first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/who-needs-a-beach-anyway-shorts-kitesurfing-kiteground-kiteboarding-insta360/",
-      "date": "2026-11-12T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-44.jpg",
       "tags": [
         "kite"
       ]
@@ -311,18 +337,6 @@
       ]
     },
     {
-      "id": "f21a8dc6a94f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young surf stars take on the waves and each other in junior series finale - Port Macquarie News",
-      "snippet": "Young surf stars take on the waves and each other in junior series finale Port Macquarie News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1RDdmZIR09Kby1pRFdVMjlwSFViaWNVd1dkcGR1T2Fxc3l4YzRMU0Z2a19wcThnUkgzZ0IxV2hHczI1NzFKRHZQYS1FMjY5R1pEMXdPWF9tN3RUeGtDbHFCS0g2eWRiRFNkQ3BDcVBUNWpkT3NVakl3UUdCTGhuSHlfVUFmUzJJV0xZaUNLMXBVcXgtMVk0ekpHU1I3b1Blc1FpdV9n?oc=5",
-      "date": "2026-11-11T05:03:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "c27bbff601b4",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -330,18 +344,6 @@
       "snippet": "John John Florence Won’t Return to the Championship Tour in 2027 The Inertia",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY05kZmFLd3ZNZkRrdkd3dGxNRV96M3k5V3FQS1Bxb0o1dF8tRmgtaXJGcHNpYkZWc3huS1RrOHJFdzNsSzJaeEpJOE9vQkVMMEptSW05ZV9HY3ZxbUxoTWZJUVVKYWQxd1A3blkxZ05yN2NMVHdxc3VGWDNiVXc1M3VBWWFYMWh5YTdWOWZ0Zw?oc=5",
       "date": "2026-11-10T19:54:10.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "687ef1336026",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point - Sportzhub",
-      "snippet": "World Junior Surfing Qualification on the Line at Morocco's Famous Anchor Point Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGxzN2VweDJnS0VJTm1XX0pCejVEQkVyZTVrcV9FOGRubk1kMTdWNGp5NllwV2NWY25ReDV4WmFJb0tRN3Z5LUVzYmdjNmJjM3QyZnM3R3ZlTFJaanBQVVhVMTVvOG56ajJXZ2Z2Q1lBYnpvRzBhQ2VwV3BUOHhIMDFMalJ0WGVockNkNWR5dEU5TW9VN2FseWl4eG50STk2YTkwVjdxU01BVzRrRVdGdDRMSV9JOTVB?oc=5",
-      "date": "2026-11-10T19:19:39.000Z",
       "tags": [
         "surf"
       ]
@@ -359,18 +361,6 @@
       ]
     },
     {
-      "id": "c592acdf0de2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Gold Coast night surfing trial gets green light despite concerns about sharks - ABC News & Headlines – Australian Broadcasting Corporation",
-      "snippet": "Gold Coast night surfing trial gets green light despite concerns about sharks ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEdfRmVfT2hPLTJ2T2poNGdsbnNKa0VjNWt4ZXhLbXIzTGZxTWo4X29lVGVfWVR4VVRYMk5MN2V6V0F3elgxV3pMZnpObWYtTm9RNkw3cUE5Skh5cFRlNktlcmhvYkVJVW8za1JHZjJFbWNfOGdIQWs0cnFRWWI1LW53V0ZXMXYtd2xySVY4Q0lIN0JfaGVjTnRXdUE2NGYzQXdnTTRuVTJ5R1k?oc=5",
-      "date": "2026-11-10T07:04:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "0205a8fb3cd4",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -379,6 +369,19 @@
       "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
       "date": "2026-11-09T23:15:48.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3ab002983b7a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
+      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
+      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
+      "date": "2026-11-09T23:02:05.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
       "tags": [
         "wind"
       ]
