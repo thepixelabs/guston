@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:22:41.076Z",
+  "generated_at": "2026-11-15T06:27:48.090Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,18 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "10d75abfc4c1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Taiwan International Surfing Open attracts 200 surfers from 30 countries - Taiwan News",
+      "snippet": "Taiwan International Surfing Open attracts 200 surfers from 30 countries Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SSm5WYW9KU0JhSUUtUm5wWlo0Vk1oRXY2V05EY2ExVzlqR1BkTHNFbHBIbmhQZUNfakxHUDJoZUt2djhwcnU3LWhlU3pzb19SSG13czBUSUk?oc=5",
+      "date": "2026-11-15T04:26:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "0cb66e86177a",
       "source": "google_surf",
@@ -99,13 +111,13 @@
       ]
     },
     {
-      "id": "ca2385b2e90c",
+      "id": "0d8755567b17",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Irukandjis Chase Gold in Peru - Northern Rivers Times",
-      "snippet": "Irukandjis Chase Gold in Peru Northern Rivers Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzlhUFAwZVBBbE9KbzRjUWJjbll5cjRLeExmZEs3YlVXXzRxcG50eVBEdm9vcF9idUlMVGpDeTllSmh0Ull0UzZEVlRDTEEwYXQ1aFVIaDhhNFJ6OU5QVUU4YnJmZkotNXpnZG1TamlsNUlLUVZZR1hMSkRMVDRTNkZJMHdsY0xYWl9nTWZwWDNtVGZvNkg2eUVvZEZIajhLMVhCdVZzZEdTMF8xcFZV?oc=5",
-      "date": "2026-11-13T23:07:57.000Z",
+      "title": "Surf : Johann Androt champion de France - Le Journal de Saint-Barth",
+      "snippet": "Surf : Johann Androt champion de France Le Journal de Saint-Barth",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnlYMHZ5Vm1pTjBzd2hyejhBOFFlZ3dUWlZZY0FXM3VyMTRBNXZYdno4Wm9iR1RsRU1QYXM3SUFiUVNmV2p4bHdxNW94amZhaW42cU5rWDNPQktRMGhIamp6QmNGeTRWdVFTeFVNMldqWDR5VzNLTWtpM2pGbVBFWXVGTkhGQTJlV254YVNuUGxGSG1uNnd2UUNPTnFFRmFhVUFDMHMxQ0tncGFvbWJ0Sg?oc=5",
+      "date": "2026-11-14T01:32:49.000Z",
       "tags": [
         "surf"
       ]
@@ -118,18 +130,6 @@
       "snippet": "Australians Chase WorldTour Qualification as Taiwan Open Draws Record Field Sportzhub",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEZUc0NQdkZlS3ptcTFHWDJyc0FKSVBpd1VDVXVIVVo1dDlxMWR1c1ZSUm14am11MzNJMUhqMnlYRjI2YV92cVAyNllDalVmZXhITDZ0emxfazBwNy1jSG8za0hUNFpvOUt3WXNoel9CdWtJY0RZa2wtLXIzbTJHYkVNUmotcEhNT0NHTmUtUHdkdURZaHpTTHVIV1c1OVFWNVlKMm5GcFNTWFB2NGIwZGhPYVk?oc=5",
       "date": "2026-11-13T21:47:59.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "218362585de7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing: Morocco’s ISA Worlds run ends · SNA - Sport News Africa",
-      "snippet": "Surfing: Morocco’s ISA Worlds run ends · SNA Sport News Africa",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SblU4am5jUTlHdW5ndzFPZ3YwbktHR1BZNzdvUk41MTFCZnZhejV2QVFLQXYzZE84VjUwc2VYNENJU09UR3dRR1UtazNtZWNmam5NM2lfUEZieEdpZHc1eGloNjlWWWQ2aG1memlGQ3pzbER3alBZR1pRTm9mUQ?oc=5",
-      "date": "2026-11-13T19:05:44.000Z",
       "tags": [
         "surf"
       ]
@@ -224,6 +224,18 @@
       ]
     },
     {
+      "id": "48c838724909",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Naxos named Greece’s top kitesurfing destination for 2025 - The Greek Herald",
+      "snippet": "Naxos named Greece’s top kitesurfing destination for 2025 The Greek Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc05nbjhZMGFacmF5ZjJLVUZkR3VmM0gtUC1xUUkyekJ3dXpsZVRRYjBQRF9kcUZ0NTZ0c3g2cnpuMzNxRXM3Qm5FM0JJQ2xPNWdOUEMxc3oxT3ZtUEhUd01hbUdIdUVwbVp2cERIQXZoWExHak95ejNWRThTRllYajNtZnhsMFNKb0dqSWNaZHdlOTQ?oc=5",
+      "date": "2026-11-12T21:14:42.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "4d97547963b3",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -311,6 +323,18 @@
       ]
     },
     {
+      "id": "c27bbff601b4",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "John John Florence Won’t Return to the Championship Tour in 2027 - The Inertia",
+      "snippet": "John John Florence Won’t Return to the Championship Tour in 2027 The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY05kZmFLd3ZNZkRrdkd3dGxNRV96M3k5V3FQS1Bxb0o1dF8tRmgtaXJGcHNpYkZWc3huS1RrOHJFdzNsSzJaeEpJOE9vQkVMMEptSW05ZV9HY3ZxbUxoTWZJUVVKYWQxd1A3blkxZ05yN2NMVHdxc3VGWDNiVXc1M3VBWWFYMWh5YTdWOWZ0Zw?oc=5",
+      "date": "2026-11-10T19:54:10.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "687ef1336026",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -355,32 +379,6 @@
       "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
       "date": "2026-11-09T23:15:48.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "3ab002983b7a",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
-      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
-      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
-      "date": "2026-11-09T23:02:05.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "fb7d6fb70642",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
-      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
-      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
-      "date": "2026-11-09T22:51:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
       "tags": [
         "wind"
       ]
