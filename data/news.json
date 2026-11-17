@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-11-16T21:59:41.738Z",
+  "generated_at": "2026-11-17T07:52:47.829Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
-    "google_wing": "ok",
-    "google_kite": "ok",
-    "google_surf": "ok"
+    "google_wing": "failed",
+    "google_kite": "failed",
+    "google_surf": "failed"
   },
   "items": [
     {
-      "id": "d9585dbc69c1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old surfing prodigy stuns competition - Nine.com.au",
-      "snippet": "14-year-old surfing prodigy stuns competition Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWVXTkh5cVJLWlh4bzRDdGVzUVhBM3IzUjE1NS1GOTA1UTJGR1k1dm1fYnV5cnhGbHJpQWZheWd6MnBPbmJFMThsazJqU2s4c09aYlV0YUFRV2RIM2lZM04tS1pmMVRmVHhxVnlYMjlSRjVqWGVsdTVFNkd6b0ZRSWNDZThTS2FzRHlnUVVLd1RHV205N05ZOExOd3B3WlBwcHZfaDBSLWZmbFh2?oc=5",
-      "date": "2026-11-16T21:07:51.000Z",
+      "id": "9a24ee268b29",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN!",
+      "snippet": "WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN! WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN! One last roll of the dice! The world titles are on th…",
+      "url": "https://www.windsurf.co.uk/windsurf-chile-2026-predictions-the-final-wave-showdown/",
+      "date": "2026-11-17T06:07:38.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z722980FishBowlDiaries-1-800x600.jpg",
       "tags": [
-        "surf"
+        "wind"
       ]
     },
     {
@@ -47,66 +48,6 @@
       ]
     },
     {
-      "id": "8f337afefcd3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old Leihani Zoric becomes youngest-ever ISA World Surfing Games champion and first Indigenous world champion surfer - SSBCrack",
-      "snippet": "14-year-old Leihani Zoric becomes youngest-ever ISA World Surfing Games champion and first Indigenous world champion surfer SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORk5jaVlnTnpHblpQa01RN3NVZnl4Ulp5YTFwb09TYTZMc19CdjR2a1RBR25wTThRRWhNel9WYXdxWnR5MVdXOGl3VXB1WW1pSzRveUJyRGdfc1ZkbWhBUUVvdzg2aXYzQUdFRTAzN1RmZHV6ZHJrSzBTazJwaWdWSVJCaUhzR2M3VHcxLVBIRFREVjdua3BJMHB1cDVOUm0tSlhPc09Ma21xS2ZqYWZVaWl4LVZ4YkxqNnhTMHh2TVlOaEg1c092WEVjZlVBY1NobEdSRUsyVTcyaWNnbzJKbHV6Zzg?oc=5",
-      "date": "2026-11-16T14:44:16.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9eca6a3435f7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Thirroul surf club thrilled to host iron series champs - The Illawarra Flame",
-      "snippet": "Thirroul surf club thrilled to host iron series champs The Illawarra Flame",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmgxYWZTWl9xYk1NREZUYXpPYUJDVGJsZVBfSk5BTmFpWnNneXItRGZmeVc0aS1PZ3g3NVU0V2FZdElnSkxudFgzT29ZamdGbEZ1RUZveVZXM0tRd3h5em9kTUNFQlc3SDBHczJfSENYcWN3RXJEZHo2YmFmZW5vTThKbThKekpRbm96MzI3ZjhPT2NacFBkQjFBeUtHdw?oc=5",
-      "date": "2026-11-16T13:07:23.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a846a771573b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric crowned youngest-ever ISA World Surfing Games champion to help secure Australia an extra LA28 quota - Olympics",
-      "snippet": "Leihani Zoric crowned youngest-ever ISA World Surfing Games champion to help secure Australia an extra LA28 quota Olympics",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjZJb2kxWXB6RjVkeFhzTzhhY0tqYnlJeHMxMEdtVmJESUh4YkJaX09KNXNmc0NRbWk2STBIZk9rYll0Z1hZb2I0ZGE5MExfRGU5SC1jUW5LYmdUUHVDMjVoX1lNRmN3SHpNN0xUYXBUa3BqcXJXOWN5c0FGYjJacWp5OEZRR2FiMTFUSXFGMlV0THk4SjNpZFNqXzFLbDV6emR5YWJOVTNMQnY1dDAwUUdpV1dmTVFrOHRBZ2JURk1IQQ?oc=5",
-      "date": "2026-11-16T13:07:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "16a70647a5dd",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Blouberg’s big-air season: Why Cape Town attracts the world’s best kitesurfers - Getaway Magazine",
-      "snippet": "Blouberg’s big-air season: Why Cape Town attracts the world’s best kitesurfers Getaway Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXRiZkt1MEFQU1lQUlFIX0xLMWRhWUxvRUg1dnNRSVNUYU9mY1R5elM0WGJfQzRYY3hZc08yalU2TGFyVi1FdVVSbHJ3UUFlWGZnVW80WGZMSlJEV0txc3IzMHBXdFNmZkZhYUxqR2xabk5INVV1T0lnR0x6WEVoTE1TaTJDdXd1d25GTENGUWx5c2h5TDFUMUV6Y0tQam1YbWZWeVQ5SEdNb05RSnh2Z2M4WXlOVHJsNG9YSGtn?oc=5",
-      "date": "2026-11-16T12:11:01.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a342f46ac18b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion - The New York Times",
-      "snippet": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRoMlVKWWNNY2dMbnJqTl9lLVNMSEo0bVI2QWtUN3JsUi1BTWI1enVGa2hCN290c0NuRWtNZmNHX1VXSlNodWFSWjhLMEV5eW9VcXJpaUl1LXhHZExDaHRUMTEySlpheF83ZDF3LVZyNWxnWWF0cERwZHNZQUU3OUsySHAzZUxpaS1LVzJyZ2x4eG5BaE9iUw?oc=5",
-      "date": "2026-11-16T12:06:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "9ab5d2e8cad3",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -120,78 +61,6 @@
       ]
     },
     {
-      "id": "251a9f611c5f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Want Your Own Wave Pool Surf Team? Wave Pool Surf League Lists Offers Ahead of 2027 Debut - WavePoolMag",
-      "snippet": "Want Your Own Wave Pool Surf Team? Wave Pool Surf League Lists Offers Ahead of 2027 Debut WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYk16cFF5VnlDZXBHU2ZCXzBrNWlVeklfVGxMTE9NLXIzMUdTYzkzUXBMdVVGUTdKWldKR0o4RUktUGJwU25IdTIyWUZDR2hxY05DMkt6bm5lU2F3T3d4UE41alNpeWhZTWp1dzZBZ2xBYmpV?oc=5",
-      "date": "2026-11-16T11:01:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "936ffccfdbc9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Newport angler represents Team USA in international surf fishing competition - WJAR",
-      "snippet": "Newport angler represents Team USA in international surf fishing competition WJAR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWM3RkxJdlRHaDN5M1drcG9PazBxX2lQT3JpN2otM25YNnRZeWhKVExXc2E0SXZObEItZThrRFBxVHZkSWxfNU9LVGhmak9OZU9wR3VONUJuZm92eGdfMVRVeWFWOUpvbzRfRTFTRExhUF93OFkwOXdjbjFJV1dUZ2hNc0taNENMUUh0b2RPcWxqQmJuR05nOVVEMmNxM3V3cnRKejlxS1hSa1lo?oc=5",
-      "date": "2026-11-16T09:59:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "7f3aa13efef6",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Empty wing foil board sparks Newquay lifeboat search - CornishStuff",
-      "snippet": "Empty wing foil board sparks Newquay lifeboat search CornishStuff",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0l6TUZwVTJ4eE9OM1gteWdlM0w5S3hMOUxOQnhpM0J3a1A4WXlMT3VYR2hoRWpOVWxMakZ4bW5JaUpmUTgwX0Zvd1VWaW95dmxwcUJKc3pkb045aGROYmYzWi1LdzFrejZYMDNVN0FjRUNaRDJ5NWUwV3ZCRVNsZjNaS1VCeDBaSXJ1UjFnaw?oc=5",
-      "date": "2026-11-16T09:54:26.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "ceba9c28cb53",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aussies secure Olympic boost as 14-year-old makes history in Peru - Nine.com.au",
-      "snippet": "Aussies secure Olympic boost as 14-year-old makes history in Peru Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1VPR1kzNXhIUWUtVGFxcFl5cjYyX3BEdm9qWGpOLWJtNmltcUROZHVjUzlWWUJBZkVOS1dVTWk0YWJLWkpjOF9EN0N3V2o4UUp5RFR6cmJDN1BoTm9RTUJTdl9RTnlobGoyVHNqT1daN1pCdjZESWpKUVdKQktsd3E4U2t6ZE4tSTB4bWlnR3puckNhbGZXNDB1NDZMUmluY0wtQTRZcHFGOHhqb3FyclZIT1F1ZUxtLUl5MWh3?oc=5",
-      "date": "2026-11-16T09:28:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e788d0384793",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing - World Surf League",
-      "snippet": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMk1WUWZTUmtHdmVBVFRqLXBVSzhMSXlMTkV5eDUtS2Fja2ZTVkg4bWNPNkNzdTdmZ0RFRlBYSWoyWFhHX0xHTi1kWjRKMDlJLXZnTXZaamZLbE5lSldoeVdSdjJoYXRBZEczaTdaNExLdXhRaFFrejdNVjNIUWxZeGt6cUxPTzA5dXVfVkdkTmhKZFB1RmxUT2ZhSGw3LUhjU2pYOWdCSXVhV2kwTjAweHAzZzFSWmp2a2MwNnd1SHJtN28?oc=5",
-      "date": "2026-11-16T09:18:22.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d3144aaf37ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-Year-Old Leaves Olympic Surfing Legends Behind in Shocking Gold Win - EssentiallySports",
-      "snippet": "14-Year-Old Leaves Olympic Surfing Legends Behind in Shocking Gold Win EssentiallySports",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQVVBaVNEY0puSktySlM5aW5PakR4SGxxcHZ0bC1xeUMwang0ZHlvbGFFeWpZRXNHcGp1UFZCbW5NRHktUXNyR0lreDcwalhoRmZJa1NfMEk0aGpwYTRwaFRqYlBqUWFxaUJZaTRrbHg1aFZWOHJMcUpucVdJTjNVN2VCUjlRMDVkcnU2VHVGTlAzaG5IYTZERHdfMThDNUFVR1RvOGNPX1lwOXh1N3VDb3FKSGFxaDlSbTR5SVpQS0puTnJoY2N4T2dORlFOY1RRVkhkOA?oc=5",
-      "date": "2026-11-16T09:04:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "27a0c5447a9e",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -202,102 +71,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-55.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "4f493047f533",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Small conditions make for tough competition at Surfest Junior Series finals - NBN News",
-      "snippet": "Small conditions make for tough competition at Surfest Junior Series finals NBN News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEFZUUoyZTVkb1NsZzFQbks5VmJHcFVPV1BDOTgtZXEzVFdQeXFTUFdsRXRJcE1CYk0xd2Q2WFdUQnlsV2lWT0RYRldSNEtLVTFvVEZ0MnBTQXVObTFPUG9MY0xtQjlURHh6czVyWFRKdmZQcUQxWGpMYm85NzZZaE1EZTdnYk1rWVJLVDNqYUs3Mk9VSDV5VGVNU1UzTGs2dEpyWW1oT2JvZmhEZ1g3cjVkMkc?oc=5",
-      "date": "2026-11-16T06:55:50.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "c87fdd128b46",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aussie teen Zoric rewrites history with world title - https://aapnews.aap.com.au/",
-      "snippet": "Aussie teen Zoric rewrites history with world title https://aapnews.aap.com.au/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXlTM09yc2N4aEQ3cGhVT0pqdFFNc3JZYUZOSjRMR0JuTkRvbDhSbVVsdjI4WjI3UE55U0ZjTUhnZGNoYVZ2c3lPdkZUWHdPbXpGcEw4Tzdsb3VKcjlJUzFZR3BjSWs0VHlhVTJSSjI2bGZoQ1ZnQWRQa2lRVHRnY2w5cVhtbzFSRVU0?oc=5",
-      "date": "2026-11-16T05:54:53.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e41bd0e4b1c8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric, 14, stuns surfing world with gold medal to give Australia Olympic boost - The Guardian",
-      "snippet": "Leihani Zoric, 14, stuns surfing world with gold medal to give Australia Olympic boost The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3dhTXdhMnpxVkpkVk9NbVdWalpNT09tNWhIYjd5aFJyUEdUOGYxMkh6a01TOTdhZ2c2a3Jqam13cUJyeDAyMk14NUdNcS0zY1gwTFdMYzNTcF9NQTBSaVZHcy1NdGZGSEZKUUFHUk5nVEs5cExUc1JLby1jc2NvZ0pxdjJZY3Vyb0Fka0xmQ2ZWTm03MGlKTGlhT0VqSFo2dEtFNXoxT2x6bzIwWVFRZjl2RU8?oc=5",
-      "date": "2026-11-16T05:35:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9b934937567a",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "TRIPLE GOLD FOR AUSTRALIA: Ethan Ewing and Leihani Zoric Crowned World Champions, as Australia Wins Back-to-Back Team Gold at the 2026 ISA World Surfing Games - Surfing Australia",
-      "snippet": "TRIPLE GOLD FOR AUSTRALIA: Ethan Ewing and Leihani Zoric Crowned World Champions, as Australia Wins Back-to-Back Team Gold at the 2026 ISA World Surfing Games…",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRmRNMHBuajh2UmI3VEZfbkQyZDUtVHB3MFVkSG8teVNtRkMxV3VuMnI3UlpRVTQ4aldEYWE4eXpaZl9aUXpVWkJfZmVJTE51SUhaR2F2LUZ0X1ZwQ2ZGMnYzWFdHMVRWRWp3TjZWV3ZVR0tVS0ZJM1JkSzYwODh2MVhlQ3VzYzgxT2NsTlhoOHdQbHJlQ1VQOWFQTXMwMTFnQUlDRFNfZVZTTmFsLV9Jc0tkWnRFeWtHMUN2a2pQYmtkZkNPTnlJMVF6cUdsRHpERWdYS2VreVRUMHFpYnVWZldTc2hLTnJ1TlB2WU9QZTlOMzJObFVSV0swZVlfQ0RCX184Q2FELWNDX2FLQ0JaRS1pNGo?oc=5",
-      "date": "2026-11-16T05:24:08.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e21f061c440c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Australia Sweeps World Surfing Gold as 14-Year-Old Zoric Makes History in Peru - Sportzhub",
-      "snippet": "Australia Sweeps World Surfing Gold as 14-Year-Old Zoric Makes History in Peru Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXBkU1F3a3dJUl8tanBjMVFXOHVBaW9iNUI5bVZ1d1JGMm9nVy1LYmp6XzdYX3IwSkRYUGFsMzVuNWFpcG5fSThIUWN5Y3dpNEp4eFZ0Ujhqc1cxLWxValczcERUM2k5Q2kwcmc0WGwxd3paWUtOWUZ5MDlxWGIxWnJ1aFdMQzVwbURkX0RVSDVBVWZUWjlGSVVFc0tEajhOVjY0QktkaTB1bnM5S25KNEVUczhRWEFD?oc=5",
-      "date": "2026-11-16T04:05:44.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "47e342d000ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Byron Bay girl stuns surfing world just days after turning 14 - ABC News & Headlines – Australian Broadcasting Corporation",
-      "snippet": "Byron Bay girl stuns surfing world just days after turning 14 ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREg5RkZ3SThJMC1DUUYtM0NVVVJWOWUzemdhSmh2ZkI4MDVTLUlpVkx3cUlRY0tJbWFSeGpDMkxvNU9hNkE1MXZrS0ZmYm9QeW1DX09uSUpmU2NOaHhoa2ZONE1MdjdldFNhOHM1dGszWndjTkFyM2NTQVdPSHB5enRBa3VMOUJhempZWmNjYno0bG51Y2NGM3RCSmkwQnBDWVFPN0VKbXVON0E3VV9F?oc=5",
-      "date": "2026-11-16T03:56:30.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e773cc1dd4c9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old Zorich becomes youngest world surfing champion — Channel NewsAsia - UA.NEWS",
-      "snippet": "14-year-old Zorich becomes youngest world surfing champion — Channel NewsAsia UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUdLdk1Uak1wZ0hzVXB4cml2bzRUQXM0aUdsR3VzdXk4cTM0Z3c5Y0s1TkF3Q3FxdXMybVh0ZjJVY1A4WklJdjRtczVBR0gwUE9tQVpFbm9VZTdjT2V6TXpiTl91UXQwNE1Cd21yRXVJaWVKemZHQVRURzBqR2hSVUVGWWo1TG9SWGV3TFd3ZnRTWllGTnd3NmFIdzBDdkFFSjN4NjBsOUU2N3o4dEZIWXVVa2JncTA?oc=5",
-      "date": "2026-11-16T01:58:31.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ee89b8c7830d",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Air Strikes Kill Scores As Troops Foil Terrorist Attacks In Zamfara - LEADERSHIP Newspapers",
-      "snippet": "Air Strikes Kill Scores As Troops Foil Terrorist Attacks In Zamfara LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG5Uc3d4UzNFaUpsaEhxTGFGbGRmS0NuMUwxckNlbk5iTUZ4YkNqR1gwTjJaRXh0UFJKVGtieGZRVFd4ZUF5aC01TlJpbkFiUlZDRmxYa2xESGEyRlhGbS1MbFk2eThqVVoyTjU0enlsUEVhMHZOdDVWVzZYeGJTcmxqeC1TNkk0cDFLNl9BMThSak5j?oc=5",
-      "date": "2026-11-15T20:28:52.000Z",
-      "tags": [
-        "wing"
       ]
     },
     {
@@ -340,18 +113,6 @@
       ]
     },
     {
-      "id": "9c6b632910c2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Men's Early Round Kickoff Action at The 2026 Taiwan Open of Surfing - World Surf League",
-      "snippet": "Men's Early Round Kickoff Action at The 2026 Taiwan Open of Surfing World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1N0S0hXUXY0TXdIODJ2NGRkbm10YUN2eF9HYy03UHktWTBUVHB0NkpDeU00cmlJaTVEOHRINHdRTmYwSGc4b0FLYUdNa3dMamUxbDZ1NGJkd3pUYXFWdDJzYzNTVFU3aHRiY2UzWkZHSHlHZWZiUjItUkQwNG1sajZvc3JrV2VURlpROE9HZndJNWkyV2JrQWdmLUlKSHpzZkZoTVhLbVl1dC1jMFR1VA?oc=5",
-      "date": "2026-11-15T10:24:23.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "5fc7380a8887",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -365,15 +126,211 @@
       ]
     },
     {
-      "id": "cb9fead5fb4f",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Pump foiling or dancing? Andy's case for racing in no wind at the Olympics - Live Sail Die",
-      "snippet": "Pump foiling or dancing? Andy's case for racing in no wind at the Olympics Live Sail Die",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU4zZzliblJfX0lITnlyaVgwNEVsbHI3eXM4ZXF0MjBWSEcydEQ0WmwyY3BRRmNNNXRrVEd2Qk00cG9SeGNxZmVLaDVDdTBrOFZwNDFKQVFjR1gyMUFmNFhYSVY2dTNHV1VZbGI3VC11UzNiT0RVVnVyYk1RSkhtUGNFd2pEU0hkUEQ3Q3o3RHRRQV9PeDlobm5ZRGdhWS0wVlE?oc=5",
-      "date": "2026-11-15T06:46:27.000Z",
+      "id": "3510d591b2bb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing is epic",
+      "snippet": "Can you count how many times Leonardos board flips? The post Kitesurfing is epic first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-is-epic/",
+      "date": "2026-11-14T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-49.jpg",
       "tags": [
-        "wing"
+        "kite"
+      ]
+    },
+    {
+      "id": "63946283a096",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "This is not your average wetsuit…",
+      "snippet": "The Amaze Amp is built for those who value unrestricted movement in cold conditions ❄️⛄️☔️ The post This is not your average wetsuit… first appeared on IKSURFM…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-is-not-your-average-wetsuit/",
+      "date": "2026-11-14T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-51.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "22c346bbb944",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE",
+      "snippet": "NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE NEW GOYA CUSTOM THRUSTER 5 PRO CARBON HAIKU PACKAGE Goya have recently launched their new Custom Thruster 5…",
+      "url": "https://www.windsurf.co.uk/new-goya-custom-thruster-5-pro-carbon-haiku-package/",
+      "date": "2026-11-14T08:00:46.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/custom-thruster-5-pro-carbon-haiku-package-agility-gigapixel-low_res-scale-2_00x-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "60dd4716b8bb",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION!",
+      "snippet": "LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION! LUCAS MELDRUM: 2026 BRITISH WAVE CHAMPION! After two counting events in Cornwall and Tiree, Lucas Meldrum has reclai…",
+      "url": "https://www.windsurf.co.uk/lucas-meldrum-2026-british-wave-champion/",
+      "date": "2026-11-14T06:10:21.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/TIREE_WAVE_CLASSIC_DAY_1_0160-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "6b6337ad5dad",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET!",
+      "snippet": "PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! PETE VENNIK: 50 YEARS ON THE WATER – AND HE’S NOT DONE YET! Pete Vennik first got hooked on windsur…",
+      "url": "https://www.windsurf.co.uk/pete-vennik-50-years-on-the-water-and-hes-not-done-yet/",
+      "date": "2026-11-13T06:00:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2020/10/IMG_3970-800x600.jpeg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "057dd089118c",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "SEVERNE VERSO 110L | WINDSURFER MAGAZINE",
+      "snippet": "SEVERNE VERSO 110L | WINDSURFER MAGAZINE SEVERNE VERSO 110L | WINDSURFER MAGAZINE The latest test from the crew at Windsurfer Magazine features the Severne Ver…",
+      "url": "https://www.windsurf.co.uk/severne-verso-110l-windsurfer-magazine/",
+      "date": "2026-11-11T21:12:09.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/severne-verso-110l-windsurfer-ma-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "0205a8fb3cd4",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL",
+      "snippet": "STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL STORM FORCE CHINA: SHANGHAI FREESTYLE FOIL INVITATIONAL When the top freestylers arrived in China they…",
+      "url": "https://www.windsurf.co.uk/storm-force-china-shanghai-freestyle-foil-invitational/",
+      "date": "2026-11-09T23:15:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/storm-force-china-shanghai-frees-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3ab002983b7a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026",
+      "snippet": "BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 BATTLE OF THE BRITS! TIREE WAVE CLASSIC 2026 Well they have finally unlocked the door of Alfie Hart’s editing suit…",
+      "url": "https://www.windsurf.co.uk/battle-of-the-brits-tiree-wave-classic-2026/",
+      "date": "2026-11-09T23:02:05.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/battle-of-the-brits-tiree-wave-c-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "fb7d6fb70642",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM",
+      "snippet": "NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM NICO PRIEN VERSUS 50 KNOT NORTH SEA STORM Nico Prien is always in his element when a big storm comes along but this o…",
+      "url": "https://www.windsurf.co.uk/nico-prien-versus-50-knot-north-sea-storm/",
+      "date": "2026-11-09T22:51:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/nico-prien-versus-50-knot-north-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "33271e487ac8",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "PWA CHINA FOILSTLYE: HISTORY IN THE MAKING!",
+      "snippet": "PWA CHINA FOILSTLYE: HISTORY IN THE MAKING! PWA CHINA FOILSTLYE: HISTORY IN THE MAKING! Thirteen riders headed to China for the 2026 Shanghai Freestyle Foil In…",
+      "url": "https://www.windsurf.co.uk/pwa-china-foilstlye-history-in-the-making/",
+      "date": "2026-11-07T23:34:30.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/pwa-china-foilstlye-history-in-t-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "ba013d280768",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER!",
+      "snippet": "WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! WE ARE THE CHAMPIONS: MATTEO IACHINO AND JUSTINE LEMETEYER! PWA FOIL SLALOM WORLD CHAMPIONS! What a…",
+      "url": "https://www.windsurf.co.uk/we-are-the-champions-matteo-iachino-and-justine-lemeteyer/",
+      "date": "2026-11-06T13:38:57.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/JP26_ls_ITA140_00813-JC-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "2985cc2bcba6",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS!",
+      "snippet": "WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! WINDSURFING BOOM DEALS AT ROBIN HOOD WATERSPORTS! Looking to give your rig a winter upgrade? Robin Hood Water…",
+      "url": "https://www.windsurf.co.uk/windsurfing-boom-deals-at-robin-hood-watersports/",
+      "date": "2026-11-05T04:16:56.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/mail-6-copy-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "781947c93936",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN!",
+      "snippet": "CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! CRAZY FINALS DAY AT THE PWA FOIL SLALOM IN JAPAN! The final racing event of the PWA season has a habit of del…",
+      "url": "https://www.windsurf.co.uk/crazy-finals-day-at-the-pwa-foil-slalom-in-japan/",
+      "date": "2026-11-04T22:01:00.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/crazy-finals-day-at-the-pwa-foil-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "0bb93b0b0e6a",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "MARC PARE: THE ALOHA BREAKTHROUGH!",
+      "snippet": "MARC PARE: THE ALOHA BREAKTHROUGH! MARC PARE: THE ALOHA BREAKTHROUGH! Marc Pare has just pulled off one of the biggest victories of his career, claiming his fi…",
+      "url": "https://www.windsurf.co.uk/marc-pare-the-aloha-breakthrough/",
+      "date": "2026-11-02T09:39:54.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/photo-9829-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "a494d71b1ded",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BORN TO WINDSURF: BJORN DUNKERBECK",
+      "snippet": "BORN TO WINDSURF: BJORN DUNKERBECK BORN TO WINDSURF: BJORN DUNKERBECK If you haven’t watched this film celebrating the incredible career of Björn Dunkerbeck, n…",
+      "url": "https://www.windsurf.co.uk/born-to-windsurf-bjorn-dunkerbeck/",
+      "date": "2026-11-01T20:48:06.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2025/11/GC25_ls_E11_00762-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3f7162001722",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION",
+      "snippet": "TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION TIREE WAVE CLASSIC: INSANE FINALS DAY ACTION If you missed the live stream from finals day at the Tiree Wave Class…",
+      "url": "https://www.windsurf.co.uk/tiree-wave-classic-insane-finals-day-action/",
+      "date": "2026-11-01T07:45:42.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/tiree-wave-classic-insane-finals-800x600.jpg",
+      "tags": [
+        "wind"
       ]
     }
   ]
