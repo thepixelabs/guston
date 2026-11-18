@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:25:41.453Z",
+  "generated_at": "2026-11-18T20:29:18.820Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,125 @@
   },
   "items": [
     {
-      "id": "19dc3d727343",
+      "id": "4596525010c6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - The Guardian",
-      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2g5VnFxQld1Y19KVjVZTVpyOTVNRHV1SlpWUnhwNzJzMEdNUk8tbDVJak9BLWFpOTRLZFFVd0QtOUlZZFlEeVBHNU43SUhNVnVEMmtHdlN3WUYxM08yMFNzTEhpYjNJX3NOcmZrNVpkdFZYQUU3SGlLclQ2c2xVVkxtMFJpejJxaVBTcEtKWHJGUUZLNjBDbG5CWVpERmpTdnFneGxjQWY5WG5aWjE1cGJFVldkQllCY1NqaVB4bHd1RWVPTHhxbzNqUXBHb2gzdmdTX25NOA?oc=5",
-      "date": "2026-11-18T07:22:00.000Z",
+      "title": "Rosarito to Host Youth Surf Championship Alongside Free Tamal Giveaway - SanDiegoRed",
+      "snippet": "Rosarito to Host Youth Surf Championship Alongside Free Tamal Giveaway SanDiegoRed",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJCSHpJci1jSmMyRUlIcjhCMlNRek5jck02cWdxWGdtbUhYS0tRemRDeW1GYWJmcURhZTBIekg1WTVOQ2twdGhaQVdhek55M0NEV2d4a1FqY3BWTTBRWFZ0d3FsVHdNSVNFT3VNOWNqMktYckFyM01ldDVUWFNRZjlHSTZBTkNrR3ZwdG5NU1dSUXpaTmxyNEtoWVp0UmpabVdpUEhTN3M2azg?oc=5",
+      "date": "2026-11-18T19:56:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "c6bfce5d199d",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Hang time over a sea of whitewater",
+      "snippet": "Thirty two meters of pure stoke! The post Hang time over a sea of whitewater first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/hang-time-over-a-sea-of-whitewater/",
+      "date": "2026-11-18T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-68.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c852c0675e86",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kitesurfers Get A Surprise Encounter When Curious Manatee Reaches Up To Their Board - Yahoo",
+      "snippet": "Kitesurfers Get A Surprise Encounter When Curious Manatee Reaches Up To Their Board Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2s1aWRjQ3BwQnQxY0k5NW9tUDJScTZVQ1hCaFc1MEpXdWtRdzM1QW1tR0tIVm8xNUFIUUtPMXYydjYzY25sdnRKYWlBWm1GdF9XWTJIa3V6bEg2ODJ1cFlrMWRQcDdUdTM3WmhxVzVhd2ptdzNlNGp4eVJka2pKd0dwWjAyRGx0c1M2S2NaSU9lNWFSUWFvdzh5cjY0RFM5dkE?oc=5",
+      "date": "2026-11-18T17:01:13.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "af298e27554f",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Formula Kite stays in contention for Brisbane 2032 - Live Sail Die",
+      "snippet": "Formula Kite stays in contention for Brisbane 2032 Live Sail Die",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5EM29VVFV4Zy1IYUlVRG5TSlBBZFlSLVpKUEpFSFJYdjI2SXFXb2ZIZURtY3J1VGhQVUkwbUhzdnNvQ3VkQkVxRGQ5OWs4dFZ3Qk1QcDdRVTc5dUQwVUtoM2pGbks1cXpwVE1SVnVRQTdha0hwaUwzTDNiTlJXelh4ODFpeGl0R2w2OUtIRXYxZ05SZ05JeXN5UW1pQWtOaVE?oc=5",
+      "date": "2026-11-18T15:44:08.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "64aab5c226ff",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Replace the Red Safety Line on Your Duotone Click Bar | Duotone Kiteboarding",
+      "snippet": "The Red Safety Line is an important part of your Click Bar’s safety system. In this tutorial, we’ll show you how to remove the line and install a replacement.…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-replace-the-red-safety-line-on-your-duotone-click-bar-duotone-kiteboarding/",
+      "date": "2026-11-18T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-67.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e7c7707f9843",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Going as low as possible #kiteboarding #kitesurfing #shorts",
+      "snippet": "Low and slowwwwwww The post Going as low as possible #kiteboarding #kitesurfing #shorts first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/going-as-low-as-possible-kiteboarding-kitesurfing-shorts/",
+      "date": "2026-11-18T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-66.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "87c215d72827",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Olympic Tickets: Leihani Zoric Makes History and Sets Sights on LA28 Surfing Gold - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Tickets | Rugby World Cup Tickets | Rugby World Cup 2027 Tickets | London New Year Fireworks Ticke - eTicketing.co",
+      "snippet": "Olympic Tickets: Leihani Zoric Makes History and Sets Sights on LA28 Surfing Gold - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Ticke…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3oxdGZQbU9YTkdsajM3alU1ak80VzVSRUpzcnQ5cENITmRzWW5lM1dGWFdQWnFFNUFqNElxZThIUVJtWXNIMGIxM2NIM1cyUHlCRmV4NTdEOUJUaEFEczRSUVhMRTBETHRuVnUyMXduOUNMZzZHMFVsazZhNHZnZHlDZy11eU41N0FVN0EzNzRkS2lOclpHNzZtT0lpbGNhNXdDS3F1QjdVOFg3?oc=5",
+      "date": "2026-11-18T10:11:23.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "128ac91dd0e0",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Kitesurfing in Cape Town",
+      "snippet": "Cape Town season has begun with a bang! The post Kitesurfing in Cape Town first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-in-cape-town/",
+      "date": "2026-11-18T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-65.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c8c63ef08c18",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - AOL.co.uk",
+      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PNG9Xdi1ZeTNhVEthOWxmVVQyTE5SNHRtSjBjcWdQNGFZcXN0a1c1N2pPR3FFc1B5NzlveDdGOS1laDM2elkyWVpzdnV4M3JDVThCbG9qU0RlVXRzNlk4QktJZVJYMDFWZktuZGdaWlB1RFV4QmE4N1o1N1c?oc=5",
+      "date": "2026-11-18T07:24:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "de9f6b45c0b6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Port Douglas shines at North Australian Surf Life Saving Championships - newsport daily",
+      "snippet": "Port Douglas shines at North Australian Surf Life Saving Championships newsport daily",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUpJZFF1WlpiSXpjX3o3ektTb0RiM1NjdVd5Qm1nVzJQbXV5RC02V3VZZEpMbnhGSXZ2NlRCU05OdWhjX3pWQlNNNEdqUnN0bTBPeVRzU3QyTldGY1NULVIxNGY4Z1V4cWtUTXUxNlhsRHktZklwTDJYMlNJNjlIdlFuQkZkYlJnejZ1RWt0OUVPVXhRODVSSmJmYjFrZXRCaGVfa0FxZG1LOHZqR1RJdjhn?oc=5",
+      "date": "2026-11-18T07:20:45.000Z",
       "tags": [
         "surf"
       ]
@@ -76,7 +188,7 @@
       "title": "The Royal Scam: Getting Paid to Just Surf - The Inertia",
       "snippet": "The Royal Scam: Getting Paid to Just Surf The Inertia",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjA3RndSUFE0ZTRHeF9PMVU5Z1hOaU9EbU5LT2xUQXJoQnd6NjRnUjFnYlRzRWZPQURvUUY0al9sYlRiSDdIRWF2d1dzRmRCV1BOXzRaRld1MmNXWFAyRW1zWGtIV1BYUHVRVTk2Vm9GUWRjVXVKaldKYnR3ekRTUHk3aw?oc=5",
-      "date": "2026-11-17T22:11:22.000Z",
+      "date": "2026-11-17T22:13:15.000Z",
       "tags": [
         "surf"
       ]
@@ -116,18 +228,6 @@
       "date": "2026-11-17T17:20:59.000Z",
       "tags": [
         "wing"
-      ]
-    },
-    {
-      "id": "c05f34cf9ebd",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "A Guide to Dubai’s Beaches: From Kitesurfing at Sunrise and Sunset by Burj Al Arab to a Day on a Private Island - NEWS.am STYLE",
-      "snippet": "A Guide to Dubai’s Beaches: From Kitesurfing at Sunrise and Sunset by Burj Al Arab to a Day on a Private Island NEWS.am STYLE",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xMlBaSzFDLWU5QWphN0tlenFCcXZXMHY2eWFiM0NXdi0tMVgzMjhNM3o4c2czR3N0YXF3M3hyNjVXd2pkemRocktyVmxzUQ?oc=5",
-      "date": "2026-11-17T16:30:00.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -242,18 +342,6 @@
       ]
     },
     {
-      "id": "ba09906b808b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Jamaica end 40th at ISA World Surfing Games - Jamaica Gleaner",
-      "snippet": "Jamaica end 40th at ISA World Surfing Games Jamaica Gleaner",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTZwVmUzRkt3Mmp0Z3Zadlk5VW9kSXo2d2RwT2NHUHV4aU12VDRvNlg5M0JyVGFiT0tyM2lLb3J1djdGTzk0LWdYOXJJcWVueEFRbGN4V0o5OU5td3dfN2lOZXcyQzFYLWczUHFadlU0QVJqaW1mczdFdUpxTXl1a1hLSGt1YV9TQUMyLXFjTXBWWFJKNGc?oc=5",
-      "date": "2026-11-17T06:11:03.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "9a24ee268b29",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -264,18 +352,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z722980FishBowlDiaries-1-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "cd65ed76fb9c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Mui Ne draws foreign tourists as kitesurfing season begins - DTiNews",
-      "snippet": "Mui Ne draws foreign tourists as kitesurfing season begins DTiNews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlIeDl0cHAteWlmYVh4WklTSHVDUVRjd3E0U09kU3JXbXQ5U3RCYVVLc19MUGM0bXgweW55V21Ua0RzNGo1bk5zRzZ4b01KLXBVdFo2bHMxUmpXYS1kUVU0dGQ2TjQwbEttZVdPX2NLbDJ5bnAwQWt1aTdYdGowWmpUeTB5TzgzUlctMGlEeFhoRktxQ29mcEZ0Y1lWajNlZVBCb2pCWUdjQk9qbjlySUxCQ2ltNzc0b3k2TA?oc=5",
-      "date": "2026-11-17T00:07:00.000Z",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -298,80 +374,6 @@
       "snippet": "Who is Leihani Zoric? Meet the 14-year-old surfing sensation who defeated Olympic champions to make histo The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPdlVjbmhvZW1UYTNWdVc3MlF3REFIdU9rdFh3ZFN3S1RoVnZoZ3RZVXNjTUlmRThhVFVIRUs1OG5uWG1UdWltU0J3NHJjZHFFRUJKWWhHdG9zUjJBOG1DU1UydjNuSGMzdG1RWmJRTFZYak1TQTM4N2JYTklHNFkzTEFDbjBlWE9YcWhsVnZiVkQxZ1E1S0s2NnN2QVhiVmNPcXNlOElDMHMwV1FjMzV3T2VpbXdudE9hOVkwYUhXNllkT2VtYmVZNUd4bnlJVUpiaDNudVlabS1PZ09GelB1Sk8wbmxGSHFKLVhnb1MtWVVlaUs0ODZkRWtoUXJYTWZTd3p6WmpPVFQ4ZUxJNENUV1FQZnhHbWRfSEo5TjJGM051QdIBpwJBVV95cUxNOGVaTFBnclNRX2dCNVRtcElhQURpNVRlclJ4VDBLbnlnU0JVRjZyMkpHUG1xUHJvaVZsZWtiNktRNXY1VVVnZzNhdlRqMzNlcE9QejA2ZXlJZXZidGt3Vk9aeVl0cldGM2g5MjdNTzh2bldoelJUbVBudk9GTXlMb2htbTJxTFBxeVFHMzBEVFdHWk9OYUxpMEp5bVJDWTRKemhSbjVCQWtvSjA0Q0toZm1lbG1memZETmtxQWFnendoMzAwSlBWVFAzRUtqQWdNS1pXVWlqS2lJRGxqcFk0ek1mcWJUT3ctMTBvSGJiS1ZaUFBEbXhFNkxYVkE5bWoxMlB6bkZYaTVDMUp4MGppUkhXTkFBWGpHakhObXV4c01YOGd1WTBF?oc=5",
       "date": "2026-11-16T23:38:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "ceba9c28cb53",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection - Nine.com.au",
-      "snippet": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1VPR1kzNXhIUWUtVGFxcFl5cjYyX3BEdm9qWGpOLWJtNmltcUROZHVjUzlWWUJBZkVOS1dVTWk0YWJLWkpjOF9EN0N3V2o4UUp5RFR6cmJDN1BoTm9RTUJTdl9RTnlobGoyVHNqT1daN1pCdjZESWpKUVdKQktsd3E4U2t6ZE4tSTB4bWlnR3puckNhbGZXNDB1NDZMUmluY0wtQTRZcHFGOHhqb3FyclZIT1F1ZUxtLUl5MWh3?oc=5",
-      "date": "2026-11-16T21:57:40.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d9585dbc69c1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old surfing prodigy stuns competition - Nine.com.au",
-      "snippet": "14-year-old surfing prodigy stuns competition Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWVXTkh5cVJLWlh4bzRDdGVzUVhBM3IzUjE1NS1GOTA1UTJGR1k1dm1fYnV5cnhGbHJpQWZheWd6MnBPbmJFMThsazJqU2s4c09aYlV0YUFRV2RIM2lZM04tS1pmMVRmVHhxVnlYMjlSRjVqWGVsdTVFNkd6b0ZRSWNDZThTS2FzRHlnUVVLd1RHV205N05ZOExOd3B3WlBwcHZfaDBSLWZmbFh2?oc=5",
-      "date": "2026-11-16T21:07:51.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d7b85d88b8a4",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Those #storm sessions #courtintheact #weather #kitesurfing #adventure",
-      "snippet": "Days like these 😍 The post Those #storm sessions #courtintheact #weather #kitesurfing #adventure first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/those-storm-sessions-courtintheact-weather-kitesurfing-adventure/",
-      "date": "2026-11-16T21:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-58.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "cc4314be519e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kimo brought the heat to the Freestyle game #gka #gkakiteworldtour #gkafreestyle #brazil",
-      "snippet": "Heat and style from Kimo! The post Kimo brought the heat to the Freestyle game #gka #gkakiteworldtour #gkafreestyle #brazil first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kimo-brought-the-heat-to-the-freestyle-game-gka-gkakiteworldtour-gkafreestyle-brazil/",
-      "date": "2026-11-16T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-57.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "8f337afefcd3",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old Leihani Zoric becomes youngest-ever ISA World Surfing Games champion and first Indigenous world champion surfer - SSBCrack",
-      "snippet": "14-year-old Leihani Zoric becomes youngest-ever ISA World Surfing Games champion and first Indigenous world champion surfer SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORk5jaVlnTnpHblpQa01RN3NVZnl4Ulp5YTFwb09TYTZMc19CdjR2a1RBR25wTThRRWhNel9WYXdxWnR5MVdXOGl3VXB1WW1pSzRveUJyRGdfc1ZkbWhBUUVvdzg2aXYzQUdFRTAzN1RmZHV6ZHJrSzBTazJwaWdWSVJCaUhzR2M3VHcxLVBIRFREVjdua3BJMHB1cDVOUm0tSlhPc09Ma21xS2ZqYWZVaWl4LVZ4YkxqNnhTMHh2TVlOaEg1c092WEVjZlVBY1NobEdSRUsyVTcyaWNnbzJKbHV6Zzg?oc=5",
-      "date": "2026-11-16T14:44:16.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9eca6a3435f7",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Thirroul surf club thrilled to host iron series champs - The Illawarra Flame",
-      "snippet": "Thirroul surf club thrilled to host iron series champs The Illawarra Flame",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmgxYWZTWl9xYk1NREZUYXpPYUJDVGJsZVBfSk5BTmFpWnNneXItRGZmeVc0aS1PZ3g3NVU0V2FZdElnSkxudFgzT29ZamdGbEZ1RUZveVZXM0tRd3h5em9kTUNFQlc3SDBHczJfSENYcWN3RXJEZHo2YmFmZW5vTThKbThKekpRbm96MzI3ZjhPT2NacFBkQjFBeUtHdw?oc=5",
-      "date": "2026-11-16T13:07:23.000Z",
       "tags": [
         "surf"
       ]
