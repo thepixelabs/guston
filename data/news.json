@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:53:33.862Z",
+  "generated_at": "2026-11-18T07:25:41.453Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,79 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "19dc3d727343",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - The Guardian",
+      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2g5VnFxQld1Y19KVjVZTVpyOTVNRHV1SlpWUnhwNzJzMEdNUk8tbDVJak9BLWFpOTRLZFFVd0QtOUlZZFlEeVBHNU43SUhNVnVEMmtHdlN3WUYxM08yMFNzTEhpYjNJX3NOcmZrNVpkdFZYQUU3SGlLclQ2c2xVVkxtMFJpejJxaVBTcEtKWHJGUUZLNjBDbG5CWVpERmpTdnFneGxjQWY5WG5aWjE1cGJFVldkQllCY1NqaVB4bHd1RWVPTHhxbzNqUXBHb2gzdmdTX25NOA?oc=5",
+      "date": "2026-11-18T07:22:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "6aea415111db",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World champion teen surfer inspires Aussie legend - https://aapnews.aap.com.au/",
+      "snippet": "World champion teen surfer inspires Aussie legend https://aapnews.aap.com.au/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDhDWE51VnJkeGVPVHB1R2h4SEtjaW1nV2ZlZF9zeUhXMnRaaFdPSGVxdGUyNFlxWjgwZUd6QV93bXNJZjhjb09Yd3pVS2xJeVpHc2pMTzA5N2hYMjFwT3JmcmhhYk9tX1A5M2hfSlF6YUgwXzNkSnc3MjVqY09XOHg4Y3hITjlv?oc=5",
+      "date": "2026-11-18T05:43:28.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "220a9b965835",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE",
+      "snippet": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE 2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE The crew from Windsurfer Magazine have stepped up the…",
+      "url": "https://www.windsurf.co.uk/2027-freewave-board-group-test-windsurfer-magazine/",
+      "date": "2026-11-18T04:58:32.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/2027-freewave-board-group-test-w-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "3de71ce5bbcc",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Inside the competitive drive of rising surfing talent Zeke Woollam - Port Macquarie News",
+      "snippet": "Inside the competitive drive of rising surfing talent Zeke Woollam Port Macquarie News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzVOUW5aQUVqNWpzeGs0WWZoMUVmNFFLbmY5THdjWnEzT0ZEYUZ3NmNoWVhpWHREeW84S1FxYVdsa0dQV0JCaXM4NWxfQnc3aEFOVTJuLVJVQnd6LWVUWjYwYXlPOS1DeVpXcE93dU9uNGhCeUIwWnJZUExlQWkyN1otNXFXQ3hrc1RqWkotbGFuYWViQXZJQlBtZG1PSTJr?oc=5",
+      "date": "2026-11-18T02:52:50.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "c4390b615420",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! - Surfing Victoria",
+      "snippet": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxIUEhTR3dLTFMyNDFIXzA5dk9Hc1NhOWNCb0FFbDliUFRGUDYyN19pNVNRbFlyOHBGTEw3TlliZzdFM3Q2ZUpnb201TjczQlVWVVZFcFRPSXFSRjdkRVc1RUo1R3AwSWhGUkVVUjEzelNaR0RiYTRNUExWQ050R0tjX3ExTXgzQl9R?oc=5",
+      "date": "2026-11-17T23:11:21.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "fb5d856f85e9",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The Royal Scam: Getting Paid to Just Surf - The Inertia",
+      "snippet": "The Royal Scam: Getting Paid to Just Surf The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjA3RndSUFE0ZTRHeF9PMVU5Z1hOaU9EbU5LT2xUQXJoQnd6NjRnUjFnYlRzRWZPQURvUUY0al9sYlRiSDdIRWF2d1dzRmRCV1BOXzRaRld1MmNXWFAyRW1zWGtIV1BYUHVRVTk2Vm9GUWRjVXVKaldKYnR3ekRTUHk3aw?oc=5",
+      "date": "2026-11-17T22:11:22.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "81571a9001a6",
       "source": "google_surf",
@@ -83,18 +156,6 @@
       ]
     },
     {
-      "id": "b8f797faf51d",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing, World Championships in Peru: fifth place for Fioravanti - la Repubblica",
-      "snippet": "Surfing, World Championships in Peru: fifth place for Fioravanti la Repubblica",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnV6ZUd2bDZGbHRTN2lrdGNCcTVNemRQX1UxM1pENXBKd28xeVhoU0tYbzdRT2xCZ01QRDk1NjRWWVg4U3lXOWtYa19XY3g3eVduLU00dFNiM0UwSW54eU0zRTdYMUNqaTdod2RZSUpScTI5dkNXUU52dDFxMW93SVoxTzByQjVFN3M4U0h6NmdjZVlTdGlEenFIZG9naUF1NFprSTVwckNvVlRQYnFTbHpDOG9Nb3hCcDh5cTBXS0ZtTFA5eTNBN0dGWXZOX3l3eVpkcnlrQno5aEtTNWc?oc=5",
-      "date": "2026-11-17T12:00:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "fbcbf27f22e2",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -105,6 +166,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-61.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "1a6fcdd3472e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool - Daily Dispatch",
+      "snippet": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool Daily Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWc5YnZrMmFiS2NGUl9pYWlTZE51a2M0SkUwR1VCZnpSM0JvUVZtMzJ1VUlNa0FvRDh3cWtsdi1EdWFZVkVMNUFzZWNweTZjNXprcnlwLTRXTXhiTVFiQ1ZUOXpVbUEycDlBcjVXNmU4amlfT01mdW01SGpIZFJhSlp0T0Q3YWFWYUFwSnhVdHBJa0JKdkhrY1ByNVpjdmNqSFZlV01PNnBEbnM2SFp2QTd0a01xV3ZCYzRHYnB1YVVnTUU?oc=5",
+      "date": "2026-11-17T11:36:10.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -242,13 +315,13 @@
       ]
     },
     {
-      "id": "8096ca0a268e",
+      "id": "d9585dbc69c1",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "14-year-old surfing prodigy stuns competition - SMH.com.au",
-      "snippet": "14-year-old surfing prodigy stuns competition SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjZZVzY2R2o3Mk1GTzZJOTUyemhXU0hlNUljYjdsVm9LQlBZSHRUQUFSc0F0bnVzS0h6Y1NIUDk2ZW9qVXFsUnFEMVg1RGRKdjJzcnFqU1NpRlVST0lMVWdrNnBDT19ZTXFEd1U4RGVrVFRiU2VRZ216d0R6NXI3dzhSQTM3Y1M1QzhnZ3UwV3VxLVpWWW45ajE0QQ?oc=5",
-      "date": "2026-11-16T21:12:47.000Z",
+      "title": "14-year-old surfing prodigy stuns competition - Nine.com.au",
+      "snippet": "14-year-old surfing prodigy stuns competition Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWVXTkh5cVJLWlh4bzRDdGVzUVhBM3IzUjE1NS1GOTA1UTJGR1k1dm1fYnV5cnhGbHJpQWZheWd6MnBPbmJFMThsazJqU2s4c09aYlV0YUFRV2RIM2lZM04tS1pmMVRmVHhxVnlYMjlSRjVqWGVsdTVFNkd6b0ZRSWNDZThTS2FzRHlnUVVLd1RHV205N05ZOExOd3B3WlBwcHZfaDBSLWZmbFh2?oc=5",
+      "date": "2026-11-16T21:07:51.000Z",
       "tags": [
         "surf"
       ]
@@ -299,79 +372,6 @@
       "snippet": "Thirroul surf club thrilled to host iron series champs The Illawarra Flame",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmgxYWZTWl9xYk1NREZUYXpPYUJDVGJsZVBfSk5BTmFpWnNneXItRGZmeVc0aS1PZ3g3NVU0V2FZdElnSkxudFgzT29ZamdGbEZ1RUZveVZXM0tRd3h5em9kTUNFQlc3SDBHczJfSENYcWN3RXJEZHo2YmFmZW5vTThKbThKekpRbm96MzI3ZjhPT2NacFBkQjFBeUtHdw?oc=5",
       "date": "2026-11-16T13:07:23.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "16a70647a5dd",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Blouberg’s big-air season: Why Cape Town attracts the world’s best kitesurfers - Getaway Magazine",
-      "snippet": "Blouberg’s big-air season: Why Cape Town attracts the world’s best kitesurfers Getaway Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXRiZkt1MEFQU1lQUlFIX0xLMWRhWUxvRUg1dnNRSVNUYU9mY1R5elM0WGJfQzRYY3hZc08yalU2TGFyVi1FdVVSbHJ3UUFlWGZnVW80WGZMSlJEV0txc3IzMHBXdFNmZkZhYUxqR2xabk5INVV1T0lnR0x6WEVoTE1TaTJDdXd1d25GTENGUWx5c2h5TDFUMUV6Y0tQam1YbWZWeVQ5SEdNb05RSnh2Z2M4WXlOVHJsNG9YSGtn?oc=5",
-      "date": "2026-11-16T12:11:01.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9ab5d2e8cad3",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "FRONT 1080",
-      "snippet": "Snow is falling in Europe and it wont be long before days start to look like this. The post FRONT 1080 first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/front-1080/",
-      "date": "2026-11-16T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-56.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "251a9f611c5f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Want Your Own Wave Pool Surf Team? Wave Pool Surf League Lists Offers Ahead of 2027 Debut - WavePoolMag",
-      "snippet": "Want Your Own Wave Pool Surf Team? Wave Pool Surf League Lists Offers Ahead of 2027 Debut WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYk16cFF5VnlDZXBHU2ZCXzBrNWlVeklfVGxMTE9NLXIzMUdTYzkzUXBMdVVGUTdKWldKR0o4RUktUGJwU25IdTIyWUZDR2hxY05DMkt6bm5lU2F3T3d4UE41alNpeWhZTWp1dzZBZ2xBYmpV?oc=5",
-      "date": "2026-11-16T11:01:20.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "936ffccfdbc9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Newport angler represents Team USA in international surf fishing competition - WJAR",
-      "snippet": "Newport angler represents Team USA in international surf fishing competition WJAR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWM3RkxJdlRHaDN5M1drcG9PazBxX2lQT3JpN2otM25YNnRZeWhKVExXc2E0SXZObEItZThrRFBxVHZkSWxfNU9LVGhmak9OZU9wR3VONUJuZm92eGdfMVRVeWFWOUpvbzRfRTFTRExhUF93OFkwOXdjbjFJV1dUZ2hNc0taNENMUUh0b2RPcWxqQmJuR05nOVVEMmNxM3V3cnRKejlxS1hSa1lo?oc=5",
-      "date": "2026-11-16T09:59:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e788d0384793",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing - World Surf League",
-      "snippet": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMk1WUWZTUmtHdmVBVFRqLXBVSzhMSXlMTkV5eDUtS2Fja2ZTVkg4bWNPNkNzdTdmZ0RFRlBYSWoyWFhHX0xHTi1kWjRKMDlJLXZnTXZaamZLbE5lSldoeVdSdjJoYXRBZEczaTdaNExLdXhRaFFrejdNVjNIUWxZeGt6cUxPTzA5dXVfVkdkTmhKZFB1RmxUT2ZhSGw3LUhjU2pYOWdCSXVhV2kwTjAweHAzZzFSWmp2a2MwNnd1SHJtN28?oc=5",
-      "date": "2026-11-16T09:18:22.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d3144aaf37ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-Year-Old Leaves Olympic Surfing Legends Behind in Shocking Gold Win - EssentiallySports",
-      "snippet": "14-Year-Old Leaves Olympic Surfing Legends Behind in Shocking Gold Win EssentiallySports",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQVVBaVNEY0puSktySlM5aW5PakR4SGxxcHZ0bC1xeUMwang0ZHlvbGFFeWpZRXNHcGp1UFZCbW5NRHktUXNyR0lreDcwalhoRmZJa1NfMEk0aGpwYTRwaFRqYlBqUWFxaUJZaTRrbHg1aFZWOHJMcUpucVdJTjNVN2VCUjlRMDVkcnU2VHVGTlAzaG5IYTZERHdfMThDNUFVR1RvOGNPX1lwOXh1N3VDb3FKSGFxaDlSbTR5SVpQS0puTnJoY2N4T2dORlFOY1RRVkhkOA?oc=5",
-      "date": "2026-11-16T09:04:00.000Z",
       "tags": [
         "surf"
       ]
