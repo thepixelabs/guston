@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:22:24.299Z",
+  "generated_at": "2026-11-19T20:34:00.205Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,13 +9,77 @@
   },
   "items": [
     {
+      "id": "aba68cf8baf5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Vertical or horizontal? What is the better perspective?",
+      "snippet": "One hit, two perspectives. The post Vertical or horizontal? What is the better perspective? first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/vertical-or-horizontal-what-is-the-better-perspective/",
+      "date": "2026-11-19T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-72.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "7a8765831e61",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Focus fully on the wave! Reo V8 Ultra-X",
+      "snippet": "When conditions are ‘on’, give it everything. Since 2012, the Reo has been the benchmark for pure wave riding. In its eighth generation there is one Reo: the U…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/focus-fully-on-the-wave-reo-v8-ultra-x/",
+      "date": "2026-11-19T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-71.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c8b5253b4ae9",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Kitesurfing growth offers big opportunity, but Cape Town risks pricing itself out of boom times - Cape Chamber of Commerce",
+      "snippet": "Kitesurfing growth offers big opportunity, but Cape Town risks pricing itself out of boom times Cape Chamber of Commerce",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHQxT01ENXVic3pYeEdYdkRCUFhpYldUaklKV0ZSY0ZPcThpNmgzN0JHRmIyY2dZNTZ3YnVLcGQ5YXlHdjB1NWRYLU9scFp1M0tnYlNsV0dGVjRTVmNRbXlPSXhOTG84WU0zY2lRS2F4cXlPNDhMM1FRelBvc2x3aGJ5MUFmb1p5RE1aMTU5TmlMMXdjeHlNSXlHNWxiV2JoMXpFNG9Wb2N5WlFxMXpwOUZGVUJvVkxZZGZZemItUHdMTjQ?oc=5",
+      "date": "2026-11-19T13:02:39.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2b09612bd1d6",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Is there even a better way to start your session? #shorts #kitesurfing #freeride #kiteboarding",
+      "snippet": "It’s really starting to cool down in Europe… who’s in a hood already? The post Is there even a better way to start your session? #shorts #kitesurfing #freeride…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/is-there-even-a-better-way-to-start-your-session-shorts-kitesurfing-freeride-kiteboarding/",
+      "date": "2026-11-19T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-70.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "3182e35a9128",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Adjust Your Kite Back Line Settings and Adaptive Tip | Duotone Kiteboarding",
+      "snippet": "Fine-tuning your kite’s back line settings and Adaptive Tip allows you to adjust its handling to suit your riding style and conditions. In this tutorial, we’ll…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-adjust-your-kite-back-line-settings-and-adaptive-tip-duotone-kiteboarding/",
+      "date": "2026-11-19T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-69.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "88419ff563d2",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
       "title": "Surfing Stars Set for Cronulla Showdown - Northern Rivers Times",
       "snippet": "Surfing Stars Set for Cronulla Showdown Northern Rivers Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnF6OG9JNVJKbl9PelhXU0lxa1N0RloyRDNUMi1FZ29uM0Y5WEFYZXJhUXpMbkl6MzlheUpWOFEyNlI3RTc5NnhxNlZibmxrOFFCYU5fVWk1eE5RVHp0QjY2NW1yS25pUmxvb0EzMzVVMzhqVmUyc0luSFJkRTZjWFNwTXNxX2MwZHptRV9nbGhLQ1R0djhzOTRiZjZ6MGM2WVB1TGhHbkNtU25wdlFnc0s5SXBBM3hxRmM5b2pHS1VVQQ?oc=5",
-      "date": "2026-11-19T06:45:00.000Z",
+      "date": "2026-11-19T06:45:22.000Z",
       "tags": [
         "surf"
       ]
@@ -83,18 +147,6 @@
       ]
     },
     {
-      "id": "af298e27554f",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Formula Kite stays in contention for Brisbane 2032 - Live Sail Die",
-      "snippet": "Formula Kite stays in contention for Brisbane 2032 Live Sail Die",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5EM29VVFV4Zy1IYUlVRG5TSlBBZFlSLVpKUEpFSFJYdjI2SXFXb2ZIZURtY3J1VGhQVUkwbUhzdnNvQ3VkQkVxRGQ5OWs4dFZ3Qk1QcDdRVTc5dUQwVUtoM2pGbks1cXpwVE1SVnVRQTdha0hwaUwzTDNiTlJXelh4ODFpeGl0R2w2OUtIRXYxZ05SZ05JeXN5UW1pQWtOaVE?oc=5",
-      "date": "2026-11-18T15:48:57.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "64aab5c226ff",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -128,18 +180,6 @@
       "snippet": "Women's Top Seeds Hit The Water at 2026 Taiwan Open of Surfing World Surf League",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdy05eHE3bTJnOTBHWU1JRkRKcnlyZ3l2OFl5SFpYMDY5dlRqV25UaUNfemE2SmlFRl82U0tGYVVQOGpzbWtKVHI0SVE2cVlnWEhqSC10SkU0S3I4N0dFTW9aTFZHaEVjUnJKMk13Yk9vWnpWdEJRWHAxUUFzcFN3UWxxMFNYR1UxR29zRFMtdDJKdXVyRDczT3lNVE92T3ZnMWlTYU1UWDFMcGM?oc=5",
       "date": "2026-11-18T10:21:21.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "87c215d72827",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Olympic Tickets: Leihani Zoric Makes History and Sets Sights on LA28 Surfing Gold - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Tickets | Rugby World Cup Tickets | Rugby World Cup 2027 Tickets | London New Year Fireworks Ticke - eTicketing.co",
-      "snippet": "Olympic Tickets: Leihani Zoric Makes History and Sets Sights on LA28 Surfing Gold - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Ticke…",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3oxdGZQbU9YTkdsajM3alU1ak80VzVSRUpzcnQ5cENITmRzWW5lM1dGWFdQWnFFNUFqNElxZThIUVJtWXNIMGIxM2NIM1cyUHlCRmV4NTdEOUJUaEFEczRSUVhMRTBETHRuVnUyMXduOUNMZzZHMFVsazZhNHZnZHlDZy11eU41N0FVN0EzNzRkS2lOclpHNzZtT0lpbGNhNXdDS3F1QjdVOFg3?oc=5",
-      "date": "2026-11-18T10:11:23.000Z",
       "tags": [
         "surf"
       ]
@@ -195,13 +235,13 @@
       ]
     },
     {
-      "id": "3de71ce5bbcc",
+      "id": "c4390b615420",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Inside the competitive drive of rising surfing talent Zeke Woollam - Port Macquarie News",
-      "snippet": "Inside the competitive drive of rising surfing talent Zeke Woollam Port Macquarie News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzVOUW5aQUVqNWpzeGs0WWZoMUVmNFFLbmY5THdjWnEzT0ZEYUZ3NmNoWVhpWHREeW84S1FxYVdsa0dQV0JCaXM4NWxfQnc3aEFOVTJuLVJVQnd6LWVUWjYwYXlPOS1DeVpXcE93dU9uNGhCeUIwWnJZUExlQWkyN1otNXFXQ3hrc1RqWkotbGFuYWViQXZJQlBtZG1PSTJr?oc=5",
-      "date": "2026-11-18T02:52:50.000Z",
+      "title": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! - Surfing Victoria",
+      "snippet": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxIUEhTR3dLTFMyNDFIXzA5dk9Hc1NhOWNCb0FFbDliUFRGUDYyN19pNVNRbFlyOHBGTEw3TlliZzdFM3Q2ZUpnb201TjczQlVWVVZFcFRPSXFSRjdkRVc1RUo1R3AwSWhGUkVVUjEzelNaR0RiYTRNUExWQ050R0tjX3ExTXgzQl9R?oc=5",
+      "date": "2026-11-17T23:11:21.000Z",
       "tags": [
         "surf"
       ]
@@ -257,19 +297,6 @@
       ]
     },
     {
-      "id": "fbcbf27f22e2",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Hugo going BIG in Mykonos! #gkakiteworldtour #gkabigair #mykonos #greece",
-      "snippet": "Mykonos delivered the goods! The post Hugo going BIG in Mykonos! #gkakiteworldtour #gkabigair #mykonos #greece first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/hugo-going-big-in-mykonos-gkakiteworldtour-gkabigair-mykonos-greece/",
-      "date": "2026-11-17T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-61.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "71fd0bb087d2",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -282,26 +309,13 @@
       ]
     },
     {
-      "id": "fb00a424693f",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "This wetsuit won’t let the cold slow you down",
-      "snippet": "The Seek Amp wetsuit. More comfort, more flexibility, more warmth = more time on the water – even when it’s cold⚡️❄️ The post This wetsuit won’t let the cold s…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-wetsuit-wont-let-the-cold-slow-you-down/",
-      "date": "2026-11-17T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-59.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "8ec75a7ce5ae",
+      "id": "5cd71681c909",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Team South Africa Ready to Make Waves at World Para Surfing Championships - Good Things Guy",
-      "snippet": "Team South Africa Ready to Make Waves at World Para Surfing Championships Good Things Guy",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aRUQtTTU1c2x4ZmNMOGVvVVg2dzVKS1l1MUNuV0Jsd0dLcEdrSXFPYWFKblpfb1JwZmdSWlI2TXNJcmduV0tCTkk4R1JQYTFMa1UwTDdDUXgxSm9GSjNMb01NNF8tcHdCWHdBU2V0OHdOT3hTV3Z5dDJQQQ?oc=5",
-      "date": "2026-11-17T08:00:33.000Z",
+      "title": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Tickets | Rugby World Cup Tickets | Rugby World Cup 2027 Tickets | London New Year Fire - eTicketing.co",
+      "snippet": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olymp…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1MxdmtpaFpKVkgwUFBiUHR4X1o3SWJBMW9BYy03ZHhFcEFLUVpGRkR6dmgweUs3aWNldUk4M00wSTFfRW4tanZLbksyWFFBZmc1djc4WUUxUzd5YVFDYzU4SGRRSEpnT05kVHA2aUNPdXJqdV9xWVZTRW5HRjllaWppbzRoZEZUd2kzaW5tLWdkR2tCZll4YlVMRzVTQ1NSejlCbl9nODBGbmd0UzlmODhBVE5MSk0?oc=5",
+      "date": "2026-11-17T07:42:04.000Z",
       "tags": [
         "surf"
       ]
@@ -363,18 +377,6 @@
       "snippet": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1VPR1kzNXhIUWUtVGFxcFl5cjYyX3BEdm9qWGpOLWJtNmltcUROZHVjUzlWWUJBZkVOS1dVTWk0YWJLWkpjOF9EN0N3V2o4UUp5RFR6cmJDN1BoTm9RTUJTdl9RTnlobGoyVHNqT1daN1pCdjZESWpKUVdKQktsd3E4U2t6ZE4tSTB4bWlnR3puckNhbGZXNDB1NDZMUmluY0wtQTRZcHFGOHhqb3FyclZIT1F1ZUxtLUl5MWh3?oc=5",
       "date": "2026-11-16T21:57:40.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "d9585dbc69c1",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "14-year-old surfing prodigy stuns competition - Nine.com.au",
-      "snippet": "14-year-old surfing prodigy stuns competition Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWVXTkh5cVJLWlh4bzRDdGVzUVhBM3IzUjE1NS1GOTA1UTJGR1k1dm1fYnV5cnhGbHJpQWZheWd6MnBPbmJFMThsazJqU2s4c09aYlV0YUFRV2RIM2lZM04tS1pmMVRmVHhxVnlYMjlSRjVqWGVsdTVFNkd6b0ZRSWNDZThTS2FzRHlnUVVLd1RHV205N05ZOExOd3B3WlBwcHZfaDBSLWZmbFh2?oc=5",
-      "date": "2026-11-16T21:07:51.000Z",
       "tags": [
         "surf"
       ]
