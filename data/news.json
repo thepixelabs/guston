@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:29:18.820Z",
+  "generated_at": "2026-11-19T07:22:24.299Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,43 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "88419ff563d2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing Stars Set for Cronulla Showdown - Northern Rivers Times",
+      "snippet": "Surfing Stars Set for Cronulla Showdown Northern Rivers Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnF6OG9JNVJKbl9PelhXU0lxa1N0RloyRDNUMi1FZ29uM0Y5WEFYZXJhUXpMbkl6MzlheUpWOFEyNlI3RTc5NnhxNlZibmxrOFFCYU5fVWk1eE5RVHp0QjY2NW1yS25pUmxvb0EzMzVVMzhqVmUyc0luSFJkRTZjWFNwTXNxX2MwZHptRV9nbGhLQ1R0djhzOTRiZjZ6MGM2WVB1TGhHbkNtU25wdlFnc0s5SXBBM3hxRmM5b2pHS1VVQQ?oc=5",
+      "date": "2026-11-19T06:45:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "a34e3649b4f3",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "THE IMPOSSIBLE EQUATION: SEVERNE LANZAROTE STRIKE MISSION",
+      "snippet": "THE IMPOSSIBLE EQUATION: SEVERNE LANZAROTE STRIKE MISSION THE IMPOSSIBLE EQUATION SEVERNE LANZAROTE STRIKE MISSION Forecasts, riders, gear, World Cup schedules…",
+      "url": "https://www.windsurf.co.uk/the-impossible-equation-severne-lanzarote-strike-mission/",
+      "date": "2026-11-19T06:12:11.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/SVK00875-edit-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "7637df0425ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World champion teen surfer inspires Aussie legend - National Indigenous Times",
+      "snippet": "World champion teen surfer inspires Aussie legend National Indigenous Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVhGVkZyd2ZpbGxTRkIwbUFFVkpzUTA1bXo2UlN1Ukw4N2Z1OEROV0Y5eVFOb2RuSC1YSTBfSWRJV3NXZ3U0bEFIZ3YyZG9GMldDcXZjVl9ESkZjTUxmY2J6cmNTRzY2ZkpIQzlPQzdrXzFxVVVLNG5WYnRTbTNTS0NPZjF1QjVJdUlrUlZR?oc=5",
+      "date": "2026-11-18T22:45:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "4596525010c6",
       "source": "google_surf",
@@ -52,7 +89,7 @@
       "title": "Formula Kite stays in contention for Brisbane 2032 - Live Sail Die",
       "snippet": "Formula Kite stays in contention for Brisbane 2032 Live Sail Die",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5EM29VVFV4Zy1IYUlVRG5TSlBBZFlSLVpKUEpFSFJYdjI2SXFXb2ZIZURtY3J1VGhQVUkwbUhzdnNvQ3VkQkVxRGQ5OWs4dFZ3Qk1QcDdRVTc5dUQwVUtoM2pGbks1cXpwVE1SVnVRQTdha0hwaUwzTDNiTlJXelh4ODFpeGl0R2w2OUtIRXYxZ05SZ05JeXN5UW1pQWtOaVE?oc=5",
-      "date": "2026-11-18T15:44:08.000Z",
+      "date": "2026-11-18T15:48:57.000Z",
       "tags": [
         "kite"
       ]
@@ -84,6 +121,18 @@
       ]
     },
     {
+      "id": "1ccdab40f4f6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Women's Top Seeds Hit The Water at 2026 Taiwan Open of Surfing - World Surf League",
+      "snippet": "Women's Top Seeds Hit The Water at 2026 Taiwan Open of Surfing World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdy05eHE3bTJnOTBHWU1JRkRKcnlyZ3l2OFl5SFpYMDY5dlRqV25UaUNfemE2SmlFRl82U0tGYVVQOGpzbWtKVHI0SVE2cVlnWEhqSC10SkU0S3I4N0dFTW9aTFZHaEVjUnJKMk13Yk9vWnpWdEJRWHAxUUFzcFN3UWxxMFNYR1UxR29zRFMtdDJKdXVyRDczT3lNVE92T3ZnMWlTYU1UWDFMcGM?oc=5",
+      "date": "2026-11-18T10:21:21.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "87c215d72827",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -109,12 +158,12 @@
       ]
     },
     {
-      "id": "c8c63ef08c18",
+      "id": "19dc3d727343",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - AOL.co.uk",
-      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PNG9Xdi1ZeTNhVEthOWxmVVQyTE5SNHRtSjBjcWdQNGFZcXN0a1c1N2pPR3FFc1B5NzlveDdGOS1laDM2elkyWVpzdnV4M3JDVThCbG9qU0RlVXRzNlk4QktJZVJYMDFWZktuZGdaWlB1RFV4QmE4N1o1N1c?oc=5",
+      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - The Guardian",
+      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2g5VnFxQld1Y19KVjVZTVpyOTVNRHV1SlpWUnhwNzJzMEdNUk8tbDVJak9BLWFpOTRLZFFVd0QtOUlZZFlEeVBHNU43SUhNVnVEMmtHdlN3WUYxM08yMFNzTEhpYjNJX3NOcmZrNVpkdFZYQUU3SGlLclQ2c2xVVkxtMFJpejJxaVBTcEtKWHJGUUZLNjBDbG5CWVpERmpTdnFneGxjQWY5WG5aWjE1cGJFVldkQllCY1NqaVB4bHd1RWVPTHhxbzNqUXBHb2gzdmdTX25NOA?oc=5",
       "date": "2026-11-18T07:24:00.000Z",
       "tags": [
         "surf"
@@ -128,18 +177,6 @@
       "snippet": "Port Douglas shines at North Australian Surf Life Saving Championships newsport daily",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUpJZFF1WlpiSXpjX3o3ektTb0RiM1NjdVd5Qm1nVzJQbXV5RC02V3VZZEpMbnhGSXZ2NlRCU05OdWhjX3pWQlNNNEdqUnN0bTBPeVRzU3QyTldGY1NULVIxNGY4Z1V4cWtUTXUxNlhsRHktZklwTDJYMlNJNjlIdlFuQkZkYlJnejZ1RWt0OUVPVXhRODVSSmJmYjFrZXRCaGVfa0FxZG1LOHZqR1RJdjhn?oc=5",
       "date": "2026-11-18T07:20:45.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "6aea415111db",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World champion teen surfer inspires Aussie legend - https://aapnews.aap.com.au/",
-      "snippet": "World champion teen surfer inspires Aussie legend https://aapnews.aap.com.au/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDhDWE51VnJkeGVPVHB1R2h4SEtjaW1nV2ZlZF9zeUhXMnRaaFdPSGVxdGUyNFlxWjgwZUd6QV93bXNJZjhjb09Yd3pVS2xJeVpHc2pMTzA5N2hYMjFwT3JmcmhhYk9tX1A5M2hfSlF6YUgwXzNkSnc3MjVqY09XOHg4Y3hITjlv?oc=5",
-      "date": "2026-11-18T05:43:28.000Z",
       "tags": [
         "surf"
       ]
@@ -170,18 +207,6 @@
       ]
     },
     {
-      "id": "c4390b615420",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! - Surfing Victoria",
-      "snippet": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxIUEhTR3dLTFMyNDFIXzA5dk9Hc1NhOWNCb0FFbDliUFRGUDYyN19pNVNRbFlyOHBGTEw3TlliZzdFM3Q2ZUpnb201TjczQlVWVVZFcFRPSXFSRjdkRVc1RUo1R3AwSWhGUkVVUjEzelNaR0RiYTRNUExWQ050R0tjX3ExTXgzQl9R?oc=5",
-      "date": "2026-11-17T23:11:21.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "fb5d856f85e9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -189,18 +214,6 @@
       "snippet": "The Royal Scam: Getting Paid to Just Surf The Inertia",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjA3RndSUFE0ZTRHeF9PMVU5Z1hOaU9EbU5LT2xUQXJoQnd6NjRnUjFnYlRzRWZPQURvUUY0al9sYlRiSDdIRWF2d1dzRmRCV1BOXzRaRld1MmNXWFAyRW1zWGtIV1BYUHVRVTk2Vm9GUWRjVXVKaldKYnR3ekRTUHk3aw?oc=5",
       "date": "2026-11-17T22:13:15.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "81571a9001a6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island - Sportzhub",
-      "snippet": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXJjaWhvNEx5MEsyNXJOcUZRSVZ6aS1tYUp2aHU3WWZrZUV6R2IxM0cyT2NrSWlwQ3NJY1JObmZ1dWl2RFlZLWFZQ0Q0UG1DSzdCM3prWjh4bnFVdzZEekZoUVdpelY5YXVaZC1qaVlrOEF1SUd2SWpiNUc5N1V2QXNKZ2YxSFNib0ZMXzJMWDRSeGtWRW1FcEVjUGd6d0ZTNUNrRnA0N193OUlvNXFJRG4yUVFSdVNaVkI3TVBWWE9sbHpwNE96S09EMA?oc=5",
-      "date": "2026-11-17T19:22:57.000Z",
       "tags": [
         "surf"
       ]
@@ -216,18 +229,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-63.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "b9e4df8eea40",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "X-15: the one-design wingfoil racing class - Surfertoday",
-      "snippet": "X-15: the one-design wingfoil racing class Surfertoday",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsaGJxei15bTBoQVB4azhBQjhNX3ZaNTJMNjE3eVdKQ25RbnZlVzRIMUVHLXF6ZUJoMFBCdFlTWnRYQ0Z0N21EXzBhUW5VTXVMWnFjZmNkeXh0UjN5SVV6OVlYYTVuRDJSQ0pjZzRWOXo5Q2dj?oc=5",
-      "date": "2026-11-17T17:20:59.000Z",
-      "tags": [
-        "wing"
       ]
     },
     {
@@ -269,18 +270,6 @@
       ]
     },
     {
-      "id": "1a6fcdd3472e",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool - Daily Dispatch",
-      "snippet": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool Daily Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWc5YnZrMmFiS2NGUl9pYWlTZE51a2M0SkUwR1VCZnpSM0JvUVZtMzJ1VUlNa0FvRDh3cWtsdi1EdWFZVkVMNUFzZWNweTZjNXprcnlwLTRXTXhiTVFiQ1ZUOXpVbUEycDlBcjVXNmU4amlfT01mdW01SGpIZFJhSlp0T0Q3YWFWYUFwSnhVdHBJa0JKdkhrY1ByNVpjdmNqSFZlV01PNnBEbnM2SFp2QTd0a01xV3ZCYzRHYnB1YVVnTUU?oc=5",
-      "date": "2026-11-17T11:36:10.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "71fd0bb087d2",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -318,18 +307,6 @@
       ]
     },
     {
-      "id": "5cd71681c909",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Tickets | Rugby World Cup Tickets | Rugby World Cup 2027 Tickets | London New Year Fire - eTicketing.co",
-      "snippet": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olymp…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1MxdmtpaFpKVkgwUFBiUHR4X1o3SWJBMW9BYy03ZHhFcEFLUVpGRkR6dmgweUs3aWNldUk4M00wSTFfRW4tanZLbksyWFFBZmc1djc4WUUxUzd5YVFDYzU4SGRRSEpnT05kVHA2aUNPdXJqdV9xWVZTRW5HRjllaWppbzRoZEZUd2kzaW5tLWdkR2tCZll4YlVMRzVTQ1NSejlCbl9nODBGbmd0UzlmODhBVE5MSk0?oc=5",
-      "date": "2026-11-17T07:42:04.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "3d5d6173ce1c",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -337,6 +314,18 @@
       "snippet": "Australia Sweeps World Surfing Gold as 14-Year-Old Zoric Makes History in Peru Sportzhub",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmRxU3lhdFpDZm9meE8yM0t1Y0tKRDFSV2l1TDhxUkNxb0VTVlZGamswZ0xMSVFJb2lFMW1JbEVzLXhCYlUyb0pTRkJMS1VsRThzMm5WdW9GUllXN2Ixel9zVF83Ql8xVl9MRFZWM0ZocE5JdllhdFg2MW56Y2hac0ZmYnk2T0p2NTB0d3UwRktXYi1QclFBRnNHQWJOeTRCb1piV3hwZXROenIyQTBPMUhDMENWZS1rSk9WSWI2M2p0YnljeVVmQnhfQQ?oc=5",
       "date": "2026-11-17T06:22:13.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ba09906b808b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Jamaica end 40th at ISA World Surfing Games - Jamaica Gleaner",
+      "snippet": "Jamaica end 40th at ISA World Surfing Games Jamaica Gleaner",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTZwVmUzRkt3Mmp0Z3Zadlk5VW9kSXo2d2RwT2NHUHV4aU12VDRvNlg5M0JyVGFiT0tyM2lLb3J1djdGTzk0LWdYOXJJcWVueEFRbGN4V0o5OU5td3dfN2lOZXcyQzFYLWczUHFadlU0QVJqaW1mczdFdUpxTXl1a1hLSGt1YV9TQUMyLXFjTXBWWFJKNGc?oc=5",
+      "date": "2026-11-17T06:11:03.000Z",
       "tags": [
         "surf"
       ]
@@ -355,18 +344,6 @@
       ]
     },
     {
-      "id": "a342f46ac18b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion - The New York Times",
-      "snippet": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRoMlVKWWNNY2dMbnJqTl9lLVNMSEo0bVI2QWtUN3JsUi1BTWI1enVGa2hCN290c0NuRWtNZmNHX1VXSlNodWFSWjhLMEV5eW9VcXJpaUl1LXhHZExDaHRUMTEySlpheF83ZDF3LVZyNWxnWWF0cERwZHNZQUU3OUsySHAzZUxpaS1LVzJyZ2x4eG5BaE9iUw?oc=5",
-      "date": "2026-11-16T23:42:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "08df981aea49",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -374,6 +351,30 @@
       "snippet": "Who is Leihani Zoric? Meet the 14-year-old surfing sensation who defeated Olympic champions to make histo The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPdlVjbmhvZW1UYTNWdVc3MlF3REFIdU9rdFh3ZFN3S1RoVnZoZ3RZVXNjTUlmRThhVFVIRUs1OG5uWG1UdWltU0J3NHJjZHFFRUJKWWhHdG9zUjJBOG1DU1UydjNuSGMzdG1RWmJRTFZYak1TQTM4N2JYTklHNFkzTEFDbjBlWE9YcWhsVnZiVkQxZ1E1S0s2NnN2QVhiVmNPcXNlOElDMHMwV1FjMzV3T2VpbXdudE9hOVkwYUhXNllkT2VtYmVZNUd4bnlJVUpiaDNudVlabS1PZ09GelB1Sk8wbmxGSHFKLVhnb1MtWVVlaUs0ODZkRWtoUXJYTWZTd3p6WmpPVFQ4ZUxJNENUV1FQZnhHbWRfSEo5TjJGM051QdIBpwJBVV95cUxNOGVaTFBnclNRX2dCNVRtcElhQURpNVRlclJ4VDBLbnlnU0JVRjZyMkpHUG1xUHJvaVZsZWtiNktRNXY1VVVnZzNhdlRqMzNlcE9QejA2ZXlJZXZidGt3Vk9aeVl0cldGM2g5MjdNTzh2bldoelJUbVBudk9GTXlMb2htbTJxTFBxeVFHMzBEVFdHWk9OYUxpMEp5bVJDWTRKemhSbjVCQWtvSjA0Q0toZm1lbG1memZETmtxQWFnendoMzAwSlBWVFAzRUtqQWdNS1pXVWlqS2lJRGxqcFk0ek1mcWJUT3ctMTBvSGJiS1ZaUFBEbXhFNkxYVkE5bWoxMlB6bkZYaTVDMUp4MGppUkhXTkFBWGpHakhObXV4c01YOGd1WTBF?oc=5",
       "date": "2026-11-16T23:38:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ceba9c28cb53",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection - Nine.com.au",
+      "snippet": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1VPR1kzNXhIUWUtVGFxcFl5cjYyX3BEdm9qWGpOLWJtNmltcUROZHVjUzlWWUJBZkVOS1dVTWk0YWJLWkpjOF9EN0N3V2o4UUp5RFR6cmJDN1BoTm9RTUJTdl9RTnlobGoyVHNqT1daN1pCdjZESWpKUVdKQktsd3E4U2t6ZE4tSTB4bWlnR3puckNhbGZXNDB1NDZMUmluY0wtQTRZcHFGOHhqb3FyclZIT1F1ZUxtLUl5MWh3?oc=5",
+      "date": "2026-11-16T21:57:40.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "d9585dbc69c1",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "14-year-old surfing prodigy stuns competition - Nine.com.au",
+      "snippet": "14-year-old surfing prodigy stuns competition Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWVXTkh5cVJLWlh4bzRDdGVzUVhBM3IzUjE1NS1GOTA1UTJGR1k1dm1fYnV5cnhGbHJpQWZheWd6MnBPbmJFMThsazJqU2s4c09aYlV0YUFRV2RIM2lZM04tS1pmMVRmVHhxVnlYMjlSRjVqWGVsdTVFNkd6b0ZRSWNDZThTS2FzRHlnUVVLd1RHV205N05ZOExOd3B3WlBwcHZfaDBSLWZmbFh2?oc=5",
+      "date": "2026-11-16T21:07:51.000Z",
       "tags": [
         "surf"
       ]
