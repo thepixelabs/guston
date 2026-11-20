@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:34:00.205Z",
+  "generated_at": "2026-11-20T07:12:35.790Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "396a894a8abc",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE!",
+      "snippet": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! Three-time freestyle world champion Yentel Caers has been one…",
+      "url": "https://www.windsurf.co.uk/yentel-caers-pushing-freestyle-into-the-future/",
+      "date": "2026-11-20T05:44:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "aba68cf8baf5",
       "source": "iksurfmag",
@@ -19,6 +32,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-72.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "8f50d8ff8e7f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "How fatherhood, patience and a fresh perspective are fueling Jordy Smith's next chapter - EWN",
+      "snippet": "How fatherhood, patience and a fresh perspective are fueling Jordy Smith's next chapter EWN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnZhMWhOS3RGQVRiSU13VWM1UFFLUThkMVAyYlhJdXdQaHNnQ0xOT0FOWDFTVFRudkF3eU9xQl9fcXZvaV94WlhtMHdvVXF3Q3VEaHROSU9iNmlkb1Q1SDFna1dOU2VnbVJQTHpQT2ZueTBKVkhtcEh3R2RmQ3JsUllGaU1jcUVWbDBucmVqa2cxem8zSmJGeTRFS1BiY0JYMVFUcjFYTG5Gd2cyWklVelFibkZfNFBxZ0E?oc=5",
+      "date": "2026-11-19T15:09:55.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -73,18 +98,6 @@
       ]
     },
     {
-      "id": "88419ff563d2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing Stars Set for Cronulla Showdown - Northern Rivers Times",
-      "snippet": "Surfing Stars Set for Cronulla Showdown Northern Rivers Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnF6OG9JNVJKbl9PelhXU0lxa1N0RloyRDNUMi1FZ29uM0Y5WEFYZXJhUXpMbkl6MzlheUpWOFEyNlI3RTc5NnhxNlZibmxrOFFCYU5fVWk1eE5RVHp0QjY2NW1yS25pUmxvb0EzMzVVMzhqVmUyc0luSFJkRTZjWFNwTXNxX2MwZHptRV9nbGhLQ1R0djhzOTRiZjZ6MGM2WVB1TGhHbkNtU25wdlFnc0s5SXBBM3hxRmM5b2pHS1VVQQ?oc=5",
-      "date": "2026-11-19T06:45:22.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "a34e3649b4f3",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -95,30 +108,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/SVK00875-edit-copy-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "7637df0425ab",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World champion teen surfer inspires Aussie legend - National Indigenous Times",
-      "snippet": "World champion teen surfer inspires Aussie legend National Indigenous Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVhGVkZyd2ZpbGxTRkIwbUFFVkpzUTA1bXo2UlN1Ukw4N2Z1OEROV0Y5eVFOb2RuSC1YSTBfSWRJV3NXZ3U0bEFIZ3YyZG9GMldDcXZjVl9ESkZjTUxmY2J6cmNTRzY2ZkpIQzlPQzdrXzFxVVVLNG5WYnRTbTNTS0NPZjF1QjVJdUlrUlZR?oc=5",
-      "date": "2026-11-18T22:45:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "4596525010c6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Rosarito to Host Youth Surf Championship Alongside Free Tamal Giveaway - SanDiegoRed",
-      "snippet": "Rosarito to Host Youth Surf Championship Alongside Free Tamal Giveaway SanDiegoRed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJCSHpJci1jSmMyRUlIcjhCMlNRek5jck02cWdxWGdtbUhYS0tRemRDeW1GYWJmcURhZTBIekg1WTVOQ2twdGhaQVdhek55M0NEV2d4a1FqY3BWTTBRWFZ0d3FsVHdNSVNFT3VNOWNqMktYckFyM01ldDVUWFNRZjlHSTZBTkNrR3ZwdG5NU1dSUXpaTmxyNEtoWVp0UmpabVdpUEhTN3M2azg?oc=5",
-      "date": "2026-11-18T19:56:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -210,18 +199,6 @@
       ]
     },
     {
-      "id": "de9f6b45c0b6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Port Douglas shines at North Australian Surf Life Saving Championships - newsport daily",
-      "snippet": "Port Douglas shines at North Australian Surf Life Saving Championships newsport daily",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUpJZFF1WlpiSXpjX3o3ektTb0RiM1NjdVd5Qm1nVzJQbXV5RC02V3VZZEpMbnhGSXZ2NlRCU05OdWhjX3pWQlNNNEdqUnN0bTBPeVRzU3QyTldGY1NULVIxNGY4Z1V4cWtUTXUxNlhsRHktZklwTDJYMlNJNjlIdlFuQkZkYlJnejZ1RWt0OUVPVXhRODVSSmJmYjFrZXRCaGVfa0FxZG1LOHZqR1RJdjhn?oc=5",
-      "date": "2026-11-18T07:20:45.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "220a9b965835",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -259,6 +236,18 @@
       ]
     },
     {
+      "id": "81571a9001a6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island - Sportzhub",
+      "snippet": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXJjaWhvNEx5MEsyNXJOcUZRSVZ6aS1tYUp2aHU3WWZrZUV6R2IxM0cyT2NrSWlwQ3NJY1JObmZ1dWl2RFlZLWFZQ0Q0UG1DSzdCM3prWjh4bnFVdzZEekZoUVdpelY5YXVaZC1qaVlrOEF1SUd2SWpiNUc5N1V2QXNKZ2YxSFNib0ZMXzJMWDRSeGtWRW1FcEVjUGd6d0ZTNUNrRnA0N193OUlvNXFJRG4yUVFSdVNaVkI3TVBWWE9sbHpwNE96S09EMA?oc=5",
+      "date": "2026-11-17T19:22:57.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "8c35c3e13dae",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -285,13 +274,13 @@
       ]
     },
     {
-      "id": "0a56663ae8ea",
+      "id": "9a0d6aaabf35",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Marais backs South Africa to make waves at Lifesaving World Championships - HeraldLIVE",
-      "snippet": "Marais backs South Africa to make waves at Lifesaving World Championships HeraldLIVE",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSThTeDJId0hfaUotV1V2ZHRBd1BXcFdsN0U1dC1TVGtSbEFYSVpXRVdxOUZ1QlY0U3FvUk9JQk96UnBuOTlpU1MyU3BTN3dWbG5qWUh1bEJ6d2pyQ2EydTh1Rms4MktHcGRONjUyVTRkQWpoZVgzR1BVdVJYY2VDQy1ZSVN6aHZPUzJuX2tsM1hXdVV3Y0trcEhoTlI0OGdic1M2d2lPaFlxaXhsaFE?oc=5",
-      "date": "2026-11-17T14:41:09.000Z",
+      "title": "Four-Legged Surfers Make a Splash at International Surf Tournament - Dogster",
+      "snippet": "Four-Legged Surfers Make a Splash at International Surf Tournament Dogster",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FyWk4yM2pMaFBfWlRPSk1zQlV2TG9GcFc0bGp0OW5ITjd2WW9tdllNTWNENGpmOGxScmNKNTFZQWh3QkxqYUVtN29RV2VWVHM1QlR3elhBTmZFa1BZTHRFYWlYYUx1M3BfU2VRa29nbWU0LV9PbmNYdVBScWFQNm5nc3Z6cm5VUFlEd2dVejlFSVJwZ1Q5TVpMNW9vWmRpdm81MjgwYw?oc=5",
+      "date": "2026-11-17T11:45:19.000Z",
       "tags": [
         "surf"
       ]
@@ -304,18 +293,6 @@
       "snippet": "Competition Continues In Tricky Conditions at 2026 Taiwan Open of Surfing World Surf League",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUhPYUpKdjNSQXVRMEVEdFk1bW1Ed0ZfQXllZ0xVT2Z3aURJTWc0SS1pZWltSnpqbU15d2s4ZDBXcDByR2ZQaDM5ZmRNMkNZTkt1ZjlUZnBaYXljQnd3bTB2WWg2TU44ci05dUltUWVIWmRGTEE5X1U0WlpnMDZFQU9YcHFXaHlTZ3doNTQyVkw2XzRfTzBMUTl3NlQ0aTRUeHBvZWpJT0hfdGdLVzVzekNYbVRXaG5nZ0E?oc=5",
       "date": "2026-11-17T10:15:58.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "5cd71681c909",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olympic Tickets | Rugby World Cup Tickets | Rugby World Cup 2027 Tickets | London New Year Fire - eTicketing.co",
-      "snippet": "LA28 Tickets: Australia Builds Olympic 2028 Momentum as Young Zoric Makes Surfing History - Olympic Tickets | LA 28 Tickets | OASIS Tickets | Los Angeles Olymp…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1MxdmtpaFpKVkgwUFBiUHR4X1o3SWJBMW9BYy03ZHhFcEFLUVpGRkR6dmgweUs3aWNldUk4M00wSTFfRW4tanZLbksyWFFBZmc1djc4WUUxUzd5YVFDYzU4SGRRSEpnT05kVHA2aUNPdXJqdV9xWVZTRW5HRjllaWppbzRoZEZUd2kzaW5tLWdkR2tCZll4YlVMRzVTQ1NSejlCbl9nODBGbmd0UzlmODhBVE5MSk0?oc=5",
-      "date": "2026-11-17T07:42:04.000Z",
       "tags": [
         "surf"
       ]
@@ -358,6 +335,18 @@
       ]
     },
     {
+      "id": "a342f46ac18b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion - The New York Times",
+      "snippet": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRoMlVKWWNNY2dMbnJqTl9lLVNMSEo0bVI2QWtUN3JsUi1BTWI1enVGa2hCN290c0NuRWtNZmNHX1VXSlNodWFSWjhLMEV5eW9VcXJpaUl1LXhHZExDaHRUMTEySlpheF83ZDF3LVZyNWxnWWF0cERwZHNZQUU3OUsySHAzZUxpaS1LVzJyZ2x4eG5BaE9iUw?oc=5",
+      "date": "2026-11-16T23:42:35.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "08df981aea49",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -370,13 +359,25 @@
       ]
     },
     {
-      "id": "ceba9c28cb53",
+      "id": "936ffccfdbc9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection - Nine.com.au",
-      "snippet": "‘My dream’: 14-year-old surfing prodigy reveals Olympic connection Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1VPR1kzNXhIUWUtVGFxcFl5cjYyX3BEdm9qWGpOLWJtNmltcUROZHVjUzlWWUJBZkVOS1dVTWk0YWJLWkpjOF9EN0N3V2o4UUp5RFR6cmJDN1BoTm9RTUJTdl9RTnlobGoyVHNqT1daN1pCdjZESWpKUVdKQktsd3E4U2t6ZE4tSTB4bWlnR3puckNhbGZXNDB1NDZMUmluY0wtQTRZcHFGOHhqb3FyclZIT1F1ZUxtLUl5MWh3?oc=5",
-      "date": "2026-11-16T21:57:40.000Z",
+      "title": "Newport angler represents Team USA in international surf fishing competition - WJAR",
+      "snippet": "Newport angler represents Team USA in international surf fishing competition WJAR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWM3RkxJdlRHaDN5M1drcG9PazBxX2lQT3JpN2otM25YNnRZeWhKVExXc2E0SXZObEItZThrRFBxVHZkSWxfNU9LVGhmak9OZU9wR3VONUJuZm92eGdfMVRVeWFWOUpvbzRfRTFTRExhUF93OFkwOXdjbjFJV1dUZ2hNc0taNENMUUh0b2RPcWxqQmJuR05nOVVEMmNxM3V3cnRKejlxS1hSa1lo?oc=5",
+      "date": "2026-11-16T09:59:07.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e788d0384793",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing - World Surf League",
+      "snippet": "Women's Opening Round Hits The Water On Day 3 of The 2026 Taiwan Open of Surfing World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMk1WUWZTUmtHdmVBVFRqLXBVSzhMSXlMTkV5eDUtS2Fja2ZTVkg4bWNPNkNzdTdmZ0RFRlBYSWoyWFhHX0xHTi1kWjRKMDlJLXZnTXZaamZLbE5lSldoeVdSdjJoYXRBZEczaTdaNExLdXhRaFFrejdNVjNIUWxZeGt6cUxPTzA5dXVfVkdkTmhKZFB1RmxUT2ZhSGw3LUhjU2pYOWdCSXVhV2kwTjAweHAzZzFSWmp2a2MwNnd1SHJtN28?oc=5",
+      "date": "2026-11-16T09:18:22.000Z",
       "tags": [
         "surf"
       ]
