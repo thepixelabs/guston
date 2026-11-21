@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:03:51.521Z",
+  "generated_at": "2026-11-21T19:13:31.034Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,69 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "5acb4c05788c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2018: event info & videos - Red Bull",
+      "snippet": "Red Bull King of the Air 2018: event info & videos Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1V29UZEd0WWRONUNvSjJ0dHpsV3FkRFB6cGx6em1xcFVwT2JTNGwwLXZoSjF6TTBXcDZaM1hGVDJVdkFoVW9Dc1VHQ25TUEVPb0pZdDd6OXdwSGFIUmg1NGt1alRtWkdFVHM1UUcyMDRzOWRZ?oc=5",
+      "date": "2026-11-21T17:47:26.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "19a3811a17ae",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "A wetsuit that’s as versatile as you are…",
+      "snippet": "Stretch, warmth, and flexibility. It’s built for those who value freedom of movement, even when it’s cold outside. Why is the Amaze Amp iconinc wetsuit? ⚡️Max_…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/a-wetsuit-thats-as-versatile-as-you-are/",
+      "date": "2026-11-21T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-81.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e32901a8bd60",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Great Ocean Road hosts longboard classic from 2 December - ad-hoc-news.de",
+      "snippet": "Great Ocean Road hosts longboard classic from 2 December ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWVnSDR1TlIzQkljRjhqY3V5dWhXY2F1cnZYUUVlTzdrUnJzN2xreVBpQVd2TTlNVXk1NDl4dXhMU0RhbWlsV0JHRUotQzZzNW0xbUtvNEg2ek56UnNmQXd1dzZvU1ktU1BVVjJGdXB5TDQ3Skt4dC1YQzNlZDJ6OENEUVdTYXcyczFqMENmQ09qcjA3Zm13X3VFaFZwQzRxOHR1SmUtTmRubFlfdS10S0dB?oc=5",
+      "date": "2026-11-21T14:02:37.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "da814715da96",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Golden hour looks better upside down",
+      "snippet": "Golden hour is our favourite hour. The post Golden hour looks better upside down first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/golden-hour-looks-better-upside-down/",
+      "date": "2026-11-21T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-80.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "021387f3fa24",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How to Replace Your Kite Back Pigtails | Duotone Kiteboarding",
+      "snippet": "Back pigtails connect your kite’s steering lines to the kite. This tutorial shows you how to replace them safely and correctly. We’ll take you through removing…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-replace-your-kite-back-pigtails-duotone-kiteboarding/",
+      "date": "2026-11-21T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-78.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "4eb89b104f1c",
       "source": "google_surf",
@@ -67,18 +130,6 @@
       "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/cabrinha-officially-backs-the-pro-junior-kite-academy/",
       "date": "2026-11-20T21:00:00.000Z",
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-cabrinha-pjka.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "6bf7e885034c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdUlKdU5JSVVJRmFSQVFlbW0xZWtzMGdBUUNRckFIRnZPNHhLMWpfbGpTbzBBZWhxQzdWcU9PWEZWQWhDTWMtU296ZmNuMTAyX0dNbVFhcWc2T0NvYk02a245MnpkT29MSU83SHVCdEdzbWlUQ1pLZDNHRDE?oc=5",
-      "date": "2026-11-20T19:34:48.000Z",
       "tags": [
         "kite"
       ]
@@ -173,15 +224,15 @@
       ]
     },
     {
-      "id": "88419ff563d2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surfing Stars Set for Cronulla Showdown - Northern Rivers Times",
-      "snippet": "Surfing Stars Set for Cronulla Showdown Northern Rivers Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnF6OG9JNVJKbl9PelhXU0lxa1N0RloyRDNUMi1FZ29uM0Y5WEFYZXJhUXpMbkl6MzlheUpWOFEyNlI3RTc5NnhxNlZibmxrOFFCYU5fVWk1eE5RVHp0QjY2NW1yS25pUmxvb0EzMzVVMzhqVmUyc0luSFJkRTZjWFNwTXNxX2MwZHptRV9nbGhLQ1R0djhzOTRiZjZ6MGM2WVB1TGhHbkNtU25wdlFnc0s5SXBBM3hxRmM5b2pHS1VVQQ?oc=5",
-      "date": "2026-11-19T22:21:22.000Z",
+      "id": "7d857bad4d7b",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZS0VTSk1Hblc5bUR3aUdBQldHRTlyWHB3SGVRdmhFdmdKUWpHUXEwc3EtRjd4ZDRUQlZMYUxkcUxZdXkzVndFclk2N2tYVVpvUWJKQUdabVBJUWJBV0hRWldSVmVZTVlHWkVUU1YwSQ?oc=5",
+      "date": "2026-11-20T05:00:00.000Z",
       "tags": [
-        "surf"
+        "kite"
       ]
     },
     {
@@ -198,44 +249,6 @@
       ]
     },
     {
-      "id": "7a8765831e61",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Focus fully on the wave! Reo V8 Ultra-X",
-      "snippet": "When conditions are ‘on’, give it everything. Since 2012, the Reo has been the benchmark for pure wave riding. In its eighth generation there is one Reo: the U…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/focus-fully-on-the-wave-reo-v8-ultra-x/",
-      "date": "2026-11-19T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-71.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "c8b5253b4ae9",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Kitesurfing growth offers big opportunity, but Cape Town risks pricing itself out of boom times - Cape Chamber of Commerce",
-      "snippet": "Kitesurfing growth offers big opportunity, but Cape Town risks pricing itself out of boom times Cape Chamber of Commerce",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHQxT01ENXVic3pYeEdYdkRCUFhpYldUaklKV0ZSY0ZPcThpNmgzN0JHRmIyY2dZNTZ3YnVLcGQ5YXlHdjB1NWRYLU9scFp1M0tnYlNsV0dGVjRTVmNRbXlPSXhOTG84WU0zY2lRS2F4cXlPNDhMM1FRelBvc2x3aGJ5MUFmb1p5RE1aMTU5TmlMMXdjeHlNSXlHNWxiV2JoMXpFNG9Wb2N5WlFxMXpwOUZGVUJvVkxZZGZZemItUHdMTjQ?oc=5",
-      "date": "2026-11-19T13:02:39.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "2b09612bd1d6",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Is there even a better way to start your session? #shorts #kitesurfing #freeride #kiteboarding",
-      "snippet": "It’s really starting to cool down in Europe… who’s in a hood already? The post Is there even a better way to start your session? #shorts #kitesurfing #freeride…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/is-there-even-a-better-way-to-start-your-session-shorts-kitesurfing-freeride-kiteboarding/",
-      "date": "2026-11-19T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-70.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "95f50845afc8",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -245,19 +258,6 @@
       "date": "2026-11-19T10:40:12.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "3182e35a9128",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Adjust Your Kite Back Line Settings and Adaptive Tip | Duotone Kiteboarding",
-      "snippet": "Fine-tuning your kite’s back line settings and Adaptive Tip allows you to adjust its handling to suit your riding style and conditions. In this tutorial, we’ll…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-adjust-your-kite-back-line-settings-and-adaptive-tip-duotone-kiteboarding/",
-      "date": "2026-11-19T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-69.jpg",
-      "tags": [
-        "kite"
       ]
     },
     {
@@ -298,18 +298,6 @@
       ]
     },
     {
-      "id": "1ccdab40f4f6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Women's Top Seeds Hit The Water at 2026 Taiwan Open of Surfing - World Surf League",
-      "snippet": "Women's Top Seeds Hit The Water at 2026 Taiwan Open of Surfing World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdy05eHE3bTJnOTBHWU1JRkRKcnlyZ3l2OFl5SFpYMDY5dlRqV25UaUNfemE2SmlFRl82U0tGYVVQOGpzbWtKVHI0SVE2cVlnWEhqSC10SkU0S3I4N0dFTW9aTFZHaEVjUnJKMk13Yk9vWnpWdEJRWHAxUUFzcFN3UWxxMFNYR1UxR29zRFMtdDJKdXVyRDczT3lNVE92T3ZnMWlTYU1UWDFMcGM?oc=5",
-      "date": "2026-11-18T10:21:21.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "19dc3d727343",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -347,18 +335,6 @@
       ]
     },
     {
-      "id": "3de71ce5bbcc",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Inside the competitive drive of rising surfing talent Zeke Woollam - Port Macquarie News",
-      "snippet": "Inside the competitive drive of rising surfing talent Zeke Woollam Port Macquarie News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzVOUW5aQUVqNWpzeGs0WWZoMUVmNFFLbmY5THdjWnEzT0ZEYUZ3NmNoWVhpWHREeW84S1FxYVdsa0dQV0JCaXM4NWxfQnc3aEFOVTJuLVJVQnd6LWVUWjYwYXlPOS1DeVpXcE93dU9uNGhCeUIwWnJZUExlQWkyN1otNXFXQ3hrc1RqWkotbGFuYWViQXZJQlBtZG1PSTJr?oc=5",
-      "date": "2026-11-18T02:52:50.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "c4390b615420",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -371,13 +347,37 @@
       ]
     },
     {
-      "id": "fb5d856f85e9",
+      "id": "81571a9001a6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "The Royal Scam: Getting Paid to Just Surf - The Inertia",
-      "snippet": "The Royal Scam: Getting Paid to Just Surf The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjA3RndSUFE0ZTRHeF9PMVU5Z1hOaU9EbU5LT2xUQXJoQnd6NjRnUjFnYlRzRWZPQURvUUY0al9sYlRiSDdIRWF2d1dzRmRCV1BOXzRaRld1MmNXWFAyRW1zWGtIV1BYUHVRVTk2Vm9GUWRjVXVKaldKYnR3ekRTUHk3aw?oc=5",
-      "date": "2026-11-17T22:13:15.000Z",
+      "title": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island - Sportzhub",
+      "snippet": "Australia's Best SUP Surfers Chase National Titles and World Team Selection at Phillip Island Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXJjaWhvNEx5MEsyNXJOcUZRSVZ6aS1tYUp2aHU3WWZrZUV6R2IxM0cyT2NrSWlwQ3NJY1JObmZ1dWl2RFlZLWFZQ0Q0UG1DSzdCM3prWjh4bnFVdzZEekZoUVdpelY5YXVaZC1qaVlrOEF1SUd2SWpiNUc5N1V2QXNKZ2YxSFNib0ZMXzJMWDRSeGtWRW1FcEVjUGd6d0ZTNUNrRnA0N193OUlvNXFJRG4yUVFSdVNaVkI3TVBWWE9sbHpwNE96S09EMA?oc=5",
+      "date": "2026-11-17T19:22:57.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "1a6fcdd3472e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool - Daily Dispatch",
+      "snippet": "AT THE BEACH | JP Veaudry targets world para surfing glory in California wave pool Daily Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWc5YnZrMmFiS2NGUl9pYWlTZE51a2M0SkUwR1VCZnpSM0JvUVZtMzJ1VUlNa0FvRDh3cWtsdi1EdWFZVkVMNUFzZWNweTZjNXprcnlwLTRXTXhiTVFiQ1ZUOXpVbUEycDlBcjVXNmU4amlfT01mdW01SGpIZFJhSlp0T0Q3YWFWYUFwSnhVdHBJa0JKdkhrY1ByNVpjdmNqSFZlV01PNnBEbnM2SFp2QTd0a01xV3ZCYzRHYnB1YVVnTUU?oc=5",
+      "date": "2026-11-17T11:36:10.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "71fd0bb087d2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Competition Continues In Tricky Conditions at 2026 Taiwan Open of Surfing - World Surf League",
+      "snippet": "Competition Continues In Tricky Conditions at 2026 Taiwan Open of Surfing World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUhPYUpKdjNSQXVRMEVEdFk1bW1Ed0ZfQXllZ0xVT2Z3aURJTWc0SS1pZWltSnpqbU15d2s4ZDBXcDByR2ZQaDM5ZmRNMkNZTkt1ZjlUZnBaYXljQnd3bTB2WWg2TU44ci05dUltUWVIWmRGTEE5X1U0WlpnMDZFQU9YcHFXaHlTZ3doNTQyVkw2XzRfTzBMUTl3NlQ0aTRUeHBvZWpJT0hfdGdLVzVzekNYbVRXaG5nZ0E?oc=5",
+      "date": "2026-11-17T10:15:58.000Z",
       "tags": [
         "surf"
       ]
