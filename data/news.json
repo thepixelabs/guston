@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:14:32.621Z",
+  "generated_at": "2026-11-21T07:03:51.521Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,94 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "4eb89b104f1c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Stream Sports Online - Kayo Sports",
+      "snippet": "Stream Sports Online Kayo Sports",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbVVtQXQ2QmYtVGdndzB1MEF4Q3ZBWGJ4aXBmQ2YtRUt6OUFDOTFoLWd3RGtQeFI5eVpIeDFVYzlzSXlpZlhVd290Wm4yN1hKZmxXSkx1VXhZenJESWpaZkNSTVdVNGRLTjVPbE1yLVhBemNvaEhMYnFFcGFwZ1ltaGtCTDYxZF9qYzFhbkFTQ3R3TkVHc1hxTmVlT1U3cWNoUTZWc1FYSkpLdGJLa0lUTnowbWE1UmNEUEFHUVRn?oc=5",
+      "date": "2026-11-21T06:47:14.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "77112ad8b2cb",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "MARC PARE: THE RESET!",
+      "snippet": "MARC PARE: THE RESET! MARC PARE: THE RESET! Marc Pare headed out to Chile in May for a reset. Mentally he needed to escape from deadlines and competition press…",
+      "url": "https://www.windsurf.co.uk/marc-pare-the-reset/",
+      "date": "2026-11-21T05:36:23.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/marc-pare-the-reset-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "235293fe1e91",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Ryan Claims Double as Australian SUP Titles Deliver Standout Performances at Phillip Island - Sportzhub",
+      "snippet": "Ryan Claims Double as Australian SUP Titles Deliver Standout Performances at Phillip Island Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHBrdzZwX015ajFLZ1VkT3Fkb09GNnVCVU1ERzNhdFVaWjZmc3ZmVDUxWkxYcFdIdXZaV09Ua2w2ZXdCV2hVV3Mzb2hGWVppSDE5b3dMZzQwRTdyOEl6SnUxdHhoNkN2QkNOT2s3OS1hTGFadE5qU3dITklnTWVLa3I4LXptdnVlSjRKQmM5SkRxaHpKTWZHaGlfX2RoMkJuUEdIOXVMNnZ0SVpKSXBrbWZQUUNyTWlyVHpFZmdQbG9KbmFKRTBGLXV3?oc=5",
+      "date": "2026-11-21T00:38:39.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "550c2f8e05ea",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Timo’s Road to KOTA",
+      "snippet": "Go Timo at the King of the Air! The Red Bull King of the Air contest window opens today, with riders on standby for the best conditions between now and Decembe…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/timos-road-to-kota/",
+      "date": "2026-11-21T00:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/03-timo-road-to-kota.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "7dbb2f065075",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Cabrinha Officially Backs the Pro Junior Kite Academy",
+      "snippet": "Cabrinha has announced its official support of the Pro Junior Kite Academy, investing in the next generation of kiteboarding talent. Read Cabrinha’s Pro Junior…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/cabrinha-officially-backs-the-pro-junior-kite-academy/",
+      "date": "2026-11-20T21:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/01-cabrinha-pjka.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6bf7e885034c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdUlKdU5JSVVJRmFSQVFlbW0xZWtzMGdBUUNRckFIRnZPNHhLMWpfbGpTbzBBZWhxQzdWcU9PWEZWQWhDTWMtU296ZmNuMTAyX0dNbVFhcWc2T0NvYk02a245MnpkT29MSU83SHVCdEdzbWlUQ1pLZDNHRDE?oc=5",
+      "date": "2026-11-20T19:34:48.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "64c7883cacbb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "One World Title wasn’t enough, huh? #gka #gkakiteworldtour #kiteboarding #gkafreestyle #brazil",
+      "snippet": "There’s a reason that this guy is multiple time World Champion The post One World Title wasn’t enough, huh? #gka #gkakiteworldtour #kiteboarding #gkafreestyle…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/one-world-title-wasnt-enough-huh-gka-gkakiteworldtour-kiteboarding-gkafreestyle-brazil/",
+      "date": "2026-11-20T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-76.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "bf8152c4e9f9",
       "source": "iksurfmag",
@@ -82,6 +170,18 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "88419ff563d2",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Surfing Stars Set for Cronulla Showdown - Northern Rivers Times",
+      "snippet": "Surfing Stars Set for Cronulla Showdown Northern Rivers Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnF6OG9JNVJKbl9PelhXU0lxa1N0RloyRDNUMi1FZ29uM0Y5WEFYZXJhUXpMbkl6MzlheUpWOFEyNlI3RTc5NnhxNlZibmxrOFFCYU5fVWk1eE5RVHp0QjY2NW1yS25pUmxvb0EzMzVVMzhqVmUyc0luSFJkRTZjWFNwTXNxX2MwZHptRV9nbGhLQ1R0djhzOTRiZjZ6MGM2WVB1TGhHbkNtU25wdlFnc0s5SXBBM3hxRmM5b2pHS1VVQQ?oc=5",
+      "date": "2026-11-19T22:21:22.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -174,16 +274,15 @@
       ]
     },
     {
-      "id": "c6bfce5d199d",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Hang time over a sea of whitewater",
-      "snippet": "Thirty two meters of pure stoke! The post Hang time over a sea of whitewater first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/hang-time-over-a-sea-of-whitewater/",
-      "date": "2026-11-18T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-68.jpg",
+      "id": "7637df0425ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World champion teen surfer inspires Aussie legend - National Indigenous Times",
+      "snippet": "World champion teen surfer inspires Aussie legend National Indigenous Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVhGVkZyd2ZpbGxTRkIwbUFFVkpzUTA1bXo2UlN1Ukw4N2Z1OEROV0Y5eVFOb2RuSC1YSTBfSWRJV3NXZ3U0bEFIZ3YyZG9GMldDcXZjVl9ESkZjTUxmY2J6cmNTRzY2ZkpIQzlPQzdrXzFxVVVLNG5WYnRTbTNTS0NPZjF1QjVJdUlrUlZR?oc=5",
+      "date": "2026-11-18T22:45:00.000Z",
       "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -194,32 +293,6 @@
       "snippet": "Formula Kite stays in contention for Brisbane 2032 Live Sail Die",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5EM29VVFV4Zy1IYUlVRG5TSlBBZFlSLVpKUEpFSFJYdjI2SXFXb2ZIZURtY3J1VGhQVUkwbUhzdnNvQ3VkQkVxRGQ5OWs4dFZ3Qk1QcDdRVTc5dUQwVUtoM2pGbks1cXpwVE1SVnVRQTdha0hwaUwzTDNiTlJXelh4ODFpeGl0R2w2OUtIRXYxZ05SZ05JeXN5UW1pQWtOaVE?oc=5",
       "date": "2026-11-18T15:48:57.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "64aab5c226ff",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Replace the Red Safety Line on Your Duotone Click Bar | Duotone Kiteboarding",
-      "snippet": "The Red Safety Line is an important part of your Click Bar’s safety system. In this tutorial, we’ll show you how to remove the line and install a replacement.…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-replace-the-red-safety-line-on-your-duotone-click-bar-duotone-kiteboarding/",
-      "date": "2026-11-18T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-67.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "e7c7707f9843",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Going as low as possible #kiteboarding #kitesurfing #shorts",
-      "snippet": "Low and slowwwwwww The post Going as low as possible #kiteboarding #kitesurfing #shorts first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/going-as-low-as-possible-kiteboarding-kitesurfing-shorts/",
-      "date": "2026-11-18T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-66.jpg",
       "tags": [
         "kite"
       ]
@@ -249,6 +322,18 @@
       ]
     },
     {
+      "id": "de9f6b45c0b6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Port Douglas shines at North Australian Surf Life Saving Championships - newsport daily",
+      "snippet": "Port Douglas shines at North Australian Surf Life Saving Championships newsport daily",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUpJZFF1WlpiSXpjX3o3ektTb0RiM1NjdVd5Qm1nVzJQbXV5RC02V3VZZEpMbnhGSXZ2NlRCU05OdWhjX3pWQlNNNEdqUnN0bTBPeVRzU3QyTldGY1NULVIxNGY4Z1V4cWtUTXUxNlhsRHktZklwTDJYMlNJNjlIdlFuQkZkYlJnejZ1RWt0OUVPVXhRODVSSmJmYjFrZXRCaGVfa0FxZG1LOHZqR1RJdjhn?oc=5",
+      "date": "2026-11-18T07:20:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "220a9b965835",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -262,6 +347,30 @@
       ]
     },
     {
+      "id": "3de71ce5bbcc",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Inside the competitive drive of rising surfing talent Zeke Woollam - Port Macquarie News",
+      "snippet": "Inside the competitive drive of rising surfing talent Zeke Woollam Port Macquarie News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzVOUW5aQUVqNWpzeGs0WWZoMUVmNFFLbmY5THdjWnEzT0ZEYUZ3NmNoWVhpWHREeW84S1FxYVdsa0dQV0JCaXM4NWxfQnc3aEFOVTJuLVJVQnd6LWVUWjYwYXlPOS1DeVpXcE93dU9uNGhCeUIwWnJZUExlQWkyN1otNXFXQ3hrc1RqWkotbGFuYWViQXZJQlBtZG1PSTJr?oc=5",
+      "date": "2026-11-18T02:52:50.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "c4390b615420",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! - Surfing Victoria",
+      "snippet": "2026 Australian SUP Titles Begin In Phillip Island, Victoria! Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxIUEhTR3dLTFMyNDFIXzA5dk9Hc1NhOWNCb0FFbDliUFRGUDYyN19pNVNRbFlyOHBGTEw3TlliZzdFM3Q2ZUpnb201TjczQlVWVVZFcFRPSXFSRjdkRVc1RUo1R3AwSWhGUkVVUjEzelNaR0RiYTRNUExWQ050R0tjX3ExTXgzQl9R?oc=5",
+      "date": "2026-11-17T23:11:21.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "fb5d856f85e9",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -269,115 +378,6 @@
       "snippet": "The Royal Scam: Getting Paid to Just Surf The Inertia",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjA3RndSUFE0ZTRHeF9PMVU5Z1hOaU9EbU5LT2xUQXJoQnd6NjRnUjFnYlRzRWZPQURvUUY0al9sYlRiSDdIRWF2d1dzRmRCV1BOXzRaRld1MmNXWFAyRW1zWGtIV1BYUHVRVTk2Vm9GUWRjVXVKaldKYnR3ekRTUHk3aw?oc=5",
       "date": "2026-11-17T22:13:15.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9a0d6aaabf35",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Four-Legged Surfers Make a Splash at International Surf Tournament - Dogster",
-      "snippet": "Four-Legged Surfers Make a Splash at International Surf Tournament Dogster",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3FyWk4yM2pMaFBfWlRPSk1zQlV2TG9GcFc0bGp0OW5ITjd2WW9tdllNTWNENGpmOGxScmNKNTFZQWh3QkxqYUVtN29RV2VWVHM1QlR3elhBTmZFa1BZTHRFYWlYYUx1M3BfU2VRa29nbWU0LV9PbmNYdVBScWFQNm5nc3Z6cm5VUFlEd2dVejlFSVJwZ1Q5TVpMNW9vWmRpdm81MjgwYw?oc=5",
-      "date": "2026-11-17T11:45:19.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "71fd0bb087d2",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Competition Continues In Tricky Conditions at 2026 Taiwan Open of Surfing - World Surf League",
-      "snippet": "Competition Continues In Tricky Conditions at 2026 Taiwan Open of Surfing World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUhPYUpKdjNSQXVRMEVEdFk1bW1Ed0ZfQXllZ0xVT2Z3aURJTWc0SS1pZWltSnpqbU15d2s4ZDBXcDByR2ZQaDM5ZmRNMkNZTkt1ZjlUZnBaYXljQnd3bTB2WWg2TU44ci05dUltUWVIWmRGTEE5X1U0WlpnMDZFQU9YcHFXaHlTZ3doNTQyVkw2XzRfTzBMUTl3NlQ0aTRUeHBvZWpJT0hfdGdLVzVzekNYbVRXaG5nZ0E?oc=5",
-      "date": "2026-11-17T10:15:58.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "3d5d6173ce1c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Australia Sweeps World Surfing Gold as 14-Year-Old Zoric Makes History in Peru - Sportzhub",
-      "snippet": "Australia Sweeps World Surfing Gold as 14-Year-Old Zoric Makes History in Peru Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmRxU3lhdFpDZm9meE8yM0t1Y0tKRDFSV2l1TDhxUkNxb0VTVlZGamswZ0xMSVFJb2lFMW1JbEVzLXhCYlUyb0pTRkJMS1VsRThzMm5WdW9GUllXN2Ixel9zVF83Ql8xVl9MRFZWM0ZocE5JdllhdFg2MW56Y2hac0ZmYnk2T0p2NTB0d3UwRktXYi1QclFBRnNHQWJOeTRCb1piV3hwZXROenIyQTBPMUhDMENWZS1rSk9WSWI2M2p0YnljeVVmQnhfQQ?oc=5",
-      "date": "2026-11-17T06:22:13.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9a24ee268b29",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN!",
-      "snippet": "WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN! WINDSURF CHILE 2026 PREDICTIONS: THE FINAL SHOWDOWN! One last roll of the dice! The world titles are on th…",
-      "url": "https://www.windsurf.co.uk/windsurf-chile-2026-predictions-the-final-wave-showdown/",
-      "date": "2026-11-17T06:07:38.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z722980FishBowlDiaries-1-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "cd65ed76fb9c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Mui Ne draws foreign tourists as kitesurfing season begins - DTiNews",
-      "snippet": "Mui Ne draws foreign tourists as kitesurfing season begins DTiNews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlIeDl0cHAteWlmYVh4WklTSHVDUVRjd3E0U09kU3JXbXQ5U3RCYVVLc19MUGM0bXgweW55V21Ua0RzNGo1bk5zRzZ4b01KLXBVdFo2bHMxUmpXYS1kUVU0dGQ2TjQwbEttZVdPX2NLbDJ5bnAwQWt1aTdYdGowWmpUeTB5TzgzUlctMGlEeFhoRktxQ29mcEZ0Y1lWajNlZVBCb2pCWUdjQk9qbjlySUxCQ2ltNzc0b3k2TA?oc=5",
-      "date": "2026-11-17T00:07:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a342f46ac18b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion - The New York Times",
-      "snippet": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRoMlVKWWNNY2dMbnJqTl9lLVNMSEo0bVI2QWtUN3JsUi1BTWI1enVGa2hCN290c0NuRWtNZmNHX1VXSlNodWFSWjhLMEV5eW9VcXJpaUl1LXhHZExDaHRUMTEySlpheF83ZDF3LVZyNWxnWWF0cERwZHNZQUU3OUsySHAzZUxpaS1LVzJyZ2x4eG5BaE9iUw?oc=5",
-      "date": "2026-11-16T23:42:35.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "08df981aea49",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Who is Leihani Zoric? Meet the 14-year-old surfing sensation who defeated Olympic champions to make histo - The Times of India",
-      "snippet": "Who is Leihani Zoric? Meet the 14-year-old surfing sensation who defeated Olympic champions to make histo The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPdlVjbmhvZW1UYTNWdVc3MlF3REFIdU9rdFh3ZFN3S1RoVnZoZ3RZVXNjTUlmRThhVFVIRUs1OG5uWG1UdWltU0J3NHJjZHFFRUJKWWhHdG9zUjJBOG1DU1UydjNuSGMzdG1RWmJRTFZYak1TQTM4N2JYTklHNFkzTEFDbjBlWE9YcWhsVnZiVkQxZ1E1S0s2NnN2QVhiVmNPcXNlOElDMHMwV1FjMzV3T2VpbXdudE9hOVkwYUhXNllkT2VtYmVZNUd4bnlJVUpiaDNudVlabS1PZ09GelB1Sk8wbmxGSHFKLVhnb1MtWVVlaUs0ODZkRWtoUXJYTWZTd3p6WmpPVFQ4ZUxJNENUV1FQZnhHbWRfSEo5TjJGM051QdIBpwJBVV95cUxNOGVaTFBnclNRX2dCNVRtcElhQURpNVRlclJ4VDBLbnlnU0JVRjZyMkpHUG1xUHJvaVZsZWtiNktRNXY1VVVnZzNhdlRqMzNlcE9QejA2ZXlJZXZidGt3Vk9aeVl0cldGM2g5MjdNTzh2bldoelJUbVBudk9GTXlMb2htbTJxTFBxeVFHMzBEVFdHWk9OYUxpMEp5bVJDWTRKemhSbjVCQWtvSjA0Q0toZm1lbG1memZETmtxQWFnendoMzAwSlBWVFAzRUtqQWdNS1pXVWlqS2lJRGxqcFk0ek1mcWJUT3ctMTBvSGJiS1ZaUFBEbXhFNkxYVkE5bWoxMlB6bkZYaTVDMUp4MGppUkhXTkFBWGpHakhObXV4c01YOGd1WTBF?oc=5",
-      "date": "2026-11-16T23:38:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "936ffccfdbc9",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Newport angler represents Team USA in international surf fishing competition - WJAR",
-      "snippet": "Newport angler represents Team USA in international surf fishing competition WJAR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWM3RkxJdlRHaDN5M1drcG9PazBxX2lQT3JpN2otM25YNnRZeWhKVExXc2E0SXZObEItZThrRFBxVHZkSWxfNU9LVGhmak9OZU9wR3VONUJuZm92eGdfMVRVeWFWOUpvbzRfRTFTRExhUF93OFkwOXdjbjFJV1dUZ2hNc0taNENMUUh0b2RPcWxqQmJuR05nOVVEMmNxM3V3cnRKejlxS1hSa1lo?oc=5",
-      "date": "2026-11-16T09:59:07.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "e41bd0e4b1c8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Leihani Zoric, 14, stuns surfing world with gold medal to give Australia Olympic boost - The Guardian",
-      "snippet": "Leihani Zoric, 14, stuns surfing world with gold medal to give Australia Olympic boost The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3dhTXdhMnpxVkpkVk9NbVdWalpNT09tNWhIYjd5aFJyUEdUOGYxMkh6a01TOTdhZ2c2a3Jqam13cUJyeDAyMk14NUdNcS0zY1gwTFdMYzNTcF9NQTBSaVZHcy1NdGZGSEZKUUFHUk5nVEs5cExUc1JLby1jc2NvZ0pxdjJZY3Vyb0Fka0xmQ2ZWTm03MGlKTGlhT0VqSFo2dEtFNXoxT2x6bzIwWVFRZjl2RU8?oc=5",
-      "date": "2026-11-16T05:35:00.000Z",
       "tags": [
         "surf"
       ]
