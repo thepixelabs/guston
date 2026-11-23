@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:36:40.949Z",
+  "generated_at": "2026-11-23T07:34:35.729Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,30 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "667ddd240df8",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "She's 14 and already a world surfing champion: Meet Leihani Zoric - Ynetnews",
+      "snippet": "She's 14 and already a world surfing champion: Meet Leihani Zoric Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51c1ZKV184Ulk0SXlBRXhVMkNYb0VlMm1tN3NkbGp0X1hTSWRGUDlYNFJhTkVMWlpWYi03bnhYY2VDZ0FmbEZLYzFXdTV2dURtQzBwVTlIRk1Ed0xLUnc?oc=5",
+      "date": "2026-11-22T23:42:23.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "121555eedb93",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Victorians Dominate 2026 National SUP Titles on Phillip Island - Surfing Victoria",
+      "snippet": "Victorians Dominate 2026 National SUP Titles on Phillip Island Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3FHSlE1Wm9tUGRmX1dXVzJoVEZBNnE3RS1RNTB2NzRTUEEtR3FkQ2YxZ0tXak5JaEgyNVpIaVI4VllTd2JPN3IyekkxQzZuWF83U3RaM2JEQXUwaFk3VVJQZVdIRVNJdFFCUEpZamFvb3lBOWJRTzZmV2EwN0Y3UEhiRy1Id3k3eGxSMGk5RQ?oc=5",
+      "date": "2026-11-22T23:05:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "5edb4fc82829",
       "source": "iksurfmag",
@@ -28,7 +52,7 @@
       "title": "Sandon Point Boardriders Triumph at Record-Breaking NSW Surfing Qualifier - Northern Rivers Times",
       "snippet": "Sandon Point Boardriders Triumph at Record-Breaking NSW Surfing Qualifier Northern Rivers Times",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGZHd1ZPb3ZOV25QUmJJdmpEMUwyYURNUmJOYXZ3TXlDNDJjTHJvb1lMeXBHdXlsQzBLclVjMEhHS1cwaGRVSXZ0WDNaT185amc3OVV6MlJDWVdWUUFuNlNxOTIzaE5uS0dBLVhWWkhDQmItaVNCTUVEZURoNzF0cHBHdC1qTTczU3dwd2dOb3pWdEZBa1A0SVEzb3FRTHhaR29tN2tVSERLQXBNc0MtUjRyeV9IeHVJQzhz?oc=5",
-      "date": "2026-11-22T16:17:17.000Z",
+      "date": "2026-11-22T16:28:51.000Z",
       "tags": [
         "surf"
       ]
@@ -92,19 +116,7 @@
       "title": "USA Surfing Prime West Series brings emerging surfers to Pismo Beach - KSBY News",
       "snippet": "USA Surfing Prime West Series brings emerging surfers to Pismo Beach KSBY News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0E4M3FQczFXaHVCRjFoZnVMMmM0U3NMUEpoenBOcFhBbVRhaDdmNERWRmRXU3R3R25LZE53OTluRHl6cndHX0kyNi03aEdfWU56ckMwR256ZmQxNEd2ckptY2pvLVJUQUlfcUM5YjdCa1JHd05aWTdiWi1wbUpJMGdRR2tZZFlsbjRBTHpIaUI1SDQwMDE4dHhmQ25wVDlzU0h3?oc=5",
-      "date": "2026-11-22T04:44:49.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "9218c5b73ff4",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Pittwater Online News - Pittwater Online News",
-      "snippet": "Pittwater Online News Pittwater Online News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2VoWDhBM0dnRHJZeUxPZE12N2Jkc2FnWHU3S0NXcmpDV01UeHduYjczb3V0LV9CaXNzcXAyVXJpcUg2OU42eEFSaFhmbzNPVm1DcTFLR1JxVDZlVl83eTBEQ043MTNXQW8ydGRmdm51a0QyQkwyeGpvUzFBRGtuR2YwQQ?oc=5",
-      "date": "2026-11-21T20:08:54.000Z",
+      "date": "2026-11-22T02:41:59.000Z",
       "tags": [
         "surf"
       ]
@@ -120,18 +132,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-82.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "b11d73a3af17",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Coupe espoir de surf - Deux jeunes « Reefers » surfent sur les vagues martiniquaises - Le Journal de Saint-Barth",
-      "snippet": "Coupe espoir de surf - Deux jeunes « Reefers » surfent sur les vagues martiniquaises Le Journal de Saint-Barth",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGIwT0NucDBqMnd0blh4cUN6Y0NhU25WT3MtTGpfeHJ4SWRfZS0yMVM5ekJ4MnRwbTZmSkFBZTFnbWh6bW9vZ05yLW9iYWlIVU5jR2tXS1NXRHVfbG83YUFxM1VFVTVMN25xMzgxYUR5SmlMa2h4MXJ5N3ZQQlI3Z3lGa29ITTV6RF9mcG1zeFN4aU4yR21PNFRMekxZaHphNDVINVRtX09LUDZ5NGtxRDN4bFB3eVNIVGc0aU5meXZUanBraDJJRmFhNi1yRzBtb2lfRXZ6dkNEVXRGOW5vend0THY0ZG8?oc=5",
-      "date": "2026-11-21T17:43:02.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "e32901a8bd60",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Great Ocean Road hosts longboard classic from 2 December - ad-hoc-news.de",
-      "snippet": "Great Ocean Road hosts longboard classic from 2 December ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWVnSDR1TlIzQkljRjhqY3V5dWhXY2F1cnZYUUVlTzdrUnJzN2xreVBpQVd2TTlNVXk1NDl4dXhMU0RhbWlsV0JHRUotQzZzNW0xbUtvNEg2ek56UnNmQXd1dzZvU1ktU1BVVjJGdXB5TDQ3Skt4dC1YQzNlZDJ6OENEUVdTYXcyczFqMENmQ09qcjA3Zm13X3VFaFZwQzRxOHR1SmUtTmRubFlfdS10S0dB?oc=5",
-      "date": "2026-11-21T14:02:37.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "da814715da96",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -192,30 +180,6 @@
       "snippet": "Red Bull King of the Air 2025: Recap Red Bull",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl9wWnlubGdtRmJqbHJVRXhIWFE1VTR0WExGNjhiNHg0SGZ3d24zc3JYNVVQX21MM2I2XzV4dzh4WnY2S2U1YXloRi1qNmRySVB5amJybmRnQWd0VnNad2gzNHBIUHpFVERkWU1mdkdiZHRUWk1EaXd3RXBLNUV2MDVyRXNiLW82clp1TUxXZ3E4U3RGTmNzSFF0VFR6Vk5NNTJrMkJB?oc=5",
       "date": "2026-11-21T09:46:05.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "dba630ab09ab",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Riders - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Riders Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzhlUVlHaHlKTkFBeFV4SHd1VHY3Um9wSWpicEMwbHZnSm5Nd1hoZjlTM0w5VHctSXZuT0g2Uk05OEswOXRpLUFGRE1HcG1KX2Q2LVRxWXU4b0hzUy1PY1BWWVRTRmFnQnBDNHV4eFNCUTBDdS1LM2hybFBxaU9XRWUzWTEyZnByN2pDOFNNZ240cXExcWpaLXN3M3hsdmVhMTdMWWJKOTRGaU1PQnc?oc=5",
-      "date": "2026-11-21T09:24:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f21da44bf8bb",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: FAQs - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: FAQs Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHpVWFNZSEZGT2QwSk8zX014Tjc1Q25Pd0czOE82bFN1Q0ZIc3dPMnlybWtlanJxR0hfZE1PbjZGRGFVcjh6TzkwUUx4SkxETllKTDQyNVNvbW9CcG1YeWd1NkU4OGgzckhicVNUQk1Ma3A1UlFQaTRjM2JNaFR5QWFDUUZpNjdfNU4wSkxDdHJhRmFDZFB2ZW11VjhCejJlUi1YdVdjdjQ3dndKb0ZZdWs1N2xuaHR6U25F?oc=5",
-      "date": "2026-11-21T09:20:12.000Z",
       "tags": [
         "kite"
       ]
@@ -243,6 +207,18 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-78.jpg",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "a342f46ac18b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion - The New York Times",
+      "snippet": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmRoMlVKWWNNY2dMbnJqTl9lLVNMSEo0bVI2QWtUN3JsUi1BTWI1enVGa2hCN290c0NuRWtNZmNHX1VXSlNodWFSWjhLMEV5eW9VcXJpaUl1LXhHZExDaHRUMTEySlpheF83ZDF3LVZyNWxnWWF0cERwZHNZQUU3OUsySHAzZUxpaS1LVzJyZ2x4eG5BaE9iUw?oc=5",
+      "date": "2026-11-21T06:21:00.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -334,12 +310,12 @@
       ]
     },
     {
-      "id": "7d857bad4d7b",
+      "id": "5fd8b5508274",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
       "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZS0VTSk1Hblc5bUR3aUdBQldHRTlyWHB3SGVRdmhFdmdKUWpHUXEwc3EtRjd4ZDRUQlZMYUxkcUxZdXkzVndFclk2N2tYVVpvUWJKQUdabVBJUWJBV0hRWldSVmVZTVlHWkVUU1YwSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hd0x3ek1GZ0c4Q3d3ZFhtelJlbVJVS0QzZm5VRU5vYmRLN21DSENKdDJFNVFjYk5lM21XRFRVRi05NDBEWW5qc0U4R2JDS0pWRG5SYk40YURpTkxyc2tMQWxxNWxMZ08xMHRibmZR?oc=5",
       "date": "2026-11-20T05:00:00.000Z",
       "tags": [
         "kite"
@@ -358,18 +334,6 @@
       ]
     },
     {
-      "id": "95f50845afc8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Stab High China 2026: Winners, Results & Highlights - WavePoolMag",
-      "snippet": "Stab High China 2026: Winners, Results & Highlights WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYVYzLWVicHlEejVWclNoV3U4aDdka0pDOXhLLTNFcEkwbndvb0EyRmJ2elJJYWFtV013aU9iRWFrV2lsUmpvcWxGbDVkc2pMRUVSVE5BVDNJamREeUFUSTBNcw?oc=5",
-      "date": "2026-11-19T10:40:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "a34e3649b4f3",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -378,6 +342,43 @@
       "url": "https://www.windsurf.co.uk/the-impossible-equation-severne-lanzarote-strike-mission/",
       "date": "2026-11-19T06:12:11.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/SVK00875-edit-copy-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "7637df0425ab",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "World champion teen surfer inspires Aussie legend - National Indigenous Times",
+      "snippet": "World champion teen surfer inspires Aussie legend National Indigenous Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVhGVkZyd2ZpbGxTRkIwbUFFVkpzUTA1bXo2UlN1Ukw4N2Z1OEROV0Y5eVFOb2RuSC1YSTBfSWRJV3NXZ3U0bEFIZ3YyZG9GMldDcXZjVl9ESkZjTUxmY2J6cmNTRzY2ZkpIQzlPQzdrXzFxVVVLNG5WYnRTbTNTS0NPZjF1QjVJdUlrUlZR?oc=5",
+      "date": "2026-11-18T22:45:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "19dc3d727343",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - The Guardian",
+      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2g5VnFxQld1Y19KVjVZTVpyOTVNRHV1SlpWUnhwNzJzMEdNUk8tbDVJak9BLWFpOTRLZFFVd0QtOUlZZFlEeVBHNU43SUhNVnVEMmtHdlN3WUYxM08yMFNzTEhpYjNJX3NOcmZrNVpkdFZYQUU3SGlLclQ2c2xVVkxtMFJpejJxaVBTcEtKWHJGUUZLNjBDbG5CWVpERmpTdnFneGxjQWY5WG5aWjE1cGJFVldkQllCY1NqaVB4bHd1RWVPTHhxbzNqUXBHb2gzdmdTX25NOA?oc=5",
+      "date": "2026-11-18T07:24:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "220a9b965835",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE",
+      "snippet": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE 2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE The crew from Windsurfer Magazine have stepped up the…",
+      "url": "https://www.windsurf.co.uk/2027-freewave-board-group-test-windsurfer-magazine/",
+      "date": "2026-11-18T04:58:32.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/2027-freewave-board-group-test-w-800x600.jpg",
       "tags": [
         "wind"
       ]
