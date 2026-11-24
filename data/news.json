@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:51:21.785Z",
+  "generated_at": "2026-11-24T09:51:56.584Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,68 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "f95a6baf6ce5",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Sharing your kite sessions with WOO just became a whole lot easier",
+      "snippet": "Did you know 👀 Update now and unlock WOO 5.0 The post Sharing your kite sessions with WOO just became a whole lot easier first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sharing-your-kite-sessions-with-woo-just-became-a-whole-lot-easier/",
+      "date": "2026-11-24T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-90.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "753412093d34",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Young Australian Stars Claim World Para Surfing Titles as Irukandjis Win Seven Medals - Sportzhub",
+      "snippet": "Young Australian Stars Claim World Para Surfing Titles as Irukandjis Win Seven Medals Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEdhYTE5WU9KaXc0c2VQc3habncyR3dKcVdZcXRGMU8xQ0dRZWRUZU9tUlVQNnhGTVhGQUtVUzdvQnZvWVhHUGk2ZXp6UkRhSEJWS1RaSjVWZXZDeVBNV0hRMXh3cmN5SFBxeUEtbEwtMG1fLWVIYktPZndOYUFHRFNEWFpOZWVidmxPaW1jelBxWWlrd20xZDlFWGZxMENfTU9DZ1kxN3RscGN0YVJJUHBadVhkR2Z5WmNoM2dtNGxiUQ?oc=5",
+      "date": "2026-11-24T08:11:11.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "934f30517c91",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "LISFRANC IN MOROCCO: MATT SCOTT!",
+      "snippet": "LISFRANC IN MOROCCO: MATT SCOTT! LISFRANC IN MOROCCO: MATT SCOTT! One top turn, one nasty foot injury and a very long road to recovery… A perfect wave, a share…",
+      "url": "https://www.windsurf.co.uk/lisfranc-in-morocco-matt-scott/",
+      "date": "2026-11-24T06:27:46.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/IMG_5897-800x600.jpeg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "06d6353cbc5f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "The Irukandjis Take Home Two World Titles + Seven Individual Medals at the ISA World Para Surfing Titles. - Surfing Australia",
+      "snippet": "The Irukandjis Take Home Two World Titles + Seven Individual Medals at the ISA World Para Surfing Titles. Surfing Australia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbldqTGlrVFI1QXZsNHZtM2hEVjhpVEQzRHd5ZVBkM0dqbktfWWZ6NU9sQ1F2LXptMmhZZndPdFB3OGR1UGRuWVRCZHRpMEJBeTQzRVo1bU9wOFJYazBNXzAyU2poSjdfWmNGdU1pUG5HdW5tLXRGeE1yS3pqM24teFVRMXhlSDZDZnk1VFNUc2ZPZ1ZpRU8yX1VuUkt1dURKXzNmTlE0dzg0bGZpeUdZeENwTzEyeTk4MTBxS0hJQ1FEZmdxMzEwSktrVFM?oc=5",
+      "date": "2026-11-24T05:53:58.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "2bb3e25ddb11",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Aussie teen masters mechanical waves to win World Para Surfing gold - ABC News & Headlines – Australian Broadcasting Corporation",
+      "snippet": "Aussie teen masters mechanical waves to win World Para Surfing gold ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWZPRDdaMzI1WVdybDBQM3RuYUZrb1BjRno5bk1aQy0za1loYWI5SE80M0FjTDFqckE0OVRZNTNSNVVZUGJCbGJJTjBvd2VqSFctRU9UdGx3UGRYNkhyTjdONVZCN0pQR2Z2OFVmMHZmdkZ5dnljZno0cDN2aEVGOWJkR2xYMnRFaTZnMDhUZ0RiMTV6NFMwN2t1anQ?oc=5",
+      "date": "2026-11-24T04:38:43.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "a53048a5d276",
       "source": "iksurfmag",
@@ -161,6 +223,18 @@
       ]
     },
     {
+      "id": "5fd8b5508274",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hd0x3ek1GZ0c4Q3d3ZFhtelJlbVJVS0QzZm5VRU5vYmRLN21DSENKdDJFNVFjYk5lM21XRFRVRi05NDBEWW5qc0U4R2JDS0pWRG5SYk40YURpTkxyc2tMQWxxNWxMZ08xMHRibmZR?oc=5",
+      "date": "2026-11-22T10:00:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
       "id": "876300214350",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -224,19 +298,6 @@
       ]
     },
     {
-      "id": "19a3811a17ae",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "A wetsuit that’s as versatile as you are…",
-      "snippet": "Stretch, warmth, and flexibility. It’s built for those who value freedom of movement, even when it’s cold outside. Why is the Amaze Amp iconinc wetsuit? ⚡️Max_…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/a-wetsuit-thats-as-versatile-as-you-are/",
-      "date": "2026-11-21T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-81.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "1640055d966e",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -244,6 +305,18 @@
       "snippet": "Red Bull King of the Air 2025: Recap Red Bull",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl9wWnlubGdtRmJqbHJVRXhIWFE1VTR0WExGNjhiNHg0SGZ3d24zc3JYNVVQX21MM2I2XzV4dzh4WnY2S2U1YXloRi1qNmRySVB5amJybmRnQWd0VnNad2gzNHBIUHpFVERkWU1mdkdiZHRUWk1EaXd3RXBLNUV2MDVyRXNiLW82clp1TUxXZ3E4U3RGTmNzSFF0VFR6Vk5NNTJrMkJB?oc=5",
       "date": "2026-11-21T09:46:05.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "dba630ab09ab",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: Riders - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: Riders Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzhlUVlHaHlKTkFBeFV4SHd1VHY3Um9wSWpicEMwbHZnSm5Nd1hoZjlTM0w5VHctSXZuT0g2Uk05OEswOXRpLUFGRE1HcG1KX2Q2LVRxWXU4b0hzUy1PY1BWWVRTRmFnQnBDNHV4eFNCUTBDdS1LM2hybFBxaU9XRWUzWTEyZnByN2pDOFNNZ240cXExcWpaLXN3M3hsdmVhMTdMWWJKOTRGaU1PQnc?oc=5",
+      "date": "2026-11-21T09:24:33.000Z",
       "tags": [
         "kite"
       ]
@@ -258,6 +331,18 @@
       "date": "2026-11-21T09:20:12.000Z",
       "tags": [
         "kite"
+      ]
+    },
+    {
+      "id": "c0ae5ae3ac64",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Stage Set for Finals Day at The 2026 Taiwan Open of Surfing International QS 6000 - World Surf League",
+      "snippet": "Stage Set for Finals Day at The 2026 Taiwan Open of Surfing International QS 6000 World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0ZsWUltcTROOW93X1BDZjVHakpQODg4Ym55TExYdzhfWXNLSWVhbTJ4VXdnNF9Ocm9kXzhMUzhvV2I2T2dyNFZ3WS11aE4tVWRrTDRnNWpWZUdSVEpXMUxxdnkxSzdNbzFUTWJIOGxyd0h6NE9qVkpHWDgwTkJ5SHRvYUVCY2o1OHBPZ0ZlYUJHdzRRbVE0ZC1pZ0M5SkZWT2xqWEpIN2piYXg3YVdfWEVHVjNqUUE5b0FyVW13aGJveG8z?oc=5",
+      "date": "2026-11-21T09:10:00.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -286,18 +371,6 @@
       ]
     },
     {
-      "id": "e44c413554cd",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "World Title Scenarios - Carve Surfing Magazine",
-      "snippet": "World Title Scenarios Carve Surfing Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJMnY4aE1zSFlpNXQ2czl6bkxSWDdjR3MxRHZaSGRLZks3bENkVVhmYzNYSzVTSEVveGdqMWNxZU82bklLVF9IeDJONXJyRjl0M1NRemVEVVZmbUZNbERtVGF4emU5Zw?oc=5",
-      "date": "2026-11-20T09:58:42.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "396a894a8abc",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -306,81 +379,6 @@
       "url": "https://www.windsurf.co.uk/yentel-caers-pushing-freestyle-into-the-future/",
       "date": "2026-11-20T05:44:25.000Z",
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "7d857bad4d7b",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZS0VTSk1Hblc5bUR3aUdBQldHRTlyWHB3SGVRdmhFdmdKUWpHUXEwc3EtRjd4ZDRUQlZMYUxkcUxZdXkzVndFclk2N2tYVVpvUWJKQUdabVBJUWJBV0hRWldSVmVZTVlHWkVUU1YwSQ?oc=5",
-      "date": "2026-11-20T05:00:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "95f50845afc8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Stab High China 2026: Winners, Results & Highlights - WavePoolMag",
-      "snippet": "Stab High China 2026: Winners, Results & Highlights WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYVYzLWVicHlEejVWclNoV3U4aDdka0pDOXhLLTNFcEkwbndvb0EyRmJ2elJJYWFtV013aU9iRWFrV2lsUmpvcWxGbDVkc2pMRUVSVE5BVDNJamREeUFUSTBNcw?oc=5",
-      "date": "2026-11-19T10:40:12.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "a34e3649b4f3",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "THE IMPOSSIBLE EQUATION: SEVERNE LANZAROTE STRIKE MISSION",
-      "snippet": "THE IMPOSSIBLE EQUATION: SEVERNE LANZAROTE STRIKE MISSION THE IMPOSSIBLE EQUATION SEVERNE LANZAROTE STRIKE MISSION Forecasts, riders, gear, World Cup schedules…",
-      "url": "https://www.windsurf.co.uk/the-impossible-equation-severne-lanzarote-strike-mission/",
-      "date": "2026-11-19T06:12:11.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/SVK00875-edit-copy-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "af298e27554f",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Formula Kite stays in contention for Brisbane 2032 - Live Sail Die",
-      "snippet": "Formula Kite stays in contention for Brisbane 2032 Live Sail Die",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5EM29VVFV4Zy1IYUlVRG5TSlBBZFlSLVpKUEpFSFJYdjI2SXFXb2ZIZURtY3J1VGhQVUkwbUhzdnNvQ3VkQkVxRGQ5OWs4dFZ3Qk1QcDdRVTc5dUQwVUtoM2pGbks1cXpwVE1SVnVRQTdha0hwaUwzTDNiTlJXelh4ODFpeGl0R2w2OUtIRXYxZ05SZ05JeXN5UW1pQWtOaVE?oc=5",
-      "date": "2026-11-18T15:48:57.000Z",
-      "tags": [
-        "wing",
-        "kite"
-      ]
-    },
-    {
-      "id": "19dc3d727343",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul - The Guardian",
-      "snippet": "‘Ten is the minimum’: 14-year-old surfing champion Leihani Zoric aims for record world title haul The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2g5VnFxQld1Y19KVjVZTVpyOTVNRHV1SlpWUnhwNzJzMEdNUk8tbDVJak9BLWFpOTRLZFFVd0QtOUlZZFlEeVBHNU43SUhNVnVEMmtHdlN3WUYxM08yMFNzTEhpYjNJX3NOcmZrNVpkdFZYQUU3SGlLclQ2c2xVVkxtMFJpejJxaVBTcEtKWHJGUUZLNjBDbG5CWVpERmpTdnFneGxjQWY5WG5aWjE1cGJFVldkQllCY1NqaVB4bHd1RWVPTHhxbzNqUXBHb2gzdmdTX25NOA?oc=5",
-      "date": "2026-11-18T07:24:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "220a9b965835",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE",
-      "snippet": "2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE 2027 FREEWAVE BOARD GROUP TEST | WINDSURFER MAGAZINE The crew from Windsurfer Magazine have stepped up the…",
-      "url": "https://www.windsurf.co.uk/2027-freewave-board-group-test-windsurfer-magazine/",
-      "date": "2026-11-18T04:58:32.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/2027-freewave-board-group-test-w-800x600.jpg",
       "tags": [
         "wind"
       ]
