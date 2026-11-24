@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:51:56.584Z",
+  "generated_at": "2026-11-24T22:24:27.376Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,107 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "f8ef763af269",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS",
+      "snippet": "ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS Big discounts, extra savings and plenty of windsurfing bargains up fo…",
+      "url": "https://www.windsurf.co.uk/robin-hood-watersports-black-friday-savings/",
+      "date": "2026-11-24T18:00:13.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/ROHO-JC-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "751130915701",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "XENON BOARDS: BLACK WEEK starts NOW!",
+      "snippet": "Check out Black Week with Xenon boards! The post XENON BOARDS: BLACK WEEK starts NOW! first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/xenon-boards-black-week-starts-now/",
+      "date": "2026-11-24T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-93.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "7f61ad1f75be",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "How Does a Pro Skier Become a 2x Kiteboarding World Champion?",
+      "snippet": "1x Ski World champion, 2x Kite World Champion. Will he make it 2-2? The post How Does a Pro Skier Become a 2x Kiteboarding World Champion? first appeared on IK…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-does-a-pro-skier-become-a-2x-kiteboarding-world-champion/",
+      "date": "2026-11-24T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-92.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "7850dade0f51",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "France Wins Fourth Consecutive ISA World Para Surfing Champs, This Time in a Wave Pool - WavePoolMag",
+      "snippet": "France Wins Fourth Consecutive ISA World Para Surfing Champs, This Time in a Wave Pool WavePoolMag",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KaENsQkwxMzNFWXFGRnFpdldlaUVJQ2R1bHFNYjc5LWtlb3RJNWs5cDZfUk5pdjcwTXo2OXhiZHhMSkJOdkozVjNvaDNsUHJGVEpSby1CcWlNS0diZmx2SmxDdjQybTdFcThObmw1UmJzdjA?oc=5",
+      "date": "2026-11-24T13:52:10.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "fa75d5d11de0",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "ION GEAR GUIDES: Common Mistakes When Buying a Harness",
+      "snippet": "When buying a harness it’s important that you avoid these three mistakes! A harness is something you will likely wear for a long time so it’s essential that yo…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ion-gear-guides-common-mistakes-when-buying-a-harness/",
+      "date": "2026-11-24T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-91.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "93129b78ea5b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "ISA World Para Surfing Championships - Carve Surfing Magazine",
+      "snippet": "ISA World Para Surfing Championships Carve Surfing Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kM3RZMjg1X1hMSWpSSHlEMFpncDlLQkxvTUlIX0ZWSEdTV0xTQUJ6ZDExRm4xLWdFUGQ0djctdnI3cWR0T2IxVWxsZ0lUYThfSm9zcFE1ekNZMXVjQWtnV0FRaVduTThBd05sU2VydmVHRmNCNUExMUlR?oc=5",
+      "date": "2026-11-24T11:27:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "745d67667901",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling - www.wam.ae",
+      "snippet": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9JNEtyTklCY0hHbjd4bW9Ra2lKSU56ZFpFX3JLNGc5Z0Etc1BpczJjQVI5WnFVbTFvUHByLWo4U3ZuTEJHOWdtcE1rM1FLOFl5UnJpajdYQWF4Y1h3NUpYT0NnWndpNl9tX2JmSTlBSGxDc0dvSl80RGdCWVN2eWkxbk02bDE5ZTM4?oc=5",
+      "date": "2026-11-24T10:52:55.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
+    {
+      "id": "c00b627aac51",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "2XS BLACK FRIDAY DEALS",
+      "snippet": "2XS BLACK FRIDAY DEALS 2XS BLACK FRIDAY DEALS 2XS are rolling out some exclusive Black Friday deals, but there’s a twist! To unlock the bargains, you’ll need t…",
+      "url": "https://www.windsurf.co.uk/2xs-black-friday-deals/",
+      "date": "2026-11-24T10:09:57.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/JC2-black-fridayv4-copy-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "f95a6baf6ce5",
       "source": "iksurfmag",
@@ -160,18 +261,6 @@
       ]
     },
     {
-      "id": "667ddd240df8",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "She's 14 and already a world surfing champion: Meet Leihani Zoric - Ynetnews",
-      "snippet": "She's 14 and already a world surfing champion: Meet Leihani Zoric Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51c1ZKV184Ulk0SXlBRXhVMkNYb0VlMm1tN3NkbGp0X1hTSWRGUDlYNFJhTkVMWlpWYi03bnhYY2VDZ0FmbEZLYzFXdTV2dURtQzBwVTlIRk1Ed0xLUnc?oc=5",
-      "date": "2026-11-22T23:42:23.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "121555eedb93",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -210,39 +299,13 @@
       ]
     },
     {
-      "id": "b8ca4719c346",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "SNOWKITE FLIGHT",
-      "snippet": "Snow kite season is getting increasingly closer! The post SNOWKITE FLIGHT first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/snowkite-flight-2/",
-      "date": "2026-11-22T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-83.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "5fd8b5508274",
+      "id": "7d857bad4d7b",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
       "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hd0x3ek1GZ0c4Q3d3ZFhtelJlbVJVS0QzZm5VRU5vYmRLN21DSENKdDJFNVFjYk5lM21XRFRVRi05NDBEWW5qc0U4R2JDS0pWRG5SYk40YURpTkxyc2tMQWxxNWxMZ08xMHRibmZR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZS0VTSk1Hblc5bUR3aUdBQldHRTlyWHB3SGVRdmhFdmdKUWpHUXEwc3EtRjd4ZDRUQlZMYUxkcUxZdXkzVndFclk2N2tYVVpvUWJKQUdabVBJUWJBV0hRWldSVmVZTVlHWkVUU1YwSQ?oc=5",
       "date": "2026-11-22T10:00:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "876300214350",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How to Replace the Entire Trim Unit on Your Duotone Click Bar | Duotone Kiteboarding",
-      "snippet": "The trim unit is an important part of your Click Bar, allowing you to adjust your kite’s power while riding. In this tutorial, we’ll show you how to remove and…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-to-replace-the-entire-trim-unit-on-your-duotone-click-bar-duotone-kiteboarding/",
-      "date": "2026-11-22T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-79.jpg",
       "tags": [
         "kite"
       ]
@@ -261,31 +324,6 @@
       ]
     },
     {
-      "id": "582750f6ac18",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "“E x K” – [ Einar Saad & Kimo Mahmoud ] Greece 2025.",
-      "snippet": "Boys trip to Greece, ripping! The post “E x K” – [ Einar Saad & Kimo Mahmoud ] Greece 2025. first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/e-x-k-einar-saad-kimo-mahmoud-greece-2025/",
-      "date": "2026-11-21T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-82.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "5acb4c05788c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2018: event info & videos - Red Bull",
-      "snippet": "Red Bull King of the Air 2018: event info & videos Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1V29UZEd0WWRONUNvSjJ0dHpsV3FkRFB6cGx6em1xcFVwT2JTNGwwLXZoSjF6TTBXcDZaM1hGVDJVdkFoVW9Dc1VHQ25TUEVPb0pZdDd6OXdwSGFIUmg1NGt1alRtWkdFVHM1UUcyMDRzOWRZ?oc=5",
-      "date": "2026-11-21T17:47:26.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "7b55c83ae625",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -298,18 +336,6 @@
       ]
     },
     {
-      "id": "1640055d966e",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2025: Recap - Red Bull",
-      "snippet": "Red Bull King of the Air 2025: Recap Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl9wWnlubGdtRmJqbHJVRXhIWFE1VTR0WExGNjhiNHg0SGZ3d24zc3JYNVVQX21MM2I2XzV4dzh4WnY2S2U1YXloRi1qNmRySVB5amJybmRnQWd0VnNad2gzNHBIUHpFVERkWU1mdkdiZHRUWk1EaXd3RXBLNUV2MDVyRXNiLW82clp1TUxXZ3E4U3RGTmNzSFF0VFR6Vk5NNTJrMkJB?oc=5",
-      "date": "2026-11-21T09:46:05.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "dba630ab09ab",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
@@ -317,18 +343,6 @@
       "snippet": "Red Bull King of the Air 2026: Riders Red Bull",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzhlUVlHaHlKTkFBeFV4SHd1VHY3Um9wSWpicEMwbHZnSm5Nd1hoZjlTM0w5VHctSXZuT0g2Uk05OEswOXRpLUFGRE1HcG1KX2Q2LVRxWXU4b0hzUy1PY1BWWVRTRmFnQnBDNHV4eFNCUTBDdS1LM2hybFBxaU9XRWUzWTEyZnByN2pDOFNNZ240cXExcWpaLXN3M3hsdmVhMTdMWWJKOTRGaU1PQnc?oc=5",
       "date": "2026-11-21T09:24:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "f21da44bf8bb",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: FAQs - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: FAQs Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHpVWFNZSEZGT2QwSk8zX014Tjc1Q25Pd0czOE82bFN1Q0ZIc3dPMnlybWtlanJxR0hfZE1PbjZGRGFVcjh6TzkwUUx4SkxETllKTDQyNVNvbW9CcG1YeWd1NkU4OGgzckhicVNUQk1Ma3A1UlFQaTRjM2JNaFR5QWFDUUZpNjdfNU4wSkxDdHJhRmFDZFB2ZW11VjhCejJlUi1YdVdjdjQ3dndKb0ZZdWs1N2xuaHR6U25F?oc=5",
-      "date": "2026-11-21T09:20:12.000Z",
       "tags": [
         "kite"
       ]
@@ -368,19 +382,6 @@
       "date": "2026-11-20T12:32:11.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "396a894a8abc",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE!",
-      "snippet": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! Three-time freestyle world champion Yentel Caers has been one…",
-      "url": "https://www.windsurf.co.uk/yentel-caers-pushing-freestyle-into-the-future/",
-      "date": "2026-11-20T05:44:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     }
   ]
