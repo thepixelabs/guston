@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:30:23.319Z",
+  "generated_at": "2026-11-25T21:40:05.519Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,119 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "6c1407d93e9f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Australian Interschools Surfing Championships Return to Gold Coast in 2027 With First Live Broadcast - Sportzhub",
+      "snippet": "Australian Interschools Surfing Championships Return to Gold Coast in 2027 With First Live Broadcast Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXRrZmRyZzNzVUJoZGs2LXNVSy1JMnJTaTNjclhYb1VVTXdTTGhEUEZoN0w0b0VsTHFqWEdYQkFtVVpoNVc1QXlrRmRTZldIUEVSZFlNZEFtVnpqTU55RjR1VVRCazIzWXFIUWc5SllxZURCbGNwbUZ3clBQQnM3THNWX2lwNFJtNVk5Q2tRUVpROGZfdEdEVHdIS1JlVS1KMXgxaWk2SXF5TWlFZFdKQXNqTHZwT1MxZTRDdGpiOUllRDFhX1RFTHNGZ29hdHZhcjlEejZB?oc=5",
+      "date": "2026-11-25T20:09:53.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "82cd09b368f8",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Leo vs Brazil : “UNLEASHED” | Kiteboarding Edit",
+      "snippet": "No leash, no problem. You guess the results! The post Leo vs Brazil : “UNLEASHED” | Kiteboarding Edit first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/leo-vs-brazil-unleashed-kiteboarding-edit/",
+      "date": "2026-11-25T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/hqdefault-1.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c0e36a3ffc00",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2025 Spain Qualifier: Event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2025 Spain Qualifier: Event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDRCUXpKdU1uc0FfbWNTU0ZkbWhJazFoWGpnU2pkd3NJZ2RjdF9UN2FiXzQ3cE55Wkhma2lFTHMxdTNfanJxMWQyLWRfcmVZQlNZMHVqN29wanhkeE9VSm1aRnZZMnBNTTgwVjl4ZXBDTGpYSFFMa1gtUG9ORjlmTWw0SnV0UmREeFE?oc=5",
+      "date": "2026-11-25T16:43:23.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b5da8b803a9c",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Endless lefts",
+      "snippet": "Lefts all day long… we could watch Ranja Shred all day! The post Endless lefts first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/endless-lefts/",
+      "date": "2026-11-25T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-96.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "bc258044c4bb",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Landing in three business days",
+      "snippet": "When the gust just keeps going… The post Landing in three business days first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/landing-in-three-business-days/",
+      "date": "2026-11-25T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-95.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "3eeb31697ab6",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "DUOTONE WARP_FOIL & FALCON_FOIL D/LAB",
+      "snippet": "DUOTONE WARP_FOIL & FALCON_FOIL D/LAB DUOTONE WARP_FOIL & FALCON_FOIL D/LAB With the 2026 foil racing season coming to an end, Duotone have some exciting new p…",
+      "url": "https://www.windsurf.co.uk/duotone-warp_foil-falcon_foil-d-lab/",
+      "date": "2026-11-25T11:39:53.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/DTW27-Duotone-Warp_Foil-Jordy-Tenerife-2026-690-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "c11ee344e932",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Police confirm no sign of kitesurfer missing off WA's north-west coast - ABC News & Headlines – Australian Broadcasting Corporation",
+      "snippet": "Police confirm no sign of kitesurfer missing off WA's north-west coast ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnNIajRqYTNRVW4zR0xIMHFVVkc1MzYxWGlOV3liRllhcUlPVnZuUmJqdEtfUm1aclBkVHNrVG9MMFBkS2JrSkNoSFI5QnFLLWhrSWphZlpITzdkaHZuZFRzSDJ0dkY0UkgwLW9yTzh6cy1CTkRjUVd2Z25DZ1pwbFRhOUJWNW5OTWRydm1OT2UzM0JTUy12ZTBVVTNCaHJQNVJaWWo4NFA2S09feFpzN1l3?oc=5",
+      "date": "2026-11-25T10:33:09.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "b0636a16999f",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Irish Surfing Nationals return to Portrush after 12 year absence - www.colerainenow.co.uk",
+      "snippet": "Irish Surfing Nationals return to Portrush after 12 year absence www.colerainenow.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15cE9FVHRpLWxJS0gzRkVWR3hrVkpuNzU0RmRHc1pGLUNPV0pxemQzNUk2ZlBqanRVcnVnUjM2QXB2Mkd4SzJldHJpdTUzMVJuT1A2WmJKcklZbFdaYS0weWtuNm5tdmN2S09hckYzZ042MERXYmNz?oc=5",
+      "date": "2026-11-25T10:00:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "78723641fd9e",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "The ION Wetsuit Range: Which Wetsuit Is Right for You?",
+      "snippet": "Not sure which ION wetsuit to buy? The ION team breaks down all five levels of the ION wetsuit range, from the entry-level Static to the premium Select, so you…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-ion-wetsuit-range-which-wetsuit-is-right-for-you/",
+      "date": "2026-11-25T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-94.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "d90f91fbb397",
       "source": "windsurf_uk",
@@ -19,6 +132,18 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/display-800x600.jpg",
       "tags": [
         "wind"
+      ]
+    },
+    {
+      "id": "df542d283083",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "This is for the Title. This is for Everything - World Surf League",
+      "snippet": "This is for the Title. This is for Everything World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkl3WDNZTURva2UyeS1KanNFWGFfSTNULUpaUkdYTXNGcWt2Y21SVVlTZDNNbHdTOVZwTjB5X3A4M216SVJsWGpubXNJUE9hSmRFVlFNdzhIdFAwdklrOWZXRHlHYjIxMVg0ZG5iamp4eVYxMWN6QWlSWWxYRWc3TDFwVXdIUGN6Y1BHUnU3cmFPNTBUOXlyYUVsU1ZwZU1WMW82X1B1MDNnR3Nq?oc=5",
+      "date": "2026-11-24T23:52:28.000Z",
+      "tags": [
+        "surf"
       ]
     },
     {
@@ -98,18 +223,6 @@
       ]
     },
     {
-      "id": "745d67667901",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling - www.wam.ae",
-      "snippet": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling www.wam.ae",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9JNEtyTklCY0hHbjd4bW9Ra2lKSU56ZFpFX3JLNGc5Z0Etc1BpczJjQVI5WnFVbTFvUHByLWo4U3ZuTEJHOWdtcE1rM1FLOFl5UnJpajdYQWF4Y1h3NUpYT0NnWndpNl9tX2JmSTlBSGxDc0dvSl80RGdCWVN2eWkxbk02bDE5ZTM4?oc=5",
-      "date": "2026-11-24T10:52:55.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
       "id": "c00b627aac51",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -136,18 +249,6 @@
       ]
     },
     {
-      "id": "753412093d34",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Young Australian Stars Claim World Para Surfing Titles as Irukandjis Win Seven Medals - Sportzhub",
-      "snippet": "Young Australian Stars Claim World Para Surfing Titles as Irukandjis Win Seven Medals Sportzhub",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEdhYTE5WU9KaXc0c2VQc3habncyR3dKcVdZcXRGMU8xQ0dRZWRUZU9tUlVQNnhGTVhGQUtVUzdvQnZvWVhHUGk2ZXp6UkRhSEJWS1RaSjVWZXZDeVBNV0hRMXh3cmN5SFBxeUEtbEwtMG1fLWVIYktPZndOYUFHRFNEWFpOZWVidmxPaW1jelBxWWlrd20xZDlFWGZxMENfTU9DZ1kxN3RscGN0YVJJUHBadVhkR2Z5WmNoM2dtNGxiUQ?oc=5",
-      "date": "2026-11-24T08:11:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "934f30517c91",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -161,18 +262,6 @@
       ]
     },
     {
-      "id": "06d6353cbc5f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "The Irukandjis Take Home Two World Titles + Seven Individual Medals at the ISA World Para Surfing Titles. - Surfing Australia",
-      "snippet": "The Irukandjis Take Home Two World Titles + Seven Individual Medals at the ISA World Para Surfing Titles. Surfing Australia",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbldqTGlrVFI1QXZsNHZtM2hEVjhpVEQzRHd5ZVBkM0dqbktfWWZ6NU9sQ1F2LXptMmhZZndPdFB3OGR1UGRuWVRCZHRpMEJBeTQzRVo1bU9wOFJYazBNXzAyU2poSjdfWmNGdU1pUG5HdW5tLXRGeE1yS3pqM24teFVRMXhlSDZDZnk1VFNUc2ZPZ1ZpRU8yX1VuUkt1dURKXzNmTlE0dzg0bGZpeUdZeENwTzEyeTk4MTBxS0hJQ1FEZmdxMzEwSktrVFM?oc=5",
-      "date": "2026-11-24T05:53:58.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "2bb3e25ddb11",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -182,6 +271,18 @@
       "date": "2026-11-24T04:36:23.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "5fd8b5508274",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hd0x3ek1GZ0c4Q3d3ZFhtelJlbVJVS0QzZm5VRU5vYmRLN21DSENKdDJFNVFjYk5lM21XRFRVRi05NDBEWW5qc0U4R2JDS0pWRG5SYk40YURpTkxyc2tMQWxxNWxMZ08xMHRibmZR?oc=5",
+      "date": "2026-11-23T22:00:00.000Z",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -223,27 +324,13 @@
       ]
     },
     {
-      "id": "088c51b9a5db",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "This feeling when flying with a kite!",
-      "snippet": "Effortlessly flying through the air… The post This feeling when flying with a kite! first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/this-feeling-when-flying-with-a-kite/",
-      "date": "2026-11-23T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-87.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "06a85f6c0291",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Inside the world of Duotone – BETO. The Story Behind the Film with Noe Font.",
-      "snippet": "In this episode, we sit down with filmmaker Noe Font to talk about BETO, a film documenting the extraordinary journey of Adalberto Segundo Gomez Epieyu, a memb…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/inside-the-world-of-duotone-beto-the-story-behind-the-film-with-noe-font/",
-      "date": "2026-11-23T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-86.jpg",
+      "id": "9290254e60b9",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Two South Africans confirmed for King of the Air finals | TygerBurger - https://novanews.co.za/",
+      "snippet": "Two South Africans confirmed for King of the Air finals | TygerBurger https://novanews.co.za/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXpwdXloTWI2TzhoNldhUUVqZTcybENTbVFVX0h6SHR3ZklFREcxRUg3Tm92YkhjWVFkdTNMYnA1LW1acURsYmd0QmEyUE1KcktVM2p6cDVnaEZiSHR4MzZ6OU5SMkVfdWgwRy00Z1BXc1pJQ2NldXlQdWMxZU95eWtoTkJjMl91X3Izd19mRzZVMTZfUVE?oc=5",
+      "date": "2026-11-23T11:19:37.000Z",
       "tags": [
         "kite"
       ]
@@ -262,41 +349,15 @@
       ]
     },
     {
-      "id": "5edb4fc82829",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "NTT 360 Product Teaser I Duotone Kiteboarding",
-      "snippet": "Built for riders demanding premium comfort, precise control, and maximum adjustability, the Duotone NTT delivers a highly customizable binding setup designed f…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ntt-360-product-teaser-i-duotone-kiteboarding/",
-      "date": "2026-11-22T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-85.jpg",
+      "id": "121555eedb93",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Victorians Dominate 2026 National SUP Titles on Phillip Island - Surfing Victoria",
+      "snippet": "Victorians Dominate 2026 National SUP Titles on Phillip Island Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3FHSlE1Wm9tUGRmX1dXVzJoVEZBNnE3RS1RNTB2NzRTUEEtR3FkQ2YxZ0tXak5JaEgyNVpIaVI4VllTd2JPN3IyekkxQzZuWF83U3RaM2JEQXUwaFk3VVJQZVdIRVNJdFFCUEpZamFvb3lBOWJRTzZmV2EwN0Y3UEhiRy1Id3k3eGxSMGk5RQ?oc=5",
+      "date": "2026-11-22T23:05:52.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "21b94816cbef",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Kitesurfing in Cape Town",
-      "snippet": "The Cape Town glow, a sight we love to see. The post Kitesurfing in Cape Town first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/kitesurfing-in-cape-town-2/",
-      "date": "2026-11-22T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-84.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "7d857bad4d7b",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZS0VTSk1Hblc5bUR3aUdBQldHRTlyWHB3SGVRdmhFdmdKUWpHUXEwc3EtRjd4ZDRUQlZMYUxkcUxZdXkzVndFclk2N2tYVVpvUWJKQUdabVBJUWJBV0hRWldSVmVZTVlHWkVUU1YwSQ?oc=5",
-      "date": "2026-11-22T10:00:00.000Z",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -313,77 +374,15 @@
       ]
     },
     {
-      "id": "7b55c83ae625",
+      "id": "fc527caee53f",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "The next generation of World Champions is heading for the Surf City El Salvador World Junior Championships - World Surf League",
-      "snippet": "The next generation of World Champions is heading for the Surf City El Salvador World Junior Championships World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUTBKT1djR2psNHhWYUU1MC1rUXBoMnNsRU9NMkppNFBVV3NoaGZ2VUNZYzVMd3dWdE1vRlc4QlZMUDVfd0ZGWUpOb29ucE1VZnNHR0hhLW1GUVpDZkJMMk5LeGxVRmFyZ0RzMmpqZEhKZ0s2WTZZNC1RbmNQXzZCcnA4cVVzWUNlMFRsYm5RVUlqMnhveE9YVmdqMUhfR1hMM0YxblhCR0E0aDlvWl8wNHBZdVQ5bXp0czVLcmpCVDkyM19UTVBNWnhkYlNoUW92RVlTcmNZelRqUGtaOWtWZ2NscFA4dw?oc=5",
-      "date": "2026-11-21T17:37:02.000Z",
+      "title": "Surf City El Salvador World Junior Championships 2026 - World Surf League",
+      "snippet": "Surf City El Salvador World Junior Championships 2026 World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXNqR1RqTlN4M3VYcFpENzJRN0NqdGhKbUZNdVBzQ0NMUmJHdTJjeTNqT1hkalY5Y0pMdTZjSWFYd2t1QVJoeEt1enJsc284R21Tb1JJV2RkWDd4M2NYbGtRRF9sQ2FQR0hzWWQwUzlUWkRDZkt2WWlDT25jOUE3NE51VTVHX0NsY2hjODg5Rlc5Y1NUV1ZlQW4yX1FaNVo4aEN4Qkt2c0w?oc=5",
+      "date": "2026-11-21T18:41:19.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "dba630ab09ab",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Riders - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Riders Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzhlUVlHaHlKTkFBeFV4SHd1VHY3Um9wSWpicEMwbHZnSm5Nd1hoZjlTM0w5VHctSXZuT0g2Uk05OEswOXRpLUFGRE1HcG1KX2Q2LVRxWXU4b0hzUy1PY1BWWVRTRmFnQnBDNHV4eFNCUTBDdS1LM2hybFBxaU9XRWUzWTEyZnByN2pDOFNNZ240cXExcWpaLXN3M3hsdmVhMTdMWWJKOTRGaU1PQnc?oc=5",
-      "date": "2026-11-21T09:24:33.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "c0ae5ae3ac64",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Stage Set for Finals Day at The 2026 Taiwan Open of Surfing International QS 6000 - World Surf League",
-      "snippet": "Stage Set for Finals Day at The 2026 Taiwan Open of Surfing International QS 6000 World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0ZsWUltcTROOW93X1BDZjVHakpQODg4Ym55TExYdzhfWXNLSWVhbTJ4VXdnNF9Ocm9kXzhMUzhvV2I2T2dyNFZ3WS11aE4tVWRrTDRnNWpWZUdSVEpXMUxxdnkxSzdNbzFUTWJIOGxyd0h6NE9qVkpHWDgwTkJ5SHRvYUVCY2o1OHBPZ0ZlYUJHdzRRbVE0ZC1pZ0M5SkZWT2xqWEpIN2piYXg3YVdfWEVHVjNqUUE5b0FyVW13aGJveG8z?oc=5",
-      "date": "2026-11-21T09:10:00.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "77112ad8b2cb",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "MARC PARE: THE RESET!",
-      "snippet": "MARC PARE: THE RESET! MARC PARE: THE RESET! Marc Pare headed out to Chile in May for a reset. Mentally he needed to escape from deadlines and competition press…",
-      "url": "https://www.windsurf.co.uk/marc-pare-the-reset/",
-      "date": "2026-11-21T05:36:23.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/marc-pare-the-reset-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "e7e7806f1ad6",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Who’s the best winter surfer on Lake Tahoe? Locals gear up to compete - Sierra Sun",
-      "snippet": "Who’s the best winter surfer on Lake Tahoe? Locals gear up to compete Sierra Sun",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNERNVjBDVkljUWtMQUtmenNOQURNNkNFLVItd0VjZjBHYzJ3U241MEJzT0ZuTzEyMUhwUHp6SmIzWmlDX1NLVDZaX0FaU09rc2ZBLWpfdGtGREtSXy04WFB1aS1yNjV6UUhyc3lUWjZZeVMxaS1LX19YMk5zR01iMFNHaDdBNzJ2OXRCNW9jd3NpeTl5a3M3cEg1RWd2eHls?oc=5",
-      "date": "2026-11-20T12:32:11.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "396a894a8abc",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE!",
-      "snippet": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! Three-time freestyle world champion Yentel Caers has been one…",
-      "url": "https://www.windsurf.co.uk/yentel-caers-pushing-freestyle-into-the-future/",
-      "date": "2026-11-20T05:44:25.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
-      "tags": [
-        "wind"
       ]
     }
   ]
