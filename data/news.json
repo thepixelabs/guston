@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:24:27.376Z",
+  "generated_at": "2026-11-25T08:30:23.319Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,19 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "d90f91fbb397",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTER CLAIMS THE WOMEN’S CROWN IN CHILE!",
+      "snippet": "NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTER CLAIMS THE WOMEN'S CROWN IN CHILE! NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTE…",
+      "url": "https://www.windsurf.co.uk/noireaux-drops-a-perfect-10-to-win-the-mens-title-wermeister-claims-the-womens-crown-in-chile/",
+      "date": "2026-11-25T07:02:48.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/display-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
     {
       "id": "f8ef763af269",
       "source": "windsurf_uk",
@@ -166,7 +179,7 @@
       "title": "Aussie teen masters mechanical waves to win World Para Surfing gold - ABC News & Headlines – Australian Broadcasting Corporation",
       "snippet": "Aussie teen masters mechanical waves to win World Para Surfing gold ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWZPRDdaMzI1WVdybDBQM3RuYUZrb1BjRno5bk1aQy0za1loYWI5SE80M0FjTDFqckE0OVRZNTNSNVVZUGJCbGJJTjBvd2VqSFctRU9UdGx3UGRYNkhyTjdONVZCN0pQR2Z2OFVmMHZmdkZ5dnljZno0cDN2aEVGOWJkR2xYMnRFaTZnMDhUZ0RiMTV6NFMwN2t1anQ?oc=5",
-      "date": "2026-11-24T04:38:43.000Z",
+      "date": "2026-11-24T04:36:23.000Z",
       "tags": [
         "surf"
       ]
@@ -223,18 +236,6 @@
       ]
     },
     {
-      "id": "9290254e60b9",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Two South Africans confirmed for King of the Air finals | TygerBurger - https://novanews.co.za/",
-      "snippet": "Two South Africans confirmed for King of the Air finals | TygerBurger https://novanews.co.za/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXpwdXloTWI2TzhoNldhUUVqZTcybENTbVFVX0h6SHR3ZklFREcxRUg3Tm92YkhjWVFkdTNMYnA1LW1acURsYmd0QmEyUE1KcktVM2p6cDVnaEZiSHR4MzZ6OU5SMkVfdWgwRy00Z1BXc1pJQ2NldXlQdWMxZU95eWtoTkJjMl91X3Izd19mRzZVMTZfUVE?oc=5",
-      "date": "2026-11-23T11:19:37.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "06a85f6c0291",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -258,18 +259,6 @@
       "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z720048FishBowlDiaries-800x600.jpg",
       "tags": [
         "wind"
-      ]
-    },
-    {
-      "id": "121555eedb93",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Victorians Dominate 2026 National SUP Titles on Phillip Island - Surfing Victoria",
-      "snippet": "Victorians Dominate 2026 National SUP Titles on Phillip Island Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3FHSlE1Wm9tUGRmX1dXVzJoVEZBNnE3RS1RNTB2NzRTUEEtR3FkQ2YxZ0tXak5JaEgyNVpIaVI4VllTd2JPN3IyekkxQzZuWF83U3RaM2JEQXUwaFk3VVJQZVdIRVNJdFFCUEpZamFvb3lBOWJRTzZmV2EwN0Y3UEhiRy1Id3k3eGxSMGk5RQ?oc=5",
-      "date": "2026-11-22T23:05:52.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -382,6 +371,19 @@
       "date": "2026-11-20T12:32:11.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "396a894a8abc",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE!",
+      "snippet": "YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! YENTEL CAERS: PUSHING FREESTYLE INTO THE FUTURE! Three-time freestyle world champion Yentel Caers has been one…",
+      "url": "https://www.windsurf.co.uk/yentel-caers-pushing-freestyle-into-the-future/",
+      "date": "2026-11-20T05:44:25.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/FV26_fs_B16_00517-800x600.jpg",
+      "tags": [
+        "wind"
       ]
     }
   ]
