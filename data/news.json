@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:14:34.071Z",
+  "generated_at": "2026-11-26T21:29:16.760Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -9,15 +9,152 @@
   },
   "items": [
     {
-      "id": "0743941c71a6",
+      "id": "5120bdc02405",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns - St George & Sutherland Shire Leader",
-      "snippet": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns St George & Sutherland Shire Leader",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdldjTFRjZGV2LVBhZmVXbGJPcmxIZHdYaE81N0VOTGhuS2x3MmN6TW93cHF0RmE4VXFUZ1NWWW5BSGNHLWxDRFkySFlYYlNkaS1LUF92NG1TUEl0Q09mY1lKTURnQmo0R2U2OE1oaE8wam1GQ1JIVl9wUk45M05ILXlBeU9zeUFTeXpFVVRJa2xCejBJaXM3VWk3bVcyT3hKYnQ3T0NURlg?oc=5",
-      "date": "2026-11-26T08:12:17.000Z",
+      "title": "Australians Face Elimination Battles at World Junior Surfing Championships - Sportzhub",
+      "snippet": "Australians Face Elimination Battles at World Junior Surfing Championships Sportzhub",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTNqVGlyLUIyMkZkMnBYNFhJV2RqeHNqLWxBLVlmNWY1RUpacnpKMi1yOXkxLXJhM1JjbDRvdi1aeE56S1diSVlnMEFVR29GNkdlOXNHdG1wc1J4aExWQVJWbVpUNFZVckpjNElBZll2Y0puTnhOZG9GVUZSZHZtNEdqdk50Sng4d1VWN0QtWjJQMllzenRsZGRsenhiSThleHVBUmVTRTZaTnFkLW43LXl5OA?oc=5",
+      "date": "2026-11-26T18:33:28.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "eb694a6e4d94",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "That airtime looks unreal‍",
+      "snippet": "Thirty two meters of PURE stoke! The post That airtime looks unreal‍ first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/that-airtime-looks-unreal-2/",
+      "date": "2026-11-26T18:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-100.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "3040b06a7298",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Francesca going full send, as per usual! ‍ #bigair #mykonos #greece #kiteboarding",
+      "snippet": "Full send Francesca! The post Francesca going full send, as per usual! ‍ #bigair #mykonos #greece #kiteboarding first appeared on IKSURFMAG.",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/francesca-going-full-send-as-per-usual-bigair-mykonos-greece-kiteboarding/",
+      "date": "2026-11-26T15:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-99.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2da9c3ff587c",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BLACK FRIDAY BARGAINS AT 4BOARDS",
+      "snippet": "BLACK FRIDAY BARGAINS AT 4BOARDS BLACK FRIDAY BARGAINS AT 4BOARDS 4Boards have some incredible deals lined up for Black Friday and there are some crazy low pri…",
+      "url": "https://www.windsurf.co.uk/black-friday-bargains-at-4boards/",
+      "date": "2026-11-26T12:29:33.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Black-Friday-2026_4Boards-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "ad7e2e75b318",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "The Men’s ION Kitesurfing Harness Guide",
+      "snippet": "Which kitesurfing harness is right for you? In this guide, we walk through the full Men’s ION Harness range, from soft shell (Axxis, Rival) to hybrid (Apex) to…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/the-mens-ion-kitesurfing-harness-guide/",
+      "date": "2026-11-26T12:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-98.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2f5732131f60",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "ESF Junior Cup 2026: surfing competition for young talent at the Spring Surfest Las Américas Pro - Teneriffa News",
+      "snippet": "ESF Junior Cup 2026: surfing competition for young talent at the Spring Surfest Las Américas Pro Teneriffa News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHgzeGJZaUVBU2JJeHNmM216cy1zRGJaSERSSHRucFpyby0xM0dHdTBPdGRaNGVaZ0RjaDhJaGlMQ1lHQ3UzYmlSUUlhVFhXR3hTazJRVmFQZnJZRE40Q0hpeTgtVjhHa1JaNG9OSy0zUUF0QUtWZFZENW9ZSkNBTUtGWXZsQlc5MVZxZw?oc=5",
+      "date": "2026-11-26T10:45:08.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "22bc3595f82b",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Euromaster 2026: European championship for surfers over 40 at Las Américas - Teneriffa News",
+      "snippet": "Euromaster 2026: European championship for surfers over 40 at Las Américas Teneriffa News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzBvSWZOSmlOal8wbFBWbjMxUHFZWVJsNnFaQ1Qzb1JBdFhmTHFMblQ2MGxEVkplVTk1cklWeFktSUVkWThNNTlDOFMzWkl3TjhGMGZVdDY4SWtXbXVoUjhTcjZzcUtpa1VTTldmbzM2bC1EWHIwNVhCNGRFOV93OUc1TVBkR3JhSVJMc05xNEprSXd6cHZaSUN5VXJqbU5NeEVINA?oc=5",
+      "date": "2026-11-26T10:45:08.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "ddd2947bdcc1",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air set to soar as competition receives green light - novanews.co.za",
+      "snippet": "Red Bull King of the Air set to soar as competition receives green light novanews.co.za",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlZUUDlnY19oQ3ZLbUZCb0ZZM3d6ZnFQZFdJRU9IbDVUUkxmTENETHRNa0Y5ZzN2cEZ6VDhpSGhtWEJWSURDcmpKYWpGUGhmeHYxVVItV0lXUEZVU2NIM21MS3lqeDZOT1FEb3F3SzZ3UFN3N280X3VucERpR0gzQWZVYnkzMXQxVVFrcTZRQkstckRvaXJxR3F5ZmxSczV5ZW10enFscWxuM2pY?oc=5",
+      "date": "2026-11-26T10:44:01.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "dd0c46bd1315",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Spring Surfest Las Américas Pro 2026: surf competition in Las Américas - Teneriffa News",
+      "snippet": "Spring Surfest Las Américas Pro 2026: surf competition in Las Américas Teneriffa News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5rbENtMTRrN3hLeXVOSks1OFprdmxTcl9nOFJHRWQ4RllBQnNSQUN5NllNSm51YTFiS2puaTFvUWhlUmdNd3FtSzdwWG1NQ2NtUkVyejNhQklnUTdqOHNpR21MR3J1bWVLR05YclNLRW40dTRsdjR3SjZhc3FIcmpXajV4d1hJQWZMbXhTRExLcmVfVUE?oc=5",
+      "date": "2026-11-26T10:07:03.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "e825ba3ec577",
+      "source": "iksurfmag",
+      "source_name": "IKSURFMAG",
+      "title": "Red Bull King of the Air 2026",
+      "snippet": "In this special episode of Beneath the Surface, We are in Cape Town to catch up with all five of our Harlem athletes competing at this year’s Red Bull King of…",
+      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/red-bull-king-of-the-air-2026/",
+      "date": "2026-11-26T09:00:00.000Z",
+      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-97.jpg",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "e7ce7eb98657",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull KOTA 2025 Demark Qualifier: Kitesurfers - Red Bull",
+      "snippet": "Red Bull KOTA 2025 Demark Qualifier: Kitesurfers Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3A1NUpRY3U2eWlfMEFud3BzbEZ1dy1tTi0xckZ0eU1SVVVvZ0M3aTZmc3ppMTNjOVI3eHp6MVNrbEVlZFRxNFRZMTltMW4zcVhIQTBycTNVdEItMmZhWVRCVEVwWTAzMl9IVXhWRGJ0T3NvU2RTbE5HN2NFeDF3dUZYRjNiQTNaU2d6aFFuQ1dTRDNCVWU1bHJvMmVudDBxRF8zcFI3ZEc5SXViQ0JtNnJTMS1QYm4yTGVGMGhaS0szTTFfRjlFLXR6cVlJMzlM?oc=5",
+      "date": "2026-11-26T08:49:59.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "74832f3755b0",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Red Bull King of the Air 2026 Final: Kiteboarding event info - Red Bull",
+      "snippet": "Red Bull King of the Air 2026 Final: Kiteboarding event info Red Bull",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazRGOW8wWmp6cHFDMHllNHdjejcxc3dNRU5sTGVBd01Na0s5dlotLVlHdVlqc2hMOEttRmk2UjZKOGRYak5UbEQ3QVVmV0lJM1JZZUdUaXJfTDdGT09ndF9xQVhTendmWncxdGU4WWpIek1TLVFJUTBGYVdfN3BGY0Yya3dHVFFXcUZYRF90X3N2cTVjMnc4QlY3c3hmMC14blE?oc=5",
+      "date": "2026-11-26T08:43:27.000Z",
+      "tags": [
+        "kite"
       ]
     },
     {
@@ -47,13 +184,13 @@
       ]
     },
     {
-      "id": "a0d2e0c63513",
+      "id": "156123aa8b0c",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
-      "title": "Fears grow for kitesurfer missing for 2 days - The Australian",
-      "snippet": "Fears grow for kitesurfer missing for 2 days The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQa3k5c3VIVjZZeVNiZzg0Nk9EYUZFVVZZaS1nTGttYy1GRFZvNmFJUkRTcHJ0WU5wYUR3NEx3UWM2SlRoNVh2dmpjQWIzQkJsSnRVSnBBMk5sOHNpb3JNaExMOElfdUcwNWJ3c3k2V3I2MnNmSVdHbkc0TXByckppMFlIZlY4bnJhMGYwTkZ0Wi1CQkx0c3VaWU1GYTFjVVlkNnhHM2w3dGFpNmtQOFhFcGx6MllBX0drbTRzZWNPMF8wZlZlNzk0cXI5WUtZZU03SlhyQ3Fpa3A5Nm1mem5tSklsLUNGTEliWm1YM01yeU5oY3lZTlk0ZFB2dFJFOWhYTG9PVDZrUXVyUlo5UEE?oc=5",
-      "date": "2026-11-26T05:00:08.000Z",
+      "title": "Fears grow for kitesurfer missing for 2 days - News.com.au",
+      "snippet": "Fears grow for kitesurfer missing for 2 days News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMllJMExLSVVSSVl2eTRNMDRzR3ptanFGdW83TWxaOW5jdmRPcElWZFVGWUtvVW5KNVJvS0ZNR2JzbU90TmE3cTVlNEtaOUdxYkNGcFpRdDMxQ1NBU0wzQkxtbFU2aEU0ZGhBOTgyb0FLa3FmRGNkMGszUEcycE5sbzhiR3R6R0VyYktlN3V1eElEVXROdTJZamRyeFJjMHJrR2hzelhBakFxbFRxdGF0c015OGF3RmNjQ05BZGU5V21ZWlNnRUozZHlVckJQTG9MOVdDRDJQeENPZ0JFak1kcXRQelBJdWs5LWtvdTMtTFoyelhhQ1dJZDhWOE1xVEwtYTRmYUc3bXlNMk1FZGdDdUR6QdIBmAJBVV95cUxPUEEySndKTlR6TDlldElWRkVFT1FtN01vbS12STZKVFZWRFZKek51SjRySVQyaHBJSWZQRllIYnd2V0tKY3hkVHByXzZPRzEyUjdobWd2M3JvMmZDVWJlT05iVk02bFBNQUoxcTBDbEpSM3pzQjRLVEFPSGdzWGIzVDVORXFER2QxbHdUSDhFWUFocV8zbHpRSDBBNGFSWlB5eGR0Z3BNQ1YzcTlLWEtDMU5VSWdHN1FQVTRrTnh4bDVDNlJSZ2VDYkNlbnMtSzhpazZlZ0F0RmNTTnc0R1BKM3JqNFl5X1dfYV9IMVhPSnQxMHZ1b0dyN3NmRkZSUVR0UE0zTkRsTFJtY3h6RmpJeElDWXRRRVVE?oc=5",
+      "date": "2026-11-26T05:52:20.000Z",
       "tags": [
         "kite"
       ]
@@ -108,13 +245,13 @@
       ]
     },
     {
-      "id": "c0e36a3ffc00",
+      "id": "9338f37d3f10",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Red Bull King of the Air 2025 Spain Qualifier: Event info - Red Bull",
       "snippet": "Red Bull King of the Air 2025 Spain Qualifier: Event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDRCUXpKdU1uc0FfbWNTU0ZkbWhJazFoWGpnU2pkd3NJZ2RjdF9UN2FiXzQ3cE55Wkhma2lFTHMxdTNfanJxMWQyLWRfcmVZQlNZMHVqN29wanhkeE9VSm1aRnZZMnBNTTgwVjl4ZXBDTGpYSFFMa1gtUG9ORjlmTWw0SnV0UmREeFE?oc=5",
-      "date": "2026-11-25T16:43:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnBVQXJ3OE16MnV2Q3NGX1RMUldiWV9qa0RqbzZxTkZHRXF6UFRabDlndTltZ0pDS2g3QlZFWFBOdkVkY2NEZURJRXpyM28teHI1REJwWmJjd0MwRlVqWlRieE5kOEdQc1pNV1BQMW9hM1J5YXhmZ1ByZVlRQnd5eTBPeXpvQlFHMnc?oc=5",
+      "date": "2026-11-25T16:45:28.000Z",
       "tags": [
         "kite"
       ]
@@ -130,18 +267,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-96.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "c00fd68f5c1c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Bideford student makes national surfing quarter-finals - North Devon Gazette",
-      "snippet": "Bideford student makes national surfing quarter-finals North Devon Gazette",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWEyUDgxd1I5clpYOEFZZEtzeDJ3c3RMRWt2WEc1bWpLR1R4blFmMU9uTkN1bGxhX0pFMnU0NWpvMDNmeTd3eGRwRHhlVkRpTlhkV0l1eVlXa2NBZmx0bTJueUN6ZUxJTmc3a2Y3X3dBdkxybjhLRnJNY2FHN19tUnpCd1pxbEFPQ09QX3RCaXozVVNENjQwZEd6TlVmMHdTZkVIVGFIUQ?oc=5",
-      "date": "2026-11-25T14:12:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -171,51 +296,15 @@
       ]
     },
     {
-      "id": "551385b2fc84",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "No wind, no show: Why Red Bull King of the Air waits for the Cape Doctor - IOL",
-      "snippet": "No wind, no show: Why Red Bull King of the Air waits for the Cape Doctor IOL",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0p0eExfRFRVY2VGd3JRbHlrWGxQc2YzaW5PcE5OZ3JHYjNQR2xhUE5aTVNRc2NVa2wwbVRia3BVSTVYQWV1dmZ1UTVXUWt2eTlacEt1UXBzb0Z4Z0hpN0M2dVpLZ3JMczAyT2w1bndxV2FNR28yOU9uYUgtZkpyQi11ZWotR0gtWGRYRXd1VnB1Zm9Hby1PS09YbEEyUTJubW1aNzhXc2RKVktHYXNKVDhjOUk?oc=5",
-      "date": "2026-11-25T11:01:56.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "137b13911d28",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "No sign of kitesurfer missing off WA’s north west coast Confirmed by Police - cedarnews.net",
-      "snippet": "No sign of kitesurfer missing off WA’s north west coast Confirmed by Police cedarnews.net",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWJMblBzS05MTzl1amExZlVlY0RhRm03b0QyeVpCNWZKbnhYd2FPQmcyMHpFOVB2V2dFUkItZVNwYi0xVk9NMV9zbUFwNVg2UkU3ejRFSXpBLTlWc2dxdEtBN2RKWEs1X3Z2M1Nhd1pVQnVIbjBUdkw4cG5SWWwwb1Yta3JSelJN?oc=5",
-      "date": "2026-11-25T10:39:55.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "2fcef33271d4",
+      "id": "c11ee344e932",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Police confirm no sign of kitesurfer missing off WA's north-west coast - ABC News & Headlines – Australian Broadcasting Corporation",
       "snippet": "Police confirm no sign of kitesurfer missing off WA's north-west coast ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUxXdVFJaU9zeFlmQmxkOXZyMnBnX1dRd3pxVDZEeFpzYmEwTi0wbTlyN2xBUzhmUWNzVW5abk1FVzRmeUtOdDl2N1NDOFBuYmprNjVuMm5uTU9VQ081dmVVYl9qbjh2UkRmcTh4VURfUUJra01IN1hvRlUwenFiWG1IYVpNb3cybGNRUHNoSHVpdU4wZW9KTEFHMy1ISEtkeUg0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnNIajRqYTNRVW4zR0xIMHFVVkc1MzYxWGlOV3liRllhcUlPVnZuUmJqdEtfUm1aclBkVHNrVG9MMFBkS2JrSkNoSFI5QnFLLWhrSWphZlpITzdkaHZuZFRzSDJ0dkY0UkgwLW9yTzh6cy1CTkRjUVd2Z25DZ1pwbFRhOUJWNW5OTWRydm1OT2UzM0JTUy12ZTBVVTNCaHJQNVJaWWo4NFA2S09feFpzN1l3?oc=5",
       "date": "2026-11-25T10:33:09.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "b0636a16999f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Irish Surfing Nationals return to Portrush after 12 year absence - www.colerainenow.co.uk",
-      "snippet": "Irish Surfing Nationals return to Portrush after 12 year absence www.colerainenow.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15cE9FVHRpLWxJS0gzRkVWR3hrVkpuNzU0RmRHc1pGLUNPV0pxemQzNUk2ZlBqanRVcnVnUjM2QXB2Mkd4SzJldHJpdTUzMVJuT1A2WmJKcklZbFdaYS0weWtuNm5tdmN2S09hckYzZ042MERXYmNz?oc=5",
-      "date": "2026-11-25T10:00:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -293,94 +382,6 @@
       "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-92.jpg",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "fa75d5d11de0",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "ION GEAR GUIDES: Common Mistakes When Buying a Harness",
-      "snippet": "When buying a harness it’s important that you avoid these three mistakes! A harness is something you will likely wear for a long time so it’s essential that yo…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/ion-gear-guides-common-mistakes-when-buying-a-harness/",
-      "date": "2026-11-24T12:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-91.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "93129b78ea5b",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "ISA World Para Surfing Championships - Carve Surfing Magazine",
-      "snippet": "ISA World Para Surfing Championships Carve Surfing Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kM3RZMjg1X1hMSWpSSHlEMFpncDlLQkxvTUlIX0ZWSEdTV0xTQUJ6ZDExRm4xLWdFUGQ0djctdnI3cWR0T2IxVWxsZ0lUYThfSm9zcFE1ekNZMXVjQWtnV0FRaVduTThBd05sU2VydmVHRmNCNUExMUlR?oc=5",
-      "date": "2026-11-24T11:27:45.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "745d67667901",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling - www.wam.ae",
-      "snippet": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling www.wam.ae",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9JNEtyTklCY0hHbjd4bW9Ra2lKSU56ZFpFX3JLNGc5Z0Etc1BpczJjQVI5WnFVbTFvUHByLWo4U3ZuTEJHOWdtcE1rM1FLOFl5UnJpajdYQWF4Y1h3NUpYT0NnWndpNl9tX2JmSTlBSGxDc0dvSl80RGdCWVN2eWkxbk02bDE5ZTM4?oc=5",
-      "date": "2026-11-24T10:52:55.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
-      "id": "c00b627aac51",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "2XS BLACK FRIDAY DEALS",
-      "snippet": "2XS BLACK FRIDAY DEALS 2XS BLACK FRIDAY DEALS 2XS are rolling out some exclusive Black Friday deals, but there’s a twist! To unlock the bargains, you’ll need t…",
-      "url": "https://www.windsurf.co.uk/2xs-black-friday-deals/",
-      "date": "2026-11-24T10:09:57.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/JC2-black-fridayv4-copy-1-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "f95a6baf6ce5",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Sharing your kite sessions with WOO just became a whole lot easier",
-      "snippet": "Did you know 👀 Update now and unlock WOO 5.0 The post Sharing your kite sessions with WOO just became a whole lot easier first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/sharing-your-kite-sessions-with-woo-just-became-a-whole-lot-easier/",
-      "date": "2026-11-24T09:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-90.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "934f30517c91",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "LISFRANC IN MOROCCO: MATT SCOTT!",
-      "snippet": "LISFRANC IN MOROCCO: MATT SCOTT! LISFRANC IN MOROCCO: MATT SCOTT! One top turn, one nasty foot injury and a very long road to recovery… A perfect wave, a share…",
-      "url": "https://www.windsurf.co.uk/lisfranc-in-morocco-matt-scott/",
-      "date": "2026-11-24T06:27:46.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/09/IMG_5897-800x600.jpeg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "2bb3e25ddb11",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aussie teen masters mechanical waves to win World Para Surfing gold - ABC News & Headlines – Australian Broadcasting Corporation",
-      "snippet": "Aussie teen masters mechanical waves to win World Para Surfing gold ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWZPRDdaMzI1WVdybDBQM3RuYUZrb1BjRno5bk1aQy0za1loYWI5SE80M0FjTDFqckE0OVRZNTNSNVVZUGJCbGJJTjBvd2VqSFctRU9UdGx3UGRYNkhyTjdONVZCN0pQR2Z2OFVmMHZmdkZ5dnljZno0cDN2aEVGOWJkR2xYMnRFaTZnMDhUZ0RiMTV6NFMwN2t1anQ?oc=5",
-      "date": "2026-11-24T04:36:23.000Z",
-      "tags": [
-        "surf"
       ]
     }
   ]
