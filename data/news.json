@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:40:05.519Z",
+  "generated_at": "2026-11-26T08:14:34.071Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,80 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "0743941c71a6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns - St George & Sutherland Shire Leader",
+      "snippet": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns St George & Sutherland Shire Leader",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdldjTFRjZGV2LVBhZmVXbGJPcmxIZHdYaE81N0VOTGhuS2x3MmN6TW93cHF0RmE4VXFUZ1NWWW5BSGNHLWxDRFkySFlYYlNkaS1LUF92NG1TUEl0Q09mY1lKTURnQmo0R2U2OE1oaE8wam1GQ1JIVl9wUk45M05ILXlBeU9zeUFTeXpFVVRJa2xCejBJaXM3VWk3bVcyT3hKYnQ3T0NURlg?oc=5",
+      "date": "2026-11-26T08:12:17.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "48c986a580c0",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "BLACK FRIDAY AT WORTHING WATERSPORTS",
+      "snippet": "BLACK FRIDAY AT WORTHING WATERSPORTS BLACK FRIDAY AT WORTHING WATERSPORTS Worthing Watersports have plenty of deals lined up for Black Friday and the sale runs…",
+      "url": "https://www.windsurf.co.uk/black-friday-at-worthing-watersports/",
+      "date": "2026-11-26T06:59:36.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/thumbnail-copy-800x600.png",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "c201bf3160ec",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "CLUB VASS AUTUMN UPDATE",
+      "snippet": "CLUB VASS AUTUMN UPDATE CLUB VASS AUTUMN UPDATE The team from Club Vass look back at an epic finish to the season with a magical September blessed with perfect…",
+      "url": "https://www.windsurf.co.uk/club-vass-autumn-update/",
+      "date": "2026-11-26T06:29:03.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/newsletter-18-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "a0d2e0c63513",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Fears grow for kitesurfer missing for 2 days - The Australian",
+      "snippet": "Fears grow for kitesurfer missing for 2 days The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQa3k5c3VIVjZZeVNiZzg0Nk9EYUZFVVZZaS1nTGttYy1GRFZvNmFJUkRTcHJ0WU5wYUR3NEx3UWM2SlRoNVh2dmpjQWIzQkJsSnRVSnBBMk5sOHNpb3JNaExMOElfdUcwNWJ3c3k2V3I2MnNmSVdHbkc0TXByckppMFlIZlY4bnJhMGYwTkZ0Wi1CQkx0c3VaWU1GYTFjVVlkNnhHM2w3dGFpNmtQOFhFcGx6MllBX0drbTRzZWNPMF8wZlZlNzk0cXI5WUtZZU03SlhyQ3Fpa3A5Nm1mem5tSklsLUNGTEliWm1YM01yeU5oY3lZTlk0ZFB2dFJFOWhYTG9PVDZrUXVyUlo5UEE?oc=5",
+      "date": "2026-11-26T05:00:08.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "6f156a6e1aa3",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Police continues search for missing kite-surfer Eric Metrot, who disappeared off Coral Bay nearly two days ago - The West Australian",
+      "snippet": "Police continues search for missing kite-surfer Eric Metrot, who disappeared off Coral Bay nearly two days ago The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWm1pN1FrYVJROTZ6ZzFHR3pBaWRMY2RDWGdlcFJlMGFwU3BiaWI1U0NfWnAwdXg0M3JSSWdlMVF1ZFdXWTFkY1RfVG5OQXEwSkw0M3J4Q0kzbC0zeHkxSkI0MjZIUV9iRldPRTZ5VHJfd0JQRTY0enpfR3Z1bFJHaVJXVkg2cU5hbldMYlhJemJyVW9veWpLTVkzaVNKSjZQVW5YMW42aXhSQUxjMGFkc0kwODlNdDYzWnVWOHFuX1JHamN6cTJXV0pOcFZPdE0yeEpaTTA2MUVzNTcyWVhmQk9CakUxM3l6dENUNU1CbXN6TXl1YVHSAfsBQVVfeXFMTVpoZS1sUEZYaW1YSW9sNTVqamlBT1hBOTYtTV9oUkJOdTJSODB6VXU2TTBGWmxRX2lXSWZiQkhBUTRod2lIZ0lMSEZ3bDhsZ3RxRWxrZloyd0VaMlk1c3hLRHNCY1gtY2s4d3Z3MGUtWUliOXVsN2VXbmlmRmJHQm5nalVsb1YtbUo4SVhTeFBaZ3NKeTJMMlAtOGpyRU1JWkRlcllESG1NNERYOUdWTVEzLTFzcUNKNjBKQl9JSjFXX0FJZm9IZjhsVDlqMjFyRzN1V0dCQW5HZEZoVHJ5cHdjXzNsMTFFOE1WZThyN0NaOVVVVkxRZEVrcVU?oc=5",
+      "date": "2026-11-25T23:47:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "15042d5b54a6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Sierra Kerr on CT Qualification and Overcoming a Disease That Could Have Ended Her Career - The Inertia",
+      "snippet": "Sierra Kerr on CT Qualification and Overcoming a Disease That Could Have Ended Her Career The Inertia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHVzc09kcFZOMlR2N181X0FlemVGeGdOVWpQZy15NW42T0dFNDhZMjNMc2dIUjVwdTVaQUhmdE5lV0dzWHBCWkstSndrWEVfb1RXRjEwdTRZZGJ1QWdSN0gyN0RRMjlCR2lJckVwYUVoQ3J6QjdvbFpHZ2lralhFUHlLdTFTaGcyNVFCV0R4eTBtaHluT1FwVEowaEFITHJQZnZIWm9MQjhFQ1NyXy1QTWl0dHVBYjdaTnJoNUM2UEp5WEhY?oc=5",
+      "date": "2026-11-25T21:57:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
     {
       "id": "6c1407d93e9f",
       "source": "google_surf",
@@ -59,6 +133,18 @@
       ]
     },
     {
+      "id": "c00fd68f5c1c",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Bideford student makes national surfing quarter-finals - North Devon Gazette",
+      "snippet": "Bideford student makes national surfing quarter-finals North Devon Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWEyUDgxd1I5clpYOEFZZEtzeDJ3c3RMRWt2WEc1bWpLR1R4blFmMU9uTkN1bGxhX0pFMnU0NWpvMDNmeTd3eGRwRHhlVkRpTlhkV0l1eVlXa2NBZmx0bTJueUN6ZUxJTmc3a2Y3X3dBdkxybjhLRnJNY2FHN19tUnpCd1pxbEFPQ09QX3RCaXozVVNENjQwZEd6TlVmMHdTZkVIVGFIUQ?oc=5",
+      "date": "2026-11-25T14:12:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "bc258044c4bb",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -85,12 +171,36 @@
       ]
     },
     {
-      "id": "c11ee344e932",
+      "id": "551385b2fc84",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "No wind, no show: Why Red Bull King of the Air waits for the Cape Doctor - IOL",
+      "snippet": "No wind, no show: Why Red Bull King of the Air waits for the Cape Doctor IOL",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0p0eExfRFRVY2VGd3JRbHlrWGxQc2YzaW5PcE5OZ3JHYjNQR2xhUE5aTVNRc2NVa2wwbVRia3BVSTVYQWV1dmZ1UTVXUWt2eTlacEt1UXBzb0Z4Z0hpN0M2dVpLZ3JMczAyT2w1bndxV2FNR28yOU9uYUgtZkpyQi11ZWotR0gtWGRYRXd1VnB1Zm9Hby1PS09YbEEyUTJubW1aNzhXc2RKVktHYXNKVDhjOUk?oc=5",
+      "date": "2026-11-25T11:01:56.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "137b13911d28",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "No sign of kitesurfer missing off WA’s north west coast Confirmed by Police - cedarnews.net",
+      "snippet": "No sign of kitesurfer missing off WA’s north west coast Confirmed by Police cedarnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWJMblBzS05MTzl1amExZlVlY0RhRm03b0QyeVpCNWZKbnhYd2FPQmcyMHpFOVB2V2dFUkItZVNwYi0xVk9NMV9zbUFwNVg2UkU3ejRFSXpBLTlWc2dxdEtBN2RKWEs1X3Z2M1Nhd1pVQnVIbjBUdkw4cG5SWWwwb1Yta3JSelJN?oc=5",
+      "date": "2026-11-25T10:39:55.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "2fcef33271d4",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Police confirm no sign of kitesurfer missing off WA's north-west coast - ABC News & Headlines – Australian Broadcasting Corporation",
       "snippet": "Police confirm no sign of kitesurfer missing off WA's north-west coast ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnNIajRqYTNRVW4zR0xIMHFVVkc1MzYxWGlOV3liRllhcUlPVnZuUmJqdEtfUm1aclBkVHNrVG9MMFBkS2JrSkNoSFI5QnFLLWhrSWphZlpITzdkaHZuZFRzSDJ0dkY0UkgwLW9yTzh6cy1CTkRjUVd2Z25DZ1pwbFRhOUJWNW5OTWRydm1OT2UzM0JTUy12ZTBVVTNCaHJQNVJaWWo4NFA2S09feFpzN1l3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUxXdVFJaU9zeFlmQmxkOXZyMnBnX1dRd3pxVDZEeFpzYmEwTi0wbTlyN2xBUzhmUWNzVW5abk1FVzRmeUtOdDl2N1NDOFBuYmprNjVuMm5uTU9VQ081dmVVYl9qbjh2UkRmcTh4VURfUUJra01IN1hvRlUwenFiWG1IYVpNb3cybGNRUHNoSHVpdU4wZW9KTEFHMy1ISEtkeUg0?oc=5",
       "date": "2026-11-25T10:33:09.000Z",
       "tags": [
         "kite"
@@ -186,18 +296,6 @@
       ]
     },
     {
-      "id": "7850dade0f51",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "France Wins Fourth Consecutive ISA World Para Surfing Champs, This Time in a Wave Pool - WavePoolMag",
-      "snippet": "France Wins Fourth Consecutive ISA World Para Surfing Champs, This Time in a Wave Pool WavePoolMag",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KaENsQkwxMzNFWXFGRnFpdldlaUVJQ2R1bHFNYjc5LWtlb3RJNWs5cDZfUk5pdjcwTXo2OXhiZHhMSkJOdkozVjNvaDNsUHJGVEpSby1CcWlNS0diZmx2SmxDdjQybTdFcThObmw1UmJzdjA?oc=5",
-      "date": "2026-11-24T13:52:10.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "fa75d5d11de0",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -220,6 +318,18 @@
       "date": "2026-11-24T11:27:45.000Z",
       "tags": [
         "surf"
+      ]
+    },
+    {
+      "id": "745d67667901",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling - www.wam.ae",
+      "snippet": "Mubadala, SailGP introduce over 4,100 Abu Dhabi students to sailing, wing foiling www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWG9JNEtyTklCY0hHbjd4bW9Ra2lKSU56ZFpFX3JLNGc5Z0Etc1BpczJjQVI5WnFVbTFvUHByLWo4U3ZuTEJHOWdtcE1rM1FLOFl5UnJpajdYQWF4Y1h3NUpYT0NnWndpNl9tX2JmSTlBSGxDc0dvSl80RGdCWVN2eWkxbk02bDE5ZTM4?oc=5",
+      "date": "2026-11-24T10:52:55.000Z",
+      "tags": [
+        "wing"
       ]
     },
     {
@@ -269,118 +379,6 @@
       "snippet": "Aussie teen masters mechanical waves to win World Para Surfing gold ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWZPRDdaMzI1WVdybDBQM3RuYUZrb1BjRno5bk1aQy0za1loYWI5SE80M0FjTDFqckE0OVRZNTNSNVVZUGJCbGJJTjBvd2VqSFctRU9UdGx3UGRYNkhyTjdONVZCN0pQR2Z2OFVmMHZmdkZ5dnljZno0cDN2aEVGOWJkR2xYMnRFaTZnMDhUZ0RiMTV6NFMwN2t1anQ?oc=5",
       "date": "2026-11-24T04:36:23.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "5fd8b5508274",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026: Kiteboarding event info - Red Bull",
-      "snippet": "Red Bull King of the Air 2026: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hd0x3ek1GZ0c4Q3d3ZFhtelJlbVJVS0QzZm5VRU5vYmRLN21DSENKdDJFNVFjYk5lM21XRFRVRi05NDBEWW5qc0U4R2JDS0pWRG5SYk40YURpTkxyc2tMQWxxNWxMZ08xMHRibmZR?oc=5",
-      "date": "2026-11-23T22:00:00.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "a53048a5d276",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Flying into the sunset",
-      "snippet": "Unidentified flying object… oh wait it’s Jeremy! The post Flying into the sunset first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/flying-into-the-sunset/",
-      "date": "2026-11-23T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-89.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "b8d17025a810",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Aitor Francesena wins silver medal at Para Surfing World Championship - diarioeuskadi.eus",
-      "snippet": "Aitor Francesena wins silver medal at Para Surfing World Championship diarioeuskadi.eus",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVN4cU9UY3BOdHpZeWNST05NYl9YRjBDUEVfV21XcWNnSzZjc0MtaTVsR1pXalBERUI4VnZGOFc4QmNEUlFGNlhSc3V0YXAwYnUtc08zQVhNT1dpZEtmdHdzakxYYjZwWDRWTmlJNk9qU1RaejBhNDZHRVZtNDhsbDFqY2dxdEd4SldRNWFDc1ZNOEpNRUR6X1R4OGp0T3VTY05vbjNMcDhMNFZucUtOWWVyak4zNEJ6eXc?oc=5",
-      "date": "2026-11-23T17:47:38.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "1e775f25551e",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "Forever #dogshorts #kitesurfing #bestfriends",
-      "snippet": "A girl and her best friend 😍🐶 The post Forever #dogshorts #kitesurfing #bestfriends first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/forever-dogshorts-kitesurfing-bestfriends/",
-      "date": "2026-11-23T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-88.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "9290254e60b9",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Two South Africans confirmed for King of the Air finals | TygerBurger - https://novanews.co.za/",
-      "snippet": "Two South Africans confirmed for King of the Air finals | TygerBurger https://novanews.co.za/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXpwdXloTWI2TzhoNldhUUVqZTcybENTbVFVX0h6SHR3ZklFREcxRUg3Tm92YkhjWVFkdTNMYnA1LW1acURsYmd0QmEyUE1KcktVM2p6cDVnaEZiSHR4MzZ6OU5SMkVfdWgwRy00Z1BXc1pJQ2NldXlQdWMxZU95eWtoTkJjMl91X3Izd19mRzZVMTZfUVE?oc=5",
-      "date": "2026-11-23T11:19:37.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "0861166c50a0",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "PARE MAKES IT TWO IN A ROW AS THE HEAT RISES IN CHILE!",
-      "snippet": "PARE MAKES IT TWO IN A ROW AS THE HEAT RISES IN CHILE! PARE MAKES IT TWO IN A ROW AS THE HEAT RISES IN CHILE! We’ve put together a quick recap of yesterday’s m…",
-      "url": "https://www.windsurf.co.uk/pare-makes-it-two-in-a-row-as-the-heat-rises-in-chile/",
-      "date": "2026-11-23T08:21:49.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z720048FishBowlDiaries-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "121555eedb93",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Victorians Dominate 2026 National SUP Titles on Phillip Island - Surfing Victoria",
-      "snippet": "Victorians Dominate 2026 National SUP Titles on Phillip Island Surfing Victoria",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3FHSlE1Wm9tUGRmX1dXVzJoVEZBNnE3RS1RNTB2NzRTUEEtR3FkQ2YxZ0tXak5JaEgyNVpIaVI4VllTd2JPN3IyekkxQzZuWF83U3RaM2JEQXUwaFk3VVJQZVdIRVNJdFFCUEpZamFvb3lBOWJRTzZmV2EwN0Y3UEhiRy1Id3k3eGxSMGk5RQ?oc=5",
-      "date": "2026-11-22T23:05:52.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
-      "id": "66fd8dfddacc",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "GO BIG OR GO HOME: CHILE WORLD CUP GRAND FINAL DAY 1",
-      "snippet": "GO BIG OR GO HOME: CHILE WORLD CUP GRAND FINAL DAY 1 GO BIG OR GO HOME: CHILE WORLD CUP GRAND FINAL DAY 1 There was some seriously insane action during the fir…",
-      "url": "https://www.windsurf.co.uk/go-big-or-go-home-chile-world-cup-grand-final-day-1/",
-      "date": "2026-11-22T06:49:36.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/Z727275FishBowlDiaries-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "fc527caee53f",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Surf City El Salvador World Junior Championships 2026 - World Surf League",
-      "snippet": "Surf City El Salvador World Junior Championships 2026 World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXNqR1RqTlN4M3VYcFpENzJRN0NqdGhKbUZNdVBzQ0NMUmJHdTJjeTNqT1hkalY5Y0pMdTZjSWFYd2t1QVJoeEt1enJsc284R21Tb1JJV2RkWDd4M2NYbGtRRF9sQ2FQR0hzWWQwUzlUWkRDZkt2WWlDT25jOUE3NE51VTVHX0NsY2hjODg5Rlc5Y1NUV1ZlQW4yX1FaNVo4aEN4Qkt2c0w?oc=5",
-      "date": "2026-11-21T18:41:19.000Z",
       "tags": [
         "surf"
       ]
