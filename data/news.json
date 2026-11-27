@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:29:16.760Z",
+  "generated_at": "2026-11-27T08:27:34.044Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,55 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "73b90e2506dc",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "LISA WERMEISTER: TIME TO SHINE!",
+      "snippet": "LISA WERMEISTER: TIME TO SHINE! LISA WERMEISTER: TIME TO SHINE! After a season of highs and lows, Lisa Wermeister saved her best for last, claiming her first f…",
+      "url": "https://www.windsurf.co.uk/lisa-wermeister-time-to-shine/",
+      "date": "2026-11-27T06:06:04.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/LISA-_WERMEISTER_00901-1-800x600.jpg",
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "id": "508eb1bde12e",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "17 year-old makes history as first Irish surfer to represent Europe in a world champion surfing competition - Irish Independent",
+      "snippet": "17 year-old makes history as first Irish surfer to represent Europe in a world champion surfing competition Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXc4TndPaC1CangwUzlxdUEtWHNOaHl0MWpIRFIzdk1vTERnb3VOclVTNzFiSzV0dUxCa1Nsa2tILVExWG5CcGo2d3lfVV9rbnZBdmxma0NseHAwcVVyMnc2ZGVySHNVWkxJTWRNVFUwYTZhTUZGOHdpNlZjVUV0M3RjdzlCQ1R2UEVUdkFVTkFDZnBpeG44N0t1ZHBUcDF4b0VlVnh6SlZOTWZjVWNNb2NOUEhxbC1GbnN3emNXZEh5cXpzNXBHcjlMdy01alBDUkwwVEFmOWpldkhFeENZOHYzcnp5aXM2V01oNm1vZw?oc=5",
+      "date": "2026-11-27T05:30:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "53bf04754a2a",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "‘Lahinch was the perfect playground’ – Clare teenager makes Irish history in world surfing competition - Irish Independent",
+      "snippet": "‘Lahinch was the perfect playground’ – Clare teenager makes Irish history in world surfing competition Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZEpBT1Jla3puMlI4aTJYZ1EtNXEyU2JwTzFyYklOZzRWcURmbnU3ZkFBbUdoMXdSQkZua0w2ckUwNEZFZE5QUzVnbjBPMWo4MzVVQWRHd1phRHI0Z2tOUTZkVFk0UHdSaWk3TDRTVkRGNW1LNXNsaDJza2RMNjduNFFhNHR3Smw5OGVQSEZQaWxXbG1BX2s3N1oyeEt2VVUtQmcwUldZU1p4ZXBub1k1NWNoNUdEbHVCcVFxRldWOHdMcUF5ck8tN29Dc2FFLUZoUFZYYnlOVElpV3I3NTdXZ2xvYm5NS1AzMTJB?oc=5",
+      "date": "2026-11-27T05:30:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "156123aa8b0c",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Hunt for missing kitesurfer, 62, resumes - News.com.au",
+      "snippet": "Hunt for missing kitesurfer, 62, resumes News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMllJMExLSVVSSVl2eTRNMDRzR3ptanFGdW83TWxaOW5jdmRPcElWZFVGWUtvVW5KNVJvS0ZNR2JzbU90TmE3cTVlNEtaOUdxYkNGcFpRdDMxQ1NBU0wzQkxtbFU2aEU0ZGhBOTgyb0FLa3FmRGNkMGszUEcycE5sbzhiR3R6R0VyYktlN3V1eElEVXROdTJZamRyeFJjMHJrR2hzelhBakFxbFRxdGF0c015OGF3RmNjQ05BZGU5V21ZWlNnRUozZHlVckJQTG9MOVdDRDJQeENPZ0JFak1kcXRQelBJdWs5LWtvdTMtTFoyelhhQ1dJZDhWOE1xVEwtYTRmYUc3bXlNMk1FZGdDdUR6QdIBmAJBVV95cUxPUEEySndKTlR6TDlldElWRkVFT1FtN01vbS12STZKVFZWRFZKek51SjRySVQyaHBJSWZQRllIYnd2V0tKY3hkVHByXzZPRzEyUjdobWd2M3JvMmZDVWJlT05iVk02bFBNQUoxcTBDbEpSM3pzQjRLVEFPSGdzWGIzVDVORXFER2QxbHdUSDhFWUFocV8zbHpRSDBBNGFSWlB5eGR0Z3BNQ1YzcTlLWEtDMU5VSWdHN1FQVTRrTnh4bDVDNlJSZ2VDYkNlbnMtSzhpazZlZ0F0RmNTTnc0R1BKM3JqNFl5X1dfYV9IMVhPSnQxMHZ1b0dyN3NmRkZSUVR0UE0zTkRsTFJtY3h6RmpJeElDWXRRRVVE?oc=5",
+      "date": "2026-11-27T02:48:10.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
     {
       "id": "5120bdc02405",
       "source": "google_surf",
@@ -73,18 +122,6 @@
       ]
     },
     {
-      "id": "2f5732131f60",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "ESF Junior Cup 2026: surfing competition for young talent at the Spring Surfest Las Américas Pro - Teneriffa News",
-      "snippet": "ESF Junior Cup 2026: surfing competition for young talent at the Spring Surfest Las Américas Pro Teneriffa News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHgzeGJZaUVBU2JJeHNmM216cy1zRGJaSERSSHRucFpyby0xM0dHdTBPdGRaNGVaZ0RjaDhJaGlMQ1lHQ3UzYmlSUUlhVFhXR3hTazJRVmFQZnJZRE40Q0hpeTgtVjhHa1JaNG9OSy0zUUF0QUtWZFZENW9ZSkNBTUtGWXZsQlc5MVZxZw?oc=5",
-      "date": "2026-11-26T10:45:08.000Z",
-      "tags": [
-        "surf"
-      ]
-    },
-    {
       "id": "22bc3595f82b",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -100,8 +137,8 @@
       "id": "ddd2947bdcc1",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air set to soar as competition receives green light - novanews.co.za",
-      "snippet": "Red Bull King of the Air set to soar as competition receives green light novanews.co.za",
+      "title": "Red Bull King of the Air set to soar as competition receives green light - https://novanews.co.za/",
+      "snippet": "Red Bull King of the Air set to soar as competition receives green light https://novanews.co.za/",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlZUUDlnY19oQ3ZLbUZCb0ZZM3d6ZnFQZFdJRU9IbDVUUkxmTENETHRNa0Y5ZzN2cEZ6VDhpSGhtWEJWSURDcmpKYWpGUGhmeHYxVVItV0lXUEZVU2NIM21MS3lqeDZOT1FEb3F3SzZ3UFN3N280X3VucERpR0gzQWZVYnkzMXQxVVFrcTZRQkstckRvaXJxR3F5ZmxSczV5ZW10enFscWxuM2pY?oc=5",
       "date": "2026-11-26T10:44:01.000Z",
       "tags": [
@@ -158,6 +195,18 @@
       ]
     },
     {
+      "id": "0743941c71a6",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns - St George & Sutherland Shire Leader",
+      "snippet": "Shire Sport: Earle wins Taiwan Open; Water polo Bush to Bay returns St George & Sutherland Shire Leader",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdldjTFRjZGV2LVBhZmVXbGJPcmxIZHdYaE81N0VOTGhuS2x3MmN6TW93cHF0RmE4VXFUZ1NWWW5BSGNHLWxDRFkySFlYYlNkaS1LUF92NG1TUEl0Q09mY1lKTURnQmo0R2U2OE1oaE8wam1GQ1JIVl9wUk45M05ILXlBeU9zeUFTeXpFVVRJa2xCejBJaXM3VWk3bVcyT3hKYnQ3T0NURlg?oc=5",
+      "date": "2026-11-26T08:14:45.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
       "id": "48c986a580c0",
       "source": "windsurf_uk",
       "source_name": "Windsurf Magazine",
@@ -184,27 +233,15 @@
       ]
     },
     {
-      "id": "156123aa8b0c",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Fears grow for kitesurfer missing for 2 days - News.com.au",
-      "snippet": "Fears grow for kitesurfer missing for 2 days News.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMllJMExLSVVSSVl2eTRNMDRzR3ptanFGdW83TWxaOW5jdmRPcElWZFVGWUtvVW5KNVJvS0ZNR2JzbU90TmE3cTVlNEtaOUdxYkNGcFpRdDMxQ1NBU0wzQkxtbFU2aEU0ZGhBOTgyb0FLa3FmRGNkMGszUEcycE5sbzhiR3R6R0VyYktlN3V1eElEVXROdTJZamRyeFJjMHJrR2hzelhBakFxbFRxdGF0c015OGF3RmNjQ05BZGU5V21ZWlNnRUozZHlVckJQTG9MOVdDRDJQeENPZ0JFak1kcXRQelBJdWs5LWtvdTMtTFoyelhhQ1dJZDhWOE1xVEwtYTRmYUc3bXlNMk1FZGdDdUR6QdIBmAJBVV95cUxPUEEySndKTlR6TDlldElWRkVFT1FtN01vbS12STZKVFZWRFZKek51SjRySVQyaHBJSWZQRllIYnd2V0tKY3hkVHByXzZPRzEyUjdobWd2M3JvMmZDVWJlT05iVk02bFBNQUoxcTBDbEpSM3pzQjRLVEFPSGdzWGIzVDVORXFER2QxbHdUSDhFWUFocV8zbHpRSDBBNGFSWlB5eGR0Z3BNQ1YzcTlLWEtDMU5VSWdHN1FQVTRrTnh4bDVDNlJSZ2VDYkNlbnMtSzhpazZlZ0F0RmNTTnc0R1BKM3JqNFl5X1dfYV9IMVhPSnQxMHZ1b0dyN3NmRkZSUVR0UE0zTkRsTFJtY3h6RmpJeElDWXRRRVVE?oc=5",
-      "date": "2026-11-26T05:52:20.000Z",
+      "id": "72f710db06ca",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Hayden Kenny Classic: world-class ocean racing this weekend at Alexandra Headland - OurSC",
+      "snippet": "Hayden Kenny Classic: world-class ocean racing this weekend at Alexandra Headland OurSC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWZtUTdqWUVQcThuQUJpVU1SRTdBVjV1TUItNURYMmlQRl9RZGFDVHQtdjJyYW5ydTBRekVxcFNmNTQzamd6SWt2TEo5ckJEWFo3My14bzFERUFSTWN6Y3BscFhCeERvM284SGk0Z1RZSndKWGNJYmVBdG9VcXo5NDVxUGVHS2ZfWkZLamFDUlZRUDFPOE9ZVVl2QWo?oc=5",
+      "date": "2026-11-26T02:44:00.000Z",
       "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "6f156a6e1aa3",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Police continues search for missing kite-surfer Eric Metrot, who disappeared off Coral Bay nearly two days ago - The West Australian",
-      "snippet": "Police continues search for missing kite-surfer Eric Metrot, who disappeared off Coral Bay nearly two days ago The West Australian",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWm1pN1FrYVJROTZ6ZzFHR3pBaWRMY2RDWGdlcFJlMGFwU3BiaWI1U0NfWnAwdXg0M3JSSWdlMVF1ZFdXWTFkY1RfVG5OQXEwSkw0M3J4Q0kzbC0zeHkxSkI0MjZIUV9iRldPRTZ5VHJfd0JQRTY0enpfR3Z1bFJHaVJXVkg2cU5hbldMYlhJemJyVW9veWpLTVkzaVNKSjZQVW5YMW42aXhSQUxjMGFkc0kwODlNdDYzWnVWOHFuX1JHamN6cTJXV0pOcFZPdE0yeEpaTTA2MUVzNTcyWVhmQk9CakUxM3l6dENUNU1CbXN6TXl1YVHSAfsBQVVfeXFMTVpoZS1sUEZYaW1YSW9sNTVqamlBT1hBOTYtTV9oUkJOdTJSODB6VXU2TTBGWmxRX2lXSWZiQkhBUTRod2lIZ0lMSEZ3bDhsZ3RxRWxrZloyd0VaMlk1c3hLRHNCY1gtY2s4d3Z3MGUtWUliOXVsN2VXbmlmRmJHQm5nalVsb1YtbUo4SVhTeFBaZ3NKeTJMMlAtOGpyRU1JWkRlcllESG1NNERYOUdWTVEzLTFzcUNKNjBKQl9JSjFXX0FJZm9IZjhsVDlqMjFyRzN1V0dCQW5HZEZoVHJ5cHdjXzNsMTFFOE1WZThyN0NaOVVVVkxRZEVrcVU?oc=5",
-      "date": "2026-11-25T23:47:00.000Z",
-      "tags": [
-        "kite"
+        "surf"
       ]
     },
     {
@@ -215,6 +252,18 @@
       "snippet": "Sierra Kerr on CT Qualification and Overcoming a Disease That Could Have Ended Her Career The Inertia",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHVzc09kcFZOMlR2N181X0FlemVGeGdOVWpQZy15NW42T0dFNDhZMjNMc2dIUjVwdTVaQUhmdE5lV0dzWHBCWkstSndrWEVfb1RXRjEwdTRZZGJ1QWdSN0gyN0RRMjlCR2lJckVwYUVoQ3J6QjdvbFpHZ2lralhFUHlLdTFTaGcyNVFCV0R4eTBtaHluT1FwVEowaEFITHJQZnZIWm9MQjhFQ1NyXy1QTWl0dHVBYjdaTnJoNUM2UEp5WEhY?oc=5",
       "date": "2026-11-25T21:57:52.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "003293624f28",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "Gabriel Medina Net Worth - Celebrity Net Worth",
+      "snippet": "Gabriel Medina Net Worth Celebrity Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXA5MHRGSm5LRFVmeTdpY0d6ME1pQlVTWEhCZ1B5RXZ3cms5VXlzdVpkUE9qS3JyampVUmg0TGt2bHVuSXNsNDBmSXU0ZkdRYVo4bmh3Z0dZSDBZMG84YmNRWGNLY0YyMW9ISXUtSWJ1d1BxWVNEQ1FVdjc1UzhYMHR0a3N1WHh6a203Z0xaRQ?oc=5",
+      "date": "2026-11-25T20:48:45.000Z",
       "tags": [
         "surf"
       ]
@@ -321,67 +370,15 @@
       ]
     },
     {
-      "id": "d90f91fbb397",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTER CLAIMS THE WOMEN’S CROWN IN CHILE!",
-      "snippet": "NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTER CLAIMS THE WOMEN'S CROWN IN CHILE! NOIREAUX DROPS A PERFECT 10 TO WIN THE MEN’S TITLE! WERMEISTE…",
-      "url": "https://www.windsurf.co.uk/noireaux-drops-a-perfect-10-to-win-the-mens-title-wermeister-claims-the-womens-crown-in-chile/",
-      "date": "2026-11-25T07:02:48.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/display-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "df542d283083",
+      "id": "b656608d08bc",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
-      "title": "This is for the Title. This is for Everything - World Surf League",
-      "snippet": "This is for the Title. This is for Everything World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkl3WDNZTURva2UyeS1KanNFWGFfSTNULUpaUkdYTXNGcWt2Y21SVVlTZDNNbHdTOVZwTjB5X3A4M216SVJsWGpubXNJUE9hSmRFVlFNdzhIdFAwdklrOWZXRHlHYjIxMVg0ZG5iamp4eVYxMWN6QWlSWWxYRWc3TDFwVXdIUGN6Y1BHUnU3cmFPNTBUOXlyYUVsU1ZwZU1WMW82X1B1MDNnR3Nq?oc=5",
-      "date": "2026-11-24T23:52:28.000Z",
+      "title": "Victorian Junior Surfing Team Set For 2026 Australian Junior Surfing Titles In Margaret River - Surfing Victoria",
+      "snippet": "Victorian Junior Surfing Team Set For 2026 Australian Junior Surfing Titles In Margaret River Surfing Victoria",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JrZVhOd0t1UTVlQnFsVDljV2d6Tk90RU9qNTJ6SXZtb1JjVVZvZEprYXg3bFROdldXamxqZ0VLUklWa21FbE1MRUxIVkFhNkJGQ092MWdoT0I1ZGR6OTBxOE5Mb2Z4eU9CRUtEM2w2cFpZZHFIWjRFMXFDSmdlWXgxLWRGd0xxNHhfczRKWGRZYWc3WEVxTU1fV3ZVZ2g3SS1HQ3lGdWJKMXFtcXJhV3FBeGd6ZUsx?oc=5",
+      "date": "2026-11-25T08:00:00.000Z",
       "tags": [
         "surf"
-      ]
-    },
-    {
-      "id": "f8ef763af269",
-      "source": "windsurf_uk",
-      "source_name": "Windsurf Magazine",
-      "title": "ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS",
-      "snippet": "ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS ROBIN HOOD WATERSPORTS: BLACK FRIDAY SAVINGS Big discounts, extra savings and plenty of windsurfing bargains up fo…",
-      "url": "https://www.windsurf.co.uk/robin-hood-watersports-black-friday-savings/",
-      "date": "2026-11-24T18:00:13.000Z",
-      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/ROHO-JC-800x600.jpg",
-      "tags": [
-        "wind"
-      ]
-    },
-    {
-      "id": "751130915701",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "XENON BOARDS: BLACK WEEK starts NOW!",
-      "snippet": "Check out Black Week with Xenon boards! The post XENON BOARDS: BLACK WEEK starts NOW! first appeared on IKSURFMAG.",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/xenon-boards-black-week-starts-now/",
-      "date": "2026-11-24T18:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-93.jpg",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
-      "id": "7f61ad1f75be",
-      "source": "iksurfmag",
-      "source_name": "IKSURFMAG",
-      "title": "How Does a Pro Skier Become a 2x Kiteboarding World Champion?",
-      "snippet": "1x Ski World champion, 2x Kite World Champion. Will he make it 2-2? The post How Does a Pro Skier Become a 2x Kiteboarding World Champion? first appeared on IK…",
-      "url": "https://www.iksurfmag.com/kitesurfing-news/2026/11/how-does-a-pro-skier-become-a-2x-kiteboarding-world-champion/",
-      "date": "2026-11-24T15:00:00.000Z",
-      "image": "https://www.iksurfmag.com/wp-content/uploads/2026/11/maxresdefault-92.jpg",
-      "tags": [
-        "kite"
       ]
     }
   ]
