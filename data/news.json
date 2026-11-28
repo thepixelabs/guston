@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:14:34.198Z",
+  "generated_at": "2026-11-28T07:45:11.416Z",
   "source_status": {
     "iksurfmag": "ok",
     "windsurf_uk": "ok",
@@ -8,6 +8,54 @@
     "google_surf": "ok"
   },
   "items": [
+    {
+      "id": "f3782c34c261",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Sad update in search for missing WA kite surfer - PerthNow",
+      "snippet": "Sad update in search for missing WA kite surfer PerthNow",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX016Mm00WUhROURROUo3Y25pcVZkVDJPa3R3RE9FMlpfYUFSZTVWUWs5MnZVM2NwajNSMnFyNnlLZ0FXYjdmTTdnM0dUZ1FqZ05ubF94UEhmVVFqbWtZWXEtYkVZVUc5ZEFOM3VyaHJXbUg5TVY4QmR0dzMwb09FTkRMV0t0U1NLai1jcDVMN2gteHJVaWFJY21nREZPYklLU2pPbTlOVUNETlhjTEU3TUJncmZfWEo0cWNaUTBIQXJvdVVtbG1heTM5Ulg2eHZtZTdUSFpNNjhBczlRMl84Ug?oc=5",
+      "date": "2026-11-28T02:08:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "c2bfb3916827",
+      "source": "google_kite",
+      "source_name": "Google News: Kitesurfing",
+      "title": "Sad update on missing kitesurfer - Yahoo News Australia",
+      "snippet": "Sad update on missing kitesurfer Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EN0o2aXA0aDdDWXdVZWZCVXVKZFVhb3pZLWszbHFSTzR3MEtqVlZqV2hvWHQ4R1NHb3FYcW9BVkJXaWNvaVIwcFB3MnlGazdzYk9zUEg2UGNDeng3X2JoOFJ3UkhwWHdhMElKeE5ZLTBRMGdRaXpYSkJ1ZF8?oc=5",
+      "date": "2026-11-28T01:55:00.000Z",
+      "tags": [
+        "kite"
+      ]
+    },
+    {
+      "id": "9fc404cc24c5",
+      "source": "google_surf",
+      "source_name": "Google News: Surfing",
+      "title": "No coach, no funding: Israeli surfers pay their own way to World Surfing Games - Haaretz",
+      "snippet": "No coach, no funding: Israeli surfers pay their own way to World Surfing Games Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOczVTOEdhTDlobHdrUi1KTmtKbm5pUXIxM1lEN3ZJRDNoMVFUYVB4TXlMbjdnR0U5V050aUxIbmtndE1tS3otQ2FHTENGd3Q5VG5mZ3NvelA2N2t2bWxReV9pVHh1am11R2FQYjNMRVVGSG91MDZKYUNDLUlDMG5tSnJDUHRsV25QMkVCRUFicDMwTDJBOGdPZENPSnhDRHU4RGdSODVUZEJWMlFaVnhUcUhiY2ZPc0xiaXhBSGFJSzZXdGNXelppdFoyM3BTX1oxNW9hQ1NORmVRRjRBLW94U1NWZjZDOWFNdDJyb3dUUjAtSXlNcDNTX21nTG5PcTBRMVozR244cDZ2OHV3cHM1QmRaeG5TRE9Y?oc=5",
+      "date": "2026-11-27T21:44:00.000Z",
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "id": "dab893610f7f",
+      "source": "google_wing",
+      "source_name": "Google News: Wing Foil",
+      "title": "Mubadala and SailGP bring wing foiling to Abu Dhabi students - Live Sail Die",
+      "snippet": "Mubadala and SailGP bring wing foiling to Abu Dhabi students Live Sail Die",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjYwWmRmc2xMMHlDMzJ3Vm9jT1BwTERvMUw5amxJa3QyZW9pRktRYkYta2hlWEtUR21TMXRvRlFRNklMOHpYQUZ3MDdZSWcxRE4ybDF2MmFJbjFLWF9wcV9Nb283LWRMc0hSWFZUSkU5eHpRNEZFZ0dsbjBzRHJHcHVXd2h5WnkzS2c4TW1rdDBPdzVvSWc?oc=5",
+      "date": "2026-11-27T19:58:12.000Z",
+      "tags": [
+        "wing"
+      ]
+    },
     {
       "id": "e0067687be49",
       "source": "google_surf",
@@ -72,18 +120,6 @@
       ]
     },
     {
-      "id": "6b84ad4b3824",
-      "source": "google_wing",
-      "source_name": "Google News: Wing Foil",
-      "title": "Mubadala and SailGP make waves in Abu Dhabi classrooms as thousands of students discover wing foiling - SailGP",
-      "snippet": "Mubadala and SailGP make waves in Abu Dhabi classrooms as thousands of students discover wing foiling SailGP",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkZXOVZHNzFQVmNPNU4zMDdvVWp3RzdzeWxxVjl3OWNUTkNnV0ExQXVVdFFMMlpWa1JaLUFrMWdFM0E5N0hucDJlV2lkeGFDSHJvREhKR2dJSUdkYnJyOWtTUUI5aGJMU2JZc1RkYzVfSkQ2ZE5Yc1NCMWJlbUlxams4eVpRbUY1U2FPQldKd2VsUzNXbE1RYkZ1TQ?oc=5",
-      "date": "2026-11-27T11:11:15.000Z",
-      "tags": [
-        "wing"
-      ]
-    },
-    {
       "id": "03f02094868f",
       "source": "iksurfmag",
       "source_name": "IKSURFMAG",
@@ -143,18 +179,6 @@
       "date": "2026-11-27T02:48:10.000Z",
       "tags": [
         "kite"
-      ]
-    },
-    {
-      "id": "d8296143b322",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Highlights: Surf City El Salvador World Junior Championships 2026 - Day 2 - World Surf League",
-      "snippet": "Highlights: Surf City El Salvador World Junior Championships 2026 - Day 2 World Surf League",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZpMEgta290ajJTYzVBQ2RSSkFSSEpvZ3JXS09GQ2pYQ0ZseHlESm1fN2trQjhzLXlZVlYzVDM2VWJxaXVQUDZLSjNKcE9PQXQ3ZVhZSGk3cDJZUG1Mc2w3NmdIdjdXcmRCRk9QSFBUNDBPOWV6WE1TNEMtQ1VudFdVTll1QlhpVTVna1QwYy1mMk85a0plc2ExM283LTJKZHN3VnhfWkR0ZWxFdURQUEJDN2lJUQ?oc=5",
-      "date": "2026-11-26T23:03:00.000Z",
-      "tags": [
-        "surf"
       ]
     },
     {
@@ -259,18 +283,6 @@
       ]
     },
     {
-      "id": "74832f3755b0",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Red Bull King of the Air 2026 Final: Kiteboarding event info - Red Bull",
-      "snippet": "Red Bull King of the Air 2026 Final: Kiteboarding event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazRGOW8wWmp6cHFDMHllNHdjejcxc3dNRU5sTGVBd01Na0s5dlotLVlHdVlqc2hMOEttRmk2UjZKOGRYak5UbEQ3QVVmV0lJM1JZZUdUaXJfTDdGT09ndF9xQVhTendmWncxdGU4WWpIek1TLVFJUTBGYVdfN3BGY0Yya3dHVFFXcUZYRF90X3N2cTVjMnc4QlY3c3hmMC14blE?oc=5",
-      "date": "2026-11-26T08:43:27.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "0743941c71a6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -309,18 +321,6 @@
       ]
     },
     {
-      "id": "5d6d9c765009",
-      "source": "google_kite",
-      "source_name": "Google News: Kitesurfing",
-      "title": "Fears grow for kitesurfer missing for 2 days - The Weekly Times",
-      "snippet": "Fears grow for kitesurfer missing for 2 days The Weekly Times",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ2tVMlYxWDlEWmR3WWlxYTlNVC1WZV80WWJSMmZEbmZpNnU0SjJuRlZzb2Z1WjFXMndVSFgtd0plRWNadmY0YWlIQUVONXBNYmtvM0pkSDlickNIZlpfejlxX1NsUnlSb1RqVVFOUTJSbk1YRDV4X3I4aHBGWW1Ld0tQaFRwNG9yYTZNcVcwMjFacENXeGNFeHlSY0piV0lYck9OU3cwWnNCUU5hcXpMeVEtUlB1V0tJQ1E0V0I0SVFrVXQ0dUVwSWVXb0J3M1VtTnJ0U2VMOVFhRlExMExPTVhqWU5Ram5RSHlEcEN1WEUxbG1iNzFrVl9ldi1JWjYzOEJ1UFhrTHFndGdZd0NUWXJDYjVVUQ?oc=5",
-      "date": "2026-11-26T05:59:52.000Z",
-      "tags": [
-        "kite"
-      ]
-    },
-    {
       "id": "15042d5b54a6",
       "source": "google_surf",
       "source_name": "Google News: Surfing",
@@ -346,13 +346,13 @@
       ]
     },
     {
-      "id": "9338f37d3f10",
+      "id": "daeeff4f3aba",
       "source": "google_kite",
       "source_name": "Google News: Kitesurfing",
       "title": "Red Bull King of the Air 2025 Spain Qualifier: Event info - Red Bull",
       "snippet": "Red Bull King of the Air 2025 Spain Qualifier: Event info Red Bull",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnBVQXJ3OE16MnV2Q3NGX1RMUldiWV9qa0RqbzZxTkZHRXF6UFRabDlndTltZ0pDS2g3QlZFWFBOdkVkY2NEZURJRXpyM28teHI1REJwWmJjd0MwRlVqWlRieE5kOEdQc1pNV1BQMW9hM1J5YXhmZ1ByZVlRQnd5eTBPeXpvQlFHMnc?oc=5",
-      "date": "2026-11-25T16:45:28.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUdTWTRUQS0ydzJJZ1VOVDM3Q0d0TllBSEF1QS1vYWlLaDBVVTRqYTJFV2V2aTVjUWhna1MzNVlPU2Ffa1dkQ0NvTVFaYlVGOTM0VlRXTS1Hb0Jza0RJRHNpclpKYlNkbjZNc012UXM4WmtpbnBKS0RhdkNUZGtoUzY1aG0zdENlcnc?oc=5",
+      "date": "2026-11-25T16:43:25.000Z",
       "tags": [
         "kite"
       ]
@@ -371,15 +371,16 @@
       ]
     },
     {
-      "id": "c00fd68f5c1c",
-      "source": "google_surf",
-      "source_name": "Google News: Surfing",
-      "title": "Bideford student makes national surfing quarter-finals - North Devon Gazette",
-      "snippet": "Bideford student makes national surfing quarter-finals North Devon Gazette",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWEyUDgxd1I5clpYOEFZZEtzeDJ3c3RMRWt2WEc1bWpLR1R4blFmMU9uTkN1bGxhX0pFMnU0NWpvMDNmeTd3eGRwRHhlVkRpTlhkV0l1eVlXa2NBZmx0bTJueUN6ZUxJTmc3a2Y3X3dBdkxybjhLRnJNY2FHN19tUnpCd1pxbEFPQ09QX3RCaXozVVNENjQwZEd6TlVmMHdTZkVIVGFIUQ?oc=5",
-      "date": "2026-11-25T14:12:00.000Z",
+      "id": "3eeb31697ab6",
+      "source": "windsurf_uk",
+      "source_name": "Windsurf Magazine",
+      "title": "DUOTONE WARP_FOIL & FALCON_FOIL D/LAB",
+      "snippet": "DUOTONE WARP_FOIL & FALCON_FOIL D/LAB DUOTONE WARP_FOIL & FALCON_FOIL D/LAB With the 2026 foil racing season coming to an end, Duotone have some exciting new p…",
+      "url": "https://www.windsurf.co.uk/duotone-warp_foil-falcon_foil-d-lab/",
+      "date": "2026-11-25T11:39:53.000Z",
+      "image": "https://www.windsurf.co.uk/wp-content/uploads/2026/11/DTW27-Duotone-Warp_Foil-Jordy-Tenerife-2026-690-800x600.jpg",
       "tags": [
-        "surf"
+        "wind"
       ]
     }
   ]
